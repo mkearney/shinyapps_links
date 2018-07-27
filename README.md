@@ -4,7 +4,7 @@ ShinyApps
 A collection of links to [Shiny applications](https://shinyapps.io) that
 have been shared on Twitter.
 
-Note: Link texts display the name of the shiny account and thename of
+Note: Link texts display the name of the shiny account and the name of
 the application, i.e.,
 
     {account-name}/{app-name}
