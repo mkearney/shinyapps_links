@@ -1,2653 +1,3163 @@
 ShinyApps
 ================
 
-A collection of links to [Shiny applications](https://shinyapps.io) that have been shared on Twitter.
+A collection of links to [Shiny applications](https://shinyapps.io) that
+have been shared on Twitter.
 
--   <https://315group20.shinyapps.io/315final/>
--   <https://3manuek.shinyapps.io/FTS_Innodb/>
--   <https://4quant.shinyapps.io/gimpress/>
--   <https://56north.shinyapps.io/gahner/>
--   <https://a6111e.shinyapps.io/Assignment_Part1_files/>
--   <https://aaaboyles.shinyapps.io/national-security-strategy/>
--   <https://aakarshgupta.shinyapps.io/shiny_app/>
--   <https://aakarshgupta.shinyapps.io/ShinyAssignment/>
--   <https://aanand.shinyapps.io/tmhack/>
--   <https://abhinav-agrawal.shinyapps.io/shinyasignment/>
--   <https://abhishekumrawal.shinyapps.io/PredWord/>
--   <https://abmish.shinyapps.io/startup-funding/>
--   <https://abny2015.shinyapps.io/ThreatDashboard/>
--   <https://abresler.shinyapps.io/nba_player_analysis_season/>
--   <https://abresler.shinyapps.io/nba_player_rank/>
--   <https://abresler.shinyapps.io/nba_player_ranker/>
--   <https://abresler.shinyapps.io/nba_player_season_analysis/>
--   <https://abresler.shinyapps.io/nba_winshare/>
--   <https://acaimo.shinyapps.io/distribocion_binomiale/>
--   <https://acarloto.shinyapps.io/PosiPredVal/>
--   <https://ace-ebert.shinyapps.io/queue_simulator_mmk/>
--   <https://acoppock.shinyapps.io/GOTV/>
--   <https://acoppock.shinyapps.io/MC_app/>
--   <https://actuarialanddataanalytics.shinyapps.io/App-1/>
--   <https://acuariano.shinyapps.io/photo-voltaic-growth/>
--   <https://adam-dennett.shinyapps.io/londonShiny/>
--   <https://adamacatedra.shinyapps.io/Encuesta2015/>
--   <https://adamgao666.shinyapps.io/nyc_noises/>
--   <https://adamishere.shinyapps.io/haikugen/>
--   <https://adavide1982.shinyapps.io/ChannelAttribution/>
--   <https://adhokshaja.shinyapps.io/Data-Summariser/>
--   <https://adhokshaja.shinyapps.io/house/>
--   <https://adhokshaja.shinyapps.io/student_alc_consumption/>
--   <https://adiaz.shinyapps.io/serial-killer-analysis/>
--   <https://adornes.shinyapps.io/devdataprod/>
--   <https://adp2223.shinyapps.io/nbafinalshistory/>
--   <https://ae2015.shinyapps.io/predict_pressure/>
--   <https://afraus.shinyapps.io/Afraus_app/>
--   <https://agawronski.shinyapps.io/canadian_housing_index/>
--   <https://agileanalytics.shinyapps.io/WordCloudProject/>
--   <https://aging.shinyapps.io/epigeneticclock/>
--   <https://agomariz.shinyapps.io/shiny/>
--   <https://agomezh.shinyapps.io/importancesamplingshiny/>
--   <https://agstudy.shinyapps.io/tun_elections/>
--   <https://aguereca.shinyapps.io/NLP-Capstone/>
--   <https://aguinis.shinyapps.io/ml_power/>
--   <https://ahalterman.shinyapps.io/BayesCalculator/>
--   <https://ahmadmobin.shinyapps.io/ccrs_2015-2016/>
--   <https://ahmadmobin.shinyapps.io/Fall_Finals_2017/>
--   <https://ahmadmobin.shinyapps.io/i_slamhockey2018teamstats/>
--   <https://ahmed.shinyapps.io/bootstrap/>
--   <https://ahmed.shinyapps.io/drift/>
--   <https://ahmed.shinyapps.io/permutation/>
--   <https://ahmed.shinyapps.io/selection/>
--   <https://ainunnajib.shinyapps.io/versi-DPRD-vs-versi-Pemprov/>
--   <https://aitocompton.shinyapps.io/MyApp/>
--   <https://aj17.shinyapps.io/twitteranalytics/>
--   <https://ajammala.shinyapps.io/Capstone/>
--   <https://ajaykumar.shinyapps.io/shinyr_trends/>
--   <https://ajpete.shinyapps.io/FLAM/>
--   <https://ajthurston.shinyapps.io/classificationaccuracy/>
--   <https://ajthurston.shinyapps.io/Spearman-Brown_App_18Oct2016/>
--   <https://alagarde.shinyapps.io/BackTestSentimentAmareos/>
--   <https://alandipert.shinyapps.io/html2r/>
--   <https://albahnsen.shinyapps.io/presentation_jmlr_15_delgado14a/>
--   <https://alberto-sanchez-rodelgo.shinyapps.io/datascoper/>
--   <https://aleruete.shinyapps.io/GBIFapp/>
--   <https://alevashov.shinyapps.io/alex-course-project/>
--   <https://alexf.shinyapps.io/tarteebEldof3a/>
--   <https://alexius.shinyapps.io/text-positivity-metric/>
--   <https://alexkowa.shinyapps.io/joyEurope/>
--   <https://alexkruse.shinyapps.io/stadtrad/>
--   <https://alexschell.shinyapps.io/tagtime-vis/>
--   <https://algollabs.shinyapps.io/glmPhotoZ-2/>
--   <https://aliaksandrkazlou.shinyapps.io/tutby_bots/>
--   <https://alistaire.shinyapps.io/running_for_president/>
--   <https://alphaminer.shinyapps.io/VolaStrat/>
--   <https://alspeed09.shinyapps.io/tweetdivide/>
--   <https://altervalter.shinyapps.io/iris/>
--   <https://alu0100673647.shinyapps.io/SAYAS/>
--   <https://alvarobusot.shinyapps.io/appShiny/>
--   <https://alyssahislop.shinyapps.io/Registered-Borrower-Visits/>
--   <https://amadoukone.shinyapps.io/DuguTogo/>
--   <https://amandadobbyn.shinyapps.io/clusterfun/>
--   <https://amazehayes.shinyapps.io/test/>
--   <https://amckenz.shinyapps.io/brain_gene_expression/>
--   <https://amcrisan.shinyapps.io/EpiDesignPattern/>
--   <https://amcrisan.shinyapps.io/gevit_gallery_prototype/>
--   <https://amenzel.shinyapps.io/bball/>
--   <https://amenzel.shinyapps.io/CART_test/>
--   <https://amenzel.shinyapps.io/d3_cart_test/>
--   <https://amenzel.shinyapps.io/nba_box/>
--   <https://amezolma.shinyapps.io/ragde/>
--   <https://amice13.shinyapps.io/dproduct/>
--   <https://amirrudin.shinyapps.io/DDP_project/>
--   <https://amiyaal.shinyapps.io/David-Score/>
--   <https://amj2012.shinyapps.io/wosostats/>
--   <https://amritpatel.shinyapps.io/Project/>
--   <https://amtucker.shinyapps.io/wild4890_pred_prey/>
--   <https://amustakim.shinyapps.io/PopulationPredictor/>
--   <https://amyjiangsu.shinyapps.io/DevDataProduct/>
--   <https://analytichealth.shinyapps.io/beta/>
--   <https://analytichealth.shinyapps.io/Rticles/>
--   <https://andeek.shinyapps.io/gravicom/>
--   <https://andland.shinyapps.io/bradley_terry/>
--   <https://andland.shinyapps.io/CD1025Playlist/>
--   <https://andland.shinyapps.io/CD1025Playlist2/>
--   <https://andland.shinyapps.io/ProbabilityOlderByName/>
--   <https://andreamrau.shinyapps.io/edge-dashboard/>
--   <https://andremarais.shinyapps.io/Ladder/>
--   <https://andresalvarado.shinyapps.io/Knn-AndresAlvarado/>
--   <https://andreslajous.shinyapps.io/judiciales/>
--   <https://andrewhaoyu.shinyapps.io/PAGEANT/>
--   <https://andrewjgillen.shinyapps.io/resourceprice/>
--   <https://andrewmullins.shinyapps.io/sampleDistribution/>
--   <https://andros-spica.shinyapps.io/biplot_2d/>
--   <https://andybeger.shinyapps.io/seb-tallinn-marathon/>
--   <https://andyf.shinyapps.io/regressiontomean/>
--   <https://andyf.shinyapps.io/sampling/>
--   <https://andyf.shinyapps.io/themepower/>
--   <https://andykrause.shinyapps.io/ShouldIAirbnb/>
--   <https://andylytics.shinyapps.io/hosp_compare/>
--   <https://andylytics.shinyapps.io/nfldemo/>
--   <https://andysouth.shinyapps.io/resistmixseq/>
--   <https://andysouth.shinyapps.io/shinytse7/>
--   <https://andywon.shinyapps.io/Nets-Shiny/>
--   <https://andywon.shinyapps.io/text-predictor/>
--   <https://aneesha.shinyapps.io/ShinyTimeseriesForecasting/>
--   <https://anishsingh.shinyapps.io/IndianEconomyAnalysis/>
--   <https://anishsingh.shinyapps.io/Inflation-Rates/>
--   <https://anmuz.shinyapps.io/Next_Word_Prediction/>
--   <https://annakrystalli.shinyapps.io/fileEncoding_checker/>
--   <https://annakrystalli.shinyapps.io/OpenConBerlin_reprohack/>
--   <https://annakrystalli.shinyapps.io/OpenConLondon_Doathon/>
--   <https://anneburns.shinyapps.io/TasteOf/>
--   <https://anthonyleo.shinyapps.io/bayesiancrank/>
--   <https://antoine-guillot-showcase.shinyapps.io/ExploringJapanTradeApp_Kaggle/>
--   <https://antonitsin.shinyapps.io/rent_or_buy/>
--   <https://ants-at-asu.shinyapps.io/shinyv/>
--   <https://aoshotse.shinyapps.io/Exploring_Regression_in_R/>
--   <https://apapiu.shinyapps.io/Pies/>
--   <https://aponce73.shinyapps.io/shiny_maiz/>
--   <https://applocation.shinyapps.io/PerformanceWebapp/>
--   <https://apt325.shinyapps.io/stopwatch_error_tix/>
--   <https://aquapeek.shinyapps.io/thermohydrographs/>
--   <https://arantegui.shinyapps.io/Curva_OC/>
--   <https://archeomatic.shinyapps.io/Discretisator/>
--   <https://ardecarlo.shinyapps.io/CensusVis/>
--   <https://arevaju.shinyapps.io/ebola/>
--   <https://arilamstein.shinyapps.io/choroplethr-3-1-0-shiny-app/>
--   <https://arilamstein.shinyapps.io/choroplethrShiny/>
--   <https://arilamstein.shinyapps.io/state-crime-rate-analysis/>
--   <https://arinarmo.shinyapps.io/TechTalk/>
--   <https://arlinconio.shinyapps.io/gnr_setlistfm_mapped/>
--   <https://armandruiz.shinyapps.io/01_hello/>
--   <https://armodel.shinyapps.io/01_hello/>
--   <https://aron3313.shinyapps.io/xiapp/>
--   <https://arostaing.shinyapps.io/who-app-en/>
--   <https://arraycgh.shinyapps.io/HNSCC_explorer/>
--   <https://artclustering.shinyapps.io/ModelExploration/>
--   <https://arthur.shinyapps.io/aircrashes/>
--   <https://artofstat.shinyapps.io/EDA_quantitative/>
--   <https://arundurvasula.shinyapps.io/GDB-sim/>
--   <https://asadito.shinyapps.io/Pokemon/>
--   <https://asashinyapps.shinyapps.io/asashootingapp_development/>
--   <https://asashinyapps.shinyapps.io/shootingshinyapp/>
--   <https://asbcllc.shinyapps.io/levered_metric_dashboard/>
--   <https://asbcllc.shinyapps.io/Percy_Has_Neural_Gas/>
--   <https://aschinchon.shinyapps.io/Letters/>
--   <https://asesoria-estadistica.shinyapps.io/CVITAE/>
--   <https://asesoria-estadistica.shinyapps.io/SECCIONES/>
--   <https://asgr.shinyapps.io/ganttshiny/>
--   <https://ashcroftp.shinyapps.io/IMO-ODE-solver/>
--   <https://asheshwor.shinyapps.io/migrationviz/>
--   <https://asheshwor.shinyapps.io/np-quake/>
--   <https://asianturfgrass.shinyapps.io/ET_calculator/>
--   <https://asianturfgrass.shinyapps.io/irr_ph/>
--   <https://asianturfgrass.shinyapps.io/irrigation/>
--   <https://asianturfgrass.shinyapps.io/jp_mlsnK/>
--   <https://asianturfgrass.shinyapps.io/jp_sun_temperature_chart/>
--   <https://asianturfgrass.shinyapps.io/mlsn_K/>
--   <https://asianturfgrass.shinyapps.io/ppfd_by_time/>
--   <https://asianturfgrass.shinyapps.io/turf_twitter/>
--   <https://asianturfgrass.shinyapps.io/turfsi/>
--   <https://askmusic.shinyapps.io/askmusic/>
--   <https://asntech.shinyapps.io/intervene/>
--   <https://aspiringdata.shinyapps.io/ski-injury-mapping/>
--   <https://atajti.shinyapps.io/F1_twitter_app/>
--   <https://ataylorhfhs.shinyapps.io/NFLApp/>
--   <https://ateucher.shinyapps.io/check_r_versions_of_package_dependencies/>
--   <https://atgu.shinyapps.io/Finemapping/>
--   <https://athanasiamo.shinyapps.io/LifebrainShiny/>
--   <https://athanasiamo.shinyapps.io/VisMRI/>
--   <https://athlytics.shinyapps.io/Dunks-NBA/>
--   <https://athlytics.shinyapps.io/iWinrNFL/>
--   <https://athlytics.shinyapps.io/lineups-bcl/>
--   <https://athlytics.shinyapps.io/NBA-BPM/>
--   <https://athlytics.shinyapps.io/xPTS-BCL/>
--   <https://atibot.shinyapps.io/ddp-project2/>
--   <https://atibot.shinyapps.io/ddp-project21/>
--   <https://atibot.shinyapps.io/nlp1/>
--   <https://atibot.shinyapps.io/project/>
--   <https://atos-erik.shinyapps.io/HospitalStat/>
--   <https://aurora.shinyapps.io/Chi-square_power_calc/>
--   <https://aurora.shinyapps.io/mtDNA_power_calc/>
--   <https://aushsi.shinyapps.io/costresistantecoli/>
--   <https://aushsi.shinyapps.io/orcid/>
--   <https://aushsi.shinyapps.io/quit/>
--   <https://austin-routt.shinyapps.io/rName/>
--   <https://austinsprojects.shinyapps.io/Brewery/>
--   <https://automaths.shinyapps.io/chaos/>
--   <https://avinashr.shinyapps.io/Smart_Cities_India/>
--   <https://avnerbar-hen.shinyapps.io/publi/>
--   <https://avosuser.shinyapps.io/HDPrediction/>
--   <https://axelmora.shinyapps.io/lmb_stats/>
--   <https://axelmora.shinyapps.io/svmeasyapp/>
--   <https://axxando.shinyapps.io/DataProductsProject/>
--   <https://azam.shinyapps.io/ews_education/>
--   <https://azam.shinyapps.io/karachi_property/>
--   <https://azam.shinyapps.io/pakistan_education/>
--   <https://azam.shinyapps.io/testApp/>
--   <https://b.hatena.ne.jp/entry/hoxom.shinyapps.io/BoketePlayer/>
--   <https://bachl.shinyapps.io/alternative_media_sources_in_afd-centered_facebook_discussions/>
--   <https://bahar.shinyapps.io/method_compare/>
--   <https://bambangpe.shinyapps.io/analisa_tiang_listrik_dan_bakpao/>
--   <https://bambangpe.shinyapps.io/bitcoint-tracker/>
--   <https://bancea.shinyapps.io/CLT_DataProduct/>
--   <https://baney64.shinyapps.io/courseraProject/>
--   <https://barglary.shinyapps.io/FINAL_project/>
--   <https://barre.shinyapps.io/courseHoursApp/>
--   <https://bccpp.shinyapps.io/mycpp/>
--   <https://bchartoff.shinyapps.io/ggShinyApp/>
--   <https://bcrossman.shinyapps.io/Retirement/>
--   <https://bdilday.shinyapps.io/bprodrashiny/>
--   <https://bdilday.shinyapps.io/PCAPlots/>
--   <https://beale.shinyapps.io/Ricker/>
--   <https://bearloga.shinyapps.io/taskviewr/>
--   <https://beautifuldata.shinyapps.io/beautiful_data_population_map/>
--   <https://becca-krouse.shinyapps.io/safetyapp/>
--   <https://beckmw.shinyapps.io/swmp_agg/>
--   <https://beckmw.shinyapps.io/swmp_comp/>
--   <https://beckmw.shinyapps.io/swmp_summary/>
--   <https://benaracreations2015.shinyapps.io/gr5project/>
--   <https://bencanavis.shinyapps.io/bencana/>
--   <https://bencasselman.shinyapps.io/new-test/>
--   <https://bengapple.shinyapps.io/coursera_nlp_capstone/>
--   <https://benhives.shinyapps.io/finalhomework/>
--   <https://benjaminackerman.shinyapps.io/GOPtax2017/>
--   <https://benjaminrobinson.shinyapps.io/learndc_shiny_downloader/>
--   <https://benmarwick.shinyapps.io/interactive_pca_explorer/>
--   <https://benmarwick.shinyapps.io/ros_badge/>
--   <https://beny.shinyapps.io/INDI-V/>
--   <https://berkorbay.shinyapps.io/nisan16/>
--   <https://bestforbritain.shinyapps.io/intermodel/>
--   <https://betterment.shinyapps.io/WhichIRA/>
--   <https://bfrickert.shinyapps.io/brutalizeR/>
--   <https://bfrickert.shinyapps.io/WFMU/>
--   <https://bgonzal.shinyapps.io/ggvisapp/>
--   <https://bgstieber.shinyapps.io/probabilitysquares/>
--   <https://bhateu.shinyapps.io/TextPredictionJHUCapstone/>
--   <https://bigcomputing.shinyapps.io/Car_App/>
--   <https://bigcomputing.shinyapps.io/Car2_App/>
--   <https://bigdatalittledata.shinyapps.io/tacoma_mayoral_finances/>
--   <https://biglakedata.shinyapps.io/crime/>
--   <https://billkillacky.shinyapps.io/DataProducts/>
--   <https://billpetti.shinyapps.io/edge_shiny/>
--   <https://billpetti.shinyapps.io/shiny_cumu_hr_app/>
--   <https://billpetti.shinyapps.io/shiny_ffl_app/>
--   <https://billpetti.shinyapps.io/shiny_spraychart/>
--   <https://bioenergetics4.shinyapps.io/bioenergetics4/>
--   <https://biosoft.shinyapps.io/compSurv/>
--   <https://biowit.shinyapps.io/Biofuel-EESR/>
--   <https://bisg.shinyapps.io/dashboardapp/>
--   <https://bisg.shinyapps.io/VancouverCrimeDashboard/>
--   <https://biswarup.shinyapps.io/dashboardapp/>
--   <https://bknapp.shinyapps.io/dprk/>
--   <https://blackbawks.shinyapps.io/WSTC3Abstracts/>
--   <https://blackbawks.shinyapps.io/WSTC4/>
--   <https://blakemcshane.shinyapps.io/pces/>
--   <https://blakemcshane.shinyapps.io/spmetacase1/>
--   <https://bleedrake.shinyapps.io/congressImpact/>
--   <https://bleedrake.shinyapps.io/pollChangePoint/>
--   <https://bleedrake.shinyapps.io/trumpChangePoint/>
--   <https://bleedrake.shinyapps.io/trumpInnauguration/>
--   <https://blenditbayes.shinyapps.io/crimemap/>
--   <https://blenditbayes.shinyapps.io/heatmapStock/>
--   <https://blenditbayes.shinyapps.io/rugsmaps/>
--   <https://blin02.shinyapps.io/food_price_changes/>
--   <https://blmr.shinyapps.io/blackspot/>
--   <https://blmr.shinyapps.io/ge2015/>
--   <https://blmr.shinyapps.io/shinybrot/>
--   <https://bluecattechnical.shinyapps.io/iaaf_rankings/>
--   <https://bluecattechnical.shinyapps.io/rankings/>
--   <https://bmcp.shinyapps.io/loansapp5/>
--   <https://bmedeiros.shinyapps.io/pyrad_find_bad_samples/>
--   <https://bobdawg.shinyapps.io/deathstar/>
--   <https://bobdawg.shinyapps.io/whosthatliberal/>
--   <https://bobturner.shinyapps.io/Year_in_Disease_Shiny/>
--   <https://borsbeekstraat.shinyapps.io/Verkeersdrukte/>
--   <https://borye.shinyapps.io/Weather_Data_Explorer/>
--   <https://bpvg.shinyapps.io/YAOOP/>
--   <https://bquast.shinyapps.io/Iris-Presentation/>
--   <https://bradduthie.shinyapps.io/gameGA_browser/>
--   <https://bradduthie.shinyapps.io/gmse_gui/>
--   <https://bradleyboehmke.shinyapps.io/Developing_Data_Products_shiny_app/>
--   <https://bradleyboehmke.shinyapps.io/LPI_Rankings/>
--   <https://bradleyboehmke.shinyapps.io/wordprediction_2/>
--   <https://brandmaier.shinyapps.io/ARMA/>
--   <https://brandonkopp.shinyapps.io/ACSExplorer/>
--   <https://brandonkopp.shinyapps.io/MoCoCrimeExplorer/>
--   <https://brandonkopp.shinyapps.io/sotushiny/>
--   <https://brandonkopp.shinyapps.io/SOTUshiny/>
--   <https://brapp.shinyapps.io/bingo/>
--   <https://brasmus.shinyapps.io/klimaquiz/>
--   <https://bravo.shinyapps.io/babynames/>
--   <https://bravo.shinyapps.io/givedirectly/>
--   <https://bravo.shinyapps.io/openinterest/>
--   <https://bravo.shinyapps.io/periodAnalysis/>
--   <https://bravo.shinyapps.io/wealthanalysis/>
--   <https://brennanpcardiff.shinyapps.io/health_habits_app_v04/>
--   <https://brentbrewington.shinyapps.io/have-we-been-pwned/>
--   <https://brianomeara.shinyapps.io/mutation_selection_shiny/>
--   <https://brianomeara.shinyapps.io/opentree_contributors/>
--   <https://brillant.shinyapps.io/moment-free_Sharpe_ratio/>
--   <https://brocktibert.shinyapps.io/nhl-shiny/>
--   <https://brookfieldiie.shinyapps.io/developer-talent-map/>
--   <https://bruno.shinyapps.io/digitize/>
--   <https://bryancafferky.shinyapps.io/FDBApp2/>
--   <https://bryandaetz.shinyapps.io/CraftBeersShiny/>
--   <https://bsim.shinyapps.io/lead_prototype/>
--   <https://bsuthersan.shinyapps.io/network/>
--   <https://butlermh.shinyapps.io/LendingClub/>
--   <https://butlermh.shinyapps.io/WordPredictionApp/>
--   <https://bwbdata.shinyapps.io/BWB_monitoring_Japanse_fruitvlieg/>
--   <https://bziarkowski.shinyapps.io/Mapy1liga/>
--   <https://bziarkowski.shinyapps.io/plkr/>
--   <https://cabaceo.shinyapps.io/linreg/>
--   <https://cadiez.shinyapps.io/Word-O-Matic/>
--   <https://cadolph.shinyapps.io/olympics/>
--   <https://cagankaya.shinyapps.io/Deprem_Harita/>
--   <https://cainesap.shinyapps.io/boardgamegeek/>
--   <https://cainesap.shinyapps.io/langmap/>
--   <https://cainesap.shinyapps.io/shinydemo/>
--   <https://cainesap.shinyapps.io/wackywordlist/>
--   <https://calc.shinyapps.io/riskcalc/>
--   <https://calpolystat.shinyapps.io/BenfordData/>
--   <https://calpolystat1.shinyapps.io/corr_reg_game/>
--   <https://calpolystat1.shinyapps.io/WilcoxonMW/>
--   <https://calthaus.shinyapps.io/influenza/>
--   <https://cameronlhansen.shinyapps.io/twitter_analysis/>
--   <https://camh-nds.shinyapps.io/STOPDataQuality/>
--   <https://camhouser.shinyapps.io/Class/>
--   <https://canaan.shinyapps.io/BerkeleyShiny/>
--   <https://canaan.shinyapps.io/BTCmining/>
--   <https://canadasreche.shinyapps.io/project_shiny/>
--   <https://cardiomoon.shinyapps.io/moonBook/>
--   <https://cardiomoon.shinyapps.io/ztable/>
--   <https://carlosgg.shinyapps.io/la-crimes-map/>
--   <https://carygrantanderson.shinyapps.io/Word_Prediction_App/>
--   <https://casimir.shinyapps.io/cryptocurr/>
--   <https://castellsdenou.shinyapps.io/castellsdenou/>
--   <https://cathrineujensen.shinyapps.io/wheretoplaceturbine/>
--   <https://catnipmadness.shinyapps.io/StreamDepletion/>
--   <https://cattywampus.shinyapps.io/EducationInTanzania/>
--   <https://catwizard.shinyapps.io/Wage/>
--   <https://cawthron.shinyapps.io/BMOP/>
--   <https://cbmiwustl.shinyapps.io/demo-dashboard/>
--   <https://cbrunsdon.shinyapps.io/unempeu/>
--   <https://cbuckowitz.shinyapps.io/coursera_data_products_project/>
--   <https://cchanial.shinyapps.io/chicago_app/>
--   <https://cchanial.shinyapps.io/football_app/>
--   <https://cchappas.shinyapps.io/TeamPerformance/>
--   <https://ccorreia.shinyapps.io/Project3/>
--   <https://cdermont.shinyapps.io/parteitrends/>
--   <https://cdermont.shinyapps.io/votr/>
--   <https://cecato.shinyapps.io/wordprev/>
--   <https://cecilesauder.shinyapps.io/concours-sophie/>
--   <https://cedm.shinyapps.io/MarginalFactors/>
--   <https://celsofaf.shinyapps.io/coursera-datasci-devdataprods/>
--   <https://cengel.shinyapps.io/RioSlaveMarket/>
--   <https://cfb-dashboards.shinyapps.io/Matchups_2015/>
--   <https://cfrm.shinyapps.io/BacktestVaR/>
--   <https://cfrm.shinyapps.io/meanSdEfficientFrontier/>
--   <https://cfrm.shinyapps.io/PerformanceMeasures/>
--   <https://cgr-datascience.shinyapps.io/tompkins-county-law-enforcement-shared-services/>
--   <https://chadburdyshaw.shinyapps.io/shinyapp/>
--   <https://chadmurphy.shinyapps.io/CL_Finals_Predictor/>
--   <https://chadsalinas.shinyapps.io/GolfMarketSize/>
--   <https://chaiml.shinyapps.io/menaro_database/>
--   <https://chanamasa.shinyapps.io/ddp_noaa/>
--   <https://chandlerlutz.shinyapps.io/mdri-app/>
--   <https://chao.shinyapps.io/iNEXT/>
--   <https://chao.shinyapps.io/iNEXTOnline/>
--   <https://chao.shinyapps.io/SpadeR/>
--   <https://chao.shinyapps.io/SuperDuplicates/>
--   <https://chdwb-map.shinyapps.io/shinyapp/>
--   <https://chelsea.shinyapps.io/UN_Advanced/>
--   <https://chendaniely.shinyapps.io/shinyCountryTimeseries/>
--   <https://chendaniely.shinyapps.io/zika_cdc_dashboard/>
--   <https://chenluji.shinyapps.io/NYC_Toilet_Map/>
--   <https://chikudaisei.shinyapps.io/shinygpas/>
--   <https://chiragjp.shinyapps.io/pemap/>
--   <https://chitrasen.shinyapps.io/assignment/>
--   <https://chjackson.shinyapps.io/MetaAnalyser/>
--   <https://chkifa.shinyapps.io/top5disaster/>
--   <https://choisung.shinyapps.io/healthdatabreach/>
--   <https://choisung.shinyapps.io/hospcompare/>
--   <https://chribonn.shinyapps.io/devdataprod-016/>
--   <https://chris-prener.shinyapps.io/leadMap/>
--   <https://chrisschwer.shinyapps.io/BMI_Calculator/>
--   <https://chrissuthy.shinyapps.io/SCR_detFun/>
--   <https://christopher226.shinyapps.io/shiny/>
--   <https://chrpr.shinyapps.io/dpla-shiny/>
--   <https://chuan.shinyapps.io/IrisCDTree/>
--   <https://ci-sim.shinyapps.io/framingham_risk/>
--   <https://cidlab.shinyapps.io/Build-A-Bayes/>
--   <https://cimentadaj.shinyapps.io/shiny/>
--   <https://cistrome.shinyapps.io/timer/>
--   <https://cjbattey.shinyapps.io/APPNAME/>
--   <https://cjbattey.shinyapps.io/driftR/>
--   <https://cjbattey.shinyapps.io/structurePlotter/>
--   <https://cjf4.shinyapps.io/roc_wage_data/>
--   <https://clementinegeo.shinyapps.io/LandUseChangeLondon/>
--   <https://clementinegeo.shinyapps.io/MetaZipf/>
--   <https://clijda.shinyapps.io/mtcars_reganal/>
--   <https://cloudlabhk.shinyapps.io/StudentMarkAnalytics/>
--   <https://clusterrcts.shinyapps.io/rshinyapp/>
--   <https://cmcguinness.shinyapps.io/DiamondEstimator/>
--   <https://cmstewart.shinyapps.io/course_project/>
--   <https://cmwithfevs.shinyapps.io/FEVSapp/>
--   <https://coberst.shinyapps.io/vi_dce2017/>
--   <https://codeforanchorage.shinyapps.io/Anchorage-Vote-Leverage/>
--   <https://codeforanchorage.shinyapps.io/usps_api/>
--   <https://codeforanchorage.shinyapps.io/weatherchange/>
--   <https://coderzoozoo.shinyapps.io/devdataprod-003/>
--   <https://codystumpo.shinyapps.io/simpleWAR/>
--   <https://cognitive.shinyapps.io/TwittMiner/>
--   <https://cogsci.shinyapps.io/shinyApp/>
--   <https://cohesion-data-visualization.shinyapps.io/ms-op/>
--   <https://colemandata.shinyapps.io/mynearestleedsmarginal/>
--   <https://colladete.shinyapps.io/Terrorism/>
--   <https://colomb.shinyapps.io/Flystockcleaner/>
--   <https://colonelsmoothie.shinyapps.io/tweedie-viz/>
--   <https://comapuga.shinyapps.io/sampledata_flexdash/>
--   <https://conabio.shinyapps.io/MaicesMx50kSNP-english/>
--   <https://conabio.shinyapps.io/shiny_maiz/>
--   <https://conabio.shinyapps.io/shiny_Taxon1/>
--   <https://conabio.shinyapps.io/ShinyR-Taxonomic-correction/>
--   <https://connorjmccabe.shinyapps.io/interactive/>
--   <https://coolbutuseless.shinyapps.io/collision_fatalities/>
--   <https://coolbutuseless.shinyapps.io/crime_trends/>
--   <https://coolbutuseless.shinyapps.io/makeReactiveBinding-demo/>
--   <https://coolbutuseless.shinyapps.io/queensland-traffic-infringements/>
--   <https://coolbutuseless.shinyapps.io/shiny-safe-eval/>
--   <https://coreypeak.shinyapps.io/InteractiveQuarantine/>
--   <https://coreyyanofsky.shinyapps.io/Sample-space-gapped-normal-distribution/>
--   <https://coreyyanofsky.shinyapps.io/sev-and-bayes-gapped-normal-distribution/>
--   <https://corinne-riddell.shinyapps.io/black-white-life-expectancy/>
--   <https://corinne-riddell.shinyapps.io/e-value-calculator/>
--   <https://cortinah.shinyapps.io/phyllotaxis3d/>
--   <https://cosmoso.shinyapps.io/Shark-App/>
--   <https://cosmostatisticsinitiative.shinyapps.io/AMADA/>
--   <https://costeapaul.shinyapps.io/shiny_plots/?data=https://www.dropbox.com/s/jdzc0jyhwjthbxi/>
--   <https://couchpsycho.shinyapps.io/coursera/>
--   <https://coursera1.shinyapps.io/DDP-shiny/>
--   <https://courseradude.shinyapps.io/Swiftkey-Capstone-Project/>
--   <https://cphratlimr.shinyapps.io/population_health/>
--   <https://cpmontoya.shinyapps.io/CapStoneApp/>
--   <https://cpsievert.shinyapps.io/animintRmarkdown/>
--   <https://cpsievert.shinyapps.io/ggtree/>
--   <https://cpsievert.shinyapps.io/LDAelife/>
--   <https://cpsievert.shinyapps.io/newsgroup/>
--   <https://craddm.shinyapps.io/ERPdemo/>
--   <https://craigwang.shinyapps.io/rPackageStats/>
--   <https://creagh.shinyapps.io/Gapminder-app/>
--   <https://crowdquant.shinyapps.io/Open_Interest_Bubbles/>
--   <https://crsu.shinyapps.io/metainsightc/>
--   <https://crtahlin.shinyapps.io/LJmaraton/>
--   <https://cruizch.shinyapps.io/CempJal/>
--   <https://cruizch.shinyapps.io/CEmpJal/>
--   <https://cruizch.shinyapps.io/Earthquakes/>
--   <https://csaid.shinyapps.io/survey/>
--   <https://csaveanu.shinyapps.io/plotdecourty2008/>
--   <https://csqsiew.shinyapps.io/humorlanding/>
--   <https://csqsiew.shinyapps.io/xmas/>
--   <https://ctpickard-3.shinyapps.io/NBA_Shot_Chart_Finder/>
--   <https://cttest.shinyapps.io/worm-like-chain-app/>
--   <https://cttest.shinyapps.io/worm-like-chain/>
--   <https://cultureofinsight.shinyapps.io/datasetfree/>
--   <https://cultureofinsight.shinyapps.io/dotmap/>
--   <https://cultureofinsight.shinyapps.io/location_mapper/>
--   <https://curvascrecimientohums.shinyapps.io/app3/>
--   <https://cushioncalc.shinyapps.io/cushioncalc/>
--   <https://cwee.shinyapps.io/greengov/>
--   <https://cyruslentin.shinyapps.io/nse-data/>
--   <https://czuo.shinyapps.io/ShinyApp/>
--   <https://d-miller.shinyapps.io/bachelorsPHD/>
--   <https://d4tagirl.shinyapps.io/uy_names/>
--   <https://daagur-jhm.shinyapps.io/pValues/>
--   <https://daigotanaka.shinyapps.io/shiny_twitter_chart/>
--   <https://daltare.shinyapps.io/CECapp/>
--   <https://danbro.shinyapps.io/windapp/>
--   <https://daniel-hadley.shinyapps.io/Recidivism_App/>
--   <https://danielcanueto.shinyapps.io/dependence_measures/>
--   <https://danielezrajohnson.shinyapps.io/tweetmapper/>
--   <https://daniellequinn.shinyapps.io/WISE/>
--   <https://danielnarey.shinyapps.io/Household_Income_by_ZIP_Code/>
--   <https://danielnjoo.shinyapps.io/ico-viz/>
--   <https://danieloberski.shinyapps.io/parallel-analysis/>
--   <https://danmalter.shinyapps.io/HR-Hitters/>
--   <https://danmalter.shinyapps.io/Spray-Chart/>
--   <https://dannyjnwong.shinyapps.io/JDPayCalc/>
--   <https://dannyjnwong.shinyapps.io/PreopDrugs/>
--   <https://dannyjnwong.shinyapps.io/SORTMorbidityWebCalc/>
--   <https://dannyperichlara.shinyapps.io/Simce/>
--   <https://danroyles.shinyapps.io/Phila_AIDS_84-87/>
--   <https://daob.shinyapps.io/latent-class-analysis/>
--   <https://daroczig.shinyapps.io/rinfinance_Berlinger-Daroczi-demo/>
--   <https://darrendahly.shinyapps.io/app1/>
--   <https://darryl.shinyapps.io/DRE_2014_15/>
--   <https://darryl.shinyapps.io/player_scoring_distribution/>
--   <https://darryl.shinyapps.io/scoring_distribution/>
--   <https://darryl.shinyapps.io/shooting_fouls/>
--   <https://darryl.shinyapps.io/sportvu_playoffs/>
--   <https://darryl.shinyapps.io/sportvu_team_playoffs/>
--   <https://darryl.shinyapps.io/sportvu_team/>
--   <https://darryl.shinyapps.io/sportvu/>
--   <https://darryl.shinyapps.io/streaks_and_droughts/>
--   <https://dartthrowingchimp.shinyapps.io/national-security-strategy/>
--   <https://dasibodu.shinyapps.io/Untrendy/>
--   <https://data-artist.shinyapps.io/BinLift/>
--   <https://data-seo.shinyapps.io/shinyCrawlToPR/>
--   <https://data-slinky.shinyapps.io/BumpCharts/>
--   <https://databiomics.shinyapps.io/healthplot/>
--   <https://dataclarityconsulting.shinyapps.io/liver/>
--   <https://datadotworld.shinyapps.io/foia_shiny_app/>
--   <https://dataexponent.shinyapps.io/kenthailandlocations/>
--   <https://dataflemming.shinyapps.io/StockWatch/>
--   <https://datagenii.shinyapps.io/ShinyDeploy/>
--   <https://dataiseverywhere.shinyapps.io/twitter_wordcloud/>
--   <https://datakicks.shinyapps.io/wm2018-simulation/>
--   <https://datapprfn.shinyapps.io/TwitterApp/>
--   <https://dataquest.shinyapps.io/NewsByTweets/>
--   <https://datascienceperu.shinyapps.io/tornasol/>
--   <https://datassist.shinyapps.io/neiss_demographics/>
--   <https://datatante.shinyapps.io/brewery_app/>
--   <https://daten-kieker.shinyapps.io/devdataprod/>
--   <https://datosmasivoscdec.shinyapps.io/Pregnant_women/>
--   <https://davearmitage.shinyapps.io/LotkaVolterraCompPrey/>
--   <https://davearmitage.shinyapps.io/LotkaVolterraPredPrey/>
--   <https://daver.shinyapps.io/daveR/>
--   <https://davesgonechina.shinyapps.io/OAJournals2014/>
--   <https://davesteps.shinyapps.io/homebrewR/>
--   <https://davesteps.shinyapps.io/machLearn/>
--   <https://david-systemsforecasting.shinyapps.io/app_rentorbuyer/>
--   <https://davidakenny.shinyapps.io/APIM_MM/>
--   <https://davidakenny.shinyapps.io/APIMeM/>
--   <https://davidakenny.shinyapps.io/APIMM/>
--   <https://davidakenny.shinyapps.io/Dingy/>
--   <https://davidakenny.shinyapps.io/MedPower/>
--   <https://davidakenny.shinyapps.io/SRM_R/>
--   <https://davidcolquhoun.shinyapps.io/3-calcs-final/>
--   <https://davidgohel.shinyapps.io/demoggiraph/>
--   <https://davidpham87.shinyapps.io/snf_apps/>
--   <https://davidquartey.shinyapps.io/ghanatelecomdatainspector/>
--   <https://davidruvolo.shinyapps.io/AirportSecurity/>
--   <https://davidski.shinyapps.io/TwitterSentiment/>
--   <https://dbets.shinyapps.io/dBETS/>
--   <https://dborisog.shinyapps.io/visNoConflictsApp/>
--   <https://dc-coder.shinyapps.io/shiny-on/>
--   <https://dchiu911.shinyapps.io/Gapminder-app/>
--   <https://dchiu911.shinyapps.io/Population-Control-app/>
--   <https://ddrbcn.shinyapps.io/shiny-accidents-barcelona/>
--   <https://ddunn801.shinyapps.io/TeamData/>
--   <https://debatometer.shinyapps.io/ltwnrw17-arena/>
--   <https://debatometer.shinyapps.io/ltwsh17/>
--   <https://debatometer.shinyapps.io/ltwsl17/>
--   <https://debatometer.shinyapps.io/presidentielles/>
--   <https://debruine.shinyapps.io/datacollect/>
--   <https://debruine.shinyapps.io/topcentile/>
--   <https://debruine.shinyapps.io/varviz/>
--   <https://decisionsciences.shinyapps.io/Shiny/>
--   <https://deeplab.shinyapps.io/Diseases/>
--   <https://deeplab.shinyapps.io/EvolutionaryGames-Shiny/>
--   <https://defr0st.shinyapps.io/TZC-profit-calc/>
--   <https://dehdailey.shinyapps.io/EarthquakeApp/>
--   <https://delermando.shinyapps.io/MyWordCloud/>
--   <https://demo.shinyapps.io/001-hello/>
--   <https://demo.shinyapps.io/002-text/>
--   <https://demo.shinyapps.io/004-mpg/>
--   <https://demo.shinyapps.io/012-datatables/>
--   <https://demo.shinyapps.io/013-selectize/>
--   <https://demo.shinyapps.io/018-datatable-options/>
--   <https://demo.shinyapps.io/019-mathjax/>
--   <https://demo.shinyapps.io/021-selectize-plot/>
--   <https://demo.shinyapps.io/022-unicode-chinese/>
--   <https://demo.shinyapps.io/023-optgroup-server/>
--   <https://demo.shinyapps.io/029-row-selection/>
--   <https://demopr.shinyapps.io/ComparacionMunicipios/>
--   <https://deniswillett.shinyapps.io/sfpdviz/>
--   <https://denniskorablev.shinyapps.io/aws_prices/>
--   <https://denny.shinyapps.io/mexico_senate/>
--   <https://derek-corcoran.shinyapps.io/WhereShouldYouLive/>
--   <https://derekdebeurs.shinyapps.io/networkanalysis/>
--   <https://derekdebeurs.shinyapps.io/suicidenetwork/>
--   <https://derekqiu.shinyapps.io/BrewTourAnalytics/>
--   <https://derwin.shinyapps.io/TOTPbot/>
--   <https://descience.shinyapps.io/NLAViz/>
--   <https://detags.shinyapps.io/p_mercado_dia_qro/>
--   <https://dgolicher-bu.shinyapps.io/regression_plus/>
--   <https://dgraziotin.shinyapps.io/peerreviewtimeline/>
--   <https://dgrtwo.shinyapps.io/birthday/>
--   <https://dgrtwo.shinyapps.io/cranview/>
--   <https://dgrtwo.shinyapps.io/love-actually-network/>
--   <https://dgrtwo.shinyapps.io/providence_viewer/>
--   <https://dgrtwo.shinyapps.io/serialApp/>
--   <https://dgrtwo.shinyapps.io/so-trends/>
--   <https://dgrtwo.shinyapps.io/socraticswirl/>
--   <https://dgrtwo.shinyapps.io/tag-traffic-hour/>
--   <https://dhaine.shinyapps.io/episensr_shiny/>
--   <https://dhimrich.shinyapps.io/CourseraSurvival/>
--   <https://dhmontgomery.shinyapps.io/mnlegnom/>
--   <https://dichika.shinyapps.io/presentationtrace/>
--   <https://dimitrios.shinyapps.io/worldindicators/>
--   <https://dimitrios.shinyapps.io/worldindicatorsmap/>
--   <https://dipanjan.shinyapps.io/twitter-analysis/>
--   <https://dirk.shinyapps.io/shiny/>
--   <https://dirk.shinyapps.io/sudoku-solver/>
--   <https://dirk.shinyapps.io/surveillance/>
--   <https://dirkseidensticker.shinyapps.io/webapp/>
--   <https://disciplined-it.shinyapps.io/opinionmining/>
--   <https://discoursemedia.shinyapps.io/Cost-of-Commute/>
--   <https://discoursemedia.shinyapps.io/CostofCommute/>
--   <https://dishapatil.shinyapps.io/koch_snowflake/>
--   <https://dishapatil.shinyapps.io/pigeonvision/>
--   <https://dishapatil.shinyapps.io/shiny/>
--   <https://dk-o.shinyapps.io/pastpolls/>
--   <https://dk-o.shinyapps.io/voter-demographics-2012/>
--   <https://dkeanalytics.shinyapps.io/whalez/>
--   <https://dlow.shinyapps.io/qpcr/>
--   <https://dmaust.shinyapps.io/CaliforniaSchools/>
--   <https://dmenin.shinyapps.io/CourseraDataProductsProject/>
--   <https://dmenin.shinyapps.io/ShinyEx/>
--   <https://dmwarner.shinyapps.io/modis_shiny2016/>
--   <https://dmwarnerusgsglsc.shinyapps.io/AppDraft/>
--   <https://dnaeye.shinyapps.io/crimeVis/>
--   <https://dnafrance.shinyapps.io/devdatapdt/>
--   <https://dnegrey.shinyapps.io/mlbDashboard/>
--   <https://dnlmc.shinyapps.io/misanthrope_app/>
--   <https://dobbs-onc-jhmi.shinyapps.io/ConflictsOfShinyApp/>
--   <https://domfernandez.shinyapps.io/_myShinyApp/>
--   <https://dongxiaop.shinyapps.io/DS_Capstone/>
--   <https://donk23.shinyapps.io/shinyMig_UpperAT/>
--   <https://donkeyshot.shinyapps.io/lowlandz/>
--   <https://donmeka.shinyapps.io/Tekken-Punishment/>
--   <https://dontbeaturkey.shinyapps.io/Turkey/>
--   <https://dormantroot.shinyapps.io/PredictIris/>
--   <https://dormantroot.shinyapps.io/PredictWord/>
--   <https://dpak.shinyapps.io/Gamma/>
--   <https://drclongstaff.shinyapps.io/ScreeningCL/>
--   <https://dreamrs-fan.shinyapps.io/pimpMyShiny/>
--   <https://dreamrs-vic.shinyapps.io/basicShiny/>
--   <https://drinkwater32.shinyapps.io/nhl_twitter_scraper/>
--   <https://dripdrop12.shinyapps.io/PDA_Explorer/>
--   <https://dsasas.shinyapps.io/DDPapp/>
--   <https://dsdaveh.shinyapps.io/QuinoaPi/>
--   <https://dsmilo.shinyapps.io/gentrification/>
--   <https://dsollberger.shinyapps.io/randomfrasierepisode/>
--   <https://dsself.shinyapps.io/Shiny/>
--   <https://dstreble.shinyapps.io/shinyDRAC/>
--   <https://dswalter.shinyapps.io/binomial/>
--   <https://dswalter.shinyapps.io/propconfint/>
--   <https://dswalter.shinyapps.io/stability/>
--   <https://dswalter.shinyapps.io/tdist/>
--   <https://dt444.shinyapps.io/next-word-predict/>
--   <https://dtkaplan.shinyapps.io/RStudioConf2018-slides/>
--   <https://dtmaboutheart.shinyapps.io/ShotCharts/>
--   <https://dubikan.shinyapps.io/dejarg/>
--   <https://ducluong.shinyapps.io/sanitation/>
--   <https://duncan-garmonsway.shinyapps.io/harry-potter/>
--   <https://duncan-garmonsway.shinyapps.io/xlex/>
--   <https://duncanhe.shinyapps.io/shiny/>
--   <https://dusanmerta.shinyapps.io/jiz50/>
--   <https://dvcv.shinyapps.io/Powerball/>
--   <https://dvgodoy.shinyapps.io/ExploratoryRegression/>
--   <https://dwoll.shinyapps.io/DVHshiny/>
--   <https://dwoll.shinyapps.io/shotGroupsApp/>
--   <https://dxrodri.shinyapps.io/MPGPredictor/>
--   <https://dzakharov.shinyapps.io/microprobe_imaging/>
--   <https://earlglynn.shinyapps.io/ShinyCaret/>
--   <https://ebailey78.shinyapps.io/NetAssessApp/>
--   <https://ebey.shinyapps.io/statnetWeb/>
--   <https://ecamp.shinyapps.io/avion-plano/>
--   <https://echodroff.shinyapps.io/stopcovar/>
--   <https://ecodynamics.shinyapps.io/StructuralCoexistence/>
--   <https://ecologician.shinyapps.io/ggvis_grouping/>
--   <https://econdata.shinyapps.io/bud1/>
--   <https://econdata.shinyapps.io/taxcuts/>
--   <https://econexpert.shinyapps.io/tradedata/>
--   <https://econometricsbysimulation.shinyapps.io/Ebola-Dynamic-Model/>
--   <https://econometricsbysimulation.shinyapps.io/FCount/>
--   <https://econometricsbysimulation.shinyapps.io/OLS-App/>
--   <https://econometricsbysimulation.shinyapps.io/Survey/>
--   <https://econpsychbasel.shinyapps.io/shinyfftrees/>
--   <https://edbullen.shinyapps.io/shinyQuantMod/>
--   <https://edmundtoh.shinyapps.io/ipptscore/>
--   <https://edna-probability-of-detection-calculator.shinyapps.io/eDNA_App/>
--   <https://eduardo.shinyapps.io/dsscapstone/>
--   <https://eduardomagalhaes.shinyapps.io/GoldStockPrices/>
--   <https://educas.shinyapps.io/Probabilidades-Normal/>
--   <https://egap.shinyapps.io/Power_Calculator/>
--   <https://egonico.shinyapps.io/italia/>
--   <https://ehrlinger.shinyapps.io/xportEDA/>
--   <https://eischen.shinyapps.io/Collisions/>
--   <https://ejsbrocco.shinyapps.io/NCElectionViewer/>
--   <https://ejsbrocco.shinyapps.io/NCGA_PartisanSwing/>
--   <https://ekoziol.shinyapps.io/Eric-Koziol-Swiftkey-Prediction/>
--   <https://ekoziol.shinyapps.io/NSFAwards/>
--   <https://ekung.shinyapps.io/user_genotypes/>
--   <https://ela4.shinyapps.io/DDP-Project/>
--   <https://elainepanuccio.shinyapps.io/specialprotectionwatersexplorer/>
--   <https://elcep.shinyapps.io/shiny_static/>
--   <https://elecciones21d.shinyapps.io/elecciones21d/>
--   <https://elifkartal.shinyapps.io/euroScore/>
--   <https://elinw.shinyapps.io/crosstabber/>
--   <https://ellisp.shinyapps.io/0031-shiny/>
--   <https://ellisp.shinyapps.io/individual-vote-nzes/>
--   <https://ellisp.shinyapps.io/nz-election-2017/>
--   <https://ellisp.shinyapps.io/NZ-general-election-2014/>
--   <https://ellisp.shinyapps.io/nzcensus-cartograms/>
--   <https://ellisp.shinyapps.io/nzes2014_x_by_party/>
--   <https://ellisp.shinyapps.io/NZIS/>
--   <https://elmaxico.shinyapps.io/Footy/>
--   <https://elnaya.shinyapps.io/opented/>
--   <https://emanuelebardelli.shinyapps.io/capstone_app_v4/>
--   <https://emanuelfeld.shinyapps.io/tree-map/>
--   <https://emilhvitfeldt.shinyapps.io/social_progress_index_2017_dataviz/>
--   <https://emilkirkegaard.shinyapps.io/Danish_Immigration/>
--   <https://emilkirkegaard.shinyapps.io/Understanding_restriction_of_range/>
--   <https://emmanuel-perry.shinyapps.io/bombay/>
--   <https://emmanuel-perry.shinyapps.io/lines/>
--   <https://emoriebeck.shinyapps.io/pairs_graphicalvar/>
--   <https://emoriebeck.shinyapps.io/PAIRS_outcomes/>
--   <https://engbertlab.shinyapps.io/SceneWalk/>
--   <https://engelmann.shinyapps.io/inter-act/>
--   <https://erasemus.shinyapps.io/irisID/>
--   <https://erasmusmcmgz.shinyapps.io/dissemination/>
--   <https://erasmusmundusassociation.shinyapps.io/Course_browser/>
--   <https://ergz.shinyapps.io/shiny_app/>
--   <https://erichare.shinyapps.io/intRo/>
--   <https://ericlawton.shinyapps.io/playShiny/>
--   <https://ericrayanderson.shinyapps.io/gmail_clone/>
--   <https://ericrayanderson.shinyapps.io/shinymaterial/>
--   <https://erik-andreasson.shinyapps.io/allsvenskan/>
--   <https://erikvoeten.shinyapps.io/IdealPointsUN/>
--   <https://erikvoeten.shinyapps.io/Simple/>
--   <https://erikvoeten.shinyapps.io/UNVoting/>
--   <https://es-data.shinyapps.io/7State_App/>
--   <https://es-data.shinyapps.io/Messaging-App/>
--   <https://es-data.shinyapps.io/Workplace-App/>
--   <https://essence91214.shinyapps.io/HelpBuyDiamonds/>
--   <https://etachov.shinyapps.io/Twitter_Tern/>
--   <https://eubulus.shinyapps.io/shiny1/>
--   <https://evan.shinyapps.io/quickquants/>
--   <https://evangelinereynolds.shinyapps.io/EyeBallIt/>
--   <https://evangelinereynolds.shinyapps.io/USCongressionalVotingShiny/>
--   <https://evanlandman.shinyapps.io/frequency-chart/>
--   <https://evobir.shinyapps.io/pairwise_distances/>
--   <https://ewenme.shinyapps.io/polMonitor/>
--   <https://ewenme.shinyapps.io/vinylspotting/>
--   <https://ewnike.shinyapps.io/VPIN_app/>
--   <https://f3rdata.shinyapps.io/R_Programming/>
--   <https://fabiogm.shinyapps.io/LahmanWeb/>
--   <https://fadhila.shinyapps.io/oman_basic_vs_general_education_statistics/>
--   <https://fantasyadhd.shinyapps.io/mfl10_live/>
--   <https://fantasydane.shinyapps.io/sfb7adp/>
--   <https://fantasydota.shinyapps.io/fantasytools/>
--   <https://farsite.shinyapps.io/swiftkey-cap/>
--   <https://fattails9.shinyapps.io/app-1/>
--   <https://fbarth.shinyapps.io/predict_real_estate_price/>
--   <https://fcampelo.shinyapps.io/CLT_demo/>
--   <https://fcdidone.shinyapps.io/precpbnu/>
--   <https://fdabl.shinyapps.io/coin_flips/>
--   <https://fdabl.shinyapps.io/slides/>
--   <https://fdabl.shinyapps.io/talk/>
--   <https://fdjlss.shinyapps.io/terremotos-cl-01/>
--   <https://feasible-analytics.shinyapps.io/personal_results/>
--   <https://fedematt.shinyapps.io/shinyMB/>
--   <https://fgam.shinyapps.io/fgam/>
--   <https://fhsg.shinyapps.io/vereinbarkeitssimulator/>
--   <https://fiiorg.shinyapps.io/shinygates/>
--   <https://find-your-home.shinyapps.io/myapp/>
--   <https://fishdata.shinyapps.io/final/>
--   <https://fishdata.shinyapps.io/PDF_extraction_App/>
--   <https://fishecology.shinyapps.io/B-VBGM/>
--   <https://fisseha.shinyapps.io/dataproducts_project/>
--   <https://fitz.shinyapps.io/lj_bibliography/>
--   <https://fjjaramillo.shinyapps.io/Galton/>
--   <https://fjospinas.shinyapps.io/DPP_app_stations_ideam/>
--   <https://fjra01.shinyapps.io/MAPAS4/>
--   <https://flor.shinyapps.io/Rladies/>
--   <https://floren.shinyapps.io/DDP_app/>
--   <https://floriangd.shinyapps.io/Firstnames/>
--   <https://flovv.shinyapps.io/gVision-shiny/>
--   <https://flybna.shinyapps.io/BNA_Parking/>
--   <https://flybna.shinyapps.io/MNAA_FAA127/>
--   <https://fmez.shinyapps.io/App1/>
--   <https://fmgarciadiaz.shinyapps.io/NeuralMagik/>
--   <https://followthemoney.shinyapps.io/finflows/>
--   <https://fperezgarcia.shinyapps.io/shinyApp/>
--   <https://franaguila.shinyapps.io/simpsons-paradox/>
--   <https://frankwebb.shinyapps.io/nationalcomingoutday/>
--   <https://fredus.shinyapps.io/RegApp/>
--   <https://friedmanlab.shinyapps.io/McPAS-TCR/>
--   <https://friend1ws.shinyapps.io/pmsignature_shiny/>
--   <https://friep.shinyapps.io/plottr/>
--   <https://friscojosh.shinyapps.io/airyards/>
--   <https://frissdemo.shinyapps.io/FrissDashboard/>
--   <https://frzambra.shinyapps.io/drought_prediction/>
--   <https://frzambra.shinyapps.io/Monitor_Sequia/>
--   <https://frzambra.shinyapps.io/shinyapp/>
--   <https://fschoen.shinyapps.io/LM_MilesPerGallon/>
--   <https://fsdkenya.shinyapps.io/fdexplorer/>
--   <https://fsdkenya.shinyapps.io/fintrends/>
--   <https://fsdkenya.shinyapps.io/popinsights/>
--   <https://fsmontenegro.shinyapps.io/Kids_Activities/>
--   <https://fungiminions.shinyapps.io/FunGeneClusterS/>
--   <https://fungiminions.shinyapps.io/geneticDiversity/>
--   <https://fungiminions.shinyapps.io/s_gcExplorerApp/>
--   <https://fusion.shinyapps.io/ebola/>
--   <https://fweco.shinyapps.io/shank_family_running_log_2012-2017/>
--   <https://g4bllc.shinyapps.io/Big_Sky_BB_2017/>
--   <https://gabriel.shinyapps.io/copyofshiny/>
--   <https://gabriel.shinyapps.io/lbatutorial/>
--   <https://gabrielareto.shinyapps.io/App-1/>
--   <https://gabrielmutua.shinyapps.io/facebook-App/>
--   <https://gabrielmutua.shinyapps.io/wordcloud/>
--   <https://gadenbuie.shinyapps.io/rsconf_tweets/>
--   <https://gage-justin.shinyapps.io/master_app/>
--   <https://gage-justin.shinyapps.io/nyc_hippies/>
--   <https://galaxis.shinyapps.io/imdbcontroversial/>
--   <https://gallery.shinyapps.io/002-text/>
--   <https://gallery.shinyapps.io/003-reactivity/>
--   <https://gallery.shinyapps.io/005-sliders/>
--   <https://gallery.shinyapps.io/007-widgets/>
--   <https://gallery.shinyapps.io/009-upload/>
--   <https://gallery.shinyapps.io/011-timer/>
--   <https://gallery.shinyapps.io/012-datatables/>
--   <https://gallery.shinyapps.io/013-selectize/>
--   <https://gallery.shinyapps.io/016-knitr-pdf/>
--   <https://gallery.shinyapps.io/018-datatable-options/>
--   <https://gallery.shinyapps.io/019-mathjax/>
--   <https://gallery.shinyapps.io/02_text/>
--   <https://gallery.shinyapps.io/021-selectize-plot/>
--   <https://gallery.shinyapps.io/022-unicode-chinese/>
--   <https://gallery.shinyapps.io/024-optgroup-selectize/>
--   <https://gallery.shinyapps.io/025-loop-ui/>
--   <https://gallery.shinyapps.io/027-absolutely-positioned-panels/>
--   <https://gallery.shinyapps.io/030-basic-datatable/>
--   <https://gallery.shinyapps.io/032-client-data-and-query-string/>
--   <https://gallery.shinyapps.io/035-custom-input-bindings/>
--   <https://gallery.shinyapps.io/037-date-and-date-range/>
--   <https://gallery.shinyapps.io/040-dynamic-clustering/>
--   <https://gallery.shinyapps.io/047-image-output/>
--   <https://gallery.shinyapps.io/048-including-html-text-and-markdown-files/>
--   <https://gallery.shinyapps.io/050-kmeans-example/>
--   <https://gallery.shinyapps.io/051-movie-explorer/>
--   <https://gallery.shinyapps.io/053-navlistpanel-example/>
--   <https://gallery.shinyapps.io/054-nvd3-line-chart-output/>
--   <https://gallery.shinyapps.io/057-plot-plus-three-columns/>
--   <https://gallery.shinyapps.io/058-progress-example/>
--   <https://gallery.shinyapps.io/061-server-to-client-custom-messages/>
--   <https://gallery.shinyapps.io/064-telephones-by-region/>
--   <https://gallery.shinyapps.io/065-update-input-demo/>
--   <https://gallery.shinyapps.io/066-upload-file/>
--   <https://gallery.shinyapps.io/069-widget-check-group/>
--   <https://gallery.shinyapps.io/072-widget-date-range/>
--   <https://gallery.shinyapps.io/073-widget-file/>
--   <https://gallery.shinyapps.io/076-widget-select/>
--   <https://gallery.shinyapps.io/077-widget-slider/>
--   <https://gallery.shinyapps.io/082-word-cloud/>
--   <https://gallery.shinyapps.io/084-single-file/>
--   <https://gallery.shinyapps.io/085-progress/>
--   <https://gallery.shinyapps.io/086-bus-dashboard/>
--   <https://gallery.shinyapps.io/087-crandash/>
--   <https://gallery.shinyapps.io/094-image-interaction-basic/>
--   <https://gallery.shinyapps.io/095-plot-interaction-advanced/>
--   <https://gallery.shinyapps.io/105-plot-interaction-zoom/>
--   <https://gallery.shinyapps.io/110-error-sanitization/>
--   <https://gallery.shinyapps.io/113-bookmarking-url/>
--   <https://gallery.shinyapps.io/117-shinythemes/>
--   <https://gallery.shinyapps.io/actionbutton/>
--   <https://gallery.shinyapps.io/anova_shiny_rstudio/>
--   <https://gallery.shinyapps.io/boxplot/>
--   <https://gallery.shinyapps.io/CDCPlot/>
--   <https://gallery.shinyapps.io/client-data-and-query-string/>
--   <https://gallery.shinyapps.io/CLT_mean/>
--   <https://gallery.shinyapps.io/college_explorer-master/>
--   <https://gallery.shinyapps.io/collinearity/>
--   <https://gallery.shinyapps.io/correlation_game/>
--   <https://gallery.shinyapps.io/custom-input-bindings/>
--   <https://gallery.shinyapps.io/datafest-map-all-years/>
--   <https://gallery.shinyapps.io/drinkr/>
--   <https://gallery.shinyapps.io/Ebola-Dynamic/>
--   <https://gallery.shinyapps.io/EDsimulation/>
--   <https://gallery.shinyapps.io/ga-effect/>
--   <https://gallery.shinyapps.io/GDELTNetApp/>
--   <https://gallery.shinyapps.io/ggtree/>
--   <https://gallery.shinyapps.io/google-charts/>
--   <https://gallery.shinyapps.io/highcharter-births/>
--   <https://gallery.shinyapps.io/image-output/>
--   <https://gallery.shinyapps.io/including-html-text-and-markdown-files/>
--   <https://gallery.shinyapps.io/incubator-progress/>
--   <https://gallery.shinyapps.io/kcompshiny/>
--   <https://gallery.shinyapps.io/lake_erie_fisheries_stock_assessment_app/>
--   <https://gallery.shinyapps.io/LDAelife/>
--   <https://gallery.shinyapps.io/lego-viz/>
--   <https://gallery.shinyapps.io/marketing/>
--   <https://gallery.shinyapps.io/navlistpanel-example/>
--   <https://gallery.shinyapps.io/reactive-poll-and-file-reader/>
--   <https://gallery.shinyapps.io/retirement/>
--   <https://gallery.shinyapps.io/rioweb/>
--   <https://gallery.shinyapps.io/server-to-client-custom-messages/>
--   <https://gallery.shinyapps.io/shiny-salesman/>
--   <https://gallery.shinyapps.io/simple_regression/>
--   <https://gallery.shinyapps.io/slr_diag/>
--   <https://gallery.shinyapps.io/TSupplyDemand/>
--   <https://gallery.shinyapps.io/updateinput/>
--   <https://gallery.shinyapps.io/upload-file/>
--   <https://gallery.shinyapps.io/uploadfile/>
--   <https://gallery.shinyapps.io/widget-radio/>
--   <https://gambrell.shinyapps.io/ddp-assignment/>
--   <https://gamma-trader.shinyapps.io/center/>
--   <https://gamma-trader.shinyapps.io/gamma/>
--   <https://gamma-trader.shinyapps.io/positions/>
--   <https://garrett.shinyapps.io/radio/>
--   <https://gatesd.shinyapps.io/AmazingBirds/>
--   <https://gauravganve.shinyapps.io/weekly_calculator/>
--   <https://gauravsk.shinyapps.io/lotka/>
--   <https://gauravsk.shinyapps.io/lvpp/>
--   <https://gavinanderegg.shinyapps.io/ns-baby-names/>
--   <https://gcallao.shinyapps.io/Titanic/>
--   <https://gcampuzano14.shinyapps.io/WordSeer_ShinyApp/>
--   <https://gcortes.shinyapps.io/vis_app/>
--   <https://gcri-doab.shinyapps.io/SeawaterCarbonateSystem/>
--   <https://gdancik.shinyapps.io/shinyGEO/>
--   <https://gdlinguistics.shinyapps.io/macbeth/>
--   <https://gdwebb.shinyapps.io/ShinyAppProject/>
--   <https://gedemced.shinyapps.io/CED_CATALUNYA/>
--   <https://gedemced.shinyapps.io/DP_ANDALUSIA/>
--   <https://gedemced.shinyapps.io/DP_BALEARIC_ISLANDS/>
--   <https://gedemced.shinyapps.io/DP_CATALONIA/>
--   <https://gedemced.shinyapps.io/DP_GALICIA/>
--   <https://gehlenborglab.shinyapps.io/upsetr/>
--   <https://gemypham.shinyapps.io/NYC-Uber-Shiny-App/>
--   <https://geneuron.shinyapps.io/geneuron20150218/>
--   <https://geoanalytic.shinyapps.io/arima_models/>
--   <https://geography.shinyapps.io/atlas/>
--   <https://georeimonn.shinyapps.io/DataProducts/>
--   <https://gerardoenr.shinyapps.io/expo/>
--   <https://gettingthingsr.shinyapps.io/SensSpec/>
--   <https://gfellerlab.shinyapps.io/EPIC_1-1/>
--   <https://gfoe2016.shinyapps.io/VizAward_HS/>
--   <https://ghostdatalearner.shinyapps.io/ddp_project/>
--   <https://gianfranco-campana.shinyapps.io/ShinyNLP/>
--   <https://gichoya.shinyapps.io/HackApp/>
--   <https://gicn.shinyapps.io/NDC_Evaluation/>
--   <https://gill.shinyapps.io/ngram/>
--   <https://gillespieb.shinyapps.io/bng2xy/>
--   <https://gillespieb.shinyapps.io/DatabasePortalExample1/>
--   <https://gillespieb.shinyapps.io/GISlite/>
--   <https://gillespieb.shinyapps.io/NGRmapper/>
--   <https://gillespieb.shinyapps.io/nukeVIEW/>
--   <https://gillespieb.shinyapps.io/oneyeartimetrial/>
--   <https://gillespieb.shinyapps.io/Scotland_area_example/>
--   <https://gillespieb.shinyapps.io/WQ_map_example/>
--   <https://gilligan.shinyapps.io/daabos-twitter/>
--   <https://gilligan.shinyapps.io/melbourne/>
--   <https://giocomai.shinyapps.io/Kremlin_en/>
--   <https://giocomai.shinyapps.io/kremlinregex/>
--   <https://giocomai.shinyapps.io/SouthCaucasusPresidents/>
--   <https://girishbabu.shinyapps.io/devdataprod-project/>
--   <https://gislator.shinyapps.io/XYtoShapefile/>
--   <https://gjfelix.shinyapps.io/Data_Products_Course_Project/>
--   <https://gjm112.shinyapps.io/openWAR/>
--   <https://gmdn.shinyapps.io/shinyK/>
--   <https://gngu.shinyapps.io/seattle_sidewalks/>
--   <https://goaki.shinyapps.io/test/>
--   <https://gobind.shinyapps.io/melbourne_temperature_vs_pedestrians/>
--   <https://gokhan.shinyapps.io/adavis/>
--   <https://gokhan.shinyapps.io/gender/>
--   <https://goldin.shinyapps.io/Search_Pepys/>
--   <https://gomamn.shinyapps.io/app-1/>
--   <https://grattan.shinyapps.io/all-complications-should-count/>
--   <https://graves-vanderbilt.shinyapps.io/regtomean/>
--   <https://graves-vanderbilt.shinyapps.io/subsidy-comparison/>
--   <https://greensway.shinyapps.io/ignapp-v08/>
--   <https://gregbehm.shinyapps.io/titanic/>
--   <https://gregbehm.shinyapps.io/twodice/>
--   <https://gregrousell.shinyapps.io/CSSE_Map/>
--   <https://gregway.shinyapps.io/pancan_plotter/>
--   <https://gtcym.shinyapps.io/genjiapp/>
--   <https://guanzy.shinyapps.io/trafficcare2/>
--   <https://guilleatt.shinyapps.io/shiny_app_project_montecarlo/>
--   <https://gulraiz.shinyapps.io/financialecon/>
--   <https://gutt.shinyapps.io/fpmaps/>
--   <https://gutt.shinyapps.io/usabortionaccess/>
--   <https://gutta.shinyapps.io/MedicarePayments/>
--   <https://guttal.shinyapps.io/ewsfinance/>
--   <https://gvincke.shinyapps.io/beprmap/>
--   <https://hadley.shinyapps.io/14-ggvis/>
--   <https://hadley.shinyapps.io/14-pipelines/>
--   <https://hadley.shinyapps.io/cran-downloads/>
--   <https://hadley.shinyapps.io/eggnogr/>
--   <https://hadley.shinyapps.io/jobs/>
--   <https://hadley.shinyapps.io/neiss-explorer/>
--   <https://halake-kumar.shinyapps.io/cricket_dashboard/>
--   <https://halhen.shinyapps.io/2016-08-27-spelrisk/>
--   <https://hambue.shinyapps.io/CL_Draw_16_17/>
--   <https://hammadsheikh.shinyapps.io/PlottingTerrorism/>
--   <https://hanifsamad.shinyapps.io/household-typology-test/>
--   <https://hanifsamad.shinyapps.io/household-typology/>
--   <https://hannahweeks.shinyapps.io/simpleapp/>
--   <https://hansonwu.shinyapps.io/stocks/>
--   <https://haozhu233.shinyapps.io/rstudio_addins_on_cran/>
--   <https://hapit.shinyapps.io/HAPIT/>
--   <https://harlanh.shinyapps.io/flic_surveys/>
--   <https://harlanh.shinyapps.io/OurDCSchoolsWeb/>
--   <https://harless.shinyapps.io/PhillipsCurveApp/>
--   <https://haschke.shinyapps.io/PTS-App/>
--   <https://hatch113.shinyapps.io/bayesian_net_calc/>
--   <https://hatch113.shinyapps.io/hof_calc_app_rb/>
--   <https://hatch113.shinyapps.io/hof_calc_app/>
--   <https://hatch113.shinyapps.io/player_proj_app/>
--   <https://hatch113.shinyapps.io/Survivor_Optimization_App/>
--   <https://hatch113g.shinyapps.io/bayesian_net_calc/>
--   <https://hayle.shinyapps.io/FootVHeight/>
--   <https://hayle.shinyapps.io/tallfeet/>
--   <https://hdoran.shinyapps.io/openAnalysis/>
--   <https://he23.shinyapps.io/nem_dashboard/>
--   <https://healthyhive.shinyapps.io/ReadmissionAndRatingApp/>
--   <https://heartcenter.shinyapps.io/PROMISE_Minimal_Risk_Tool/>
--   <https://hei-soga.shinyapps.io/globalBurden/>
--   <https://helenhh.shinyapps.io/chicagoSnowApp/>
--   <https://herchu.shinyapps.io/ddp-project/>
--   <https://herchu.shinyapps.io/shinytextpredict/>
--   <https://herimanitra.shinyapps.io/dashboard/>
--   <https://herimanitra.shinyapps.io/myrcharts0/>
--   <https://herimanitra.shinyapps.io/presentation/>
--   <https://hermes475.shinyapps.io/newplotconditional/>
--   <https://hetmanb.shinyapps.io/EpiQuant/>
--   <https://histpat.shinyapps.io/HistPat/>
--   <https://hitesh-mistry-systemsforecasting.shinyapps.io/Lending_Club_App_v1/>
--   <https://hiteshtulsani.shinyapps.io/Next-Word-Prediction/>
--   <https://hiteshtulsani.shinyapps.io/Simulating-Sampling-Distributions/>
--   <https://hjms.shinyapps.io/deployment_app/>
--   <https://hlynur.shinyapps.io/loftgaedi/>
--   <https://hmiyake.shinyapps.io/data-pkg-prj/>
--   <https://hnhenk10.shinyapps.io/sentiment-visualization-us-dataset/>
--   <https://hoganhaben.shinyapps.io/JFL_ChinaRoots_Traits/>
--   <https://hollander.shinyapps.io/2017-5-Philly-Primary/>
--   <https://hollander.shinyapps.io/pa-vote-explorer/>
--   <https://homer.shinyapps.io/sim_tutorial_Rmd/>
--   <https://hoofay.shinyapps.io/eplpredictions/>
--   <https://hoog10hk.shinyapps.io/Random_Color_Generator/>
--   <https://hoopsdb.shinyapps.io/scoutr/>
--   <https://hort-science.shinyapps.io/ChillCalculator/>
--   <https://houssein-assaad.shinyapps.io/TwoWayANOVA/>
--   <https://houston.shinyapps.io/potholes/>
--   <https://hoxom.shinyapps.io/advrquiz/>
--   <https://hoxom.shinyapps.io/BoketePlayer/>
--   <https://hoxom.shinyapps.io/heartofr/>
--   <https://hoxom.shinyapps.io/ShinyAppTest/>
--   <https://hrbrmstr.shinyapps.io/ggvis-maps/>
--   <https://hrbrmstr.shinyapps.io/shinysnowfall/>
--   <https://hrcamilo.shinyapps.io/HRFirstDevDatProd_Normal/>
--   <https://hsiehlab.shinyapps.io/shinyApp/>
--   <https://huck.shinyapps.io/twitter/>
--   <https://hugh.shinyapps.io/chicago/>
--   <https://hunterratliff1.shinyapps.io/Texas_Health_Professions/>
--   <https://hussnain.shinyapps.io/EnergyEfficiency_Classification/>
--   <https://iainharlow.shinyapps.io/SoccerRanks/>
--   <https://ianwells.shinyapps.io/harvey-ses-layers/>
--   <https://ibanezplayer.shinyapps.io/CarDesign/>
--   <https://ibmdatascience.shinyapps.io/SparkSummitDemo/>
--   <https://ibombonato.shinyapps.io/poker-variance-app/>
--   <https://icarda.shinyapps.io/devdataprod-005/>
--   <https://icgordon.shinyapps.io/DataProducts/>
--   <https://idcdlab.shinyapps.io/justscatterplot-app/>
--   <https://idlab.shinyapps.io/Build-A-Bayes/>
--   <https://idosdba.shinyapps.io/nextWordApp/>
--   <https://ieconometrics.shinyapps.io/test/>
--   <https://iheart.shinyapps.io/ShinyBuilder/>
--   <https://ihstevenson.shinyapps.io/sample_means/>
--   <https://ijlyttle.shinyapps.io/boxplot/>
--   <https://ijlyttle.shinyapps.io/ggvis_layer_image/>
--   <https://ijlyttle.shinyapps.io/isugg_ggvis_shiny/>
--   <https://ikisarmiento.shinyapps.io/Logits/>
--   <https://ikorneta.shinyapps.io/ebola/>
--   <https://ikorneta.shinyapps.io/ExpApp/>
--   <https://ikshot.shinyapps.io/book_price_predict/>
--   <https://iloveshorttrack.shinyapps.io/shorttrackH2H_women/>
--   <https://iloveshorttrack.shinyapps.io/shorttrackH2H/>
--   <https://ilssc.shinyapps.io/crime_pred/>
--   <https://inequalities.shinyapps.io/simulation/>
--   <https://inequalities2.shinyapps.io/simulation/>
--   <https://inferencelab.shinyapps.io/exponential_discounting_demo/>
--   <https://inferencelab.shinyapps.io/hyperbolic_discounting_demo/>
--   <https://inia.shinyapps.io/FENOSoja/>
--   <https://internal.shinyapps.io/bengapple/>
--   <https://internal.shinyapps.io/demo/>
--   <https://internal.shinyapps.io/fwdthinking/>
--   <https://internal.shinyapps.io/gallery/>
--   <https://internal.shinyapps.io/gallery/rioweb/>
--   <https://internal.shinyapps.io/johnson/>
--   <https://internal.shinyapps.io/jstat/dash/>
--   <https://internal.shinyapps.io/micasagroup/>
--   <https://internal.shinyapps.io/quantcompany/pobreza-en-guatemala/>
--   <https://internal.shinyapps.io/randommonkey/custom_lsv_tancerca_tanlejos_bma/>
--   <https://internal.shinyapps.io/randommonkey/custom_lsv_tancerca_tanlejos_bog/>
--   <https://internal.shinyapps.io/randommonkey/custom_lsv_tancerca_tanlejos_med/>
--   <https://internal.shinyapps.io/vnijs/>
--   <https://internal.shinyapps.io/z-frm/>
--   <https://internal.shinyapps.io/zmsgnk/type_decision_tree/>
--   <https://internetrepublica.shinyapps.io/shinySC/>
--   <https://inudaiskii.shinyapps.io/Project_Iris/>
--   <https://iphc.shinyapps.io/MSAB/>
--   <https://ipwenergy.shinyapps.io/preferences/>
--   <https://ipwizard.shinyapps.io/ProgressPie/>
--   <https://irjerad.shinyapps.io/final/>
--   <https://irlo.shinyapps.io/stocks/>
--   <https://ironholds.shinyapps.io/WhereInTheWorldIsWikipedia/>
--   <https://ismay.shinyapps.io/ProbApp/>
--   <https://isogloss.shinyapps.io/isogloss/>
--   <https://istats.shinyapps.io/Association_Categorical/>
--   <https://istats.shinyapps.io/EDA_categorical/>
--   <https://istats.shinyapps.io/EDA_quantitative/>
--   <https://istats.shinyapps.io/guesscorr/>
--   <https://istats.shinyapps.io/LinearRegression/>
--   <https://istats.shinyapps.io/MeanvsMedian/>
--   <https://istats.shinyapps.io/NormalDist/>
--   <https://istats.shinyapps.io/power/>
--   <https://istats.shinyapps.io/RandomNumbers/>
--   <https://istats.shinyapps.io/SampDist_discrete/>
--   <https://itpiet.shinyapps.io/bagels/>
--   <https://ivalette.shinyapps.io/LastProject/>
--   <https://iyermobile.shinyapps.io/NextWordPrediction/>
--   <https://jackman.shinyapps.io/closeSeats/>
--   <https://jackman.shinyapps.io/sportsbet2016/>
--   <https://jacobemerick.shinyapps.io/life-expectancy/>
--   <https://jaeddy.shinyapps.io/shinyapp/>
--   <https://jafec.shinyapps.io/Final/>
--   <https://jakewestfall.shinyapps.io/crossedpower/>
--   <https://jakewestfall.shinyapps.io/pangea/>
--   <https://jakewestfall.shinyapps.io/two_factor_power/>
--   <https://jalapic.shinyapps.io/basicstats/>
--   <https://jalapic.shinyapps.io/cricket/>
--   <https://jalapic.shinyapps.io/dynamiclines/>
--   <https://jalapic.shinyapps.io/engsoccerbeta/>
--   <https://jalapic.shinyapps.io/gamebygame/>
--   <https://jalapic.shinyapps.io/golf/>
--   <https://jalapic.shinyapps.io/interactivelines/>
--   <https://jalapic.shinyapps.io/music/>
--   <https://jalapic.shinyapps.io/nhlelo/>
--   <https://jalapic.shinyapps.io/pubs/>
--   <https://jalapic.shinyapps.io/soccerteams/>
--   <https://james-thorson.shinyapps.io/FishViz/>
--   <https://james-thorson.shinyapps.io/shiny/>
--   <https://jamescummings.shinyapps.io/my_test_shiny_app/>
--   <https://jamesledoux.shinyapps.io/fg-models/>
--   <https://jamesware.shinyapps.io/alleleFrequencyApp/>
--   <https://jamiesamson.shinyapps.io/Sentimine/>
--   <https://janhoo.shinyapps.io/arcticcritter/>
--   <https://janhove.shinyapps.io/false_positive_psychology/>
--   <https://jannemarielaursen.shinyapps.io/T2D_Predictor/>
--   <https://jasminedumas.shinyapps.io/hartford-crime/>
--   <https://jasonajones73.shinyapps.io/acsCounty/>
--   <https://jayenaar.shinyapps.io/eGFR_Calculator/>
--   <https://jaylamb20.shinyapps.io/FREDHEAD/>
--   <https://jaylkim.shinyapps.io/Multiplicity/>
--   <https://jbjares.shinyapps.io/sifemShinyModule/>
--   <https://jbrant.shinyapps.io/1996CensusApp/>
--   <https://jbw2.shinyapps.io/code/>
--   <https://jbw2.shinyapps.io/mrpup-app/>
--   <https://jcalejero.shinyapps.io/nfl_2016_dashboard/>
--   <https://jcarroll.shinyapps.io/AUelection2016/>
--   <https://jcheng.shinyapps.io/choropleth/>
--   <https://jcheng.shinyapps.io/choropleth2/>
--   <https://jcheng.shinyapps.io/choropleth3/>
--   <https://jcheng.shinyapps.io/crandash/>
--   <https://jcheng.shinyapps.io/kmeans/>
--   <https://jcheng.shinyapps.io/mclust/>
--   <https://jcheng.shinyapps.io/superzip/>
--   <https://jcizel87.shinyapps.io/RiskWeightMonitor/>
--   <https://jcllorente.shinyapps.io/DevDataProject/>
--   <https://jcohensolal.shinyapps.io/JCSWordPredictor/>
--   <https://jcohensolal.shinyapps.io/NBAStatsExplorer/>
--   <https://jcp1016.shinyapps.io/indeedoor/>
--   <https://jcpistell.shinyapps.io/Earthquakes/>
--   <https://jcrodriguez.shinyapps.io/shinyWYSIWYG/>
--   <https://jcvd.shinyapps.io/MyApp1/>
--   <https://jddavis.shinyapps.io/FinalAppPolioData/>
--   <https://jdgallagher.shinyapps.io/seasonStats/>
--   <https://jdoi.shinyapps.io/LCO-CI/>
--   <https://jedau.shinyapps.io/DevDataProd007-Proj/>
--   <https://jeffgswanson.shinyapps.io/jeffRankings/>
--   <https://jeffheaton.shinyapps.io/shiny/>
--   <https://jefworks.shinyapps.io/NAMCShiny/>
--   <https://jemus42.shinyapps.io/tRakt/>
--   <https://jeopardy-win-probability.shinyapps.io/jwp-app/>
--   <https://jepa.shinyapps.io/marmetadatamexeng/>
--   <https://jepa.shinyapps.io/marmetadatamexesp/>
--   <https://jepusto.shinyapps.io/ARPsimulator/>
--   <https://jerryaoverton.shinyapps.io/App-1/>
--   <https://jescoyle.shinyapps.io/seals/>
--   <https://jessesadler.shinyapps.io/dvdm-correspondence/>
--   <https://jester.shinyapps.io/jovial/>
--   <https://jflanagan.shinyapps.io/shiny/>
--   <https://jgabry.shinyapps.io/gibbs_shiny/>
--   <https://jgabry.shinyapps.io/shinyStan_demo/>
--   <https://jgamblin.shinyapps.io/topdomains/>
--   <https://jhonasttan.shinyapps.io/citibikeanalysis/>
--   <https://jhongajardo.shinyapps.io/Script_RMarkdown_Prueba_OMDS/>
--   <https://jhubiostatistics.shinyapps.io/Biostatistics_Review_Times/>
--   <https://jhubiostatistics.shinyapps.io/cast_spells/>
--   <https://jhubiostatistics.shinyapps.io/drawyourprior/>
--   <https://jhubiostatistics.shinyapps.io/papr/>
--   <https://jhubiostatistics.shinyapps.io/papr/?state=ZOvhjHhksGKn6nVzIkUE&code=4/>
--   <https://jhubiostatistics.shinyapps.io/recount/>
--   <https://jhubiostatistics.shinyapps.io/shinycsv/>
--   <https://jianhua.shinyapps.io/powerplants/>
--   <https://jiashenliu.shinyapps.io/NBAShotChart/>
--   <https://jiddualexander.shinyapps.io/junction_app/>
--   <https://jing-zen-garden.shinyapps.io/networkgraph/>
--   <https://jinsmeme.shinyapps.io/training_console_sample/>
--   <https://jinsmeme.shinyapps.io/training_console/>
--   <https://jiristepan.shinyapps.io/HyperLoserovac/>
--   <https://jjallaire.shinyapps.io/keras-customer-churn/>
--   <https://jjallaire.shinyapps.io/shiny-crandash/>
--   <https://jjallaire.shinyapps.io/shiny-ggplot2-diamonds/>
--   <https://jjara.shinyapps.io/PCor/>
--   <https://jjdblast.shinyapps.io/BMICAL/>
--   <https://jjmerelo.shinyapps.io/github-data-explorer/>
--   <https://jjmerelo.shinyapps.io/province-data-explorer/>
--   <https://jjmullz.shinyapps.io/causal-impact/>
--   <https://jkaupp.shinyapps.io/52vis_Homeless/>
--   <https://jlsumner.shinyapps.io/electoralrules/>
--   <https://jlsumner.shinyapps.io/syllabustool/>
--   <https://jmarshall.shinyapps.io/fexplore/>
--   <https://jmarshall.shinyapps.io/marginswing/>
--   <https://jmarshall.shinyapps.io/propdiff/>
--   <https://jmarshall.shinyapps.io/shiny/>
--   <https://jmarshall.shinyapps.io/tax_rates/>
--   <https://jmichaelrosenberg.shinyapps.io/railtrails/>
--   <https://jmichaelrosenberg.shinyapps.io/SETHs/>
--   <https://jmichaelrosenberg.shinyapps.io/shinykonfound/>
--   <https://jmprietob.shinyapps.io/el_tiempo/>
--   <https://jmprietob.shinyapps.io/eltiempo/>
--   <https://jmprietob.shinyapps.io/meteo/>
--   <https://jmrb.shinyapps.io/ShinyApp/>
--   <https://joan-albert-erraez.shinyapps.io/Leaflet/>
--   <https://joao.shinyapps.io/cranExplr/>
--   <https://jobonaf.shinyapps.io/collegi2018/>
--   <https://jodyabney.shinyapps.io/Personal_Fitbit_Data_Explorer/>
--   <https://joejansen.shinyapps.io/citi-bike-data-with-rCharts/>
--   <https://joejansen.shinyapps.io/nba-franchise-WS-charts/>
--   <https://joelalcedo.shinyapps.io/JoelShinyProject/>
--   <https://joelmoore.shinyapps.io/class_group_app/>
--   <https://joereads.shinyapps.io/CapstoneApp2/>
--   <https://joeshannon.shinyapps.io/efflux/>
--   <https://jofrhwld.shinyapps.io/referendum/>
--   <https://johnakwei1.shinyapps.io/CourseProject/>
--   <https://johnakwei1.shinyapps.io/SafetyClinicApp/>
--   <https://johnakwei1.shinyapps.io/Venture_Capital_Dashboard/>
--   <https://johnbradford.shinyapps.io/policeshooting/>
--   <https://johnlray.shinyapps.io/pD_app/>
--   <https://johnpaul.shinyapps.io/VegShiny/>
--   <https://johnricco.shinyapps.io/cdfs/>
--   <https://johnricco.shinyapps.io/Housing/>
--   <https://johnricco.shinyapps.io/metro_walksheds/>
--   <https://johnrroby.shinyapps.io/NY-Influence/>
--   <https://johnson.shinyapps.io/burn-hurt/>
--   <https://johnyagecic.shinyapps.io/AEMRExplorerShinyApp/>
--   <https://johnyagecic.shinyapps.io/AgeStructureShiny/>
--   <https://johnyagecic.shinyapps.io/BoatRunExplorer/>
--   <https://johnyagecic.shinyapps.io/ManningsConverterApp/>
--   <https://johnyagecic.shinyapps.io/ManningsMC/>
--   <https://johnyagecic.shinyapps.io/Overplots/>
--   <https://johnyagecic.shinyapps.io/SolarEnergyMC/>
--   <https://jolandakos.shinyapps.io/NetworkApp/>
--   <https://jolars.shinyapps.io/eulerr/>
--   <https://jonathanbouchet.shinyapps.io/visualization_transport_system/>
--   <https://jonesaw4.shinyapps.io/Coon_Fish_Explorer/>
--   <https://jonnypolonsky.shinyapps.io/HeRAMS_shiny/>
--   <https://jordan-mackie.shinyapps.io/TT_pacing/>
--   <https://jordanmeyer.shinyapps.io/nyt-bar-optimizer/>
--   <https://jorjial.shinyapps.io/atur/>
--   <https://jorjial.shinyapps.io/deute/>
--   <https://josearuiperez.shinyapps.io/Word_cloud_generator_wikipedia/>
--   <https://josephdeleon.shinyapps.io/ImproveDetroit/>
--   <https://joseppuig.shinyapps.io/shinyCEO/>
--   <https://josh-kalla.shinyapps.io/simple_shiny_randomization/>
--   <https://josh-yazman.shinyapps.io/dem-primary-tracker/>
--   <https://josh-yazman.shinyapps.io/my_first_app/>
--   <https://josh-yazman.shinyapps.io/ncaa-predictions/>
--   <https://josh-yazman.shinyapps.io/un-general-debate-ngram-viewer/>
--   <https://josh-yazman.shinyapps.io/vpap-new-sentiments/>
--   <https://joshuaadampoirier.shinyapps.io/igrf/>
--   <https://joyofdata.shinyapps.io/hclust-shiny/>
--   <https://jozhao.shinyapps.io/brewery-explorer/>
--   <https://jpaulson.shinyapps.io/helpmeviz-malnutrition/>
--   <https://jpaulson.shinyapps.io/helpmeviz/>
--   <https://jpbournas.shinyapps.io/TxtPrediction/>
--   <https://jpchamps.shinyapps.io/test_big5/>
--   <https://jpf5046.shinyapps.io/DallasApp/>
--   <https://jpf5046.shinyapps.io/HeismanCompare/>
--   <https://jplcva.shinyapps.io/Developing-Data-Products-Course-Project/>
--   <https://jrcunning.shinyapps.io/RcoralDEB/>
--   <https://jrnew.shinyapps.io/sfhip-app/>
--   <https://jroberayalas.shinyapps.io/DataProducts_ShinyApp/>
--   <https://js-tutorial.shinyapps.io/BasicDemoIntroJS/>
--   <https://jsbrava.shinyapps.io/shinyproject/>
--   <https://jscarlton.shinyapps.io/climate_belief_maps/>
--   <https://jschoeley.shinyapps.io/hmdexp/>
--   <https://jshreyas.shinyapps.io/plot/>
--   <https://jsohi.shinyapps.io/Zip-City/>
--   <https://jssteele.shinyapps.io/CentralLimitTheorem/>
--   <https://jssteele.shinyapps.io/ContiuousInteractions/>
--   <https://jtannen.shinyapps.io/gop_proposal_20170209/>
--   <https://jtannen.shinyapps.io/pa_congressional_redistricting/>
--   <https://jtannen.shinyapps.io/pa_state_elections/>
--   <https://jtuimala.shinyapps.io/veRotosite/>
--   <https://juaparal.shinyapps.io/project_develdataprod/>
--   <https://juba.shinyapps.io/scatterD3_shiny_app/>
--   <https://julia-wrobel.shinyapps.io/airbnb_dashboard/>
--   <https://juliasilge.shinyapps.io/cape_town_dashboard/>
--   <https://juliasilge.shinyapps.io/population_app/>
--   <https://juliasilge.shinyapps.io/power-app/>
--   <https://juliasilge.shinyapps.io/PredictNamesApp/>
--   <https://juliasilge.shinyapps.io/survey2016/>
--   <https://juliasilge.shinyapps.io/WaterMapApp/>
--   <https://juliomulero.shinyapps.io/correlacion/>
--   <https://juliomulero.shinyapps.io/histogramas/>
--   <https://juliomulero.shinyapps.io/Micro/>
--   <https://juliomulero.shinyapps.io/micro2/>
--   <https://juliomulero.shinyapps.io/microrrelatos/>
--   <https://juliomulero.shinyapps.io/problemas/>
--   <https://justastemp.shinyapps.io/shiny_app/>
--   <https://justinchu.shinyapps.io/MovieLens-app/>
--   <https://justmarkham.shinyapps.io/babynames/>
--   <https://jvadams.shinyapps.io/StatusGraphsApp/>
--   <https://jvadams.shinyapps.io/StreamShot/>
--   <https://jvcasill.shinyapps.io/shiny_bivariate_regression/>
--   <https://jvcasill.shinyapps.io/shiny_crossOver/>
--   <https://jvcasill.shinyapps.io/shiny_distinctiveFeatures/>
--   <https://jvcasill.shinyapps.io/shiny_power/>
--   <https://jwhendy.shinyapps.io/transpo-exploration/>
--   <https://jwtierney-nba-data.shinyapps.io/shiny_app/>
--   <https://jwwanalytics.shinyapps.io/Sport_Difficulty/>
--   <https://jxieds.shinyapps.io/Capstone_ShinyApp/>
--   <https://kalilu.shinyapps.io/prison_break/>
--   <https://kamecon.shinyapps.io/eurodatos/>
--   <https://kamermanpr.shinyapps.io/sa-mortality-data/>
--   <https://kamilgregor.shinyapps.io/czech_voters_transitions/>
--   <https://kamilgregor.shinyapps.io/eu_pollster/>
--   <https://kamilgregor.shinyapps.io/roman_empire/>
--   <https://kamilgregor.shinyapps.io/shiny-iframe-explorer/>
--   <https://kanishka.shinyapps.io/popyr/>
--   <https://kanudutta.shinyapps.io/EnergyPrediction/>
--   <https://kapoorabhishek.shinyapps.io/Factoranalysis/>
--   <https://kaquilino.shinyapps.io/DataProductsProject/>
--   <https://karawoo.shinyapps.io/gas-mileage/>
--   <https://karthikd.shinyapps.io/biasinlinguistics/>
--   <https://karthikdurvasula.shinyapps.io/Severity_Calculator/>
--   <https://karthikdurvasula.shinyapps.io/severity_power_pvalues/>
--   <https://kasperskytte.shinyapps.io/shinyampvis/>
--   <https://katherinemwood.shinyapps.io/lakens_effect_sizes/>
--   <https://katrin.shinyapps.io/HNSCCmodel/>
--   <https://kaushiklakshman.shinyapps.io/very_solid_dashboard/>
--   <https://kaz-yos.shinyapps.io/hackebola/>
--   <https://kaz-yos.shinyapps.io/shiny/>
--   <https://kaz-yos.shinyapps.io/ShinyDistributionsApp/>
--   <https://kcvi.shinyapps.io/START/>
--   <https://kdatascience.shinyapps.io/Fitbit_Analytics/>
--   <https://kdvdecisionanalysis.shinyapps.io/TODD_UWhunger/>
--   <https://kdvprivate.shinyapps.io/Costanza_Publish_20160811/>
--   <https://kecc.shinyapps.io/SurvivalCalculator/>
--   <https://keithgw.shinyapps.io/Hello-Shiny/>
--   <https://keithgw.shinyapps.io/VoterTurnout/>
--   <https://kenahrens.shinyapps.io/project/>
--   <https://kenniajin.shinyapps.io/twitterSayDisease/>
--   <https://kennis-research.shinyapps.io/Bayes-App/>
--   <https://kennis-research.shinyapps.io/ROC-Curves/>
--   <https://kenriceuw.shinyapps.io/SalaryExample/>
--   <https://kevin-brosnan.shinyapps.io/twitteranalysis/>
--   <https://kgilpas.shinyapps.io/ShowofHands/>
--   <https://khturner.shinyapps.io/HashtagISME16/>
--   <https://kiefer.shinyapps.io/NHLapp/>
--   <https://kig-analytics.shinyapps.io/sotm_analytics/>
--   <https://kilimba.shinyapps.io/dataviz/>
--   <https://kill3rbee.shinyapps.io/vFeedCve/>
--   <https://kippdata.shinyapps.io/tidy_tntp_explorer/>
--   <https://kireru1.shinyapps.io/predictive-model/>
--   <https://kissel.shinyapps.io/osf_shinyapp/>
--   <https://kkalyan3.shinyapps.io/GeoVis/>
--   <https://kkimeng.shinyapps.io/IntroToShiny/>
--   <https://klash.shinyapps.io/shinyTreeViewer/>
--   <https://klperez.shinyapps.io/CapstoneProject/>
--   <https://kmkom.shinyapps.io/KolejeMazowieckie/>
--   <https://kohovoliteu.shinyapps.io/eu_pollster/>
--   <https://kohske.shinyapps.io/shinyapp01/>
--   <https://kohske.shinyapps.io/sm01/>
--   <https://kos59125.shinyapps.io/anpanman/>
--   <https://kostakospanos.shinyapps.io/mafia_ny_times/>
--   <https://kpele.shinyapps.io/Lineups-NBA/>
--   <https://kphahn.shinyapps.io/klum/>
--   <https://kramea.shinyapps.io/vehicles/>
--   <https://kristopherdelane.shinyapps.io/voting_record_kyga17/>
--   <https://kruse-alex.shinyapps.io/cdv_final2/>
--   <https://kruse-alex.shinyapps.io/shiny/>
--   <https://krzyslom.shinyapps.io/pracuj/>
--   <https://kscott.shinyapps.io/powerdemo/>
--   <https://ksharma26.shinyapps.io/twitterwordcloud/>
--   <https://ksmzn.shinyapps.io/hoxom-card/>
--   <https://ksmzn.shinyapps.io/statdist/>
--   <https://ktebbe.shinyapps.io/hackathon/>
--   <https://ktupper.shinyapps.io/SLOAPCDWebDataDisplay/>
--   <https://kuansw.shinyapps.io/DDP_Project/>
--   <https://kuberiitb.shinyapps.io/myElectionApp/>
--   <https://kuttyman.shinyapps.io/DCPurchaseOrders/>
--   <https://kvsatyam.shinyapps.io/Appbmi/>
--   <https://ky19900109.shinyapps.io/testapp/>
--   <https://kyktan.shinyapps.io/DevelopingDataProducts_ShinyApp/>
--   <https://kyle765.shinyapps.io/shiny/>
--   <https://kylehamilton.shinyapps.io/MAVIS_v1_0/>
--   <https://kylethomas.shinyapps.io/finance_app/>
--   <https://laborant.shinyapps.io/winequality/>
--   <https://lacistemataceae.shinyapps.io/next-word-prediction/>
--   <https://ladageanurag.shinyapps.io/Regression_Architect/>
--   <https://ladilettante.shinyapps.io/regression_standard_error/>
--   <https://lafona.shinyapps.io/stresstest/>
--   <https://lakens.shinyapps.io/likelihood/>
--   <https://lakens.shinyapps.io/p-curves/>
--   <https://lal-group-test.shinyapps.io/missense_burden_viewer_v0/>
--   <https://lambresearch.shinyapps.io/Lotka_Volterra/>
--   <https://lanagarmiregroup.shinyapps.io/granatum/>
--   <https://lancs.shinyapps.io/ToxBox/>
--   <https://landcare.shinyapps.io/GBS_Atlas/>
--   <https://landcare.shinyapps.io/TrapSim_C2C/>
--   <https://langtest.shinyapps.io/g-theory/>
--   <https://langtest.shinyapps.io/rep-chi/>
--   <https://langtest.shinyapps.io/screenData/>
--   <https://languagevariationsuite.shinyapps.io/Pages/>
--   <https://languagevariationsuite.shinyapps.io/TextMining/>
--   <https://larrydag.shinyapps.io/boardgame_reco/>
--   <https://latishk.shinyapps.io/SFCrime/>
--   <https://laurenrenaud.shinyapps.io/AlleghenyCrashes/>
--   <https://lawsofthought.shinyapps.io/false_discovery/>
--   <https://lawsofthought.shinyapps.io/guardian-league-table-2018/>
--   <https://lawsofthought.shinyapps.io/optional_stopping/>
--   <https://lawsofthought.shinyapps.io/p_hacking/>
--   <https://lawsofthought.shinyapps.io/power_failure/>
--   <https://laynevashro.shinyapps.io/4fPM/>
--   <https://laynevashro.shinyapps.io/coach_cors/>
--   <https://laynevashro.shinyapps.io/coach_nets/>
--   <https://laynevashro.shinyapps.io/comps_intl/>
--   <https://laynevashro.shinyapps.io/comps_nba/>
--   <https://laynevashro.shinyapps.io/comps/>
--   <https://laynevashro.shinyapps.io/preds/>
--   <https://lbenz730.shinyapps.io/assist_networks/>
--   <https://lbenz730.shinyapps.io/ivy_tiebreaks/>
--   <https://lbnlshiny.shinyapps.io/DEMENT/>
--   <https://lcilek.shinyapps.io/ChileCCProj_2005/>
--   <https://lcolladotor.shinyapps.io/materias/>
--   <https://lcolladotor.shinyapps.io/mortgage2/>
--   <https://leafcutter.shinyapps.io/sQTLviz/>
--   <https://lebryant126.shinyapps.io/Beatles_Live_Perfomances/>
--   <https://leehbi.shinyapps.io/Tour/>
--   <https://lenalyticslab.shinyapps.io/counties/>
--   <https://lenalyticslab.shinyapps.io/kenya/>
--   <https://lenalyticslab.shinyapps.io/nkrBaby/>
--   <https://lenwood.shinyapps.io/USArrests/>
--   <https://leofjsa.shinyapps.io/WordPredictor/>
--   <https://lestarr.shinyapps.io/app_swiftkey/>
--   <https://levi.shinyapps.io/Standard_Deviation/>
--   <https://levv-logic.shinyapps.io/dashboard/>
--   <https://lexdaniels.shinyapps.io/Wind/>
--   <https://lgadar.shinyapps.io/Quadratic_equation/>
--   <https://libardo1.shinyapps.io/NavBar/>
--   <https://liberos.shinyapps.io/OneTaste_shiny/>
--   <https://liberos.shinyapps.io/power/>
--   <https://liberos.shinyapps.io/VSS-GSS/>
--   <https://lightpollution.shinyapps.io/spectra/>
--   <https://limno.shinyapps.io/envirodiy_crossroads/>
--   <https://lingani.shinyapps.io/MyDataProductProject/>
--   <https://lingtax.shinyapps.io/PlanningProgressDashboard/>
--   <https://livedataoxford.shinyapps.io/Cultures-of-Knowledge_whole-network/>
--   <https://livedataoxford.shinyapps.io/DesktopItems/>
--   <https://livedataoxford.shinyapps.io/NFLAttendanceRecords/>
--   <https://lizrichardson.shinyapps.io/jets_mince_pie_selector/>
--   <https://llewellynjean.shinyapps.io/MyApp/>
--   <https://lmullen.shinyapps.io/gender-predictor/>
--   <https://loghan.shinyapps.io/Ratings_History/>
--   <https://loghan.shinyapps.io/Season_Projections/>
--   <https://loiyumba.shinyapps.io/Global_Temp/>
--   <https://loiyumba.shinyapps.io/hospital_ranking/>
--   <https://loiyumba.shinyapps.io/National_Hospital_Directory/>
--   <https://longhowlam.shinyapps.io/SCHOOL_CITO/>
--   <https://louisg.shinyapps.io/lit-groups/>
--   <https://lovechristensen.shinyapps.io/svensk_partiopinion/>
--   <https://lpogorelsky.shinyapps.io/EncuestaSalarialDataScientistArgentina2016/>
--   <https://lpogorelsky.shinyapps.io/EncuestaSalarialDataScientistArgentina2017/>
--   <https://lselzer.shinyapps.io/PruebaHipotesis/>
--   <https://lspinheiro.shinyapps.io/swiftkey/>
--   <https://lsteely.shinyapps.io/streamflow_joyplots/>
--   <https://ltlow.shinyapps.io/Next-WordPredictor/>
--   <https://lucy.shinyapps.io/gilmore-guys-predictions/>
--   <https://lucy.shinyapps.io/haiku/>
--   <https://lucy.shinyapps.io/tidy-text-GUI/>
--   <https://luislundquist.shinyapps.io/coursera_capstone/>
--   <https://lumatadigital.shinyapps.io/TwitterSIYapp/>
--   <https://lynch-interactive-animations.shinyapps.io/cec_presentation/>
--   <https://lynch-interactive-animations.shinyapps.io/new_app/>
--   <https://lyricsexplorer.shinyapps.io/lyricsexplorer/>
--   <https://m-ezekiel.shinyapps.io/Markov-Generative-Language-Model/>
--   <https://maayan-lab.shinyapps.io/nasb-microtask-viewer-shiny/>
--   <https://macartan.shinyapps.io/delta_priors/>
--   <https://macartan.shinyapps.io/fish/>
--   <https://macherkime.shinyapps.io/just_to_see/>
--   <https://madziq.shinyapps.io/TWD_Projekt2/>
--   <https://mafap.shinyapps.io/data/>
--   <https://maitray.shinyapps.io/twitter/>
--   <https://maksimhorowitz.shinyapps.io/Shiny2GuardDirectory/>
--   <https://malaria.shinyapps.io/g6pd_screening/>
--   <https://malimosh.shinyapps.io/kindle/>
--   <https://malter61.shinyapps.io/BaseballStats/>
--   <https://malter61.shinyapps.io/gamePredictor/>
--   <https://malter61.shinyapps.io/strikezoneaccuracy/>
--   <https://manaswink.shinyapps.io/SocialMediaPulse/>
--   <https://manavmittal23.shinyapps.io/ShinyApp1/>
--   <https://mandelbrot.shinyapps.io/shiny/>
--   <https://mangothecat.shinyapps.io/Anscombes-Quartet/>
--   <https://mangothecat.shinyapps.io/sasmap/>
--   <https://mannybernabe.shinyapps.io/ShinyApp2/>
--   <https://manuelblancovalentin.shinyapps.io/AirQuality-Data-Analysis-App-v11/>
--   <https://mapologo.shinyapps.io/dp_mapologo/>
--   <https://marceloalvesuff.shinyapps.io/shiny_teste/>
--   <https://marckissel.shinyapps.io/wisdom_database/>
--   <https://marco.shinyapps.io/traffic/>
--   <https://marcosci.shinyapps.io/NLMR_Fractal_Terrain/>
--   <https://marcosfs.shinyapps.io/ideb/>
--   <https://marcosjnez.shinyapps.io/Severity/>
--   <https://marcus.shinyapps.io/bus_simulator/>
--   <https://marcuspaget.shinyapps.io/AusGovInfo/>
--   <https://mariplaza.shinyapps.io/GeoDemographics/>
--   <https://mark.shinyapps.io/bigquery-viz/>
--   <https://mark.shinyapps.io/GA_timeseries/>
--   <https://mark.shinyapps.io/ga-effect/>
--   <https://mark.shinyapps.io/ga-meta/>
--   <https://mark.shinyapps.io/ga-rollup/>
--   <https://mark.shinyapps.io/googleAnalyticsRv4Demo/>
--   <https://mark.shinyapps.io/googleAuthRMarkdown/>
--   <https://mark.shinyapps.io/searchAnalyticsShiny/>
--   <https://mark.shinyapps.io/searchConsoleRDemo/>
--   <https://markbergen-shiny.shinyapps.io/county_data_dashboard_v2/>
--   <https://markewing.shinyapps.io/Hiking_App/>
--   <https://markwolff.shinyapps.io/QMtriplot17C/>
--   <https://marsouin.shinyapps.io/ShinyMarsouin/>
--   <https://masterdatcom2017.shinyapps.io/twitter/>
--   <https://matt321o6.shinyapps.io/developingdataproducts/>
--   <https://matt321o6.shinyapps.io/secnow/>
--   <https://mattbrehmer.shinyapps.io/ShinyFork/>
--   <https://mattcowgill.shinyapps.io/aflfant/>
--   <https://mattfrost.shinyapps.io/insurance_estimator/>
--   <https://mattgibbs.shinyapps.io/MurrayFlows/>
--   <https://matthesecolab.shinyapps.io/mammal-app/>
--   <https://matthewmatix.shinyapps.io/bayesonline/>
--   <https://mattmdedek.shinyapps.io/JHU-DataProductsProject/>
--   <https://mattmills49.shinyapps.io/Point_Diff_Shiny/>
--   <https://mattyreesy.shinyapps.io/Developing-data-product-course-project/>
--   <https://maureen.shinyapps.io/DualProcessROC/>
--   <https://maureen.shinyapps.io/SimpleROC/>
--   <https://maxjacu.shinyapps.io/ConverterString/>
--   <https://maxluke.shinyapps.io/ontarioDemand/>
--   <https://maxshang.shinyapps.io/Farm_Profit_Variability_Simulation/>
--   <https://maxshang.shinyapps.io/sheep/>
--   <https://mbcladwell.shinyapps.io/behavior-epistasis/>
--   <https://mbcladwell.shinyapps.io/fertility/>
--   <https://mbienz.shinyapps.io/labour-market-dashboard_prod/>
--   <https://mbienz.shinyapps.io/tourism_dashboard_prod/>
--   <https://mbienz.shinyapps.io/urban-development-capacity/>
--   <https://mbillig.shinyapps.io/tolkienanalysisapp/>
--   <https://mbolisetty.shinyapps.io/CellView/>
--   <https://mcdickenson.shinyapps.io/ibp-demo/>
--   <https://mcdlee.shinyapps.io/KHCityBike/>
--   <https://mchakrawarthy.shinyapps.io/NutritionApp/>
--   <https://mclapham.shinyapps.io/firstApp/>
--   <https://mcolosso.shinyapps.io/Central_Limit_Theorem/>
--   <https://mconsid3.shinyapps.io/shinyTwitch/>
--   <https://mcpasin.shinyapps.io/WebAnalytics-Dashboard/>
--   <https://mdat.shinyapps.io/DCMetroBus_WaitTimes_20170319/>
--   <https://mdbrown.shinyapps.io/PowerSAM_ncc/>
--   <https://mdbrown.shinyapps.io/PowerSAM/>
--   <https://mdefelice.shinyapps.io/SOLAR-SHINY/>
--   <https://mdlincoln.shinyapps.io/adjacency_plot/>
--   <https://mdpillet.shinyapps.io/LogisticModel/>
--   <https://medh.shinyapps.io/ProjectAppDP/>
--   <https://medhi.shinyapps.io/DevelopingDataProducts/>
--   <https://medhi.shinyapps.io/TwitteR/>
--   <https://meldow.shinyapps.io/Shiny_IRIS/>
--   <https://melissatan.shinyapps.io/word_psychic/>
--   <https://melondonkey.shinyapps.io/riskApp/>
--   <https://mengyingli.shinyapps.io/topicModeling/>
--   <https://metaviz.shinyapps.io/funnelinf_app/>
--   <https://meteoswiss.shinyapps.io/skill_metrics/>
--   <https://metrumrg.shinyapps.io/tdmdosing/>
--   <https://mezz.shinyapps.io/dcuo/>
--   <https://mfoos.shinyapps.io/immunecelltypes/>
--   <https://mfoos.shinyapps.io/shinyresumedemo/>
--   <https://mfviz.shinyapps.io/betChoice/>
--   <https://mfviz.shinyapps.io/test_app/>
--   <https://mfviz.shinyapps.io/traffic_riddle/>
--   <https://mgrbovic.shinyapps.io/NextWordPredictor/>
--   <https://mhahsler-apps.shinyapps.io/Jester/>
--   <https://mhpcenterforhousingdata.shinyapps.io/housingandmigration/>
--   <https://micasagroup.shinyapps.io/nwpgame/>
--   <https://micfm.shinyapps.io/capital_structure_mobile/>
--   <https://micfm.shinyapps.io/intro_duration/>
--   <https://micfm.shinyapps.io/limit_order_book/>
--   <https://micfm.shinyapps.io/loan_term_payment_mobile/>
--   <https://micfm.shinyapps.io/option_intro/>
--   <https://micfm.shinyapps.io/pairs_trade/>
--   <https://micfm.shinyapps.io/risk_future_past/>
--   <https://micfm.shinyapps.io/short_selling_stock_mobile/>
--   <https://micfm.shinyapps.io/uses_monte_carlo_mobile/>
--   <https://micfm.shinyapps.io/what_is_risk/>
--   <https://michaelinkles.shinyapps.io/ShinySTEM/>
--   <https://michaellevy.shinyapps.io/gwdegree/>
--   <https://michaellopez.shinyapps.io/my_app/>
--   <https://michaellopez.shinyapps.io/QBcurves/>
--   <https://michaelstanhope.shinyapps.io/shiny-examples/>
--   <https://michaelstanhope.shinyapps.io/TestApp/>
--   <https://michaud.shinyapps.io/CDCPlot/>
--   <https://michbur.shinyapps.io/AmpSim/>
--   <https://michielkoens.shinyapps.io/Sudoku/>
--   <https://micncltools.shinyapps.io/ClinicalAccuracyAndUtility/>
--   <https://micncltools.shinyapps.io/TestAccuracy/>
--   <https://mifisi.shinyapps.io/AtrialFib/>
--   <https://mifisi.shinyapps.io/HeartFailure/>
--   <https://mikabr.shinyapps.io/cambridge/>
--   <https://mikabr.shinyapps.io/names/>
--   <https://mikaelhuss.shinyapps.io/ExploreAllenBrainRNASeq/>
--   <https://mikaelhuss.shinyapps.io/sthlm_temperatures/>
--   <https://mikaelhuss.shinyapps.io/SwedishTwitterCommunities/>
--   <https://mikebirdgeneau.shinyapps.io/ABVotes_2015/>
--   <https://mikebirdgeneau.shinyapps.io/BabyPredictor/>
--   <https://mikebirdgeneau.shinyapps.io/Digital_Elevation_Light/>
--   <https://mikegros.shinyapps.io/ufr_analysis/>
--   <https://mikerspencer.shinyapps.io/Manning/>
--   <https://mikesilva.shinyapps.io/movie-recommender/>
--   <https://mikewk.shinyapps.io/correlation_game/>
--   <https://mikewk.shinyapps.io/mikelectplot/>
--   <https://mikeyharper.shinyapps.io/windturbinemap/>
--   <https://mile.shinyapps.io/Ebola_Sim/>
--   <https://mile.shinyapps.io/final_project/>
--   <https://mile.shinyapps.io/SPBWDL_Drawing_Ideas/>
--   <https://minhealthnz.shinyapps.io/nz-health-survey-2015-16-annual-update/>
--   <https://minhealthnz.shinyapps.io/nz-health-survey-2015-16-tier-1/>
--   <https://minhealthnz.shinyapps.io/nz-health-survey-2016-17-annual-data-explorer/_w_1dd6edea/#!/>
--   <https://minhealthnz.shinyapps.io/nz-health-survey-2016-17-annual-data-explorer/_w_9d544048/#!/>
--   <https://minhealthnz.shinyapps.io/nz-health-survey-2016-17-annual-data-explorer/_w_cfff53c3/#!/>
--   <https://minhealthnz.shinyapps.io/nz-health-survey-2016-17-tier-1/>
--   <https://miningchi2.shinyapps.io/chicrime/>
--   <https://miningchi2.shinyapps.io/redlight/>
--   <https://miproblems.shinyapps.io/milembed/>
--   <https://miqdadasaria.shinyapps.io/brexit/>
--   <https://miqdadasaria.shinyapps.io/ccg_equity/>
--   <https://missaugustina.shinyapps.io/mad_libs/>
--   <https://mitchki.shinyapps.io/project/>
--   <https://mjpascual.shinyapps.io/1030_lecture/>
--   <https://mjwestgate.shinyapps.io/ecoterms/>
--   <https://mkarp94.shinyapps.io/DataProduct/>
--   <https://mkiang.shinyapps.io/DiseaseDynamics/>
--   <https://mldschry.shinyapps.io/JPL_Shiny/>
--   <https://mlewis.shinyapps.io/lnhBrowser/>
--   <https://mmathur.shinyapps.io/evalue/>
--   <https://mmcbee.shinyapps.io/optimal_identification/>
--   <https://mmiah.shinyapps.io/raman_spectroscopy/>
--   <https://mnicola76.shinyapps.io/titanic/>
--   <https://modernkris.shinyapps.io/00_ClassProject-Submittals/>
--   <https://momobo-coursera.shinyapps.io/DDP_Project/>
--   <https://monash-biostat.shinyapps.io/NonUniformCorrelation/>
--   <https://monex.shinyapps.io/expertus/>
--   <https://monkmanmh.shinyapps.io/MLBrunscoring_shiny/>
--   <https://monsoro-lab-ectomap.shinyapps.io/EctoMAP/>
--   <https://montanemartin.shinyapps.io/jubilaciones/>
--   <https://moppettsmusings.shinyapps.io/hip_fracture/_w_6de1e6c0/>
--   <https://moral.shinyapps.io/MSTgraphics/>
--   <https://morgan.shinyapps.io/utility_calculator/>
--   <https://morgan.shinyapps.io/utility/>
--   <https://morganjacobus.shinyapps.io/MARTA_Bus_Finder/>
--   <https://mounabelaid.shinyapps.io/application/>
--   <https://mounabelaid.shinyapps.io/twittersentimentanalysis/>
--   <https://movethevote.shinyapps.io/movethevote/>
--   <https://mpodell.shinyapps.io/goal_inspector/>
--   <https://mppearson1.shinyapps.io/10bn/>
--   <https://mrd4.shinyapps.io/track/>
--   <https://mridulj.shinyapps.io/assignment/>
--   <https://mrooijer.shinyapps.io/graphic/>
--   <https://mroutley.shinyapps.io/CapitalStocksFlows/>
--   <https://mroutley.shinyapps.io/public_sector_employment/>
--   <https://mrpredicts.shinyapps.io/RRRR/>
--   <https://mrunadon.shinyapps.io/animetwitter/>
--   <https://mrunadon.shinyapps.io/exgaussian/>
--   <https://mryap.shinyapps.io/learn_r-markdown/>
--   <https://mshea.shinyapps.io/lifescores/>
--   <https://mtaufeeq.shinyapps.io/Project/>
--   <https://muller-gaetan.shinyapps.io/cugn_v1/>
--   <https://muon-stat.shinyapps.io/dieselgate/>
--   <https://muranga.shinyapps.io/dataton17_m30int/>
--   <https://murilofm.shinyapps.io/App-1/>
--   <https://muschellij2.shinyapps.io/ENAR_2014/>
--   <https://muschellij2.shinyapps.io/ENAR_Over_Time/>
--   <https://muuankarski.shinyapps.io/valiajat/>
--   <https://mvonderlieth.shinyapps.io/ddp_09/>
--   <https://Myleith.shinyapps.io/myedinburgh/>
--   <https://mytinyshinys.shinyapps.io/bundesliga/>
--   <https://mytinyshinys.shinyapps.io/clickweatherus2/>
--   <https://mytinyshinys.shinyapps.io/cranlogsFlexDB/>
--   <https://mytinyshinys.shinyapps.io/dashboard/>
--   <https://mytinyshinys.shinyapps.io/divisionRaces/>
--   <https://mytinyshinys.shinyapps.io/earthtonesFlexDB/>
--   <https://mytinyshinys.shinyapps.io/eplLatest/>
--   <https://mytinyshinys.shinyapps.io/ggthemesDB/>
--   <https://mytinyshinys.shinyapps.io/githubAnalyses/>
--   <https://mytinyshinys.shinyapps.io/goodCountry/>
--   <https://mytinyshinys.shinyapps.io/guestApps/>
--   <https://mytinyshinys.shinyapps.io/mediaHeadlines/>
--   <https://mytinyshinys.shinyapps.io/mlbFlexDB/>
--   <https://mytinyshinys.shinyapps.io/musicChartsFlexDB/>
--   <https://mytinyshinys.shinyapps.io/nbaCharts/>
--   <https://mytinyshinys.shinyapps.io/OECD/>
--   <https://mytinyshinys.shinyapps.io/premierLeague/>
--   <https://mytinyshinys.shinyapps.io/quiltFlexDB/>
--   <https://mytinyshinys.shinyapps.io/rpubs/>
--   <https://mytinyshinys.shinyapps.io/seriea/>
--   <https://mytinyshinys.shinyapps.io/shotCharts/>
--   <https://mytinyshinys.shinyapps.io/socioEconomicBlog/>
--   <https://mytinyshinys.shinyapps.io/sportsBlog/>
--   <https://mytinyshinys.shinyapps.io/spotifyFlexDB/>
--   <https://mytinyshinys.shinyapps.io/spotifyShiny/>
--   <https://mytinyshinys.shinyapps.io/stackOverflowFlexDB/>
--   <https://mytinyshinys.shinyapps.io/statsCanFlexDB/>
--   <https://mytinyshinys.shinyapps.io/supremecourtFlexDB/>
--   <https://mytinyshinys.shinyapps.io/user2016FlexDB/>
--   <https://mytinyshinys.shinyapps.io/wikipedia/>
--   <https://mytinyshinys.shinyapps.io/wordCloud/>
--   <https://mytinyshinys.shinyapps.io/worldBank/>
--   <https://mytinyshinys.shinyapps.io/worldSoccer/>
--   <https://nabi.shinyapps.io/RecommenadtionEngine/>
--   <https://najkoja.shinyapps.io/hybridoa/>
--   <https://nameprediction.shinyapps.io/namepred/>
--   <https://nandha.shinyapps.io/espnApp/>
--   <https://nanx.shinyapps.io/imgsvd/>
--   <https://nanx.shinyapps.io/signify/>
--   <https://nate.shinyapps.io/DSCapstone/>
--   <https://nathanday.shinyapps.io/CrimeCast/>
--   <https://natydasilva.shinyapps.io/shiny_msq/>
--   <https://natydasilva.shinyapps.io/shinyV03/>
--   <https://nazareno.shinyapps.io/minha-cidade/>
--   <https://ndasilva.shinyapps.io/shiny-pov/>
--   <https://ndim.shinyapps.io/shiny-app/>
--   <https://ndphillips.shinyapps.io/Visual_Resume/>
--   <https://ndslds.shinyapps.io/dataExplorer/>
--   <https://neanderthal-ase.shinyapps.io/neanderthal_ase/>
--   <https://neconiesp.shinyapps.io/eleicoes2014/>
--   <https://neilfws.shinyapps.io/ausnewsClouds/>
--   <https://nelsongreen.shinyapps.io/frcfieldgeom/>
--   <https://neofranz.shinyapps.io/Project/>
--   <https://nercompshiny.shinyapps.io/CanvasAccess/>
--   <https://neuroradiology.shinyapps.io/strokeimbio/>
--   <https://neurotroph.shinyapps.io/Shiny-CutOffs/>
--   <https://nhukretep.shinyapps.io/btw17_wahlkreise/>
--   <https://niceguy.shinyapps.io/shiny_model2/>
--   <https://nicholas-neuteufel.shinyapps.io/NBAPlayerSeasonClustering/>
--   <https://nickbloom.shinyapps.io/rivals_shiny/>
--   <https://nickstrayer.shinyapps.io/shinyearr_demo/>
--   <https://nicolegoebel.shinyapps.io/shiny_NLP_COCA_combo/>
--   <https://nicolewhite.shinyapps.io/dfw-app/>
--   <https://nicopillon.shinyapps.io/Human_Rat_Mouse/>
--   <https://nicrivers.shinyapps.io/electricity/>
--   <https://nielshanson.shinyapps.io/predicttheword/>
--   <https://nierhoff.shinyapps.io/DDP_Shiny_Project/>
--   <https://nikolaypavlov.shinyapps.io/leaflet-da-hw/>
--   <https://nimahraja.shinyapps.io/Betfair_Election_Graphs/>
--   <https://nimahraja.shinyapps.io/Coalition_Marginals/>
--   <https://nimahraja.shinyapps.io/Possible_Coalitions/>
--   <https://nisrapopstats.shinyapps.io/babynames2016/>
--   <https://nitingupta2.shinyapps.io/stockReturns/>
--   <https://nlucas.shinyapps.io/stormevents/>
--   <https://nmdpredictions.shinyapps.io/shiny/>
--   <https://nnicolas.shinyapps.io/predictor/>
--   <https://noamross.shinyapps.io/compois/>
--   <https://noamross.shinyapps.io/rchie/>
--   <https://nobilor.shinyapps.io/Football_Result_Sim/>
--   <https://nobilor.shinyapps.io/shiny_Ergebnismodell/>
--   <https://nolan.shinyapps.io/million_countdown/>
--   <https://nolan.shinyapps.io/whos-at-cogsci/>
--   <https://noootsab.shinyapps.io/devdataprod-noootsab/>
--   <https://norbertbin.shinyapps.io/IAmA-App/>
--   <https://nrobbins.shinyapps.io/20161105_hydropatterning_app/>
--   <https://nrobbins.shinyapps.io/20171008_hydropatterning_app/>
--   <https://nseewald1.shinyapps.io/SMARTsize/>
--   <https://nstrayer.shinyapps.io/drawadist/>
--   <https://nstrayer.shinyapps.io/drawr_demo/>
--   <https://nsynes.shinyapps.io/EU_Petition/>
--   <https://ntjames.shinyapps.io/jsm17/>
--   <https://ntncmch.shinyapps.io/triathlon-app/>
--   <https://nyctaxi.shinyapps.io/destination_probability/>
--   <https://nykter.shinyapps.io/Main/>
--   <https://nzcms-ct-data-explorer.shinyapps.io/version8/>
--   <https://nzcms-ct-data-explorer.shinyapps.io/Worms/>
--   <https://obepi.shinyapps.io/WordPredictor/>
--   <https://object-of-class.shinyapps.io/logLRplot/>
--   <https://objectcomputing.shinyapps.io/settFeb2015/>
--   <https://odeleon.shinyapps.io/ngram/>
--   <https://odelibalta.shinyapps.io/LifeExpentancyWHOrg/>
--   <https://oeda.shinyapps.io/socialpolicysim/>
--   <https://oganm.shinyapps.io/cellTypeExpression/>
--   <https://oja.shinyapps.io/hybridoa/>
--   <https://ojedarojo.shinyapps.io/JTGenoma/>
--   <https://ojessen.shinyapps.io/whiskyTastings/>
--   <https://ojessen.shinyapps.io/whiskyTastingsApp/>
--   <https://olbecke.shinyapps.io/shinyapp/>
--   <https://omaymas.shinyapps.io/Exploring_Climate_Change_1900-2014/>
--   <https://omaymas.shinyapps.io/Influence_Analysis/>
--   <https://omaymas.shinyapps.io/prophet_explore/>
--   <https://omaymas.shinyapps.io/r-tags/>
--   <https://omaymas.shinyapps.io/stringr_help/>
--   <https://omedalus.shinyapps.io/meaner/>
--   <https://oncologynibr.shinyapps.io/drive/>
--   <https://onlinedialogue.shinyapps.io/ab-test-calculator-bayes/>
--   <https://onsmodels.shinyapps.io/OpenPhysProp/>
--   <https://opat.shinyapps.io/Meropenem_for_OPAT/>
--   <https://opencontent.shinyapps.io/OER-Impact-Calculator/>
--   <https://opendata.shinyapps.io/Riverfly/>
--   <https://opendata.shinyapps.io/shinyapp/>
--   <https://opendatamapssl.shinyapps.io/Crime/>
--   <https://openfda.shinyapps.io/RR_D/>
--   <https://openmeteo.shinyapps.io/pogoda/>
--   <https://orreco.shinyapps.io/lactate/>
--   <https://osac.shinyapps.io/decomp_ts/>
--   <https://ospc.shinyapps.io/border-adjustment-calculator/>
--   <https://oste434.shinyapps.io/Cricket_Visualisation/>
--   <https://oszkar.shinyapps.io/developingdataproductsclass/>
--   <https://ottlngr.shinyapps.io/biathlon_world_cup/>
--   <https://ou-statswidgets.shinyapps.io/dance_a/>
--   <https://outcomeproject.shinyapps.io/BRFSS_ShinyApp2/>
--   <https://outcomeproject.shinyapps.io/BRFSS_Trend_Plot/>
--   <https://outcomeproject.shinyapps.io/delitos/>
--   <https://outcomeproject.shinyapps.io/desempleo/>
--   <https://ouzor.shinyapps.io/sotkanet/>
--   <https://owobeid.shinyapps.io/designing_data_products_course_project/>
--   <https://ozguzmete.shinyapps.io/demo/>
--   <https://pabischoff.shinyapps.io/nearbnb/>
--   <https://pablobernabeu.shinyapps.io/ERP-waveform-visualization_CMS-experiment/>
--   <https://pablovicentemunuera.shinyapps.io/personal/>
--   <https://paceturf.shinyapps.io/GPAvatar/>
--   <https://pachamaltese.shinyapps.io/elder-population-in-chile/>
--   <https://pacificprince.shinyapps.io/Shiny/>
--   <https://palashgoyal1.shinyapps.io/Shiny_App/>
--   <https://paldhous.shinyapps.io/datacanvas-sensor/>
--   <https://paleo13.shinyapps.io/shiny_2/>
--   <https://pandalusplatyceros.shinyapps.io/cod_rebuilder/>
--   <https://para2x.shinyapps.io/Spatio-Temporal/>
--   <https://paradesign.shinyapps.io/paradesign/>
--   <https://parameterlibrary.shinyapps.io/distributionexplorer/>
--   <https://paschall.shinyapps.io/stockAnalysis/>
--   <https://paspeur.shinyapps.io/stormap/>
--   <https://paspeur.shinyapps.io/wordmaster-io/>
--   <https://paternogbc.shinyapps.io/SS_regression/>
--   <https://patilv.shinyapps.io/WDIShiny/>
--   <https://patiwari.shinyapps.io/TV_Shiny_App/>
--   <https://paul-reiners.shinyapps.io/titanic-app/>
--   <https://paulamoraga.shinyapps.io/spatialepiapp/>
--   <https://paulcbauer.shinyapps.io/plotlylayout/>
--   <https://paulcbauer.shinyapps.io/plotlymarkers/>
--   <https://paulditterline.shinyapps.io/Louisville_Salaries/>
--   <https://paulditterline.shinyapps.io/US_Baby_Names/>
--   <https://paulino-tardaguila.shinyapps.io/ClusterViz/>
--   <https://pawelmatuszewski.shinyapps.io/aplikacja_-_tematy_w_czasie/>
--   <https://pawelmatuszewski.shinyapps.io/Aplikacja-TematyWczasie/>
--   <https://pawelp.shinyapps.io/meetup-analysis/>
--   <https://pbulsink.shinyapps.io/NHL_Elo_Ratings/>
--   <https://pchuck.shinyapps.io/etf-leverage-simulator/>
--   <https://pdelboca.shinyapps.io/analisis-candidatos-diputado-2017/>
--   <https://pdop.shinyapps.io/ODdash_v1/>
--   <https://pecheverr.shinyapps.io/AppR/>
--   <https://pedagueau.shinyapps.io/phyteauviz/>
--   <https://peerjeda.shinyapps.io/pvalueviz/>
--   <https://peggyfan.shinyapps.io/shinyapps/>
--   <https://petecaya.shinyapps.io/event_study/>
--   <https://petecaya.shinyapps.io/Event_Study/>
--   <https://peter-mott.shinyapps.io/Poverty_EU_UK/>
--   <https://petras.shinyapps.io/manoseimas/>
--   <https://pewi.shinyapps.io/Mars/>
--   <https://pgodard.shinyapps.io/irisGlmPred/>
--   <https://pharmacometrics.shinyapps.io/exploredata/>
--   <https://pharmacometrics.shinyapps.io/ggplotmydata/>
--   <https://pharmacometrics.shinyapps.io/ggplotwithyourdata/>
--   <https://pharmacometrics.shinyapps.io/MetaDataExplore/>
--   <https://phbarton.shinyapps.io/Capstone/>
--   <https://philipp.shinyapps.io/FalseDiscoveryRate/>
--   <https://philippsp.shinyapps.io/BookRecommendation/>
--   <https://phiprimedy.shinyapps.io/project/>
--   <https://phjulien.shinyapps.io/Series/>
--   <https://phoebe.shinyapps.io/you-are-not-alone/>
--   <https://phoebewong.shinyapps.io/calendar_shinyio/>
--   <https://phoneapps.shinyapps.io/ultrasound_app/>
--   <https://phsz.shinyapps.io/Shiny_Company_Logo/>
--   <https://phyzoo.shinyapps.io/LogisticStochastic/>
--   <https://phyzoo.shinyapps.io/ModelApp/>
--   <https://phyzoo.shinyapps.io/StochasticCompetition/>
--   <https://piair.shinyapps.io/Shiny/>
--   <https://piair.shinyapps.io/Swiftkey/>
--   <https://pianalytics.shinyapps.io/InteractiveLTV/>
--   <https://pietrofodra.shinyapps.io/Test/>
--   <https://pilotgtec.shinyapps.io/PH-Pop-Map/>
--   <https://pilotgtec.shinyapps.io/PSEMomentumCharts/>
--   <https://pitakakariki.shinyapps.io/Parliament/>
--   <https://pittsburghpa.shinyapps.io/BurghsEyeView/>
--   <https://pittsburghpa.shinyapps.io/BurghsEyeViewParcels/>
--   <https://pittsburghpa.shinyapps.io/BurghsEyeViewPlaces/>
--   <https://pittsburghpa.shinyapps.io/pips/>
--   <https://pjchamberlain.shinyapps.io/ds-capstone-app/>
--   <https://pjpjean.shinyapps.io/cpskapp/>
--   <https://pjpjean.shinyapps.io/DataProdShinyApp/>
--   <https://pkimes.shinyapps.io/shc_example/>
--   <https://plantid.shinyapps.io/posr/>
--   <https://plantmodelling.shinyapps.io/archidart/>
--   <https://plantmodelling.shinyapps.io/mecha/>
--   <https://plantmodelling.shinyapps.io/phenome_bingo/>
--   <https://plantmodelling.shinyapps.io/shinyRootBox/>
--   <https://plejeail.shinyapps.io/securip/>
--   <https://plethodonick.shinyapps.io/week_4_occupancy_shiny/>
--   <https://plotly.shinyapps.io/plotly_in_shiny/>
--   <https://pmacp.shinyapps.io/CRTSampSize/>
--   <https://pmacp.shinyapps.io/Influenza_isolates/>
--   <https://pmaier1971.shinyapps.io/AutomatedForecastingWithShiny/>
--   <https://pmckenz1.shinyapps.io/Deterministic_Mutualism_Model/>
--   <https://pmr2.shinyapps.io/Shrinkage/>
--   <https://podspods.shinyapps.io/snoring/>
--   <https://podval.shinyapps.io/WineQuality/>
--   <https://poissonconsulting.shinyapps.io/rtide/>
--   <https://poligraphy.shinyapps.io/nycschools/>
--   <https://polk54.shinyapps.io/child_mortality_rate_by_income_level/>
--   <https://pollsavvy.shinyapps.io/pollsavvy/>
--   <https://polyphant.shinyapps.io/arxiv_topicmodels/>
--   <https://popgen.shinyapps.io/diveRsity-online/>
--   <https://popgen.shinyapps.io/divMigrate-online/>
--   <https://popgensim.shinyapps.io/election/>
--   <https://popgensim.shinyapps.io/popgen_app/>
--   <https://poppypresents.shinyapps.io/Jambo_Map/>
--   <https://powchow.shinyapps.io/App-FashionOnTwitter/>
--   <https://ppiccato.shinyapps.io/judiciales/>
--   <https://pppp.shinyapps.io/shinyproteinpredictions/>
--   <https://pracademic.shinyapps.io/brexit/>
--   <https://pracademic.shinyapps.io/LISA/>
--   <https://pracademic.shinyapps.io/STATS19_scanner/>
--   <https://pragyansmita.shinyapps.io/paygap_Shiny/>
--   <https://praneeth.shinyapps.io/twitterlive/>
--   <https://prateekjoshi565.shinyapps.io/Chicago_Crime_Lens/>
--   <https://precision-methodologies.shinyapps.io/thecost/>
--   <https://presidual.shinyapps.io/nba-calendar/>
--   <https://presidual.shinyapps.io/nba-play-type/>
--   <https://presidual.shinyapps.io/nba-rolling-charts/>
--   <https://principalimages.shinyapps.io/Shiny/>
--   <https://prpatil.shinyapps.io/cod_app/>
--   <https://prusinowskik.shinyapps.io/twd-projekt2/>
--   <https://psaravind.shinyapps.io/TopBabyNames/>
--   <https://psobczyk.shinyapps.io/varclust_online/>
--   <https://pssguy.shinyapps.io/alcoholConsumption/>
--   <https://pssguy.shinyapps.io/blog/>
--   <https://pssguy.shinyapps.io/lifeExpectancy/>
--   <https://pssguy.shinyapps.io/soccerHistory/>
--   <https://psuantt.shinyapps.io/parte2_1/>
--   <https://psuantt.shinyapps.io/RESULTADOS/>
--   <https://psychemedia.shinyapps.io/shinychamp/>
--   <https://psychology.shinyapps.io/smartphone/>
--   <https://psychology.shinyapps.io/smartphonepersonality/>
--   <https://pulsewavesync.shinyapps.io/PulseWaveSync_2_1/>
--   <https://purplegenie.shinyapps.io/hoc_demo_app/>
--   <https://purplegenie.shinyapps.io/shinyapp/>
--   <https://pvc999.shinyapps.io/mapfast/>
--   <https://pvc999.shinyapps.io/mapfullfast/>
--   <https://pyhatanja.shinyapps.io/Coalescence/>
--   <https://pyhatanja.shinyapps.io/CoalescenceContinuous/>
--   <https://qinwf.shinyapps.io/jiebaR-shiny/>
--   <https://quantstats.shinyapps.io/yahoo/>
--   <https://quintana.shinyapps.io/Sentiment-analysis/>
--   <https://radhwane.shinyapps.io/NLPDemo2/>
--   <https://rafalab.shinyapps.io/roc-precision-recall/>
--   <https://raffdoc.shinyapps.io/DataScienceCapstoneNLP/>
--   <https://raheemiqbal1.shinyapps.io/Capstone_Shiny_App/>
--   <https://rahulravindran.shinyapps.io/assignment/>
--   <https://rain1024.shinyapps.io/dataR/>
--   <https://rajuvarghese.shinyapps.io/tiapp/>
--   <https://ramshiny.shinyapps.io/gbmParameterPerformance/>
--   <https://ranausman.shinyapps.io/massshooting/>
--   <https://randommonkey.shinyapps.io/custom_lsv_tancerca_tanlejos_bog/>
--   <https://randommonkey.shinyapps.io/custom_lsv_tancerca_tanlejos_med/>
--   <https://randommonkey.shinyapps.io/plebiscito/>
--   <https://randomwalker.shinyapps.io/R-Cube/>
--   <https://ranlot.shinyapps.io/coastlinetrip/>
--   <https://raphael.shinyapps.io/ok_shiny/>
--   <https://raphifix.shinyapps.io/hurricane_distribution_over_time/>
--   <https://rapps.shinyapps.io/wordcloud01/>
--   <https://rasmusab.shinyapps.io/drinkr/>
--   <https://ray-huey.shinyapps.io/test/>
--   <https://raymondwstang.shinyapps.io/assignment/>
--   <https://rchesak.shinyapps.io/e-coli-beach-predictions/>
--   <https://rcongiu.shinyapps.io/commute/>
--   <https://rdatasculptor.shinyapps.io/partijkiezer_op_emotie/>
--   <https://recmap.shinyapps.io/state_x77/>
--   <https://redgar598.shinyapps.io/BECon/>
--   <https://redoakstrategic.shinyapps.io/IowaCaucusResults/>
--   <https://redouad.shinyapps.io/WHIP/>
--   <https://reefersadness.shinyapps.io/ncaasctrial/>
--   <https://reefersadness.shinyapps.io/updatedncaashotchart/>
--   <https://regan008.shinyapps.io/mining_my_day/>
--   <https://regisgallon.shinyapps.io/G2Sd/>
--   <https://reisanar.shinyapps.io/billboard/>
--   <https://reishimizu.shinyapps.io/Distribution-simulator/>
--   <https://rekarrr.shinyapps.io/taiwanPetition/>
--   <https://rekarrr.shinyapps.io/trumpPetition/>
--   <https://rekarrr.shinyapps.io/UKDS_data_dive_prototype/>
--   <https://rekarrr.shinyapps.io/usPresidentDebateWordSearch/>
--   <https://rensa.shinyapps.io/isithotrightnow/>
--   <https://resolve.shinyapps.io/ManComp/>
--   <https://retr0.shinyapps.io/journal_costs/>
--   <https://review.shinyapps.io/rtr_dial/>
--   <https://revolutionanalyticssid.shinyapps.io/RevoBlogApp/>
--   <https://rexanalytics.shinyapps.io/deploy/>
--   <https://rheinkind.shinyapps.io/SimpleInvesting/>
--   <https://riate.shinyapps.io/matrixes/>
--   <https://ricencode.shinyapps.io/RICENCODE/>
--   <https://rich.shinyapps.io/geocoder/>
--   <https://rich.shinyapps.io/globe/>
--   <https://rich.shinyapps.io/nyc_sat/>
--   <https://rich.shinyapps.io/regression/>
--   <https://rich.shinyapps.io/school_enrollment/>
--   <https://richarddmorey.shinyapps.io/bf_calibrations/>
--   <https://richarddmorey.shinyapps.io/CIs_and_p/>
--   <https://richarddmorey.shinyapps.io/confidenceFallacy/>
--   <https://richarddmorey.shinyapps.io/contingencyTables/>
--   <https://richarddmorey.shinyapps.io/jzsMarginal/>
--   <https://richarddmorey.shinyapps.io/PowerWorkshop/>
--   <https://richarddmorey.shinyapps.io/RPP_results/>
--   <https://richarddmorey.shinyapps.io/standardizing_and_correlations/>
--   <https://richarddmorey.shinyapps.io/test/>
--   <https://richardpilbery.shinyapps.io/English_Ambulance_Service_Cardiac_Arrest_Performance/>
--   <https://rigelfive.shinyapps.io/MarketAnalyzer/>
--   <https://rinzewind.shinyapps.io/el_pais_editoriales/>
--   <https://riskcalculator.shinyapps.io/PROMISS/>
--   <https://riskcalculator.shinyapps.io/riskcalc/>
--   <https://ristohinno.shinyapps.io/GermanTankProblemApp/>
--   <https://riverpeek.shinyapps.io/thermohydrographs/>
--   <https://rkahne.shinyapps.io/contributions/>
--   <https://rkahne.shinyapps.io/Election2016/>
--   <https://rkahne.shinyapps.io/kyelect_2018/>
--   <https://rkahne.shinyapps.io/kyleg_twitter/>
--   <https://rkahne.shinyapps.io/kyleg/>
--   <https://rkahne.shinyapps.io/louisville_crime_rates/>
--   <https://rkahne.shinyapps.io/presidential_vistualization/>
--   <https://rkbarney.shinyapps.io/thisnotthatstat/>
--   <https://rklancer.shinyapps.io/mind-reading/>
--   <https://rljc.shinyapps.io/HappyIndexApp/>
--   <https://rmaster.shinyapps.io/BMICalculator/>
--   <https://rmhogervorst.shinyapps.io/powrballad/>
--   <https://rmidura.shinyapps.io/Codogno/>
--   <https://rmseals.shinyapps.io/NormalApprox/>
--   <https://rmuraglia.shinyapps.io/select_char_usage_shiny/>
--   <https://robcreel.shinyapps.io/simpsons_paradox_explored_graphically/>
--   <https://robert-a-ackerman.shinyapps.io/APIMPowerRdis/>
--   <https://robert-ackerman.shinyapps.io/APIMPowerR/>
--   <https://robert-schlegel.shinyapps.io/SACTN/>
--   <https://robertcnorberg.shinyapps.io/BinomialDistApp/>
--   <https://robertcope.shinyapps.io/physical_network/>
--   <https://roberthickman.shinyapps.io/european/>
--   <https://roberthickman.shinyapps.io/EuropeanPopulationCompressed/>
--   <https://roberthickman.shinyapps.io/labnegswing4/>
--   <https://roberthickman.shinyapps.io/LiberalAlliance/>
--   <https://robertkck.shinyapps.io/patent_map/>
--   <https://robertmyles.shinyapps.io/carnaval_2017/>
--   <https://robertwilson190.shinyapps.io/EnergyAndEmissions/>
--   <https://robharrand.shinyapps.io/HumaneLeague/>
--   <https://robharrand.shinyapps.io/leeds_cycle_app/>
--   <https://robharrand.shinyapps.io/Leeds_open/>
--   <https://robharrand.shinyapps.io/stoplivetransport_shiny/>
--   <https://robin.shinyapps.io/PremPredict/>
--   <https://robinlovelace.shinyapps.io/fixMyPath/>
--   <https://robinlovelace.shinyapps.io/himod/>
--   <https://robinlovelace.shinyapps.io/rentSplit/>
--   <https://robinlovelace.shinyapps.io/spatial-lines-test/>
--   <https://robscottd.shinyapps.io/DPProject/>
--   <https://robscottd.shinyapps.io/FedElect2015/>
--   <https://robscottd.shinyapps.io/Ottawa311Noise/>
--   <https://roderich25.shinyapps.io/earthquakesMX/>
--   <https://roderich25.shinyapps.io/soccerviz/>
--   <https://rodrigodealexandre.shinyapps.io/predictive_text_model/>
--   <https://rohanpitre.shinyapps.io/GolfAnalytics/>
--   <https://romunov.shinyapps.io/cena_naftnih_derivatov/>
--   <https://ronammar.shinyapps.io/baby_names_shiny_appy/>
--   <https://ronandrhondap.shinyapps.io/6ofthebest/>
--   <https://ronnydw.shinyapps.io/shinyStockReturns/>
--   <https://roose.shinyapps.io/shinyData/>
--   <https://ropensci.shinyapps.io/contributr/>
--   <https://ropensci.shinyapps.io/taxmap/>
--   <https://rortizdu.shinyapps.io/SuperficiesApp/>
--   <https://royalveterinarycollege.shinyapps.io/epidemix/>
--   <https://rpadawan.shinyapps.io/diamonds/>
--   <https://rs-fan-jp.shinyapps.io/surv_h27/>
--   <https://rs-fan-jp.shinyapps.io/surv_jp/>
--   <https://rsangole.shinyapps.io/Distributions/>
--   <https://rsangole.shinyapps.io/LDA_Visual/>
--   <https://rssanders3.shinyapps.io/shiny-next-word-predict/>
--   <https://rudnev.shinyapps.io/Basic_Values/>
--   <https://rudyjuly2.shinyapps.io/brweek13/>
--   <https://runzemc.shinyapps.io/books/>
--   <https://runzemc.shinyapps.io/sentiment/>
--   <https://runzemc.shinyapps.io/shiny/>
--   <https://rusdracor.shinyapps.io/showcase/>
--   <https://russ.shinyapps.io/jhu-data-spec-devldata-courseproject/>
--   <https://rvanaert.shinyapps.io/p-uniform/>
--   <https://ryanburge.shinyapps.io/gss_reltrad_pid/>
--   <https://ryandkerr.shinyapps.io/nationals15/>
--   <https://s12k.shinyapps.io/SupportDrivenApp1/>
--   <https://saberpowers.shinyapps.io/mRchmadness/>
--   <https://saberpowers.shinyapps.io/trajectory-distribution/>
--   <https://sachioiwamoto.shinyapps.io/shinyapp/>
--   <https://sachsmc.shinyapps.io/cosinor-shinyapp/>
--   <https://sachsmc.shinyapps.io/illustrateROC/>
--   <https://sachsmc.shinyapps.io/plotROC/>
--   <https://safetyapp.shinyapps.io/GoWvis/>
--   <https://safferli.shinyapps.io/hackathon_shiny/>
--   <https://sahuvaibhav.shinyapps.io/Stats/>
--   <https://sahuvaibhav.shinyapps.io/ViewConfidenceInterval/>
--   <https://saidee.shinyapps.io/winprobpast/>
--   <https://saidee.shinyapps.io/winprot20/>
--   <https://salamonaska.shinyapps.io/chicken/>
--   <https://salauer.shinyapps.io/education/>
--   <https://salauer.shinyapps.io/shiny-leaflet/>
--   <https://samantheluidatascience.shinyapps.io/Capstone/>
--   <https://sameh.shinyapps.io/Scraping_Basketball_Reference_Shiny/>
--   <https://samizdat.shinyapps.io/faktury-pravni/>
--   <https://samizdat.shinyapps.io/patek13/>
--   <https://samizdat.shinyapps.io/zakazky2/>
--   <https://sanjaybasu.shinyapps.io/intbp/>
--   <https://sanjaybasu.shinyapps.io/shinyapp/>
--   <https://sarthakdasadia.shinyapps.io/GlobalTerrorism/>
--   <https://saurabhfirstdashboard.shinyapps.io/firstdashboard_publish/>
--   <https://saurfang.shinyapps.io/shinyAceAutocomplete/>
--   <https://sautergroup.shinyapps.io/macro_visual/>
--   <https://sayandev.shinyapps.io/prediction_shinyApp/>
--   <https://sb452.shinyapps.io/fieller/>
--   <https://sb452.shinyapps.io/power/>
--   <https://sbet.shinyapps.io/valkompass2014shiny/>
--   <https://scarpino.shinyapps.io/moderator_buster/>
--   <https://scchen.shinyapps.io/p_distribution_in_stat_book/>
--   <https://schinria.shinyapps.io/Presidential-Candidates-Tweets/>
--   <https://schliebs.shinyapps.io/dufour/>
--   <https://schliebs.shinyapps.io/foreignaid/>
--   <https://schoemanna.shinyapps.io/mc_power_med/>
--   <https://scien-analytics.shinyapps.io/seg_admision_colegios_zgz_2016/>
--   <https://scotinastats.shinyapps.io/MLBcurves/>
--   <https://scotland.shinyapps.io/babynames/>
--   <https://scotland.shinyapps.io/fisheries/>
--   <https://scotland.shinyapps.io/household-projection-variants2/>
--   <https://scott-laforest.shinyapps.io/adp-tracker/>
--   <https://scottbot.shinyapps.io/s_app/>
--   <https://scottljohnson.shinyapps.io/census-app/>
--   <https://sctyner.shinyapps.io/magic-tidying-data/>
--   <https://sdray.shinyapps.io/globalspectr/>
--   <https://seanmgonzalez.shinyapps.io/flic_surveys/>
--   <https://sebastiansauer.shinyapps.io/shiny_overlapping_normal/>
--   <https://sedufau.shinyapps.io/megalex/>
--   <https://seedmapper.shinyapps.io/climate_partitioning_app/>
--   <https://seedmapper.shinyapps.io/seed_selector/>
--   <https://seigma.shinyapps.io/suicide/>
--   <https://selfesteem.shinyapps.io/maps/>
--   <https://selfesteem.shinyapps.io/self_esteem/>
--   <https://serge.shinyapps.io/ThoughtsReader/>
--   <https://sergioaguado.shinyapps.io/Beaches_project/>
--   <https://sergiopetralia.shinyapps.io/PBM2015/>
--   <https://severetesting.shinyapps.io/calculator/>
--   <https://sfsheath.shinyapps.io/amphitheaterelevations/>
--   <https://sgrim.shinyapps.io/CoCSalaries/>
--   <https://shackett.shinyapps.io/fighter_styles/>
--   <https://shafi.shinyapps.io/Project/>
--   <https://shambhala.shinyapps.io/Registration_Summary/>
--   <https://shariliu.shinyapps.io/loook/>
--   <https://sharlagelfand.shinyapps.io/peppermint/>
--   <https://sharlagelfand.shinyapps.io/toronto-sexual-health-clinics/>
--   <https://sharpstatsci.shinyapps.io/vaxapp1/>
--   <https://shastacountyhhsa.shinyapps.io/STDdata/>
--   <https://shdurham.shinyapps.io/Presidential_Approval_Ratings_Developing_Data_Products/>
--   <https://sheffieldbeer.shinyapps.io/census-app/>
--   <https://shinr.shinyapps.io/Shiny/>
--   <https://shiring.shinyapps.io/demo_dashboard_pred_maint_fast/>
--   <https://shiring.shinyapps.io/gwas_shiny_app/>
--   <https://shiring.shinyapps.io/wgs_app/>
--   <https://shobhitsingh.shinyapps.io/LeafletShinyR/>
--   <https://shobhitsingh.shinyapps.io/StockDataApp/>
--   <https://showlegend.shinyapps.io/playerratings/>
--   <https://showrolyteatul.shinyapps.io/model1GUI_v1/>
--   <https://shuangsong.shinyapps.io/project/>
--   <https://shunya-nuta.shinyapps.io/census-app-japan/>
--   <https://shunya-nuta.shinyapps.io/census-app/>
--   <https://sieriebriennikov.shinyapps.io/ninja/>
--   <https://sifteambuilder.shinyapps.io/shiny/>
--   <https://silastittes.shinyapps.io/OU-sim-app/>
--   <https://silvio.shinyapps.io/apres/>
--   <https://silvio.shinyapps.io/ENEMSC/>
--   <https://simecek.shinyapps.io/mtcars_demo/>
--   <https://simecek.shinyapps.io/pf2014en/>
--   <https://simongoring.shinyapps.io/authorNetwork/>
--   <https://simongoring.shinyapps.io/Recalibrate/>
--   <https://simongoring.shinyapps.io/RegularExpressionR/>
--   <https://simonriley.shinyapps.io/grey_literature_search__retrieval_tool/>
--   <https://simontarr.shinyapps.io/maxent_beta_multiplier_visualiser/>
--   <https://siowmeng.shinyapps.io/shiny-CLT/>
--   <https://sirallen.shinyapps.io/nicStructure/>
--   <https://sirujam.shinyapps.io/Telecom_Trend/>
--   <https://sjmgarnier.shinyapps.io/ant_collective_decision/>
--   <https://sjmgarnier.shinyapps.io/bee_house_hunting/>
--   <https://sjmgarnier.shinyapps.io/wisdom_of_crowds_exp/>
--   <https://sjmgarnier.shinyapps.io/wisdom_of_crowds/>
--   <https://skaae.shinyapps.io/test_project/>
--   <https://skaggs.shinyapps.io/text-tokenization-and-feature-hashing/>
--   <https://skahali.shinyapps.io/devdataprod-assignment/>
--   <https://skewtosis.shinyapps.io/tailsbenefits/>
--   <https://skimitdata.shinyapps.io/App2/>
--   <https://skimitdata.shinyapps.io/Show/>
--   <https://skinsella.shinyapps.io/euprocesses/>
--   <https://skitestguys.shinyapps.io/shinyski/>
--   <https://slaborde.shinyapps.io/workspace/>
--   <https://slager.shinyapps.io/eBirdmass/>
--   <https://slbd.shinyapps.io/pmi_app/>
--   <https://sleepingmichi.shinyapps.io/hoge/>
--   <https://slerka.shinyapps.io/fansstructure/>
--   <https://smadaplaysfantasy.shinyapps.io/MiLB_Game_Log_Graphs_App/>
--   <https://smartinsightsfromdata.shinyapps.io/TSupplyDemand/>
--   <https://smasongarrison.shinyapps.io/enumR_interface/>
--   <https://snak.shinyapps.io/apptrois/>
--   <https://snatool.shinyapps.io/JapanPrefectureQuiz/>
--   <https://sneik.shinyapps.io/DevelopingDataProducts/>
--   <https://sniffles.shinyapps.io/item-analysis-dashboard-demo/>
--   <https://snin-17.shinyapps.io/farm_stats_app/>
--   <https://spades.shinyapps.io/ForestChange_ProofOfConcept/>
--   <https://spannbaueradam.shinyapps.io/r_regex_tester/>
--   <https://spannbaueradam.shinyapps.io/rPackedBarDemo/>
--   <https://spholmes.shinyapps.io/birthday_app/>
--   <https://spirikahu.shinyapps.io/PARCIs/>
--   <https://sportmaths2.shinyapps.io/Varios/>
--   <https://sriyoda.shinyapps.io/ShinyApp/>
--   <https://srosenbaum6.shinyapps.io/BTBA/>
--   <https://ssalvaggio.shinyapps.io/Capstone01/>
--   <https://staburo.shinyapps.io/riskcalc/>
--   <https://starrfelt.shinyapps.io/TRiPS/>
--   <https://stat4249ratsinnewyork.shinyapps.io/app123/>
--   <https://statemra.shinyapps.io/emra/>
--   <https://statisfactions.shinyapps.io/guessing-game/>
--   <https://statisti.shinyapps.io/kelly2/>
--   <https://statisti.shinyapps.io/vakio/>
--   <https://statisticalplumber.shinyapps.io/lotka/>
--   <https://statisticalskier.shinyapps.io/nation/>
--   <https://statisticalskier.shinyapps.io/single_skier/>
--   <https://statisticalskier.shinyapps.io/split-round-plots/>
--   <https://statistics.shinyapps.io/LabVisualization/>
--   <https://statisticsnz.shinyapps.io/Disability/>
--   <https://statisticsnz.shinyapps.io/lake_water_quality/>
--   <https://statisticsnz.shinyapps.io/river_water_quality_nitrogen/>
--   <https://statisticsnz.shinyapps.io/seasonal_rainfall/>
--   <https://statnet.shinyapps.io/epidcm/>
--   <https://statnet.shinyapps.io/statnetWeb/>
--   <https://statofmind.shinyapps.io/MillionDollarStory/>
--   <https://steadylosing.shinyapps.io/nba_playoff_series_predictions_multinomial_regression/>
--   <https://steadylosing.shinyapps.io/newstart/>
--   <https://steamerprojections.shinyapps.io/bayesprojection/>
--   <https://steamerprojections.shinyapps.io/simple_projection/>
--   <https://steamerprojections.shinyapps.io/steamer_error_bars/>
--   <https://stef.shinyapps.io/cost_of_coffee/>
--   <https://stef.shinyapps.io/dashboard/>
--   <https://stef.shinyapps.io/is_the_cloud_cost_effective/>
--   <https://stefanocoretta.shinyapps.io/sfm-exporter/>
--   <https://stefanwilhelm.shinyapps.io/heatmap/>
--   <https://stekhoven.shinyapps.io/barplotNonsense/>
--   <https://steno.shinyapps.io/T1RiskEngine/>
--   <https://steperi.shinyapps.io/fullcard/>
--   <https://steperi.shinyapps.io/rawtable/>
--   <https://steperi.shinyapps.io/teamcard/>
--   <https://steperi.shinyapps.io/teamtable/>
--   <https://stephens999.shinyapps.io/unimodal/>
--   <https://steve-wilkinson.shinyapps.io/metadata/>
--   <https://stevebronder.shinyapps.io/Steve_Bronder_Tufte/>
--   <https://stevemarti25.shinyapps.io/app-1/>
--   <https://stevemarti25.shinyapps.io/app-2/>
--   <https://stevenhawken.shinyapps.io/FluGBSapp/>
--   <https://stevenlsenior.shinyapps.io/Alcohol_admissions/>
--   <https://stevenlsenior.shinyapps.io/Data_Products/>
--   <https://stevenranney.shinyapps.io/gradeInflation/>
--   <https://stia.shinyapps.io/litcascades/>
--   <https://stia.shinyapps.io/tlit/>
--   <https://stibu81.shinyapps.io/textpredapp/>
--   <https://stoltzmaniac.shinyapps.io/medicare_data/>
--   <https://strakaps.shinyapps.io/ctrmapp/>
--   <https://strigoi.shinyapps.io/qualitystat/>
--   <https://strong.shinyapps.io/earthtones_example/>
--   <https://stulacy.shinyapps.io/msm-shiny/>
--   <https://sudhirwadhwa.shinyapps.io/sudhir_shiny/>
--   <https://summersuny.shinyapps.io/SHINY/>
--   <https://sungexplore.shinyapps.io/healthdatabreach/>
--   <https://sungexplore.shinyapps.io/hospitalcompare/>
--   <https://sungexplore.shinyapps.io/hospitaltrend/>
--   <https://sungexplore.shinyapps.io/hosprating/>
--   <https://sungexplore.shinyapps.io/mepstrend/>
--   <https://supstat.shinyapps.io/dialect_map_shiny_project/>
--   <https://surabayanlp.shinyapps.io/Visualisasi/>
--   <https://surlyanalytics.shinyapps.io/github_hot_or_not/>
--   <https://svetlana.shinyapps.io/snowflakes/>
--   <https://svonkleeck.shinyapps.io/NLPPrediction/>
--   <https://svq02.shinyapps.io/DevelopingDataProducts/>
--   <https://swainjo.shinyapps.io/shiny/>
--   <https://swarkul.shinyapps.io/Proj/>
--   <https://swart.shinyapps.io/RelatedTags/>
--   <https://sweiss.shinyapps.io/CarSales/>
--   <https://sweiss.shinyapps.io/carvis/>
--   <https://swhgoon.shinyapps.io/part1_devdataprod-shiny/>
--   <https://swoldetsadick.shinyapps.io/COURDDPPRO1/>
--   <https://swopmd.shinyapps.io/SWOP/>
--   <https://swopmd.shinyapps.io/swopreg/>
--   <https://syafeeqalias.shinyapps.io/v3_-_added_total_tables/>
--   <https://szilard.shinyapps.io/shinyvalidinp-demo/>
--   <https://szmartin.shinyapps.io/newCourseProject/>
--   <https://t-trevorcaughlin.shinyapps.io/ReforestationDynamics/>
--   <https://talonsensei.shinyapps.io/simplePlot/>
--   <https://tanartuntik.shinyapps.io/deploy/>
--   <https://tangerine007.shinyapps.io/hackathon/>
--   <https://tannenberg.shinyapps.io/regimes_in_the_world/>
--   <https://tarashui.shinyapps.io/ColumbiaTaxiProject/>
--   <https://tatjanakec.shinyapps.io/permutation_bootstrap/>
--   <https://tattva.shinyapps.io/health_analytics/>
--   <https://tattva.shinyapps.io/nfhs_up/>
--   <https://taxsmack.shinyapps.io/FearNot/>
--   <https://tboomer.shinyapps.io/FlightDelay/>
--   <https://tbosch.shinyapps.io/Coachingcopy/>
--   <https://tbosch.shinyapps.io/soccer/>
--   <https://tbosch.shinyapps.io/vbt_1rm/>
--   <https://tcb-analytics.shinyapps.io/bostonsolar/>
--   <https://tcb-analytics.shinyapps.io/dfsmlb/>
--   <https://tcb-analytics.shinyapps.io/dfsnba/>
--   <https://tcb-analytics.shinyapps.io/dfsnfl/>
--   <https://tcb-analytics.shinyapps.io/dfsoptimize/>
--   <https://tcb-analytics.shinyapps.io/NBABench/>
--   <https://tcb-analytics.shinyapps.io/overwatch/>
--   <https://tcb-analytics.shinyapps.io/redditNFL/>
--   <https://technicalelvis.shinyapps.io/prince_song_recommender/>
--   <https://tenan.shinyapps.io/VO2sim/>
--   <https://teouch-analytics.shinyapps.io/form-sheets/>
--   <https://teramonagi.shinyapps.io/advancedr_jbook/>
--   <https://teramonagi.shinyapps.io/daily_steps_of_dichika/>
--   <https://teramonagi.shinyapps.io/JGBViewer/>
--   <https://terrydolan.shinyapps.io/lfcgmR/>
--   <https://testersurvey.shinyapps.io/shiny_testers/>
--   <https://tgwhite.shinyapps.io/CA_municipal_finance/>
--   <https://thanhtnguyen.shinyapps.io/Coursera/>
--   <https://thedatajournalist.shinyapps.io/SentimentApp/>
--   <https://thelab.shinyapps.io/funguild/>
--   <https://theodor.shinyapps.io/theodor-stopping-distance/>
--   <https://theshoshineboy.shinyapps.io/NSE50_Stocks/>
--   <https://thething.shinyapps.io/SNPcalc/>
--   <https://thewiremonkey.shinyapps.io/mass/>
--   <https://thewiremonkey.shinyapps.io/shootingsUS/>
--   <https://thiemom.shinyapps.io/dataproducts-titanic/>
--   <https://thiessen.shinyapps.io/final-baseball-app/>
--   <https://thinkr.shinyapps.io/legislatives2017/>
--   <https://thinkr.shinyapps.io/tweetstorm/>
--   <https://thinktostart.shinyapps.io/FB_page_analyzer/>
--   <https://thisisnic.shinyapps.io/anscombe/>
--   <https://thisisnic.shinyapps.io/PrelimLondon/>
--   <https://thomas-keller.shinyapps.io/nips2016/>
--   <https://thomas-mailund.shinyapps.io/coalescence_densities/>
--   <https://thomasbridge.shinyapps.io/BrentwoodElections/>
--   <https://thomassiegmund.shinyapps.io/basic/>
--   <https://thomassiegmund.shinyapps.io/interaction/>
--   <https://thoughtful.shinyapps.io/onevoteweb/>
--   <https://tianyigu.shinyapps.io/aircrash_/>
--   <https://ticklesnarf.shinyapps.io/ticklesnarf/>
--   <https://timbrock.shinyapps.io/baseshiny/>
--   <https://timbrock.shinyapps.io/benfordapp/>
--   <https://timbrock.shinyapps.io/emissions/>
--   <https://timcameron.shinyapps.io/ausemploymentflows/>
--   <https://timcdlucas.shinyapps.io/gremApp/>
--   <https://timphan.shinyapps.io/democrats/>
--   <https://timphan.shinyapps.io/iris/>
--   <https://timtrice.shinyapps.io/shinycanes/>
--   <https://tmelliott.shinyapps.io/aklbusdelays/>
--   <https://tnybny.shinyapps.io/CondProbMaps/>
--   <https://toclimb8a.shinyapps.io/maxtograde/>
--   <https://todd.shinyapps.io/ballr/>
--   <https://todd.shinyapps.io/traveling-salesman/>
--   <https://tojyouso.shinyapps.io/fpl_fixture_difficulty/>
--   <https://tokyofoundation.shinyapps.io/Beta61/>
--   <https://tokyofoundation.shinyapps.io/Beta62/>
--   <https://tom-courtney.shinyapps.io/CourseProject/>
--   <https://tomaugust.shinyapps.io/naturespostcodes/>
--   <https://tomfaulkenberry.shinyapps.io/mathclub-2017/>
--   <https://tomfaulkenberry.shinyapps.io/tdist/>
--   <https://tomholbrook.shinyapps.io/shiny_map_evotes/>
--   <https://tomhopper.shinyapps.io/MI_50_Safest_cities/>
--   <https://tomliptrot.shinyapps.io/international_jobs/>
--   <https://tomlous.shinyapps.io/capstone/>
--   <https://tomlouwerse.shinyapps.io/coalition-app/>
--   <https://tomstringham.shinyapps.io/pc_delegate_tracker/>
--   <https://tonyangelo.shinyapps.io/hPVI_2015_histapp/>
--   <https://tonyd.shinyapps.io/DevDataProducts/>
--   <https://tonyfischetti.shinyapps.io/InteractiveLogisticRegression/>
--   <https://topquirk67.shinyapps.io/DataProductsProjectShiny/>
--   <https://totocol.shinyapps.io/dataproductsproject/>
--   <https://tpasinet.shinyapps.io/season-smallmultiples-app/>
--   <https://tradewp.shinyapps.io/TwitterAnalytics/>
--   <https://trading.shinyapps.io/ploption/>
--   <https://trading.shinyapps.io/stock_vol/>
--   <https://trafforddatalab.shinyapps.io/IMD_2015/>
--   <https://trainingidn.shinyapps.io/tdiff-datasets/>
--   <https://tread.shinyapps.io/VISA-shiny/>
--   <https://trestle.shinyapps.io/clippr/>
--   <https://trestletech.shinyapps.io/dallas-police/>
--   <https://trestletech.shinyapps.io/dpd-active/>
--   <https://trestletech.shinyapps.io/mc-words/>
--   <https://trevor.shinyapps.io/subalgebra/>
--   <https://tristan.shinyapps.io/eyetracking_dashboard_demo/>
--   <https://tristan.shinyapps.io/l2t_database_explorer_demo/>
--   <https://troutbum.shinyapps.io/gpat/>
--   <https://troysh.shinyapps.io/babies/>
--   <https://tschmidt83.shinyapps.io/shiny/>
--   <https://tschmidt83.shinyapps.io/supe-R-bowl/>
--   <https://tsuprun.shinyapps.io/corrone/>
--   <https://ttso.shinyapps.io/AaltoAltm/>
--   <https://ttso.shinyapps.io/AaltoAltmSince2007/>
--   <https://ttso.shinyapps.io/AaltoAltmSince2007/_w_b0e7e6bcbc6e525604feb99b5d16e5ae3ed07b19e1e58550/>
--   <https://ttso.shinyapps.io/aaltodimensions/>
--   <https://ttso.shinyapps.io/altm2015top100/>
--   <https://ttso.shinyapps.io/altm2016top100/>
--   <https://ttso.shinyapps.io/altmpolicy/>
--   <https://ttso.shinyapps.io/emailstats/>
--   <https://ttso.shinyapps.io/hkistreets/>
--   <https://ttso.shinyapps.io/lintuatlas/>
--   <https://ttso.shinyapps.io/snow/>
--   <https://ttso.shinyapps.io/twfavs/>
--   <https://turfeffect.shinyapps.io/marea/>
--   <https://tutorials.shinyapps.io/02-Vis-Basics/>
--   <https://tutorials.shinyapps.io/03a-data-manip-filter/>
--   <https://tvbassine.shinyapps.io/fourfactors123/>
--   <https://tvbassine.shinyapps.io/lottosim/>
--   <https://tvbassine.shinyapps.io/threepointprojections/>
--   <https://tvbassine.shinyapps.io/usts/>
--   <https://tvdwiele.shinyapps.io/Santander-Product-Recommendation/>
--   <https://tvganesh.shinyapps.io/googly/>
--   <https://tvganesh.shinyapps.io/inswingerFinal/>
--   <https://tvganesh.shinyapps.io/Sixer/>
--   <https://twittertextclustering.shinyapps.io/Twitter_Cluster_Analysis/>
--   <https://tybyers.shinyapps.io/dataproducts_shiny/>
--   <https://tylerhunt.shinyapps.io/cfbRankings/>
--   <https://tylermw.shinyapps.io/shinychat/>
--   <https://uaclimateextension.shinyapps.io/precipChart/>
--   <https://uasnap.shinyapps.io/climdist/>
--   <https://uasnap.shinyapps.io/customiconsdemo/>
--   <https://uasnap.shinyapps.io/ex_leaflet/>
--   <https://uasnap.shinyapps.io/nwtapp/>
--   <https://uasnap.shinyapps.io/standage/>
--   <https://ucanr.shinyapps.io/SFREC_Web_Application/>
--   <https://ucsdbiostats.shinyapps.io/SamplingDistributions_ShinyApplet/>
--   <https://udenvh.shinyapps.io/vuurwerk_overlast_2016/>
--   <https://uhasselt.shinyapps.io/shiny-biclust/>
--   <https://ulizellbeck.shinyapps.io/capstone/>
--   <https://ulvic.shinyapps.io/Flight_data_visual/>
--   <https://umair.shinyapps.io/segmented_app_doc/>
--   <https://und1f.shinyapps.io/shiny-stocks/>
--   <https://unikum.shinyapps.io/ga-dimsmets/>
--   <https://uown.shinyapps.io/test_shiny1/>
--   <https://upsa.shinyapps.io/DynamicUI/>
--   <https://uribo.shinyapps.io/Japan_useR/>
--   <https://ustreettdg.shinyapps.io/ratings-app/>
--   <https://utrecht-university.shinyapps.io/elicitation/>
--   <https://valeria.shinyapps.io/FINAL_PROJECT_COURSERA_DDP/>
--   <https://valerio-vaccaro.shinyapps.io/bitcoin_monitor/>
--   <https://vamshideep.shinyapps.io/Projects/>
--   <https://vbarna.shinyapps.io/print_distribution/>
--   <https://veikkoisotalo.shinyapps.io/helsinkiclusters-app/>
--   <https://veikkoisotalo.shinyapps.io/helsinkikuntavaalit-app/>
--   <https://veikkoisotalo.shinyapps.io/helsinkiparties-app/>
--   <https://venexia.shinyapps.io/PharmIV/>
--   <https://venkateshnagella.shinyapps.io/DevelopingDataProducts/>
--   <https://vera-institute.shinyapps.io/nyc_jail_population/>
--   <https://verenahaunschmid.shinyapps.io/WordcloudExploreR/>
--   <https://vetinst.shinyapps.io/luseberegning/>
--   <https://vevealab.shinyapps.io/WeightFunctionModel/>
--   <https://vha-healthequity.shinyapps.io/NVHER_Shiny/>
--   <https://victor.shinyapps.io/monster/>
--   <https://vikdad1.shinyapps.io/Shiny_App/>
--   <https://vincentrupp.shinyapps.io/R_Xmas_Tree/>
--   <https://virmaja.shinyapps.io/MandR/>
--   <https://virusme.shinyapps.io/abs_census2016_incomes_visualisation/>
--   <https://visiuchen.shinyapps.io/PITTSBURGH-CRIME-MAP/>
--   <https://vivaldianalytics.shinyapps.io/Violin/>
--   <https://vivekkhetan.shinyapps.io/tweetcloud/>
--   <https://viz-my-grant.shinyapps.io/view/>
--   <https://vlandham.shinyapps.io/boston_police_incidents/>
--   <https://vmachan.shinyapps.io/vm_shinyapp_01/>
--   <https://vnijs.shinyapps.io/marketing/>
--   <https://vnijs.shinyapps.io/quant/>
--   <https://volterr.shinyapps.io/ShinyAssignment/>
--   <https://vor.shinyapps.io/subalgebra/>
--   <https://vranjan.shinyapps.io/irisExplore/>
--   <https://vruvora.shinyapps.io/congressional_earmarks/>
--   <https://vshivarov.shinyapps.io/golub_shiny3/>
--   <https://vykhand.shinyapps.io/devdataprod-010/>
--   <https://vzaigrin.shinyapps.io/WordsPrediction/>
--   <https://walkerke.shinyapps.io/dimple_pyramid/>
--   <https://walkerke.shinyapps.io/gender-age-explorer/>
--   <https://walkerke.shinyapps.io/lex_former_ussr/>
--   <https://walkerke.shinyapps.io/neighborhood_diversity/>
--   <https://walkerke.shinyapps.io/texas_pyramids/>
--   <https://walkerke.shinyapps.io/tigris-zip-income/>
--   <https://wallach.shinyapps.io/MLB_franchise_performance/>
--   <https://waterdatascience.shinyapps.io/exploreEGRET/>
--   <https://wb-lac.shinyapps.io/lac_diversity/>
--   <https://wcu-hydro.shinyapps.io/GribbleGap_Discharge/>
--   <https://wd2017.shinyapps.io/game-of-thrones/>
--   <https://wdkz125.shinyapps.io/Caramel/>
--   <https://weatherlisa.shinyapps.io/App-1/>
--   <https://webapps.shinyapps.io/riskcalc/>
--   <https://webapptester.shinyapps.io/Dynamic_Probabilities/>
--   <https://webbphysprep.shinyapps.io/Drill_App/>
--   <https://weekendarchaeo.shinyapps.io/mysteps/>
--   <https://weinbergerlab.shinyapps.io/shinyplay03/>
--   <https://wendyu.shinyapps.io/Gender_Pay_Gap/>
--   <https://what-works-wellbeing.shinyapps.io/HappyJobsTestApp/>
--   <https://whatstat.shinyapps.io/shiny/>
--   <https://whoequity.shinyapps.io/HEAT/>
--   <https://widdowquinn.shinyapps.io/nucleotide_frequencies/>
--   <https://wilkins.shinyapps.io/bird_vocal_scaling/>
--   <https://wilkins.shinyapps.io/Scratch/>
--   <https://wilkins.shinyapps.io/seeClimate/>
--   <https://wilkinsondi.shinyapps.io/blogimpact/>
--   <https://willgervais.shinyapps.io/atheist_rate/>
--   <https://willgervais.shinyapps.io/Bayes-Factor-for-Tested-Alternative/>
--   <https://williamstudent.shinyapps.io/nextword/>
--   <https://willisnz.shinyapps.io/Single_House_Zone_2013_PUAP/>
--   <https://willpearse.shinyapps.io/pd_app/>
--   <https://willwolf.shinyapps.io/ordered-categorical-a-b-test/>
--   <https://willwolf.shinyapps.io/rescue-time-estimation/>
--   <https://win-vector.shinyapps.io/CampaignPlanner/>
--   <https://win-vector.shinyapps.io/ExploreModels/>
--   <https://win-vector.shinyapps.io/kcompshiny/>
--   <https://winston.shinyapps.io/activity-dashboard/>
--   <https://winston.shinyapps.io/buses/>
--   <https://winston.shinyapps.io/dash/>
--   <https://winston.shinyapps.io/ggvis-basics-histogram-slider/>
--   <https://winston.shinyapps.io/movies/>
--   <https://wisconsindnr.shinyapps.io/EcycleCollectorSite/>
--   <https://wjjessen.shinyapps.io/GeneTyPR/>
--   <https://wmurphyrd.shinyapps.io/adit/>
--   <https://wolfganggross.shinyapps.io/shiny/>
--   <https://wordcloud.shinyapps.io/basictext/>
--   <https://wordcloud.shinyapps.io/factorapp/>
--   <https://wordcloud.shinyapps.io/flipkart/>
--   <https://wordcloud.shinyapps.io/googlenews/>
--   <https://wordcloud.shinyapps.io/jsmapp/>
--   <https://wordcloud.shinyapps.io/textsplit/>
--   <https://wordmapper.shinyapps.io/wordmapper/>
--   <https://worville.shinyapps.io/MLS_Salaries/>
--   <https://wpro.shinyapps.io/screen_tb/>
--   <https://wrathematics.shinyapps.io/faas/>
--   <https://wrathematics.shinyapps.io/gmhelper/>
--   <https://wrathematics.shinyapps.io/hackR/>
--   <https://wrathematics.shinyapps.io/ngram/>
--   <https://wrathematics.shinyapps.io/RTop500/>
--   <https://wugology.shinyapps.io/DataProduct/>
--   <https://wuli.shinyapps.io/QuoiR/>
--   <https://ww44ss.shinyapps.io/Coursera_Shiny_Capstone/>
--   <https://www.shinyapps.io/admin/>
--   <https://www.shinyapps.io/admin/#/>
--   <https://www.shinyapps.io/admin/#/application/>
--   <https://www.shinyapps.io/applications/>
--   <https://wyoweeds.shinyapps.io/CornYieldDemo/>
--   <https://wyoweeds.shinyapps.io/offtarget/>
--   <https://wyoweeds.shinyapps.io/SprayBuffer/>
--   <https://wyoweeds.shinyapps.io/SugarbeetYieldDemo/>
--   <https://wyquek71.shinyapps.io/Ahput4/>
--   <https://xavijacas.shinyapps.io/ShinyApp/>
--   <https://xpontimus.shinyapps.io/farmersmarketsreport/>
--   <https://yabinfan.shinyapps.io/movie_loc/>
--   <https://yalisme.shinyapps.io/MoocShiny/>
--   <https://yangjy.shinyapps.io/lastwords_app/>
--   <https://yasserglez.shinyapps.io/oreilly_data_science_salary/>
--   <https://yichuanw.shinyapps.io/ChinaMap/>
--   <https://yihui.shinyapps.io/DT-checkbox/>
--   <https://yihui.shinyapps.io/DT-filter/>
--   <https://yihui.shinyapps.io/DT-info/>
--   <https://yihui.shinyapps.io/DT-proxy/>
--   <https://yihui.shinyapps.io/DT-rows/>
--   <https://yihui.shinyapps.io/DT-scroller/>
--   <https://yihui.shinyapps.io/formatR/>
--   <https://yihui.shinyapps.io/imgsvd/>
--   <https://yihui.shinyapps.io/voice/>
--   <https://yimingyu.shinyapps.io/shinycircos/>
--   <https://yingli.shinyapps.io/nextWord/>
--   <https://ykimmate14.shinyapps.io/bible/>
--   <https://yogeshbansal.shinyapps.io/shiny2/>
--   <https://yoke.shinyapps.io/dscapp/>
--   <https://yonezawa-norin.shinyapps.io/monkeymap/>
--   <https://yonicd.shinyapps.io/Elections/>
--   <https://yrochat.shinyapps.io/dummy_example/>
--   <https://ysidi.shinyapps.io/gunflow/>
--   <https://ytake2.shinyapps.io/Cor2/>
--   <https://ytmytm.shinyapps.io/project/>
--   <https://yuanhu.shinyapps.io/SinglewordPrediction/>
--   <https://yuejiang.shinyapps.io/GPCRsnakeplotter/>
--   <https://yufree.shinyapps.io/nlpshiny/>
--   <https://yufreecas.shinyapps.io/journaltone/>
--   <https://yuorme.shinyapps.io/IMDB_Explorer/>
--   <https://yusofwork.shinyapps.io/yusof/>
--   <https://yutannihilation.shinyapps.io/dcStockR-8411T/>
--   <https://ywcui.shinyapps.io/TextPredictionApp/>
--   <https://yxes.shinyapps.io/Capstone/>
--   <https://yxes.shinyapps.io/Officer_Involved_Shootings_Apr_2015/>
--   <https://yxtay.shinyapps.io/dsc-shiny/>
--   <https://yyolanda0507.shinyapps.io/AsthMA-app/>
--   <https://z-frm.shinyapps.io/saccr_shiny/>
--   <https://zero323.shinyapps.io/nasb-microtask-viewer-dev/>
--   <https://zihaozhangap.shinyapps.io/bayesian_example/>
--   <https://zkuralt.shinyapps.io/wgstogk/>
--   <https://zliu-omics.shinyapps.io/liver/>
--   <https://zmsgnk.shinyapps.io/type_decision_tree/>
--   <https://zweitstimme.shinyapps.io/Wahlerwartung/>
--   <https://zx8754.shinyapps.io/PSA_Velocity/>
+Note: Link texts display the name of the shiny account and thename of
+the application, i.e.,
+
+    {account-name}/{app-name}
+
+but the actual URLs all match the following
+    pattern:
+
+    https://{account-name}.shinyapps.io/{app-name}/
+
+  - [315group20/315final](https://315group20.shinyapps.io/315final/)
+  - [3manuek/FTS\_Innodb](https://3manuek.shinyapps.io/FTS_Innodb/)
+  - [4quant/gimpress](https://4quant.shinyapps.io/gimpress/)
+  - [56north/gahner](https://56north.shinyapps.io/gahner/)
+  - [a6111e/Assignment\_Part1\_files](https://a6111e.shinyapps.io/Assignment_Part1_files/)
+  - [aaaboyles/national-security-strategy](https://aaaboyles.shinyapps.io/national-security-strategy/)
+  - [aakarshgupta/shiny\_app](https://aakarshgupta.shinyapps.io/shiny_app/)
+  - [aakarshgupta/ShinyAssignment](https://aakarshgupta.shinyapps.io/ShinyAssignment/)
+  - [aanand/tmhack](https://aanand.shinyapps.io/tmhack/)
+  - [aapidata/facts](https://aapidata.shinyapps.io/facts/)
+  - [abannachbrown/preclinical-models-of-depression](https://abannachbrown.shinyapps.io/preclinical-models-of-depression/)
+  - [abayesian/shiny\_app](https://abayesian.shinyapps.io/shiny_app/)
+  - [abhinav-agrawal/shinyasignment](https://abhinav-agrawal.shinyapps.io/shinyasignment/)
+  - [abhishekumrawal/PredWord](https://abhishekumrawal.shinyapps.io/PredWord/)
+  - [abichat/BrownianMotion](https://abichat.shinyapps.io/BrownianMotion/)
+  - [abmish/startup-funding](https://abmish.shinyapps.io/startup-funding/)
+  - [abny2015/ThreatDashboard](https://abny2015.shinyapps.io/ThreatDashboard/)
+  - [abresler/nba\_player\_analysis\_season](https://abresler.shinyapps.io/nba_player_analysis_season/)
+  - [abresler/nba\_player\_rank](https://abresler.shinyapps.io/nba_player_rank/)
+  - [abresler/nba\_player\_ranker](https://abresler.shinyapps.io/nba_player_ranker/)
+  - [abresler/nba\_player\_season\_analysis](https://abresler.shinyapps.io/nba_player_season_analysis/)
+  - [abresler/nba\_winshare](https://abresler.shinyapps.io/nba_winshare/)
+  - [acaimo/distribocion\_binomiale](https://acaimo.shinyapps.io/distribocion_binomiale/)
+  - [acarloto/PosiPredVal](https://acarloto.shinyapps.io/PosiPredVal/)
+  - [ace-ebert/queue\_simulator\_mmk](https://ace-ebert.shinyapps.io/queue_simulator_mmk/)
+  - [acm9q/africanconflictapp](https://acm9q.shinyapps.io/africanconflictapp/)
+  - [acm9q/cryptoapp](https://acm9q.shinyapps.io/cryptoapp/)
+  - [acm9q/Presidential\_Rankings](https://acm9q.shinyapps.io/Presidential_Rankings/)
+  - [acoppock/GOTV](https://acoppock.shinyapps.io/GOTV/)
+  - [acoppock/MC\_app](https://acoppock.shinyapps.io/MC_app/)
+  - [actuarialanddataanalytics/App-1](https://actuarialanddataanalytics.shinyapps.io/App-1/)
+  - [acuariano/photo-voltaic-growth](https://acuariano.shinyapps.io/photo-voltaic-growth/)
+  - [adam-dennett/londonShiny](https://adam-dennett.shinyapps.io/londonShiny/)
+  - [adamacatedra/Encuesta2015](https://adamacatedra.shinyapps.io/Encuesta2015/)
+  - [adamgao666/nyc\_noises](https://adamgao666.shinyapps.io/nyc_noises/)
+  - [adamishere/haikugen](https://adamishere.shinyapps.io/haikugen/)
+  - [adamishere/randname](https://adamishere.shinyapps.io/randname/)
+  - [adaptwest/climate\_displacement](https://adaptwest.shinyapps.io/climate_displacement/)
+  - [adavide1982/ChannelAttribution](https://adavide1982.shinyapps.io/ChannelAttribution/)
+  - [adelmoaguiarfilho/SER\_TWITTER](https://adelmoaguiarfilho.shinyapps.io/SER_TWITTER/)
+  - [adhokshaja/Data-Summariser](https://adhokshaja.shinyapps.io/Data-Summariser/)
+  - [adhokshaja/house](https://adhokshaja.shinyapps.io/house/)
+  - [adhokshaja/student\_alc\_consumption](https://adhokshaja.shinyapps.io/student_alc_consumption/)
+  - [adiaz/serial-killer-analysis](https://adiaz.shinyapps.io/serial-killer-analysis/)
+  - [adornes/devdataprod](https://adornes.shinyapps.io/devdataprod/)
+  - [adp2223/nbafinalshistory](https://adp2223.shinyapps.io/nbafinalshistory/)
+  - [ae2015/predict\_pressure](https://ae2015.shinyapps.io/predict_pressure/)
+  - [aelbozie/windretweets](https://aelbozie.shinyapps.io/windretweets/)
+  - [afazali/afazali5](https://afazali.shinyapps.io/afazali5/)
+  - [afheritability/afheritability](https://afheritability.shinyapps.io/afheritability/)
+  - [afraus/Afraus\_app](https://afraus.shinyapps.io/Afraus_app/)
+  - [agawronski/canadian\_housing\_index](https://agawronski.shinyapps.io/canadian_housing_index/)
+  - [agileanalytics/WordCloudProject](https://agileanalytics.shinyapps.io/WordCloudProject/)
+  - [aging/epigeneticclock](https://aging.shinyapps.io/epigeneticclock/)
+  - [agleontyev/my\_first\_shiny](https://agleontyev.shinyapps.io/my_first_shiny/)
+  - [aglhurley/bifor](https://aglhurley.shinyapps.io/bifor/)
+  - [aglhurley/DND\_Dice\_Roll](https://aglhurley.shinyapps.io/DND_Dice_Roll/)
+  - [agomariz/shiny](https://agomariz.shinyapps.io/shiny/)
+  - [agomezh/importancesamplingshiny](https://agomezh.shinyapps.io/importancesamplingshiny/)
+  - [agrogan/shinyBayes](https://agrogan.shinyapps.io/shinyBayes/)
+  - [agstudy/tun\_elections](https://agstudy.shinyapps.io/tun_elections/)
+  - [aguereca/NLP-Capstone](https://aguereca.shinyapps.io/NLP-Capstone/)
+  - [aguinis/ml\_power](https://aguinis.shinyapps.io/ml_power/)
+  - [ahalterman/BayesCalculator](https://ahalterman.shinyapps.io/BayesCalculator/)
+  - [ahmadmobin/ccrs\_2015-2016](https://ahmadmobin.shinyapps.io/ccrs_2015-2016/)
+  - [ahmadmobin/Fall\_Finals\_2017](https://ahmadmobin.shinyapps.io/Fall_Finals_2017/)
+  - [ahmadmobin/i\_slamhockey2018teamstats](https://ahmadmobin.shinyapps.io/i_slamhockey2018teamstats/)
+  - [ahmed/bootstrap](https://ahmed.shinyapps.io/bootstrap/)
+  - [ahmed/drift](https://ahmed.shinyapps.io/drift/)
+  - [ahmed/permutation](https://ahmed.shinyapps.io/permutation/)
+  - [ahmed/selection](https://ahmed.shinyapps.io/selection/)
+  - [ahopkins/tmb\_orr](https://ahopkins.shinyapps.io/tmb_orr/)
+  - [ainunnajib/versi-DPRD-vs-versi-Pemprov](https://ainunnajib.shinyapps.io/versi-DPRD-vs-versi-Pemprov/)
+  - [aitocompton/MyApp](https://aitocompton.shinyapps.io/MyApp/)
+  - [aj17/twitteranalytics](https://aj17.shinyapps.io/twitteranalytics/)
+  - [ajammala/Capstone](https://ajammala.shinyapps.io/Capstone/)
+  - [ajaykumar/shinyr\_trends](https://ajaykumar.shinyapps.io/shinyr_trends/)
+  - [ajpete/FLAM](https://ajpete.shinyapps.io/FLAM/)
+  - [ajthurston/classificationaccuracy](https://ajthurston.shinyapps.io/classificationaccuracy/)
+  - [ajthurston/Spearman-Brown\_App\_18Oct2016](https://ajthurston.shinyapps.io/Spearman-Brown_App_18Oct2016/)
+  - [aknw/oakbirdpop](https://aknw.shinyapps.io/oakbirdpop/)
+  - [alagarde/BackTestSentimentAmareos](https://alagarde.shinyapps.io/BackTestSentimentAmareos/)
+  - [alandipert/html2r](https://alandipert.shinyapps.io/html2r/)
+  - [albahnsen/presentation\_jmlr\_15\_delgado14a](https://albahnsen.shinyapps.io/presentation_jmlr_15_delgado14a/)
+  - [alberto-sanchez-rodelgo/datascoper](https://alberto-sanchez-rodelgo.shinyapps.io/datascoper/)
+  - [alecchristie888/Weightingmethdes](https://alecchristie888.shinyapps.io/Weightingmethdes/)
+  - [alegione/PCR-assistant](https://alegione.shinyapps.io/PCR-assistant/)
+  - [alegione/Virus\_Titration\_Calculators](https://alegione.shinyapps.io/Virus_Titration_Calculators/)
+  - [aleruete/GBIFapp](https://aleruete.shinyapps.io/GBIFapp/)
+  - [alevashov/alex-course-project](https://alevashov.shinyapps.io/alex-course-project/)
+  - [alexf/tarteebEldof3a](https://alexf.shinyapps.io/tarteebEldof3a/)
+  - [alexius/text-positivity-metric](https://alexius.shinyapps.io/text-positivity-metric/)
+  - [alexkowa/joyEurope](https://alexkowa.shinyapps.io/joyEurope/)
+  - [alexkruse/stadtrad](https://alexkruse.shinyapps.io/stadtrad/)
+  - [alexschell/tagtime-vis](https://alexschell.shinyapps.io/tagtime-vis/)
+  - [algollabs/glmPhotoZ-2](https://algollabs.shinyapps.io/glmPhotoZ-2/)
+  - [algorithmia/fourier-deseasonality](https://algorithmia.shinyapps.io/fourier-deseasonality/)
+  - [algospark/crime\_explorer](https://algospark.shinyapps.io/crime_explorer/)
+  - [algospark/mapexplorer](https://algospark.shinyapps.io/mapexplorer/)
+  - [aliaksandrkazlou/tutby\_bots](https://aliaksandrkazlou.shinyapps.io/tutby_bots/)
+  - [alistaire/running\_for\_president](https://alistaire.shinyapps.io/running_for_president/)
+  - [allezcannes/Soccer\_squads](https://allezcannes.shinyapps.io/Soccer_squads/)
+  - [alphaminer/VolaStrat](https://alphaminer.shinyapps.io/VolaStrat/)
+  - [alspeed09/tweetdivide](https://alspeed09.shinyapps.io/tweetdivide/)
+  - [altervalter/iris](https://altervalter.shinyapps.io/iris/)
+  - [alu0100673647/SAYAS](https://alu0100673647.shinyapps.io/SAYAS/)
+  - [alval/got\_shiny](https://alval.shinyapps.io/got_shiny/)
+  - [alvarobusot/appShiny](https://alvarobusot.shinyapps.io/appShiny/)
+  - [alyssahislop/Registered-Borrower-Visits](https://alyssahislop.shinyapps.io/Registered-Borrower-Visits/)
+  - [amadoukone/DuguTogo](https://amadoukone.shinyapps.io/DuguTogo/)
+  - [amandadobbyn/clusterfun](https://amandadobbyn.shinyapps.io/clusterfun/)
+  - [amazehayes/test](https://amazehayes.shinyapps.io/test/)
+  - [amckenz/brain\_gene\_expression](https://amckenz.shinyapps.io/brain_gene_expression/)
+  - [amcrisan/EpiDesignPattern](https://amcrisan.shinyapps.io/EpiDesignPattern/)
+  - [amcrisan/gevit\_gallery\_prototype](https://amcrisan.shinyapps.io/gevit_gallery_prototype/)
+  - [amenzel/bball](https://amenzel.shinyapps.io/bball/)
+  - [amenzel/CART\_test](https://amenzel.shinyapps.io/CART_test/)
+  - [amenzel/d3\_cart\_test](https://amenzel.shinyapps.io/d3_cart_test/)
+  - [amenzel/nba\_box](https://amenzel.shinyapps.io/nba_box/)
+  - [amezolma/ragde](https://amezolma.shinyapps.io/ragde/)
+  - [amice13/dproduct](https://amice13.shinyapps.io/dproduct/)
+  - [amirrudin/DDP\_project](https://amirrudin.shinyapps.io/DDP_project/)
+  - [amiyaal/David-Score](https://amiyaal.shinyapps.io/David-Score/)
+  - [amj2012/wosostats](https://amj2012.shinyapps.io/wosostats/)
+  - [amplab/MEDCI](https://amplab.shinyapps.io/MEDCI/)
+  - [amritpatel/Project](https://amritpatel.shinyapps.io/Project/)
+  - [amtucker/wild4890\_pred\_prey](https://amtucker.shinyapps.io/wild4890_pred_prey/)
+  - [amustakim/PopulationPredictor](https://amustakim.shinyapps.io/PopulationPredictor/)
+  - [amyjiangsu/DevDataProduct](https://amyjiangsu.shinyapps.io/DevDataProduct/)
+  - [analysingstuffs/shiny\_gradient\_descent](https://analysingstuffs.shinyapps.io/shiny_gradient_descent/)
+  - [analytichealth/beta](https://analytichealth.shinyapps.io/beta/)
+  - [analytichealth/Contact](https://analytichealth.shinyapps.io/Contact/)
+  - [analytichealth/Rticles](https://analytichealth.shinyapps.io/Rticles/)
+  - [anarinsk/MDIS\_Shiny](https://anarinsk.shinyapps.io/MDIS_Shiny/)
+  - [andeek/gravicom](https://andeek.shinyapps.io/gravicom/)
+  - [andland/bradley\_terry](https://andland.shinyapps.io/bradley_terry/)
+  - [andland/CD1025Playlist](https://andland.shinyapps.io/CD1025Playlist/)
+  - [andland/CD1025Playlist2](https://andland.shinyapps.io/CD1025Playlist2/)
+  - [andland/ProbabilityOlderByName](https://andland.shinyapps.io/ProbabilityOlderByName/)
+  - [andreamrau/edge-dashboard](https://andreamrau.shinyapps.io/edge-dashboard/)
+  - [andremarais/Ladder](https://andremarais.shinyapps.io/Ladder/)
+  - [andresalvarado/Knn-AndresAlvarado](https://andresalvarado.shinyapps.io/Knn-AndresAlvarado/)
+  - [andreslajous/judiciales](https://andreslajous.shinyapps.io/judiciales/)
+  - [andrewhaoyu/PAGEANT](https://andrewhaoyu.shinyapps.io/PAGEANT/)
+  - [andrewjgillen/resourceprice](https://andrewjgillen.shinyapps.io/resourceprice/)
+  - [andrewmullins/sampleDistribution](https://andrewmullins.shinyapps.io/sampleDistribution/)
+  - [andrewrmcneil/Crypto\_Prices](https://andrewrmcneil.shinyapps.io/Crypto_Prices/)
+  - [andrewrmcneil/Toronto\_Map](https://andrewrmcneil.shinyapps.io/Toronto_Map/)
+  - [andrewrmcneil/World\_Conflicts](https://andrewrmcneil.shinyapps.io/World_Conflicts/)
+  - [andrewrmcneil/World\_Population\_Pyramid](https://andrewrmcneil.shinyapps.io/World_Population_Pyramid/)
+  - [andros-spica/biplot\_2d](https://andros-spica.shinyapps.io/biplot_2d/)
+  - [andybeger/seb-tallinn-marathon](https://andybeger.shinyapps.io/seb-tallinn-marathon/)
+  - [andyf/regressiontomean](https://andyf.shinyapps.io/regressiontomean/)
+  - [andyf/sampling](https://andyf.shinyapps.io/sampling/)
+  - [andyf/themepower](https://andyf.shinyapps.io/themepower/)
+  - [andykrause/ShouldIAirbnb](https://andykrause.shinyapps.io/ShouldIAirbnb/)
+  - [andylytics/hosp\_compare](https://andylytics.shinyapps.io/hosp_compare/)
+  - [andylytics/nfldemo](https://andylytics.shinyapps.io/nfldemo/)
+  - [andysouth/resistmixseq](https://andysouth.shinyapps.io/resistmixseq/)
+  - [andysouth/shinytse7](https://andysouth.shinyapps.io/shinytse7/)
+  - [andywon/Nets-Shiny](https://andywon.shinyapps.io/Nets-Shiny/)
+  - [andywon/text-predictor](https://andywon.shinyapps.io/text-predictor/)
+  - [aneesha/ShinyTimeseriesForecasting](https://aneesha.shinyapps.io/ShinyTimeseriesForecasting/)
+  - [anishsingh/IndianEconomyAnalysis](https://anishsingh.shinyapps.io/IndianEconomyAnalysis/)
+  - [anishsingh/Inflation-Rates](https://anishsingh.shinyapps.io/Inflation-Rates/)
+  - [anishwalia20/KaggleSurveyDataAnalysisDashboard](https://anishwalia20.shinyapps.io/KaggleSurveyDataAnalysisDashboard/)
+  - [anmuz/Next\_Word\_Prediction](https://anmuz.shinyapps.io/Next_Word_Prediction/)
+  - [annakrystalli/fileEncoding\_checker](https://annakrystalli.shinyapps.io/fileEncoding_checker/)
+  - [annakrystalli/OpenConBerlin\_reprohack](https://annakrystalli.shinyapps.io/OpenConBerlin_reprohack/)
+  - [annakrystalli/OpenConLondon\_Doathon](https://annakrystalli.shinyapps.io/OpenConLondon_Doathon/)
+  - [anneburns/TasteOf](https://anneburns.shinyapps.io/TasteOf/)
+  - [anthonyleo/bayesiancrank](https://anthonyleo.shinyapps.io/bayesiancrank/)
+  - [antoine-guillot-showcase/ExploringJapanTradeApp\_Kaggle](https://antoine-guillot-showcase.shinyapps.io/ExploringJapanTradeApp_Kaggle/)
+  - [antoniakrefeldschwalb/ResearchProgramStrategy](https://antoniakrefeldschwalb.shinyapps.io/ResearchProgramStrategy/)
+  - [antonitsin/rent\_or\_buy](https://antonitsin.shinyapps.io/rent_or_buy/)
+  - [ants-at-asu/shinyv](https://ants-at-asu.shinyapps.io/shinyv/)
+  - [aoshotse/Exploring\_Regression\_in\_R](https://aoshotse.shinyapps.io/Exploring_Regression_in_R/)
+  - [apapiu/Pies](https://apapiu.shinyapps.io/Pies/)
+  - [aponce73/shiny\_maiz](https://aponce73.shinyapps.io/shiny_maiz/)
+  - [applocation/PerformanceWebapp](https://applocation.shinyapps.io/PerformanceWebapp/)
+  - [apt325/stopwatch\_error\_tix](https://apt325.shinyapps.io/stopwatch_error_tix/)
+  - [aquapeek/thermohydrographs](https://aquapeek.shinyapps.io/thermohydrographs/)
+  - [arantegui/Curva\_OC](https://arantegui.shinyapps.io/Curva_OC/)
+  - [aravamu2/sunflower](https://aravamu2.shinyapps.io/sunflower/)
+  - [arcadevault/rcadevault](https://arcadevault.shinyapps.io/rcadevault/)
+  - [archeomatic/Discretisator](https://archeomatic.shinyapps.io/Discretisator/)
+  - [ardecarlo/CensusVis](https://ardecarlo.shinyapps.io/CensusVis/)
+  - [arevaju/ebola](https://arevaju.shinyapps.io/ebola/)
+  - [arie/geo-facet-app](https://arie.shinyapps.io/geo-facet-app/)
+  - [arilamstein/choroplethr-3-1-0-shiny-app](https://arilamstein.shinyapps.io/choroplethr-3-1-0-shiny-app/)
+  - [arilamstein/choroplethrShiny](https://arilamstein.shinyapps.io/choroplethrShiny/)
+  - [arilamstein/state-crime-rate-analysis](https://arilamstein.shinyapps.io/state-crime-rate-analysis/)
+  - [arinarmo/TechTalk](https://arinarmo.shinyapps.io/TechTalk/)
+  - [arlinconio/gnr\_setlistfm\_mapped](https://arlinconio.shinyapps.io/gnr_setlistfm_mapped/)
+  - [armandruiz/01\_hello](https://armandruiz.shinyapps.io/01_hello/)
+  - [armodel/01\_hello](https://armodel.shinyapps.io/01_hello/)
+  - [aron3313/xiapp](https://aron3313.shinyapps.io/xiapp/)
+  - [arostaing/who-app-en](https://arostaing.shinyapps.io/who-app-en/)
+  - [arraycgh/HNSCC\_explorer](https://arraycgh.shinyapps.io/HNSCC_explorer/)
+  - [artclustering/ModelExploration](https://artclustering.shinyapps.io/ModelExploration/)
+  - [arthur-fisch/gastos\_eleicoes](https://arthur-fisch.shinyapps.io/gastos_eleicoes/)
+  - [arthur/aircrashes](https://arthur.shinyapps.io/aircrashes/)
+  - [artofstat/EDA\_quantitative](https://artofstat.shinyapps.io/EDA_quantitative/)
+  - [arundurvasula/GDB-sim](https://arundurvasula.shinyapps.io/GDB-sim/)
+  - [asadito/Pokemon](https://asadito.shinyapps.io/Pokemon/)
+  - [asashinyapps/asashootingapp\_development](https://asashinyapps.shinyapps.io/asashootingapp_development/)
+  - [asashinyapps/shootingshinyapp](https://asashinyapps.shinyapps.io/shootingshinyapp/)
+  - [asbcllc/levered\_metric\_dashboard](https://asbcllc.shinyapps.io/levered_metric_dashboard/)
+  - [asbcllc/Percy\_Has\_Neural\_Gas](https://asbcllc.shinyapps.io/Percy_Has_Neural_Gas/)
+  - [aschinchon/Letters](https://aschinchon.shinyapps.io/Letters/)
+  - [asepbagja/idx-companies](https://asepbagja.shinyapps.io/idx-companies/)
+  - [asesoria-estadistica/CVITAE](https://asesoria-estadistica.shinyapps.io/CVITAE/)
+  - [asesoria-estadistica/SECCIONES](https://asesoria-estadistica.shinyapps.io/SECCIONES/)
+  - [asgr/ganttshiny](https://asgr.shinyapps.io/ganttshiny/)
+  - [ashcroftp/IMO-ODE-solver](https://ashcroftp.shinyapps.io/IMO-ODE-solver/)
+  - [asheshwor/migrationviz](https://asheshwor.shinyapps.io/migrationviz/)
+  - [asheshwor/np-quake](https://asheshwor.shinyapps.io/np-quake/)
+  - [asianturfgrass/ET\_calculator](https://asianturfgrass.shinyapps.io/ET_calculator/)
+  - [asianturfgrass/irr\_ph](https://asianturfgrass.shinyapps.io/irr_ph/)
+  - [asianturfgrass/irrigation](https://asianturfgrass.shinyapps.io/irrigation/)
+  - [asianturfgrass/jp\_mlsnK](https://asianturfgrass.shinyapps.io/jp_mlsnK/)
+  - [asianturfgrass/jp\_sun\_temperature\_chart](https://asianturfgrass.shinyapps.io/jp_sun_temperature_chart/)
+  - [asianturfgrass/mlsn\_K](https://asianturfgrass.shinyapps.io/mlsn_K/)
+  - [asianturfgrass/ppfd\_by\_time](https://asianturfgrass.shinyapps.io/ppfd_by_time/)
+  - [asianturfgrass/turf\_twitter](https://asianturfgrass.shinyapps.io/turf_twitter/)
+  - [asianturfgrass/turfsi](https://asianturfgrass.shinyapps.io/turfsi/)
+  - [askmusic/askmusic](https://askmusic.shinyapps.io/askmusic/)
+  - [asntech/intervene](https://asntech.shinyapps.io/intervene/)
+  - [aspiringdata/ski-injury-mapping](https://aspiringdata.shinyapps.io/ski-injury-mapping/)
+  - [aspiringdata/TagHunter](https://aspiringdata.shinyapps.io/TagHunter/)
+  - [atajti/F1\_twitter\_app](https://atajti.shinyapps.io/F1_twitter_app/)
+  - [ataylorhfhs/NFLApp](https://ataylorhfhs.shinyapps.io/NFLApp/)
+  - [ateucher/check\_r\_versions\_of\_package\_dependencies](https://ateucher.shinyapps.io/check_r_versions_of_package_dependencies/)
+  - [atgu/Finemapping](https://atgu.shinyapps.io/Finemapping/)
+  - [athanasiamo/LifebrainShiny](https://athanasiamo.shinyapps.io/LifebrainShiny/)
+  - [athanasiamo/VisMRI](https://athanasiamo.shinyapps.io/VisMRI/)
+  - [athlytics/Dunks-NBA](https://athlytics.shinyapps.io/Dunks-NBA/)
+  - [athlytics/iWinrNFL](https://athlytics.shinyapps.io/iWinrNFL/)
+  - [athlytics/lineups-bcl](https://athlytics.shinyapps.io/lineups-bcl/)
+  - [athlytics/NBA-BPM](https://athlytics.shinyapps.io/NBA-BPM/)
+  - [athlytics/xPTS-BCL](https://athlytics.shinyapps.io/xPTS-BCL/)
+  - [atibot/ddp-project2](https://atibot.shinyapps.io/ddp-project2/)
+  - [atibot/ddp-project21](https://atibot.shinyapps.io/ddp-project21/)
+  - [atibot/nlp1](https://atibot.shinyapps.io/nlp1/)
+  - [atibot/project](https://atibot.shinyapps.io/project/)
+  - [atos-erik/HospitalStat](https://atos-erik.shinyapps.io/HospitalStat/)
+  - [atsol/TAVI\_Risk\_calculator](https://atsol.shinyapps.io/TAVI_Risk_calculator/)
+  - [aurora/Chi-square\_power\_calc](https://aurora.shinyapps.io/Chi-square_power_calc/)
+  - [aurora/mtDNA\_power\_calc](https://aurora.shinyapps.io/mtDNA_power_calc/)
+  - [aushsi/costresistantecoli](https://aushsi.shinyapps.io/costresistantecoli/)
+  - [aushsi/orcid](https://aushsi.shinyapps.io/orcid/)
+  - [aushsi/quit](https://aushsi.shinyapps.io/quit/)
+  - [aushsi/work-pals](https://aushsi.shinyapps.io/work-pals/)
+  - [austin-routt/rName](https://austin-routt.shinyapps.io/rName/)
+  - [austinsprojects/Brewery](https://austinsprojects.shinyapps.io/Brewery/)
+  - [automaths/chaos](https://automaths.shinyapps.io/chaos/)
+  - [avinashr/Smart\_Cities\_India](https://avinashr.shinyapps.io/Smart_Cities_India/)
+  - [avnerbar-hen/publi](https://avnerbar-hen.shinyapps.io/publi/)
+  - [avosuser/HDPrediction](https://avosuser.shinyapps.io/HDPrediction/)
+  - [axelmora/lmb\_stats](https://axelmora.shinyapps.io/lmb_stats/)
+  - [axelmora/svmeasyapp](https://axelmora.shinyapps.io/svmeasyapp/)
+  - [axxando/DataProductsProject](https://axxando.shinyapps.io/DataProductsProject/)
+  - [azam/ews\_education](https://azam.shinyapps.io/ews_education/)
+  - [azam/karachi\_property](https://azam.shinyapps.io/karachi_property/)
+  - [azam/pakistan\_education](https://azam.shinyapps.io/pakistan_education/)
+  - [azam/testApp](https://azam.shinyapps.io/testApp/)
+  - [aziz/t-test](https://aziz.shinyapps.io/t-test/)
+  - [b.hatena.ne.jp/entry/hoxom/BoketePlayer](https://b.hatena.ne.jp/entry/hoxom.shinyapps.io/BoketePlayer/)
+  - [bachl/alternative\_media\_sources\_in\_afd-centered\_facebook\_discussions](https://bachl.shinyapps.io/alternative_media_sources_in_afd-centered_facebook_discussions/)
+  - [backfour/euclid](https://backfour.shinyapps.io/euclid/)
+  - [backfour/kroeber](https://backfour.shinyapps.io/kroeber/)
+  - [bahar/method\_compare](https://bahar.shinyapps.io/method_compare/)
+  - [ballerlab/thelab](https://ballerlab.shinyapps.io/thelab/)
+  - [bambangpe/analisa\_tiang\_listrik\_dan\_bakpao](https://bambangpe.shinyapps.io/analisa_tiang_listrik_dan_bakpao/)
+  - [bambangpe/bitcoint-tracker](https://bambangpe.shinyapps.io/bitcoint-tracker/)
+  - [bambangpe/ip-analisys-1](https://bambangpe.shinyapps.io/ip-analisys-1/)
+  - [bambangpe/student-analisys](https://bambangpe.shinyapps.io/student-analisys/)
+  - [bancea/CLT\_DataProduct](https://bancea.shinyapps.io/CLT_DataProduct/)
+  - [baney64/courseraProject](https://baney64.shinyapps.io/courseraProject/)
+  - [barglary/FINAL\_project](https://barglary.shinyapps.io/FINAL_project/)
+  - [barre/courseHoursApp](https://barre.shinyapps.io/courseHoursApp/)
+  - [batlander/DDPW4](https://batlander.shinyapps.io/DDPW4/)
+  - [bccpp/mycpp](https://bccpp.shinyapps.io/mycpp/)
+  - [bchartoff/ggShinyApp](https://bchartoff.shinyapps.io/ggShinyApp/)
+  - [bcrossman/Retirement](https://bcrossman.shinyapps.io/Retirement/)
+  - [bdilday/bprodrashiny](https://bdilday.shinyapps.io/bprodrashiny/)
+  - [bdilday/PCAPlots](https://bdilday.shinyapps.io/PCAPlots/)
+  - [beale/EleCollars](https://beale.shinyapps.io/EleCollars/)
+  - [beale/Ricker](https://beale.shinyapps.io/Ricker/)
+  - [bearloga/taskviewr](https://bearloga.shinyapps.io/taskviewr/)
+  - [beautifuldata/beautiful\_data\_population\_map](https://beautifuldata.shinyapps.io/beautiful_data_population_map/)
+  - [becca-krouse/safetyapp](https://becca-krouse.shinyapps.io/safetyapp/)
+  - [becertain/lumbar\_fusion\_calculator](https://becertain.shinyapps.io/lumbar_fusion_calculator/)
+  - [beckmw/swmp\_agg](https://beckmw.shinyapps.io/swmp_agg/)
+  - [beckmw/swmp\_comp](https://beckmw.shinyapps.io/swmp_comp/)
+  - [beckmw/swmp\_summary](https://beckmw.shinyapps.io/swmp_summary/)
+  - [behindbars/user2018](https://behindbars.shinyapps.io/user2018/)
+  - [bellerosejoey/StockApp](https://bellerosejoey.shinyapps.io/StockApp/)
+  - [benaracreations2015/gr5project](https://benaracreations2015.shinyapps.io/gr5project/)
+  - [bencanavis/bencana](https://bencanavis.shinyapps.io/bencana/)
+  - [bencasselman/new-test](https://bencasselman.shinyapps.io/new-test/)
+  - [bengapple/coursera\_nlp\_capstone](https://bengapple.shinyapps.io/coursera_nlp_capstone/)
+  - [benhives/finalhomework](https://benhives.shinyapps.io/finalhomework/)
+  - [benjaminackerman/GOPtax2017](https://benjaminackerman.shinyapps.io/GOPtax2017/)
+  - [benjaminrobinson/learndc\_shiny\_downloader](https://benjaminrobinson.shinyapps.io/learndc_shiny_downloader/)
+  - [benmarwick/interactive\_pca\_explorer](https://benmarwick.shinyapps.io/interactive_pca_explorer/)
+  - [benmarwick/ros\_badge](https://benmarwick.shinyapps.io/ros_badge/)
+  - [beny/INDI-V](https://beny.shinyapps.io/INDI-V/)
+  - [berge314/hmdinger2](https://berge314.shinyapps.io/hmdinger2/)
+  - [berkorbay/nisan16](https://berkorbay.shinyapps.io/nisan16/)
+  - [berkorbay/secmenler](https://berkorbay.shinyapps.io/secmenler/)
+  - [bestforbritain/intermodel](https://bestforbritain.shinyapps.io/intermodel/)
+  - [betterment/WhichIRA](https://betterment.shinyapps.io/WhichIRA/)
+  - [betterunderstanding/tiip](https://betterunderstanding.shinyapps.io/tiip/)
+  - [bfrickert/brutalizeR](https://bfrickert.shinyapps.io/brutalizeR/)
+  - [bfrickert/WFMU](https://bfrickert.shinyapps.io/WFMU/)
+  - [bgonzal/ggvisapp](https://bgonzal.shinyapps.io/ggvisapp/)
+  - [bgstieber/PiSimulations](https://bgstieber.shinyapps.io/PiSimulations/)
+  - [bgstieber/probabilitysquares](https://bgstieber.shinyapps.io/probabilitysquares/)
+  - [bhateu/TextPredictionJHUCapstone](https://bhateu.shinyapps.io/TextPredictionJHUCapstone/)
+  - [bigcomputing/Car\_App](https://bigcomputing.shinyapps.io/Car_App/)
+  - [bigcomputing/Car2\_App](https://bigcomputing.shinyapps.io/Car2_App/)
+  - [bigdatalittledata/tacoma\_mayoral\_finances](https://bigdatalittledata.shinyapps.io/tacoma_mayoral_finances/)
+  - [biglakedata/crime](https://biglakedata.shinyapps.io/crime/)
+  - [billkillacky/DataProducts](https://billkillacky.shinyapps.io/DataProducts/)
+  - [billpetti/edge\_shiny](https://billpetti.shinyapps.io/edge_shiny/)
+  - [billpetti/shiny\_cumu\_hr\_app](https://billpetti.shinyapps.io/shiny_cumu_hr_app/)
+  - [billpetti/shiny\_ffl\_app](https://billpetti.shinyapps.io/shiny_ffl_app/)
+  - [billpetti/shiny\_spraychart](https://billpetti.shinyapps.io/shiny_spraychart/)
+  - [bioenergetics4/bioenergetics4](https://bioenergetics4.shinyapps.io/bioenergetics4/)
+  - [biolinfo/iSwathX](https://biolinfo.shinyapps.io/iSwathX/)
+  - [biosoft/compSurv](https://biosoft.shinyapps.io/compSurv/)
+  - [biowit/Biofuel-EESR](https://biowit.shinyapps.io/Biofuel-EESR/)
+  - [bircanfarro/shiny\_app\_turkey](https://bircanfarro.shinyapps.io/shiny_app_turkey/)
+  - [bisg/dashboardapp](https://bisg.shinyapps.io/dashboardapp/)
+  - [bisg/VancouverCrimeDashboard](https://bisg.shinyapps.io/VancouverCrimeDashboard/)
+  - [biswarup/dashboardapp](https://biswarup.shinyapps.io/dashboardapp/)
+  - [bknapp/dprk](https://bknapp.shinyapps.io/dprk/)
+  - [blackbawks/WSTC3Abstracts](https://blackbawks.shinyapps.io/WSTC3Abstracts/)
+  - [blackbawks/wstc4](https://blackbawks.shinyapps.io/wstc4/)
+  - [blackbawks/WSTC4](https://blackbawks.shinyapps.io/WSTC4/)
+  - [blacksheep/graph2png](https://blacksheep.shinyapps.io/graph2png/)
+  - [blacksheep/word\_count](https://blacksheep.shinyapps.io/word_count/)
+  - [blakemcshane/pces](https://blakemcshane.shinyapps.io/pces/)
+  - [blakemcshane/spmetacase1](https://blakemcshane.shinyapps.io/spmetacase1/)
+  - [bleedrake/congressImpact](https://bleedrake.shinyapps.io/congressImpact/)
+  - [bleedrake/pollChangePoin](https://bleedrake.shinyapps.io/pollChangePoin/)
+  - [bleedrake/pollChangePoint](https://bleedrake.shinyapps.io/pollChangePoint/)
+  - [bleedrake/trumpChangePoint](https://bleedrake.shinyapps.io/trumpChangePoint/)
+  - [bleedrake/trumpInnauguration](https://bleedrake.shinyapps.io/trumpInnauguration/)
+  - [blenditbayes/crimemap](https://blenditbayes.shinyapps.io/crimemap/)
+  - [blenditbayes/heatmapStock](https://blenditbayes.shinyapps.io/heatmapStock/)
+  - [blenditbayes/rugsmaps](https://blenditbayes.shinyapps.io/rugsmaps/)
+  - [blin02/food\_price\_changes](https://blin02.shinyapps.io/food_price_changes/)
+  - [blistyg/JAPTopicNetwork](https://blistyg.shinyapps.io/JAPTopicNetwork/)
+  - [blmr/blackspot](https://blmr.shinyapps.io/blackspot/)
+  - [blmr/ge2015](https://blmr.shinyapps.io/ge2015/)
+  - [blmr/shinybrot](https://blmr.shinyapps.io/shinybrot/)
+  - [bluecattechnical/iaaf\_rankings](https://bluecattechnical.shinyapps.io/iaaf_rankings/)
+  - [bluecattechnical/rankings](https://bluecattechnical.shinyapps.io/rankings/)
+  - [bmcp/loansapp5](https://bmcp.shinyapps.io/loansapp5/)
+  - [bmedeiros/matrix\_condenser](https://bmedeiros.shinyapps.io/matrix_condenser/)
+  - [bmedeiros/pyrad\_find\_bad\_samples](https://bmedeiros.shinyapps.io/pyrad_find_bad_samples/)
+  - [bobdawg/deathstar](https://bobdawg.shinyapps.io/deathstar/)
+  - [bobdawg/whosthatliberal](https://bobdawg.shinyapps.io/whosthatliberal/)
+  - [bobturner/Year\_in\_Disease\_Shiny](https://bobturner.shinyapps.io/Year_in_Disease_Shiny/)
+  - [boecul/bird\_beauty\_quiz](https://boecul.shinyapps.io/bird_beauty_quiz/)
+  - [boecul/birdsong\_beauty\_quiz](https://boecul.shinyapps.io/birdsong_beauty_quiz/)
+  - [bog2018/maps](https://bog2018.shinyapps.io/maps/)
+  - [bootstrapchachi/torWSH](https://bootstrapchachi.shinyapps.io/torWSH/)
+  - [bootstrapchachi/tracking180314](https://bootstrapchachi.shinyapps.io/tracking180314/)
+  - [borsbeekstraat/Verkeersdrukte](https://borsbeekstraat.shinyapps.io/Verkeersdrukte/)
+  - [borye/Weather\_Data\_Explorer](https://borye.shinyapps.io/Weather_Data_Explorer/)
+  - [bpvg/YAOOP](https://bpvg.shinyapps.io/YAOOP/)
+  - [bquast/Iris-Presentation](https://bquast.shinyapps.io/Iris-Presentation/)
+  - [bracketmath/ncaa](https://bracketmath.shinyapps.io/ncaa/)
+  - [bradduthie/gameGA\_browser](https://bradduthie.shinyapps.io/gameGA_browser/)
+  - [bradduthie/gmse\_gui](https://bradduthie.shinyapps.io/gmse_gui/)
+  - [bradduthie/inbreeding](https://bradduthie.shinyapps.io/inbreeding/)
+  - [bradleyboehmke/Developing\_Data\_Products\_shiny\_app](https://bradleyboehmke.shinyapps.io/Developing_Data_Products_shiny_app/)
+  - [bradleyboehmke/LPI\_Rankings](https://bradleyboehmke.shinyapps.io/LPI_Rankings/)
+  - [bradleyboehmke/wordprediction\_2](https://bradleyboehmke.shinyapps.io/wordprediction_2/)
+  - [bradylab/ChronicSaltRandomizedBlock](https://bradylab.shinyapps.io/ChronicSaltRandomizedBlock/)
+  - [brandmaier/ARMA](https://brandmaier.shinyapps.io/ARMA/)
+  - [brandonkopp/ACSExplorer](https://brandonkopp.shinyapps.io/ACSExplorer/)
+  - [brandonkopp/MoCoCrimeExplorer](https://brandonkopp.shinyapps.io/MoCoCrimeExplorer/)
+  - [brandonkopp/RPS-Shiny](https://brandonkopp.shinyapps.io/RPS-Shiny/)
+  - [brandonkopp/sotushiny](https://brandonkopp.shinyapps.io/sotushiny/)
+  - [brandonkopp/SOTUshiny](https://brandonkopp.shinyapps.io/SOTUshiny/)
+  - [brandynlucca/TS\_modeling](https://brandynlucca.shinyapps.io/TS_modeling/)
+  - [brandynlucca/wheretolive](https://brandynlucca.shinyapps.io/wheretolive/)
+  - [brapp/bingo](https://brapp.shinyapps.io/bingo/)
+  - [brasmus/klimaquiz](https://brasmus.shinyapps.io/klimaquiz/)
+  - [bravo/babynames](https://bravo.shinyapps.io/babynames/)
+  - [bravo/givedirectly](https://bravo.shinyapps.io/givedirectly/)
+  - [bravo/openinterest](https://bravo.shinyapps.io/openinterest/)
+  - [bravo/periodAnalysis](https://bravo.shinyapps.io/periodAnalysis/)
+  - [bravo/wealthanalysis](https://bravo.shinyapps.io/wealthanalysis/)
+  - [brennanpcardiff/health\_habits\_app\_v03](https://brennanpcardiff.shinyapps.io/health_habits_app_v03/)
+  - [brennanpcardiff/health\_habits\_app\_v04](https://brennanpcardiff.shinyapps.io/health_habits_app_v04/)
+  - [brentbrewington/atl\_seeclickfix\_map](https://brentbrewington.shinyapps.io/atl_seeclickfix_map/)
+  - [brentbrewington/have-we-been-pwned](https://brentbrewington.shinyapps.io/have-we-been-pwned/)
+  - [brianomeara/mutation\_selection\_shiny](https://brianomeara.shinyapps.io/mutation_selection_shiny/)
+  - [brianomeara/opentree\_contributors](https://brianomeara.shinyapps.io/opentree_contributors/)
+  - [brillant/moment-free\_Sharpe\_ratio](https://brillant.shinyapps.io/moment-free_Sharpe_ratio/)
+  - [brocktibert/nhl-shiny](https://brocktibert.shinyapps.io/nhl-shiny/)
+  - [brookfieldiie/developer-talent-map](https://brookfieldiie.shinyapps.io/developer-talent-map/)
+  - [bruce-meng/autosmry](https://bruce-meng.shinyapps.io/autosmry/)
+  - [bruno/digitize](https://bruno.shinyapps.io/digitize/)
+  - [bryancafferky/FDBApp2](https://bryancafferky.shinyapps.io/FDBApp2/)
+  - [bryandaetz/CraftBeersShiny](https://bryandaetz.shinyapps.io/CraftBeersShiny/)
+  - [bsim/lead\_prototype](https://bsim.shinyapps.io/lead_prototype/)
+  - [bsuthersan/baby\_names](https://bsuthersan.shinyapps.io/baby_names/)
+  - [bsuthersan/network](https://bsuthersan.shinyapps.io/network/)
+  - [buerkle/lower48meantemp](https://buerkle.shinyapps.io/lower48meantemp/)
+  - [butlermh/LendingClub](https://butlermh.shinyapps.io/LendingClub/)
+  - [butlermh/WordPredictionApp](https://butlermh.shinyapps.io/WordPredictionApp/)
+  - [butterpasser/indian\_economics](https://butterpasser.shinyapps.io/indian_economics/)
+  - [bwbdata/BWB\_monitoring\_Japanse\_fruitvlieg](https://bwbdata.shinyapps.io/BWB_monitoring_Japanse_fruitvlieg/)
+  - [bziarkowski/Mapy1liga](https://bziarkowski.shinyapps.io/Mapy1liga/)
+  - [bziarkowski/plkr](https://bziarkowski.shinyapps.io/plkr/)
+  - [c-rellan/petroglifos\_galicia](https://c-rellan.shinyapps.io/petroglifos_galicia/)
+  - [cabaceo/linreg](https://cabaceo.shinyapps.io/linreg/)
+  - [cadiez/Word-O-Matic](https://cadiez.shinyapps.io/Word-O-Matic/)
+  - [cadolph/olympics](https://cadolph.shinyapps.io/olympics/)
+  - [cagankaya/Deprem\_Harita](https://cagankaya.shinyapps.io/Deprem_Harita/)
+  - [cainesap/boardgamegeek](https://cainesap.shinyapps.io/boardgamegeek/)
+  - [cainesap/langmap](https://cainesap.shinyapps.io/langmap/)
+  - [cainesap/shinydemo](https://cainesap.shinyapps.io/shinydemo/)
+  - [cainesap/wackywordlist](https://cainesap.shinyapps.io/wackywordlist/)
+  - [calc/riskcalc](https://calc.shinyapps.io/riskcalc/)
+  - [calpolystat/BenfordData](https://calpolystat.shinyapps.io/BenfordData/)
+  - [calpolystat1/corr\_reg\_game](https://calpolystat1.shinyapps.io/corr_reg_game/)
+  - [calpolystat1/WilcoxonMW](https://calpolystat1.shinyapps.io/WilcoxonMW/)
+  - [calthaus/influenza](https://calthaus.shinyapps.io/influenza/)
+  - [cameronlhansen/twitter\_analysis](https://cameronlhansen.shinyapps.io/twitter_analysis/)
+  - [camh-nds/STOPDataQuality](https://camh-nds.shinyapps.io/STOPDataQuality/)
+  - [camhouser/Class](https://camhouser.shinyapps.io/Class/)
+  - [canaan/BerkeleyShiny](https://canaan.shinyapps.io/BerkeleyShiny/)
+  - [canaan/BTCmining](https://canaan.shinyapps.io/BTCmining/)
+  - [canadasreche/project\_shiny](https://canadasreche.shinyapps.io/project_shiny/)
+  - [canarypass/biopsy\_nomogram](https://canarypass.shinyapps.io/biopsy_nomogram/)
+  - [canyons-research-mapping/canyons-sci-landscape](https://canyons-research-mapping.shinyapps.io/canyons-sci-landscape/)
+  - [capitalsustentable/cantaroazul](https://capitalsustentable.shinyapps.io/cantaroazul/)
+  - [cardiomoon/moonBook](https://cardiomoon.shinyapps.io/moonBook/)
+  - [cardiomoon/ztable](https://cardiomoon.shinyapps.io/ztable/)
+  - [carlosgg/la-crimes-map](https://carlosgg.shinyapps.io/la-crimes-map/)
+  - [carter-allen/wqmodel](https://carter-allen.shinyapps.io/wqmodel/)
+  - [carygrantanderson/Word\_Prediction\_App](https://carygrantanderson.shinyapps.io/Word_Prediction_App/)
+  - [casimir/cryptocurr](https://casimir.shinyapps.io/cryptocurr/)
+  - [castellsdenou/castellsdenou](https://castellsdenou.shinyapps.io/castellsdenou/)
+  - [cathrineujensen/wheretoplaceturbine](https://cathrineujensen.shinyapps.io/wheretoplaceturbine/)
+  - [catnipmadness/StreamDepletion](https://catnipmadness.shinyapps.io/StreamDepletion/)
+  - [cattywampus/EducationInTanzania](https://cattywampus.shinyapps.io/EducationInTanzania/)
+  - [catwizard/Wage](https://catwizard.shinyapps.io/Wage/)
+  - [cawthron/BMOP](https://cawthron.shinyapps.io/BMOP/)
+  - [cbalantic/birding-got](https://cbalantic.shinyapps.io/birding-got/)
+  - [cbc-predictor-utd/cbcrisk](https://cbc-predictor-utd.shinyapps.io/cbcrisk/)
+  - [cbmiwustl/demo-dashboard](https://cbmiwustl.shinyapps.io/demo-dashboard/)
+  - [cbrunsdon/unempeu](https://cbrunsdon.shinyapps.io/unempeu/)
+  - [cbuckowitz/coursera\_data\_products\_project](https://cbuckowitz.shinyapps.io/coursera_data_products_project/)
+  - [cchanial/chicago\_app](https://cchanial.shinyapps.io/chicago_app/)
+  - [cchanial/football\_app](https://cchanial.shinyapps.io/football_app/)
+  - [cchappas/TeamPerformance](https://cchappas.shinyapps.io/TeamPerformance/)
+  - [ccorreia/Project3](https://ccorreia.shinyapps.io/Project3/)
+  - [cdermont/parteitrends](https://cdermont.shinyapps.io/parteitrends/)
+  - [cdermont/votr](https://cdermont.shinyapps.io/votr/)
+  - [cecato/wordprev](https://cecato.shinyapps.io/wordprev/)
+  - [cecilesauder/concours-sophie](https://cecilesauder.shinyapps.io/concours-sophie/)
+  - [cedm/MarginalFactors](https://cedm.shinyapps.io/MarginalFactors/)
+  - [celsofaf/coursera-datasci-devdataprods](https://celsofaf.shinyapps.io/coursera-datasci-devdataprods/)
+  - [cengel/RioSlaveMarket](https://cengel.shinyapps.io/RioSlaveMarket/)
+  - [cevr/LeagueTables](https://cevr.shinyapps.io/LeagueTables/)
+  - [cfb-dashboards/Matchups\_2015](https://cfb-dashboards.shinyapps.io/Matchups_2015/)
+  - [cfrm/BacktestVaR](https://cfrm.shinyapps.io/BacktestVaR/)
+  - [cfrm/meanSdEfficientFrontier](https://cfrm.shinyapps.io/meanSdEfficientFrontier/)
+  - [cfrm/PerformanceMeasures](https://cfrm.shinyapps.io/PerformanceMeasures/)
+  - [cgr-datascience/tompkins-county-law-enforcement-shared-services](https://cgr-datascience.shinyapps.io/tompkins-county-law-enforcement-shared-services/)
+  - [ch2m/erum\_jr](https://ch2m.shinyapps.io/erum_jr/)
+  - [chadburdyshaw/shinyapp](https://chadburdyshaw.shinyapps.io/shinyapp/)
+  - [chadmurphy/CL\_Finals\_Predictor](https://chadmurphy.shinyapps.io/CL_Finals_Predictor/)
+  - [chadsalinas/GolfMarketSize](https://chadsalinas.shinyapps.io/GolfMarketSize/)
+  - [chaiml/menaro\_database](https://chaiml.shinyapps.io/menaro_database/)
+  - [chanamasa/ddp\_noaa](https://chanamasa.shinyapps.io/ddp_noaa/)
+  - [chandlerlutz/mdri-app](https://chandlerlutz.shinyapps.io/mdri-app/)
+  - [chao/iNEXT](https://chao.shinyapps.io/iNEXT/)
+  - [chao/iNEXTOnline](https://chao.shinyapps.io/iNEXTOnline/)
+  - [chao/SpadeR](https://chao.shinyapps.io/SpadeR/)
+  - [chao/SuperDuplicates](https://chao.shinyapps.io/SuperDuplicates/)
+  - [chdwb-map/shinyapp](https://chdwb-map.shinyapps.io/shinyapp/)
+  - [chelsea/UN\_Advanced](https://chelsea.shinyapps.io/UN_Advanced/)
+  - [chendaniely/shinyCountryTimeseries](https://chendaniely.shinyapps.io/shinyCountryTimeseries/)
+  - [chendaniely/zika\_cdc\_dashboard](https://chendaniely.shinyapps.io/zika_cdc_dashboard/)
+  - [chenluji/NYC\_Toilet\_Map](https://chenluji.shinyapps.io/NYC_Toilet_Map/)
+  - [chikudaisei/shinyaim](https://chikudaisei.shinyapps.io/shinyaim/)
+  - [chikudaisei/shinygpas](https://chikudaisei.shinyapps.io/shinygpas/)
+  - [chiragjp/pemap](https://chiragjp.shinyapps.io/pemap/)
+  - [chitrasen/assignment](https://chitrasen.shinyapps.io/assignment/)
+  - [chjackson/MetaAnalyser](https://chjackson.shinyapps.io/MetaAnalyser/)
+  - [chkifa/top5disaster](https://chkifa.shinyapps.io/top5disaster/)
+  - [choisung/healthdatabreach](https://choisung.shinyapps.io/healthdatabreach/)
+  - [choisung/hospcompare](https://choisung.shinyapps.io/hospcompare/)
+  - [chribonn/devdataprod-016](https://chribonn.shinyapps.io/devdataprod-016/)
+  - [chris-prener/leadMap](https://chris-prener.shinyapps.io/leadMap/)
+  - [chrisschwer/BMI\_Calculator](https://chrisschwer.shinyapps.io/BMI_Calculator/)
+  - [chrissuthy/SCR\_detFun](https://chrissuthy.shinyapps.io/SCR_detFun/)
+  - [christopher226/shiny](https://christopher226.shinyapps.io/shiny/)
+  - [chrpr/dpla-shiny](https://chrpr.shinyapps.io/dpla-shiny/)
+  - [chuan/IrisCDTree](https://chuan.shinyapps.io/IrisCDTree/)
+  - [ci-sim/framingham\_risk](https://ci-sim.shinyapps.io/framingham_risk/)
+  - [cidlab/Build-A-Bayes](https://cidlab.shinyapps.io/Build-A-Bayes/)
+  - [cimentadaj/shiny](https://cimentadaj.shinyapps.io/shiny/)
+  - [cistrome/timer](https://cistrome.shinyapps.io/timer/)
+  - [cjbattey/adaptR](https://cjbattey.shinyapps.io/adaptR/)
+  - [cjbattey/APPNAME](https://cjbattey.shinyapps.io/APPNAME/)
+  - [cjbattey/driftR](https://cjbattey.shinyapps.io/driftR/)
+  - [cjbattey/structurePlotter](https://cjbattey.shinyapps.io/structurePlotter/)
+  - [cjf4/roc\_wage\_data](https://cjf4.shinyapps.io/roc_wage_data/)
+  - [claudiolucinda/custodiesel](https://claudiolucinda.shinyapps.io/custodiesel/)
+  - [clementinegeo/LandUseChangeLondon](https://clementinegeo.shinyapps.io/LandUseChangeLondon/)
+  - [clementinegeo/MetaZipf](https://clementinegeo.shinyapps.io/MetaZipf/)
+  - [clijda/mtcars\_reganal](https://clijda.shinyapps.io/mtcars_reganal/)
+  - [cloudlabhk/StudentMarkAnalytics](https://cloudlabhk.shinyapps.io/StudentMarkAnalytics/)
+  - [clusterrcts/rshinyapp](https://clusterrcts.shinyapps.io/rshinyapp/)
+  - [cmcguinness/DiamondEstimator](https://cmcguinness.shinyapps.io/DiamondEstimator/)
+  - [cmstewart/course\_project](https://cmstewart.shinyapps.io/course_project/)
+  - [cmwithfevs/FEVSapp](https://cmwithfevs.shinyapps.io/FEVSapp/)
+  - [coberst/vi\_dce2017](https://coberst.shinyapps.io/vi_dce2017/)
+  - [codeforanchorage/Anchorage-Vote-Leverage](https://codeforanchorage.shinyapps.io/Anchorage-Vote-Leverage/)
+  - [codeforanchorage/usps\_api](https://codeforanchorage.shinyapps.io/usps_api/)
+  - [codeforanchorage/weatherchange](https://codeforanchorage.shinyapps.io/weatherchange/)
+  - [coderzoozoo/devdataprod-003](https://coderzoozoo.shinyapps.io/devdataprod-003/)
+  - [codstats/shiny](https://codstats.shinyapps.io/shiny/)
+  - [codystumpo/simpleWAR](https://codystumpo.shinyapps.io/simpleWAR/)
+  - [cognitive/TwittMiner](https://cognitive.shinyapps.io/TwittMiner/)
+  - [cogsci/shinyApp](https://cogsci.shinyapps.io/shinyApp/)
+  - [cohesion-data-visualization/ms-op](https://cohesion-data-visualization.shinyapps.io/ms-op/)
+  - [colemandata/mynearestleedsmarginal](https://colemandata.shinyapps.io/mynearestleedsmarginal/)
+  - [colladete/Terrorism](https://colladete.shinyapps.io/Terrorism/)
+  - [colomb/Flystockcleaner](https://colomb.shinyapps.io/Flystockcleaner/)
+  - [colonelsmoothie/tweedie-viz](https://colonelsmoothie.shinyapps.io/tweedie-viz/)
+  - [comapuga/sampledata\_flexdash](https://comapuga.shinyapps.io/sampledata_flexdash/)
+  - [conabio/MaicesMx50kSNP-english](https://conabio.shinyapps.io/MaicesMx50kSNP-english/)
+  - [conabio/shiny\_maiz](https://conabio.shinyapps.io/shiny_maiz/)
+  - [conabio/shiny\_Taxon1](https://conabio.shinyapps.io/shiny_Taxon1/)
+  - [conabio/ShinyR-Taxonomic-correction](https://conabio.shinyapps.io/ShinyR-Taxonomic-correction/)
+  - [conabio/VoronoiInegi](https://conabio.shinyapps.io/VoronoiInegi/)
+  - [connorjmccabe/interactive](https://connorjmccabe.shinyapps.io/interactive/)
+  - [convoyds/abayes](https://convoyds.shinyapps.io/abayes/)
+  - [coolbutuseless/collision\_fatalities](https://coolbutuseless.shinyapps.io/collision_fatalities/)
+  - [coolbutuseless/crime\_trends](https://coolbutuseless.shinyapps.io/crime_trends/)
+  - [coolbutuseless/makeReactiveBinding-demo](https://coolbutuseless.shinyapps.io/makeReactiveBinding-demo/)
+  - [coolbutuseless/queensland-traffic-infringements](https://coolbutuseless.shinyapps.io/queensland-traffic-infringements/)
+  - [coolbutuseless/shiny-safe-eval](https://coolbutuseless.shinyapps.io/shiny-safe-eval/)
+  - [coreypeak/InteractiveQuarantine](https://coreypeak.shinyapps.io/InteractiveQuarantine/)
+  - [coreyyanofsky/Sample-space-gapped-normal-distribution](https://coreyyanofsky.shinyapps.io/Sample-space-gapped-normal-distribution/)
+  - [coreyyanofsky/sev-and-bayes-gapped-normal-distribution](https://coreyyanofsky.shinyapps.io/sev-and-bayes-gapped-normal-distribution/)
+  - [corinne-riddell/black-white-life-expectancy](https://corinne-riddell.shinyapps.io/black-white-life-expectancy/)
+  - [corinne-riddell/e-value-calculator](https://corinne-riddell.shinyapps.io/e-value-calculator/)
+  - [cortinah/phyllotaxis3d](https://cortinah.shinyapps.io/phyllotaxis3d/)
+  - [cosmoso/Shark-App](https://cosmoso.shinyapps.io/Shark-App/)
+  - [cosmostatisticsinitiative/AMADA](https://cosmostatisticsinitiative.shinyapps.io/AMADA/)
+  - [costeapaul/shiny\_plots](https://costeapaul.shinyapps.io/shiny_plots/)
+  - [couchpsycho/coursera](https://couchpsycho.shinyapps.io/coursera/)
+  - [coursera1/DDP-shiny](https://coursera1.shinyapps.io/DDP-shiny/)
+  - [courseradude/Swiftkey-Capstone-Project](https://courseradude.shinyapps.io/Swiftkey-Capstone-Project/)
+  - [cphratlimr/population\_health](https://cphratlimr.shinyapps.io/population_health/)
+  - [cpmontoya/CapStoneApp](https://cpmontoya.shinyapps.io/CapStoneApp/)
+  - [cpsievert/animintRmarkdown](https://cpsievert.shinyapps.io/animintRmarkdown/)
+  - [cpsievert/ggtree](https://cpsievert.shinyapps.io/ggtree/)
+  - [cpsievert/LDAelife](https://cpsievert.shinyapps.io/LDAelife/)
+  - [cpsievert/newsgroup](https://cpsievert.shinyapps.io/newsgroup/)
+  - [crabblab/hedgehog](https://crabblab.shinyapps.io/hedgehog/)
+  - [craddm/ERPdemo](https://craddm.shinyapps.io/ERPdemo/)
+  - [craigfots/HarkiveDataExplorerv1](https://craigfots.shinyapps.io/HarkiveDataExplorerv1/)
+  - [craigwang/rPackageStats](https://craigwang.shinyapps.io/rPackageStats/)
+  - [craigwang/zurichPop](https://craigwang.shinyapps.io/zurichPop/)
+  - [creagh/Gapminder-app](https://creagh.shinyapps.io/Gapminder-app/)
+  - [crowdquant/Open\_Interest\_Bubbles](https://crowdquant.shinyapps.io/Open_Interest_Bubbles/)
+  - [crowdscoutsports/GoalGradientAscent](https://crowdscoutsports.shinyapps.io/GoalGradientAscent/)
+  - [crowdscoutsports/TeamGradientAscent](https://crowdscoutsports.shinyapps.io/TeamGradientAscent/)
+  - [crsu/dta\_ma](https://crsu.shinyapps.io/dta_ma/)
+  - [crsu/metainsightc](https://crsu.shinyapps.io/metainsightc/)
+  - [crtahlin/LJmaraton](https://crtahlin.shinyapps.io/LJmaraton/)
+  - [cruizch/CempJal](https://cruizch.shinyapps.io/CempJal/)
+  - [cruizch/CEmpJal](https://cruizch.shinyapps.io/CEmpJal/)
+  - [cruizch/Earthquakes](https://cruizch.shinyapps.io/Earthquakes/)
+  - [crumplab/athena](https://crumplab.shinyapps.io/athena/)
+  - [crumplab/athenabeta](https://crumplab.shinyapps.io/athenabeta/)
+  - [csaid/survey](https://csaid.shinyapps.io/survey/)
+  - [csaurav/SpeechPrediction](https://csaurav.shinyapps.io/SpeechPrediction/)
+  - [csaveanu/plotdecourty2008](https://csaveanu.shinyapps.io/plotdecourty2008/)
+  - [csislander/HalifaxTransitTicketsMap](https://csislander.shinyapps.io/HalifaxTransitTicketsMap/)
+  - [cso-of-afghanistan/ALCS\_Dashboard](https://cso-of-afghanistan.shinyapps.io/ALCS_Dashboard/)
+  - [csqsiew/humorlanding](https://csqsiew.shinyapps.io/humorlanding/)
+  - [csqsiew/xmas](https://csqsiew.shinyapps.io/xmas/)
+  - [ctmm/ctmmweb](https://ctmm.shinyapps.io/ctmmweb/)
+  - [ctpickard-3/NBA\_Shot\_Chart\_Finder](https://ctpickard-3.shinyapps.io/NBA_Shot_Chart_Finder/)
+  - [cttest/worm-like-chain-app](https://cttest.shinyapps.io/worm-like-chain-app/)
+  - [cttest/worm-like-chain](https://cttest.shinyapps.io/worm-like-chain/)
+  - [cultureofinsight/datasetfree](https://cultureofinsight.shinyapps.io/datasetfree/)
+  - [cultureofinsight/dotmap](https://cultureofinsight.shinyapps.io/dotmap/)
+  - [cultureofinsight/location\_mapper](https://cultureofinsight.shinyapps.io/location_mapper/)
+  - [cultureofinsight/workshopplay](https://cultureofinsight.shinyapps.io/workshopplay/)
+  - [cultureofinsight/worldcup](https://cultureofinsight.shinyapps.io/worldcup/)
+  - [curvascrecimientohums/app3](https://curvascrecimientohums.shinyapps.io/app3/)
+  - [cushioncalc/cushioncalc](https://cushioncalc.shinyapps.io/cushioncalc/)
+  - [cwee/greengov](https://cwee.shinyapps.io/greengov/)
+  - [cyruslentin/nse-data](https://cyruslentin.shinyapps.io/nse-data/)
+  - [czuo/ShinyApp](https://czuo.shinyapps.io/ShinyApp/)
+  - [d-miller/bachelorsPHD](https://d-miller.shinyapps.io/bachelorsPHD/)
+  - [d4tagirl/uy\_names](https://d4tagirl.shinyapps.io/uy_names/)
+  - [daagur-jhm/pValues](https://daagur-jhm.shinyapps.io/pValues/)
+  - [daigotanaka/shiny\_twitter\_chart](https://daigotanaka.shinyapps.io/shiny_twitter_chart/)
+  - [daltare/CECapp](https://daltare.shinyapps.io/CECapp/)
+  - [danbro/windapp](https://danbro.shinyapps.io/windapp/)
+  - [daniel-hadley/Recidivism\_App](https://daniel-hadley.shinyapps.io/Recidivism_App/)
+  - [danielcanueto/dependence\_measures](https://danielcanueto.shinyapps.io/dependence_measures/)
+  - [danielezrajohnson/tweetmapper](https://danielezrajohnson.shinyapps.io/tweetmapper/)
+  - [daniellequinn/WISE](https://daniellequinn.shinyapps.io/WISE/)
+  - [danielnarey/Household\_Income\_by\_ZIP\_Code](https://danielnarey.shinyapps.io/Household_Income_by_ZIP_Code/)
+  - [danielnjoo/ico-viz](https://danielnjoo.shinyapps.io/ico-viz/)
+  - [danieloberski/parallel-analysis](https://danieloberski.shinyapps.io/parallel-analysis/)
+  - [danmalter/HR-Hitters](https://danmalter.shinyapps.io/HR-Hitters/)
+  - [danmalter/Spray-Chart](https://danmalter.shinyapps.io/Spray-Chart/)
+  - [dannyjnwong/JDPayCalc](https://dannyjnwong.shinyapps.io/JDPayCalc/)
+  - [dannyjnwong/PreopDrugs](https://dannyjnwong.shinyapps.io/PreopDrugs/)
+  - [dannyjnwong/SORTMorbidityWebCalc](https://dannyjnwong.shinyapps.io/SORTMorbidityWebCalc/)
+  - [dannyperichlara/Simce](https://dannyperichlara.shinyapps.io/Simce/)
+  - [danroyles/Phila\_AIDS\_84-87](https://danroyles.shinyapps.io/Phila_AIDS_84-87/)
+  - [dantok18/nba\_draft\_by\_team](https://dantok18.shinyapps.io/nba_draft_by_team/)
+  - [dantok18/playoff\_simulator](https://dantok18.shinyapps.io/playoff_simulator/)
+  - [daob/latent-class-analysis](https://daob.shinyapps.io/latent-class-analysis/)
+  - [daranzolin/ca-school-districts-diversity](https://daranzolin.shinyapps.io/ca-school-districts-diversity/)
+  - [daroczig/rinfinance\_Berlinger-Daroczi-demo](https://daroczig.shinyapps.io/rinfinance_Berlinger-Daroczi-demo/)
+  - [darokun/OktoberfestR](https://darokun.shinyapps.io/OktoberfestR/)
+  - [darrendahly/app1](https://darrendahly.shinyapps.io/app1/)
+  - [darryl/DRE\_2014\_15](https://darryl.shinyapps.io/DRE_2014_15/)
+  - [darryl/player\_scoring\_distribution](https://darryl.shinyapps.io/player_scoring_distribution/)
+  - [darryl/scoring\_distribution](https://darryl.shinyapps.io/scoring_distribution/)
+  - [darryl/shooting\_fouls](https://darryl.shinyapps.io/shooting_fouls/)
+  - [darryl/sportvu\_playoffs](https://darryl.shinyapps.io/sportvu_playoffs/)
+  - [darryl/sportvu\_team\_playoffs](https://darryl.shinyapps.io/sportvu_team_playoffs/)
+  - [darryl/sportvu\_team](https://darryl.shinyapps.io/sportvu_team/)
+  - [darryl/sportvu](https://darryl.shinyapps.io/sportvu/)
+  - [darryl/streaks\_and\_droughts](https://darryl.shinyapps.io/streaks_and_droughts/)
+  - [dartthrowingchimp/national-security-strategy](https://dartthrowingchimp.shinyapps.io/national-security-strategy/)
+  - [dasibodu/Untrendy](https://dasibodu.shinyapps.io/Untrendy/)
+  - [data-artist/BinLift](https://data-artist.shinyapps.io/BinLift/)
+  - [data-seo/shinyCrawlToPR](https://data-seo.shinyapps.io/shinyCrawlToPR/)
+  - [data-slinky/BumpCharts](https://data-slinky.shinyapps.io/BumpCharts/)
+  - [databiomics/healthplot](https://databiomics.shinyapps.io/healthplot/)
+  - [dataclarityconsulting/liver](https://dataclarityconsulting.shinyapps.io/liver/)
+  - [datadotworld/foia\_shiny\_app](https://datadotworld.shinyapps.io/foia_shiny_app/)
+  - [dataexponent/kenthailandlocations](https://dataexponent.shinyapps.io/kenthailandlocations/)
+  - [dataflemming/StockWatch](https://dataflemming.shinyapps.io/StockWatch/)
+  - [datagenii/ShinyDeploy](https://datagenii.shinyapps.io/ShinyDeploy/)
+  - [dataiseverywhere/twitter\_wordcloud](https://dataiseverywhere.shinyapps.io/twitter_wordcloud/)
+  - [datakicks/CL\_und\_EL\_KO-Runden-Prognose](https://datakicks.shinyapps.io/CL_und_EL_KO-Runden-Prognose/)
+  - [datakicks/wm2018-simulation](https://datakicks.shinyapps.io/wm2018-simulation/)
+  - [datapprfn/TwitterApp](https://datapprfn.shinyapps.io/TwitterApp/)
+  - [dataquest/NewsByTweets](https://dataquest.shinyapps.io/NewsByTweets/)
+  - [datascienceperu/tornasol](https://datascienceperu.shinyapps.io/tornasol/)
+  - [datassist/neiss\_demographics](https://datassist.shinyapps.io/neiss_demographics/)
+  - [datatante/brewery\_app](https://datatante.shinyapps.io/brewery_app/)
+  - [daten-kieker/devdataprod](https://daten-kieker.shinyapps.io/devdataprod/)
+  - [datosmasivoscdec/Pregnant\_women](https://datosmasivoscdec.shinyapps.io/Pregnant_women/)
+  - [davearmitage/LotkaVolterraCompPrey](https://davearmitage.shinyapps.io/LotkaVolterraCompPrey/)
+  - [davearmitage/LotkaVolterraPredPrey](https://davearmitage.shinyapps.io/LotkaVolterraPredPrey/)
+  - [daver/daveR](https://daver.shinyapps.io/daveR/)
+  - [davesgonechina/OAJournals2014](https://davesgonechina.shinyapps.io/OAJournals2014/)
+  - [davesteps/homebrewR](https://davesteps.shinyapps.io/homebrewR/)
+  - [davesteps/machLearn](https://davesteps.shinyapps.io/machLearn/)
+  - [david-systemsforecasting/app\_rentorbuyer](https://david-systemsforecasting.shinyapps.io/app_rentorbuyer/)
+  - [davidakenny/APIM\_MM](https://davidakenny.shinyapps.io/APIM_MM/)
+  - [davidakenny/APIMeM](https://davidakenny.shinyapps.io/APIMeM/)
+  - [davidakenny/APIMM](https://davidakenny.shinyapps.io/APIMM/)
+  - [davidakenny/Dingy](https://davidakenny.shinyapps.io/Dingy/)
+  - [davidakenny/MedPower](https://davidakenny.shinyapps.io/MedPower/)
+  - [davidakenny/SRM\_R](https://davidakenny.shinyapps.io/SRM_R/)
+  - [davidcolquhoun/3-calcs-final](https://davidcolquhoun.shinyapps.io/3-calcs-final/)
+  - [davidgohel/demoggiraph](https://davidgohel.shinyapps.io/demoggiraph/)
+  - [davidpham87/snf\_apps](https://davidpham87.shinyapps.io/snf_apps/)
+  - [davidquartey/ghanatelecomdatainspector](https://davidquartey.shinyapps.io/ghanatelecomdatainspector/)
+  - [davidruvolo/AirportSecurity](https://davidruvolo.shinyapps.io/AirportSecurity/)
+  - [davidski/TwitterSentiment](https://davidski.shinyapps.io/TwitterSentiment/)
+  - [dbets/dBETS](https://dbets.shinyapps.io/dBETS/)
+  - [dborisog/visNoConflictsApp](https://dborisog.shinyapps.io/visNoConflictsApp/)
+  - [dc-coder/shiny-on](https://dc-coder.shinyapps.io/shiny-on/)
+  - [dchiu911/Gapminder-app](https://dchiu911.shinyapps.io/Gapminder-app/)
+  - [dchiu911/Population-Control-app](https://dchiu911.shinyapps.io/Population-Control-app/)
+  - [dczhang/expectancyApp](https://dczhang.shinyapps.io/expectancyApp/)
+  - [ddrbcn/shiny-accidents-barcelona](https://ddrbcn.shinyapps.io/shiny-accidents-barcelona/)
+  - [ddunn801/TeamData](https://ddunn801.shinyapps.io/TeamData/)
+  - [debatometer/ltwnrw17-arena](https://debatometer.shinyapps.io/ltwnrw17-arena/)
+  - [debatometer/ltwsh17](https://debatometer.shinyapps.io/ltwsh17/)
+  - [debatometer/ltwsl17](https://debatometer.shinyapps.io/ltwsl17/)
+  - [debatometer/presidentielles](https://debatometer.shinyapps.io/presidentielles/)
+  - [debruine/cordif](https://debruine.shinyapps.io/cordif/)
+  - [debruine/datacollect](https://debruine.shinyapps.io/datacollect/)
+  - [debruine/ddcreator](https://debruine.shinyapps.io/ddcreator/)
+  - [debruine/plotdemo](https://debruine.shinyapps.io/plotdemo/)
+  - [debruine/topcentile](https://debruine.shinyapps.io/topcentile/)
+  - [debruine/varviz](https://debruine.shinyapps.io/varviz/)
+  - [decisionsciences/Shiny](https://decisionsciences.shinyapps.io/Shiny/)
+  - [deeplab/Diseases](https://deeplab.shinyapps.io/Diseases/)
+  - [deeplab/EvolutionaryGames-Shiny](https://deeplab.shinyapps.io/EvolutionaryGames-Shiny/)
+  - [defr0st/TZC-profit-calc](https://defr0st.shinyapps.io/TZC-profit-calc/)
+  - [dehdailey/EarthquakeApp](https://dehdailey.shinyapps.io/EarthquakeApp/)
+  - [delermando/MyWordCloud](https://delermando.shinyapps.io/MyWordCloud/)
+  - [demo/001-hello](https://demo.shinyapps.io/001-hello/)
+  - [demo/002-text](https://demo.shinyapps.io/002-text/)
+  - [demo/004-mpg](https://demo.shinyapps.io/004-mpg/)
+  - [demo/012-datatables](https://demo.shinyapps.io/012-datatables/)
+  - [demo/013-selectize](https://demo.shinyapps.io/013-selectize/)
+  - [demo/018-datatable-options](https://demo.shinyapps.io/018-datatable-options/)
+  - [demo/019-mathjax](https://demo.shinyapps.io/019-mathjax/)
+  - [demo/021-selectize-plot](https://demo.shinyapps.io/021-selectize-plot/)
+  - [demo/022-unicode-chinese](https://demo.shinyapps.io/022-unicode-chinese/)
+  - [demo/023-optgroup-server](https://demo.shinyapps.io/023-optgroup-server/)
+  - [demo/029-row-selection](https://demo.shinyapps.io/029-row-selection/)
+  - [demopr/ComparacionMunicipios](https://demopr.shinyapps.io/ComparacionMunicipios/)
+  - [denden/MapApp](https://denden.shinyapps.io/MapApp/)
+  - [deniswillett/sfpdviz](https://deniswillett.shinyapps.io/sfpdviz/)
+  - [denniskorablev/aws\_prices](https://denniskorablev.shinyapps.io/aws_prices/)
+  - [denny/mexico\_senate](https://denny.shinyapps.io/mexico_senate/)
+  - [derek-corcoran/WhereShouldYouLive](https://derek-corcoran.shinyapps.io/WhereShouldYouLive/)
+  - [derekdebeurs/networkanalysis](https://derekdebeurs.shinyapps.io/networkanalysis/)
+  - [derekdebeurs/suicidenetwork](https://derekdebeurs.shinyapps.io/suicidenetwork/)
+  - [derekqiu/BrewTourAnalytics](https://derekqiu.shinyapps.io/BrewTourAnalytics/)
+  - [derwin/TOTPbot](https://derwin.shinyapps.io/TOTPbot/)
+  - [descience/NLAViz](https://descience.shinyapps.io/NLAViz/)
+  - [detags/p\_mercado\_dia\_qro](https://detags.shinyapps.io/p_mercado_dia_qro/)
+  - [dgabbe/btshiny](https://dgabbe.shinyapps.io/btshiny/)
+  - [dgolicher-bu/regression\_plus](https://dgolicher-bu.shinyapps.io/regression_plus/)
+  - [dgranjon/bulmaExtension](https://dgranjon.shinyapps.io/bulmaExtension/)
+  - [dgranjon/myshinycv](https://dgranjon.shinyapps.io/myshinycv/)
+  - [dgranjon/shinySliders](https://dgranjon.shinyapps.io/shinySliders/)
+  - [dgraziotin/peerreviewtimeline](https://dgraziotin.shinyapps.io/peerreviewtimeline/)
+  - [dgrtwo/birthday](https://dgrtwo.shinyapps.io/birthday/)
+  - [dgrtwo/cranview](https://dgrtwo.shinyapps.io/cranview/)
+  - [dgrtwo/love-actually-network](https://dgrtwo.shinyapps.io/love-actually-network/)
+  - [dgrtwo/providence\_viewer](https://dgrtwo.shinyapps.io/providence_viewer/)
+  - [dgrtwo/serialApp](https://dgrtwo.shinyapps.io/serialApp/)
+  - [dgrtwo/so-trends](https://dgrtwo.shinyapps.io/so-trends/)
+  - [dgrtwo/socraticswirl](https://dgrtwo.shinyapps.io/socraticswirl/)
+  - [dgrtwo/tag-traffic-hour](https://dgrtwo.shinyapps.io/tag-traffic-hour/)
+  - [dguzman/Taxis-Trajectories](https://dguzman.shinyapps.io/Taxis-Trajectories/)
+  - [dhaine/episensr\_shiny](https://dhaine.shinyapps.io/episensr_shiny/)
+  - [dhimrich/CourseraSurvival](https://dhimrich.shinyapps.io/CourseraSurvival/)
+  - [dhmontgomery/mnlegnom](https://dhmontgomery.shinyapps.io/mnlegnom/)
+  - [dichika/presentationtrace](https://dichika.shinyapps.io/presentationtrace/)
+  - [dicook/explore](https://dicook.shinyapps.io/explore/)
+  - [dimitrios/worldindicators](https://dimitrios.shinyapps.io/worldindicators/)
+  - [dimitrios/worldindicatorsmap](https://dimitrios.shinyapps.io/worldindicatorsmap/)
+  - [dipanjan/twitter-analysis](https://dipanjan.shinyapps.io/twitter-analysis/)
+  - [dirk/shiny](https://dirk.shinyapps.io/shiny/)
+  - [dirk/sudoku-solver](https://dirk.shinyapps.io/sudoku-solver/)
+  - [dirk/surveillance](https://dirk.shinyapps.io/surveillance/)
+  - [dirkseidensticker/webapp](https://dirkseidensticker.shinyapps.io/webapp/)
+  - [disciplined-it/opinionmining](https://disciplined-it.shinyapps.io/opinionmining/)
+  - [discoursemedia/Cost-of-Commute](https://discoursemedia.shinyapps.io/Cost-of-Commute/)
+  - [discoursemedia/CostofCommute](https://discoursemedia.shinyapps.io/CostofCommute/)
+  - [dishapatil/koch\_snowflake](https://dishapatil.shinyapps.io/koch_snowflake/)
+  - [dishapatil/pigeonvision](https://dishapatil.shinyapps.io/pigeonvision/)
+  - [dishapatil/shiny](https://dishapatil.shinyapps.io/shiny/)
+  - [dk-o/pastpolls](https://dk-o.shinyapps.io/pastpolls/)
+  - [dk-o/voter-demographics-2012](https://dk-o.shinyapps.io/voter-demographics-2012/)
+  - [dkeanalytics/whalez](https://dkeanalytics.shinyapps.io/whalez/)
+  - [dlow/qpcr](https://dlow.shinyapps.io/qpcr/)
+  - [dmaust/CaliforniaSchools](https://dmaust.shinyapps.io/CaliforniaSchools/)
+  - [dmenin/CourseraDataProductsProject](https://dmenin.shinyapps.io/CourseraDataProductsProject/)
+  - [dmenin/ShinyEx](https://dmenin.shinyapps.io/ShinyEx/)
+  - [dmpstats/avian\_stochcrm](https://dmpstats.shinyapps.io/avian_stochcrm/)
+  - [dmwarner/modis\_shiny2016](https://dmwarner.shinyapps.io/modis_shiny2016/)
+  - [dmwarnerusgsglsc/AppDraft](https://dmwarnerusgsglsc.shinyapps.io/AppDraft/)
+  - [dnaeye/crimeVis](https://dnaeye.shinyapps.io/crimeVis/)
+  - [dnafrance/devdatapdt](https://dnafrance.shinyapps.io/devdatapdt/)
+  - [dnegrey/mlbDashboard](https://dnegrey.shinyapps.io/mlbDashboard/)
+  - [dnlmc/misanthrope\_app](https://dnlmc.shinyapps.io/misanthrope_app/)
+  - [dobbs-onc-jhmi/ConflictsOfShinyApp](https://dobbs-onc-jhmi.shinyapps.io/ConflictsOfShinyApp/)
+  - [doctorjava/GoldenYears](https://doctorjava.shinyapps.io/GoldenYears/)
+  - [domfernandez/\_myShinyApp](https://domfernandez.shinyapps.io/_myShinyApp/)
+  - [domfernandez/myShinyApp](https://domfernandez.shinyapps.io/myShinyApp/)
+  - [domrussel/Person\_App](https://domrussel.shinyapps.io/Person_App/)
+  - [dongxiaop/DS\_Capstone](https://dongxiaop.shinyapps.io/DS_Capstone/)
+  - [donk23/shinyMig\_UpperAT](https://donk23.shinyapps.io/shinyMig_UpperAT/)
+  - [donkeyshot/lowlandz](https://donkeyshot.shinyapps.io/lowlandz/)
+  - [donmeka/Tekken-Punishment](https://donmeka.shinyapps.io/Tekken-Punishment/)
+  - [dontbeaturkey/Turkey](https://dontbeaturkey.shinyapps.io/Turkey/)
+  - [dormantroot/PredictIris](https://dormantroot.shinyapps.io/PredictIris/)
+  - [dormantroot/PredictWord](https://dormantroot.shinyapps.io/PredictWord/)
+  - [doughertyeric/thanos\_miracle](https://doughertyeric.shinyapps.io/thanos_miracle/)
+  - [dougmcneall/discon](https://dougmcneall.shinyapps.io/discon/)
+  - [dpak/Gamma](https://dpak.shinyapps.io/Gamma/)
+  - [drclongstaff/ScreeningCL](https://drclongstaff.shinyapps.io/ScreeningCL/)
+  - [dreamrs-fan/pimpMyShiny](https://dreamrs-fan.shinyapps.io/pimpMyShiny/)
+  - [dreamrs-vic/basicShiny](https://dreamrs-vic.shinyapps.io/basicShiny/)
+  - [dreamrs-vic/shinyWidgets](https://dreamrs-vic.shinyapps.io/shinyWidgets/)
+  - [dreamrs/dashboard\_elec](https://dreamrs.shinyapps.io/dashboard_elec/)
+  - [drinkwater32/nhl\_twitter\_scraper](https://drinkwater32.shinyapps.io/nhl_twitter_scraper/)
+  - [dripdrop12/PDA\_Explorer](https://dripdrop12.shinyapps.io/PDA_Explorer/)
+  - [drkhaled/Anova](https://drkhaled.shinyapps.io/Anova/)
+  - [drkhaled/power\_of\_the\_test\_\_t-test](https://drkhaled.shinyapps.io/power_of_the_test__t-test/)
+  - [drkhaled/sample\_size\_calculator](https://drkhaled.shinyapps.io/sample_size_calculator/)
+  - [drkhaled/Social\_inful](https://drkhaled.shinyapps.io/Social_inful/)
+  - [drkhaled/twitter\_trending\_hashtags](https://drkhaled.shinyapps.io/twitter_trending_hashtags/)
+  - [dsasas/DDPapp](https://dsasas.shinyapps.io/DDPapp/)
+  - [dsdaveh/QuinoaPi](https://dsdaveh.shinyapps.io/QuinoaPi/)
+  - [dsmilo/gentrification](https://dsmilo.shinyapps.io/gentrification/)
+  - [dsollberger/randomfrasierepisode](https://dsollberger.shinyapps.io/randomfrasierepisode/)
+  - [dsollberger/shinyHomeworkTemplate](https://dsollberger.shinyapps.io/shinyHomeworkTemplate/)
+  - [dsself/Shiny](https://dsself.shinyapps.io/Shiny/)
+  - [dstreble/shinyDRAC](https://dstreble.shinyapps.io/shinyDRAC/)
+  - [dswalter/binomial](https://dswalter.shinyapps.io/binomial/)
+  - [dswalter/propconfint](https://dswalter.shinyapps.io/propconfint/)
+  - [dswalter/stability](https://dswalter.shinyapps.io/stability/)
+  - [dswalter/tdist](https://dswalter.shinyapps.io/tdist/)
+  - [dt444/next-word-predict](https://dt444.shinyapps.io/next-word-predict/)
+  - [dtkaplan/RStudioConf2018-slides](https://dtkaplan.shinyapps.io/RStudioConf2018-slides/)
+  - [dtmaboutheart/ShotCharts](https://dtmaboutheart.shinyapps.io/ShotCharts/)
+  - [dubikan/dejarg](https://dubikan.shinyapps.io/dejarg/)
+  - [ducluong/sanitation](https://ducluong.shinyapps.io/sanitation/)
+  - [duncan-garmonsway/harry-potter](https://duncan-garmonsway.shinyapps.io/harry-potter/)
+  - [duncan-garmonsway/xlex](https://duncan-garmonsway.shinyapps.io/xlex/)
+  - [duncanhe/shiny](https://duncanhe.shinyapps.io/shiny/)
+  - [dusanmerta/jiz50](https://dusanmerta.shinyapps.io/jiz50/)
+  - [dvcv/Powerball](https://dvcv.shinyapps.io/Powerball/)
+  - [dvgodoy/ExploratoryRegression](https://dvgodoy.shinyapps.io/ExploratoryRegression/)
+  - [dwoll/DVHshiny](https://dwoll.shinyapps.io/DVHshiny/)
+  - [dwoll/shotGroupsApp](https://dwoll.shinyapps.io/shotGroupsApp/)
+  - [dxrodri/MPGPredictor](https://dxrodri.shinyapps.io/MPGPredictor/)
+  - [dylan-mortimer/scouting\_report](https://dylan-mortimer.shinyapps.io/scouting_report/)
+  - [dzakharov/microprobe\_imaging](https://dzakharov.shinyapps.io/microprobe_imaging/)
+  - [earlglynn/ShinyCaret](https://earlglynn.shinyapps.io/ShinyCaret/)
+  - [ebailey78/NetAssessApp](https://ebailey78.shinyapps.io/NetAssessApp/)
+  - [ebey/statnetWeb](https://ebey.shinyapps.io/statnetWeb/)
+  - [ecamp/avion-plano](https://ecamp.shinyapps.io/avion-plano/)
+  - [echodroff/stopcovar](https://echodroff.shinyapps.io/stopcovar/)
+  - [ecodynamics/StructuralCoexistence](https://ecodynamics.shinyapps.io/StructuralCoexistence/)
+  - [ecologician/ggvis\_grouping](https://ecologician.shinyapps.io/ggvis_grouping/)
+  - [econdata/bud1](https://econdata.shinyapps.io/bud1/)
+  - [econdata/taxcuts](https://econdata.shinyapps.io/taxcuts/)
+  - [econexpert/tradedata](https://econexpert.shinyapps.io/tradedata/)
+  - [econometricsbysimulation/Ebola-Dynamic-Model](https://econometricsbysimulation.shinyapps.io/Ebola-Dynamic-Model/)
+  - [econometricsbysimulation/FCount](https://econometricsbysimulation.shinyapps.io/FCount/)
+  - [econometricsbysimulation/OLS-App](https://econometricsbysimulation.shinyapps.io/OLS-App/)
+  - [econometricsbysimulation/Survey](https://econometricsbysimulation.shinyapps.io/Survey/)
+  - [econpsychbasel/shinyfftrees](https://econpsychbasel.shinyapps.io/shinyfftrees/)
+  - [edbullen/shinyQuantMod](https://edbullen.shinyapps.io/shinyQuantMod/)
+  - [edelfava82/Migrants-app](https://edelfava82.shinyapps.io/Migrants-app/)
+  - [edelfava82/MigrantsLibya-app](https://edelfava82.shinyapps.io/MigrantsLibya-app/)
+  - [edjberry/eurovision-dashboard](https://edjberry.shinyapps.io/eurovision-dashboard/)
+  - [edmundtoh/ipptscore](https://edmundtoh.shinyapps.io/ipptscore/)
+  - [edna-probability-of-detection-calculator/eDNA\_App](https://edna-probability-of-detection-calculator.shinyapps.io/eDNA_App/)
+  - [eduardo-leoni/NCMExplorer](https://eduardo-leoni.shinyapps.io/NCMExplorer/)
+  - [eduardo/dsscapstone](https://eduardo.shinyapps.io/dsscapstone/)
+  - [eduardomagalhaes/GoldStockPrices](https://eduardomagalhaes.shinyapps.io/GoldStockPrices/)
+  - [educas/Probabilidades-Normal](https://educas.shinyapps.io/Probabilidades-Normal/)
+  - [egap/gotv-app](https://egap.shinyapps.io/gotv-app/)
+  - [egap/Power\_Calculator](https://egap.shinyapps.io/Power_Calculator/)
+  - [egonico/italia](https://egonico.shinyapps.io/italia/)
+  - [ehrlinger/xportEDA](https://ehrlinger.shinyapps.io/xportEDA/)
+  - [eischen/Collisions](https://eischen.shinyapps.io/Collisions/)
+  - [ejsbrocco/NCElectionViewer](https://ejsbrocco.shinyapps.io/NCElectionViewer/)
+  - [ejsbrocco/NCGA\_PartisanSwing](https://ejsbrocco.shinyapps.io/NCGA_PartisanSwing/)
+  - [ekonos/aportesprivados](https://ekonos.shinyapps.io/aportesprivados/)
+  - [ekoziol/Eric-Koziol-Swiftkey-Prediction](https://ekoziol.shinyapps.io/Eric-Koziol-Swiftkey-Prediction/)
+  - [ekoziol/NSFAwards](https://ekoziol.shinyapps.io/NSFAwards/)
+  - [ekung/user\_genotypes](https://ekung.shinyapps.io/user_genotypes/)
+  - [ela4/DDP-Project](https://ela4.shinyapps.io/DDP-Project/)
+  - [elainepanuccio/specialprotectionwatersexplorer](https://elainepanuccio.shinyapps.io/specialprotectionwatersexplorer/)
+  - [elcep/shiny\_static](https://elcep.shinyapps.io/shiny_static/)
+  - [elecciones21d/elecciones21d](https://elecciones21d.shinyapps.io/elecciones21d/)
+  - [elifkartal/euroScore](https://elifkartal.shinyapps.io/euroScore/)
+  - [elinw/crosstabber](https://elinw.shinyapps.io/crosstabber/)
+  - [ellisp/0031-shiny](https://ellisp.shinyapps.io/0031-shiny/)
+  - [ellisp/individual-vote-nzes](https://ellisp.shinyapps.io/individual-vote-nzes/)
+  - [ellisp/nz-election-2017](https://ellisp.shinyapps.io/nz-election-2017/)
+  - [ellisp/NZ-general-election-2014](https://ellisp.shinyapps.io/NZ-general-election-2014/)
+  - [ellisp/nzcensus-cartograms](https://ellisp.shinyapps.io/nzcensus-cartograms/)
+  - [ellisp/nzes2014\_x\_by\_party](https://ellisp.shinyapps.io/nzes2014_x_by_party/)
+  - [ellisp/NZIS](https://ellisp.shinyapps.io/NZIS/)
+  - [elmaxico/Footy](https://elmaxico.shinyapps.io/Footy/)
+  - [elnaya/opented](https://elnaya.shinyapps.io/opented/)
+  - [emanuelebardelli/capstone\_app\_v4](https://emanuelebardelli.shinyapps.io/capstone_app_v4/)
+  - [emanuelfeld/tree-map](https://emanuelfeld.shinyapps.io/tree-map/)
+  - [emilhvitfeldt/social\_progress\_index\_2017\_dataviz](https://emilhvitfeldt.shinyapps.io/social_progress_index_2017_dataviz/)
+  - [emilkirkegaard/Danish\_Immigration](https://emilkirkegaard.shinyapps.io/Danish_Immigration/)
+  - [emilkirkegaard/Understanding\_restriction\_of\_range](https://emilkirkegaard.shinyapps.io/Understanding_restriction_of_range/)
+  - [emmanuel-perry/bombay](https://emmanuel-perry.shinyapps.io/bombay/)
+  - [emmanuel-perry/lines](https://emmanuel-perry.shinyapps.io/lines/)
+  - [emoriebeck/life\_events](https://emoriebeck.shinyapps.io/life_events/)
+  - [emoriebeck/pairs\_graphicalvar](https://emoriebeck.shinyapps.io/pairs_graphicalvar/)
+  - [emoriebeck/PAIRS\_outcomes](https://emoriebeck.shinyapps.io/PAIRS_outcomes/)
+  - [engbertlab/SceneWalk](https://engbertlab.shinyapps.io/SceneWalk/)
+  - [engelmann/inter-act](https://engelmann.shinyapps.io/inter-act/)
+  - [epijim/episheet\_shiny](https://epijim.shinyapps.io/episheet_shiny/)
+  - [erasemus/irisID](https://erasemus.shinyapps.io/irisID/)
+  - [erasmusmcmgz/dissemination](https://erasmusmcmgz.shinyapps.io/dissemination/)
+  - [erasmusmundusassociation/Course\_browser](https://erasmusmundusassociation.shinyapps.io/Course_browser/)
+  - [erbo/jaws4](https://erbo.shinyapps.io/jaws4/)
+  - [ergz/shiny\_app](https://ergz.shinyapps.io/shiny_app/)
+  - [erichare/intRo](https://erichare.shinyapps.io/intRo/)
+  - [ericlawton/playShiny](https://ericlawton.shinyapps.io/playShiny/)
+  - [ericrayanderson/gmail\_clone](https://ericrayanderson.shinyapps.io/gmail_clone/)
+  - [ericrayanderson/shinymaterial](https://ericrayanderson.shinyapps.io/shinymaterial/)
+  - [erik-andreasson/allsvenskan](https://erik-andreasson.shinyapps.io/allsvenskan/)
+  - [erikvoeten/IdealPointsUN](https://erikvoeten.shinyapps.io/IdealPointsUN/)
+  - [erikvoeten/Simple](https://erikvoeten.shinyapps.io/Simple/)
+  - [erikvoeten/UNVoting](https://erikvoeten.shinyapps.io/UNVoting/)
+  - [es-data/7State\_App](https://es-data.shinyapps.io/7State_App/)
+  - [es-data/Messaging-App](https://es-data.shinyapps.io/Messaging-App/)
+  - [es-data/Workplace-App](https://es-data.shinyapps.io/Workplace-App/)
+  - [essence91214/HelpBuyDiamonds](https://essence91214.shinyapps.io/HelpBuyDiamonds/)
+  - [estech/predicter](https://estech.shinyapps.io/predicter/)
+  - [etachov/Twitter\_Tern](https://etachov.shinyapps.io/Twitter_Tern/)
+  - [eubulus/shiny1](https://eubulus.shinyapps.io/shiny1/)
+  - [evan/quickquants](https://evan.shinyapps.io/quickquants/)
+  - [evangelinereynolds/building\_ols\_intuition](https://evangelinereynolds.shinyapps.io/building_ols_intuition/)
+  - [evangelinereynolds/EyeBallIt](https://evangelinereynolds.shinyapps.io/EyeBallIt/)
+  - [evangelinereynolds/USCongressionalVotingShiny](https://evangelinereynolds.shinyapps.io/USCongressionalVotingShiny/)
+  - [evanlandman/frequency-chart](https://evanlandman.shinyapps.io/frequency-chart/)
+  - [evoai/evoai](https://evoai.shinyapps.io/evoai/)
+  - [evobir/pairwise\_distances](https://evobir.shinyapps.io/pairwise_distances/)
+  - [evolvingwild/hockey](https://evolvingwild.shinyapps.io/hockey/)
+  - [ewenme/deejae](https://ewenme.shinyapps.io/deejae/)
+  - [ewenme/polMonitor](https://ewenme.shinyapps.io/polMonitor/)
+  - [ewenme/vinylspotting](https://ewenme.shinyapps.io/vinylspotting/)
+  - [ewnike/VPIN\_app](https://ewnike.shinyapps.io/VPIN_app/)
+  - [f3rdata/R\_Programming](https://f3rdata.shinyapps.io/R_Programming/)
+  - [fabiogm/LahmanWeb](https://fabiogm.shinyapps.io/LahmanWeb/)
+  - [fadhila/oman\_basic\_vs\_general\_education\_statistics](https://fadhila.shinyapps.io/oman_basic_vs_general_education_statistics/)
+  - [fantasyadhd/mfl10\_live](https://fantasyadhd.shinyapps.io/mfl10_live/)
+  - [fantasydane/sfb7adp](https://fantasydane.shinyapps.io/sfb7adp/)
+  - [fantasydota/fantasytools](https://fantasydota.shinyapps.io/fantasytools/)
+  - [farsite/swiftkey-cap](https://farsite.shinyapps.io/swiftkey-cap/)
+  - [fattails9/app-1](https://fattails9.shinyapps.io/app-1/)
+  - [fbarth/predict\_real\_estate\_price](https://fbarth.shinyapps.io/predict_real_estate_price/)
+  - [fcampelo/CLT\_demo](https://fcampelo.shinyapps.io/CLT_demo/)
+  - [fcdidone/precpbnu](https://fcdidone.shinyapps.io/precpbnu/)
+  - [fdabl/coin\_flips](https://fdabl.shinyapps.io/coin_flips/)
+  - [fdabl/slides](https://fdabl.shinyapps.io/slides/)
+  - [fdabl/talk](https://fdabl.shinyapps.io/talk/)
+  - [fdjlss/terremotos-cl-01](https://fdjlss.shinyapps.io/terremotos-cl-01/)
+  - [fearofcrime/Fear\_of\_crime\_research\_map](https://fearofcrime.shinyapps.io/Fear_of_crime_research_map/)
+  - [feasible-analytics/personal\_results](https://feasible-analytics.shinyapps.io/personal_results/)
+  - [fedematt/shinyMB](https://fedematt.shinyapps.io/shinyMB/)
+  - [ferb/World\_Cup\_Predictor](https://ferb.shinyapps.io/World_Cup_Predictor/)
+  - [fgam/fgam](https://fgam.shinyapps.io/fgam/)
+  - [fhsg/vereinbarkeitssimulator](https://fhsg.shinyapps.io/vereinbarkeitssimulator/)
+  - [fiiorg/shinygates](https://fiiorg.shinyapps.io/shinygates/)
+  - [find-your-home/myapp](https://find-your-home.shinyapps.io/myapp/)
+  - [fishdata/final](https://fishdata.shinyapps.io/final/)
+  - [fishdata/PDF\_extraction\_App](https://fishdata.shinyapps.io/PDF_extraction_App/)
+  - [fishecology/B-VBGM](https://fishecology.shinyapps.io/B-VBGM/)
+  - [fisseha/dataproducts\_project](https://fisseha.shinyapps.io/dataproducts_project/)
+  - [fitz/lj\_bibliography](https://fitz.shinyapps.io/lj_bibliography/)
+  - [fjjaramillo/Galton](https://fjjaramillo.shinyapps.io/Galton/)
+  - [fjospinas/DPP\_app\_stations\_ideam](https://fjospinas.shinyapps.io/DPP_app_stations_ideam/)
+  - [fjra01/MAPAS4](https://fjra01.shinyapps.io/MAPAS4/)
+  - [flor/Rladies](https://flor.shinyapps.io/Rladies/)
+  - [flore/OnlineApp](https://flore.shinyapps.io/OnlineApp/)
+  - [floren/DDP\_app](https://floren.shinyapps.io/DDP_app/)
+  - [floriangd/Firstnames](https://floriangd.shinyapps.io/Firstnames/)
+  - [flovv/gVision-shiny](https://flovv.shinyapps.io/gVision-shiny/)
+  - [flybna/BNA\_Parking](https://flybna.shinyapps.io/BNA_Parking/)
+  - [flybna/MNAA\_FAA127](https://flybna.shinyapps.io/MNAA_FAA127/)
+  - [fmez/App1](https://fmez.shinyapps.io/App1/)
+  - [fmgarciadiaz/NeuralMagik](https://fmgarciadiaz.shinyapps.io/NeuralMagik/)
+  - [followthemoney/finflows](https://followthemoney.shinyapps.io/finflows/)
+  - [footyviz/supercoach](https://footyviz.shinyapps.io/supercoach/)
+  - [fperezgarcia/shinyApp](https://fperezgarcia.shinyapps.io/shinyApp/)
+  - [franaguila/simpsons-paradox](https://franaguila.shinyapps.io/simpsons-paradox/)
+  - [franiis/shinyappbubbles](https://franiis.shinyapps.io/shinyappbubbles/)
+  - [frankwebb/nationalcomingoutday](https://frankwebb.shinyapps.io/nationalcomingoutday/)
+  - [frannetworks/red\_trenes](https://frannetworks.shinyapps.io/red_trenes/)
+  - [frederikaust/retractcheck\_shinyapp](https://frederikaust.shinyapps.io/retractcheck_shinyapp/)
+  - [fredus/RegApp](https://fredus.shinyapps.io/RegApp/)
+  - [friedmanlab/McPAS-TCR](https://friedmanlab.shinyapps.io/McPAS-TCR/)
+  - [friend1ws/pmsignature\_shiny](https://friend1ws.shinyapps.io/pmsignature_shiny/)
+  - [friep/plottr](https://friep.shinyapps.io/plottr/)
+  - [friscojosh/airyards](https://friscojosh.shinyapps.io/airyards/)
+  - [frissdemo/FrissDashboard](https://frissdemo.shinyapps.io/FrissDashboard/)
+  - [frzambra/drought\_prediction](https://frzambra.shinyapps.io/drought_prediction/)
+  - [frzambra/Monitor\_Sequia](https://frzambra.shinyapps.io/Monitor_Sequia/)
+  - [frzambra/shinyapp](https://frzambra.shinyapps.io/shinyapp/)
+  - [fschoen/LM\_MilesPerGallon](https://fschoen.shinyapps.io/LM_MilesPerGallon/)
+  - [fsdkenya/fdexplorer](https://fsdkenya.shinyapps.io/fdexplorer/)
+  - [fsdkenya/fintrends](https://fsdkenya.shinyapps.io/fintrends/)
+  - [fsdkenya/finvoices](https://fsdkenya.shinyapps.io/finvoices/)
+  - [fsdkenya/gallup\_global\_financial\_health](https://fsdkenya.shinyapps.io/gallup_global_financial_health/)
+  - [fsdkenya/popinsights](https://fsdkenya.shinyapps.io/popinsights/)
+  - [fsmontenegro/Kids\_Activities](https://fsmontenegro.shinyapps.io/Kids_Activities/)
+  - [fulowa/squash](https://fulowa.shinyapps.io/squash/)
+  - [fulowa/squash2](https://fulowa.shinyapps.io/squash2/)
+  - [fungiminions/FunGeneClusterS](https://fungiminions.shinyapps.io/FunGeneClusterS/)
+  - [fungiminions/geneticDiversity](https://fungiminions.shinyapps.io/geneticDiversity/)
+  - [fungiminions/s\_gcExplorerApp](https://fungiminions.shinyapps.io/s_gcExplorerApp/)
+  - [fusion/ebola](https://fusion.shinyapps.io/ebola/)
+  - [fveronesi/CrimeUK](https://fveronesi.shinyapps.io/CrimeUK/)
+  - [fveronesi/DataViz](https://fveronesi.shinyapps.io/DataViz/)
+  - [fweco/shank\_family\_running\_log\_2012-2017](https://fweco.shinyapps.io/shank_family_running_log_2012-2017/)
+  - [fzapata/test\_monograph](https://fzapata.shinyapps.io/test_monograph/)
+  - [g4bllc/Big\_Sky\_BB\_2017](https://g4bllc.shinyapps.io/Big_Sky_BB_2017/)
+  - [g4bllc/nics\_dash](https://g4bllc.shinyapps.io/nics_dash/)
+  - [gabriel/copyofshiny](https://gabriel.shinyapps.io/copyofshiny/)
+  - [gabriel/lbatutorial](https://gabriel.shinyapps.io/lbatutorial/)
+  - [gabrielareto/App-1](https://gabrielareto.shinyapps.io/App-1/)
+  - [gabrielmutua/dash](https://gabrielmutua.shinyapps.io/dash/)
+  - [gabrielmutua/facebook-App](https://gabrielmutua.shinyapps.io/facebook-App/)
+  - [gabrielmutua/wordcloud](https://gabrielmutua.shinyapps.io/wordcloud/)
+  - [gabrielrega/divida\_web](https://gabrielrega.shinyapps.io/divida_web/)
+  - [gadenbuie/rsconf\_tweets](https://gadenbuie.shinyapps.io/rsconf_tweets/)
+  - [gage-justin/master\_app](https://gage-justin.shinyapps.io/master_app/)
+  - [gage-justin/nyc\_hippies](https://gage-justin.shinyapps.io/nyc_hippies/)
+  - [galaxis/imdbcontroversial](https://galaxis.shinyapps.io/imdbcontroversial/)
+  - [gallery/002-text](https://gallery.shinyapps.io/002-text/)
+  - [gallery/003-reactivity](https://gallery.shinyapps.io/003-reactivity/)
+  - [gallery/005-sliders](https://gallery.shinyapps.io/005-sliders/)
+  - [gallery/007-widgets](https://gallery.shinyapps.io/007-widgets/)
+  - [gallery/009-upload](https://gallery.shinyapps.io/009-upload/)
+  - [gallery/011-timer](https://gallery.shinyapps.io/011-timer/)
+  - [gallery/012-datatables](https://gallery.shinyapps.io/012-datatables/)
+  - [gallery/013-selectize](https://gallery.shinyapps.io/013-selectize/)
+  - [gallery/016-knitr-pdf](https://gallery.shinyapps.io/016-knitr-pdf/)
+  - [gallery/018-datatable-options](https://gallery.shinyapps.io/018-datatable-options/)
+  - [gallery/019-mathjax](https://gallery.shinyapps.io/019-mathjax/)
+  - [gallery/02\_text](https://gallery.shinyapps.io/02_text/)
+  - [gallery/021-selectize-plot](https://gallery.shinyapps.io/021-selectize-plot/)
+  - [gallery/022-unicode-chinese](https://gallery.shinyapps.io/022-unicode-chinese/)
+  - [gallery/024-optgroup-selectize](https://gallery.shinyapps.io/024-optgroup-selectize/)
+  - [gallery/025-loop-ui](https://gallery.shinyapps.io/025-loop-ui/)
+  - [gallery/027-absolutely-positioned-panels](https://gallery.shinyapps.io/027-absolutely-positioned-panels/)
+  - [gallery/030-basic-datatable](https://gallery.shinyapps.io/030-basic-datatable/)
+  - [gallery/032-client-data-and-query-string](https://gallery.shinyapps.io/032-client-data-and-query-string/)
+  - [gallery/035-custom-input-bindings](https://gallery.shinyapps.io/035-custom-input-bindings/)
+  - [gallery/037-date-and-date-range](https://gallery.shinyapps.io/037-date-and-date-range/)
+  - [gallery/040-dynamic-clustering](https://gallery.shinyapps.io/040-dynamic-clustering/)
+  - [gallery/047-image-output](https://gallery.shinyapps.io/047-image-output/)
+  - [gallery/048-including-html-text-and-markdown-files](https://gallery.shinyapps.io/048-including-html-text-and-markdown-files/)
+  - [gallery/050-kmeans-example](https://gallery.shinyapps.io/050-kmeans-example/)
+  - [gallery/051-movie-explorer](https://gallery.shinyapps.io/051-movie-explorer/)
+  - [gallery/053-navlistpanel-example](https://gallery.shinyapps.io/053-navlistpanel-example/)
+  - [gallery/054-nvd3-line-chart-output](https://gallery.shinyapps.io/054-nvd3-line-chart-output/)
+  - [gallery/057-plot-plus-three-columns](https://gallery.shinyapps.io/057-plot-plus-three-columns/)
+  - [gallery/058-progress-example](https://gallery.shinyapps.io/058-progress-example/)
+  - [gallery/061-server-to-client-custom-messages](https://gallery.shinyapps.io/061-server-to-client-custom-messages/)
+  - [gallery/064-telephones-by-region](https://gallery.shinyapps.io/064-telephones-by-region/)
+  - [gallery/065-update-input-demo](https://gallery.shinyapps.io/065-update-input-demo/)
+  - [gallery/066-upload-file](https://gallery.shinyapps.io/066-upload-file/)
+  - [gallery/069-widget-check-group](https://gallery.shinyapps.io/069-widget-check-group/)
+  - [gallery/072-widget-date-range](https://gallery.shinyapps.io/072-widget-date-range/)
+  - [gallery/073-widget-file](https://gallery.shinyapps.io/073-widget-file/)
+  - [gallery/076-widget-select](https://gallery.shinyapps.io/076-widget-select/)
+  - [gallery/077-widget-slider](https://gallery.shinyapps.io/077-widget-slider/)
+  - [gallery/082-word-cloud](https://gallery.shinyapps.io/082-word-cloud/)
+  - [gallery/084-single-file](https://gallery.shinyapps.io/084-single-file/)
+  - [gallery/085-progress](https://gallery.shinyapps.io/085-progress/)
+  - [gallery/086-bus-dashboard](https://gallery.shinyapps.io/086-bus-dashboard/)
+  - [gallery/087-crandash](https://gallery.shinyapps.io/087-crandash/)
+  - [gallery/094-image-interaction-basic](https://gallery.shinyapps.io/094-image-interaction-basic/)
+  - [gallery/095-plot-interaction-advanced](https://gallery.shinyapps.io/095-plot-interaction-advanced/)
+  - [gallery/105-plot-interaction-zoom](https://gallery.shinyapps.io/105-plot-interaction-zoom/)
+  - [gallery/110-error-sanitization](https://gallery.shinyapps.io/110-error-sanitization/)
+  - [gallery/113-bookmarking-url](https://gallery.shinyapps.io/113-bookmarking-url/)
+  - [gallery/117-shinythemes](https://gallery.shinyapps.io/117-shinythemes/)
+  - [gallery/3D\_Mapping](https://gallery.shinyapps.io/3D_Mapping/)
+  - [gallery/actionbutton](https://gallery.shinyapps.io/actionbutton/)
+  - [gallery/anova\_shiny\_rstudio](https://gallery.shinyapps.io/anova_shiny_rstudio/)
+  - [gallery/boxplot](https://gallery.shinyapps.io/boxplot/)
+  - [gallery/CDCPlot](https://gallery.shinyapps.io/CDCPlot/)
+  - [gallery/client-data-and-query-string](https://gallery.shinyapps.io/client-data-and-query-string/)
+  - [gallery/CLT\_mean](https://gallery.shinyapps.io/CLT_mean/)
+  - [gallery/college\_explorer-master](https://gallery.shinyapps.io/college_explorer-master/)
+  - [gallery/collinearity](https://gallery.shinyapps.io/collinearity/)
+  - [gallery/correlation\_game](https://gallery.shinyapps.io/correlation_game/)
+  - [gallery/custom-input-bindings](https://gallery.shinyapps.io/custom-input-bindings/)
+  - [gallery/datafest-map-all-years](https://gallery.shinyapps.io/datafest-map-all-years/)
+  - [gallery/drinkr](https://gallery.shinyapps.io/drinkr/)
+  - [gallery/Ebola-Dynamic](https://gallery.shinyapps.io/Ebola-Dynamic/)
+  - [gallery/EDsimulation](https://gallery.shinyapps.io/EDsimulation/)
+  - [gallery/ga-effect](https://gallery.shinyapps.io/ga-effect/)
+  - [gallery/GDELTNetApp](https://gallery.shinyapps.io/GDELTNetApp/)
+  - [gallery/ggtree](https://gallery.shinyapps.io/ggtree/)
+  - [gallery/google-charts](https://gallery.shinyapps.io/google-charts/)
+  - [gallery/hdnom-app](https://gallery.shinyapps.io/hdnom-app/)
+  - [gallery/highcharter-births](https://gallery.shinyapps.io/highcharter-births/)
+  - [gallery/image-output](https://gallery.shinyapps.io/image-output/)
+  - [gallery/including-html-text-and-markdown-files](https://gallery.shinyapps.io/including-html-text-and-markdown-files/)
+  - [gallery/incubator-progress](https://gallery.shinyapps.io/incubator-progress/)
+  - [gallery/kcompshiny](https://gallery.shinyapps.io/kcompshiny/)
+  - [gallery/lake\_erie\_fisheries\_stock\_assessment\_app](https://gallery.shinyapps.io/lake_erie_fisheries_stock_assessment_app/)
+  - [gallery/LDAelife](https://gallery.shinyapps.io/LDAelife/)
+  - [gallery/lego-viz](https://gallery.shinyapps.io/lego-viz/)
+  - [gallery/marketing](https://gallery.shinyapps.io/marketing/)
+  - [gallery/navlistpanel-example](https://gallery.shinyapps.io/navlistpanel-example/)
+  - [gallery/NYT-bar-optimizer](https://gallery.shinyapps.io/NYT-bar-optimizer/)
+  - [gallery/reactive-poll-and-file-reader](https://gallery.shinyapps.io/reactive-poll-and-file-reader/)
+  - [gallery/retirement](https://gallery.shinyapps.io/retirement/)
+  - [gallery/rioweb](https://gallery.shinyapps.io/rioweb/)
+  - [gallery/server-to-client-custom-messages](https://gallery.shinyapps.io/server-to-client-custom-messages/)
+  - [gallery/shiny-salesman](https://gallery.shinyapps.io/shiny-salesman/)
+  - [gallery/simple\_regression](https://gallery.shinyapps.io/simple_regression/)
+  - [gallery/slr\_diag](https://gallery.shinyapps.io/slr_diag/)
+  - [gallery/TSupplyDemand](https://gallery.shinyapps.io/TSupplyDemand/)
+  - [gallery/updateinput](https://gallery.shinyapps.io/updateinput/)
+  - [gallery/upload-file](https://gallery.shinyapps.io/upload-file/)
+  - [gallery/uploadfile](https://gallery.shinyapps.io/uploadfile/)
+  - [gallery/widget-radio](https://gallery.shinyapps.io/widget-radio/)
+  - [gambrell/ddp-assignment](https://gambrell.shinyapps.io/ddp-assignment/)
+  - [gamma-trader/center](https://gamma-trader.shinyapps.io/center/)
+  - [gamma-trader/gamma](https://gamma-trader.shinyapps.io/gamma/)
+  - [gamma-trader/positions](https://gamma-trader.shinyapps.io/positions/)
+  - [garrett/radio](https://garrett.shinyapps.io/radio/)
+  - [gatesd/AmazingBirds](https://gatesd.shinyapps.io/AmazingBirds/)
+  - [gauravganve/weekly\_calculator](https://gauravganve.shinyapps.io/weekly_calculator/)
+  - [gauravsk/lotka](https://gauravsk.shinyapps.io/lotka/)
+  - [gauravsk/lvpp](https://gauravsk.shinyapps.io/lvpp/)
+  - [gavinanderegg/ns-baby-names](https://gavinanderegg.shinyapps.io/ns-baby-names/)
+  - [gcallao/Titanic](https://gcallao.shinyapps.io/Titanic/)
+  - [gcampuzano14/WordSeer\_ShinyApp](https://gcampuzano14.shinyapps.io/WordSeer_ShinyApp/)
+  - [gcortes/vis\_app](https://gcortes.shinyapps.io/vis_app/)
+  - [gcri-doab/SeawaterCarbonateSystem](https://gcri-doab.shinyapps.io/SeawaterCarbonateSystem/)
+  - [gdancik/shinyGEO](https://gdancik.shinyapps.io/shinyGEO/)
+  - [gdlinguistics/macbeth](https://gdlinguistics.shinyapps.io/macbeth/)
+  - [gdwebb/ShinyAppProject](https://gdwebb.shinyapps.io/ShinyAppProject/)
+  - [gedemced/CED\_CATALUNYA](https://gedemced.shinyapps.io/CED_CATALUNYA/)
+  - [gedemced/DP\_ANDALUSIA](https://gedemced.shinyapps.io/DP_ANDALUSIA/)
+  - [gedemced/DP\_BALEARIC\_ISLANDS](https://gedemced.shinyapps.io/DP_BALEARIC_ISLANDS/)
+  - [gedemced/DP\_CATALONIA](https://gedemced.shinyapps.io/DP_CATALONIA/)
+  - [gedemced/DP\_GALICIA](https://gedemced.shinyapps.io/DP_GALICIA/)
+  - [gehlenborglab/upsetr](https://gehlenborglab.shinyapps.io/upsetr/)
+  - [gemypham/NYC-Uber-Shiny-App](https://gemypham.shinyapps.io/NYC-Uber-Shiny-App/)
+  - [geneuron/geneuron20150218](https://geneuron.shinyapps.io/geneuron20150218/)
+  - [geoanalytic/arima\_models](https://geoanalytic.shinyapps.io/arima_models/)
+  - [geography/atlas](https://geography.shinyapps.io/atlas/)
+  - [georeimonn/DataProducts](https://georeimonn.shinyapps.io/DataProducts/)
+  - [geospatialtraining/wildfireapp](https://geospatialtraining.shinyapps.io/wildfireapp/)
+  - [gerardoenr/expo](https://gerardoenr.shinyapps.io/expo/)
+  - [gerkelab/shinyDAG](https://gerkelab.shinyapps.io/shinyDAG/)
+  - [gerthmicha/pbplot](https://gerthmicha.shinyapps.io/pbplot/)
+  - [gettingthingsr/SensSpec](https://gettingthingsr.shinyapps.io/SensSpec/)
+  - [gfellerlab/EPIC\_1-1](https://gfellerlab.shinyapps.io/EPIC_1-1/)
+  - [gfoe2016/VizAward\_HS](https://gfoe2016.shinyapps.io/VizAward_HS/)
+  - [ghostdatalearner/ddp\_project](https://ghostdatalearner.shinyapps.io/ddp_project/)
+  - [gianfranco-campana/ShinyNLP](https://gianfranco-campana.shinyapps.io/ShinyNLP/)
+  - [gichoya/HackApp](https://gichoya.shinyapps.io/HackApp/)
+  - [gicn/NDC\_Evaluation](https://gicn.shinyapps.io/NDC_Evaluation/)
+  - [gill/ngram](https://gill.shinyapps.io/ngram/)
+  - [gillespieb/bng2xy](https://gillespieb.shinyapps.io/bng2xy/)
+  - [gillespieb/DatabasePortalExample1](https://gillespieb.shinyapps.io/DatabasePortalExample1/)
+  - [gillespieb/GISlite](https://gillespieb.shinyapps.io/GISlite/)
+  - [gillespieb/NGRmapper](https://gillespieb.shinyapps.io/NGRmapper/)
+  - [gillespieb/nukeVIEW](https://gillespieb.shinyapps.io/nukeVIEW/)
+  - [gillespieb/oneyeartimetrial](https://gillespieb.shinyapps.io/oneyeartimetrial/)
+  - [gillespieb/Scotland\_area\_example](https://gillespieb.shinyapps.io/Scotland_area_example/)
+  - [gillespieb/WQ\_map\_example](https://gillespieb.shinyapps.io/WQ_map_example/)
+  - [gilligan/daabos-twitter](https://gilligan.shinyapps.io/daabos-twitter/)
+  - [gilligan/melbourne](https://gilligan.shinyapps.io/melbourne/)
+  - [giocomai/Kremlin\_en](https://giocomai.shinyapps.io/Kremlin_en/)
+  - [giocomai/kremlinregex](https://giocomai.shinyapps.io/kremlinregex/)
+  - [giocomai/SouthCaucasusPresidents](https://giocomai.shinyapps.io/SouthCaucasusPresidents/)
+  - [girishbabu/devdataprod-project](https://girishbabu.shinyapps.io/devdataprod-project/)
+  - [giskid/sarfip](https://giskid.shinyapps.io/sarfip/)
+  - [gislator/XYtoShapefile](https://gislator.shinyapps.io/XYtoShapefile/)
+  - [gjfelix/Data\_Products\_Course\_Project](https://gjfelix.shinyapps.io/Data_Products_Course_Project/)
+  - [gjm112/openWAR](https://gjm112.shinyapps.io/openWAR/)
+  - [glassdooreconomicresearch/retentioncosts](https://glassdooreconomicresearch.shinyapps.io/retentioncosts/)
+  - [gmdn/shinyK](https://gmdn.shinyapps.io/shinyK/)
+  - [gngu/seattle\_sidewalks](https://gngu.shinyapps.io/seattle_sidewalks/)
+  - [goaki/test](https://goaki.shinyapps.io/test/)
+  - [gobind/melbourne\_temperature\_vs\_pedestrians](https://gobind.shinyapps.io/melbourne_temperature_vs_pedestrians/)
+  - [gokhan/adavis](https://gokhan.shinyapps.io/adavis/)
+  - [gokhan/gender](https://gokhan.shinyapps.io/gender/)
+  - [goldin/Search\_Pepys](https://goldin.shinyapps.io/Search_Pepys/)
+  - [gomamn/app-1](https://gomamn.shinyapps.io/app-1/)
+  - [goyanedelv/pensiones\_shiny](https://goyanedelv.shinyapps.io/pensiones_shiny/)
+  - [gqueiroz/rshinylady](https://gqueiroz.shinyapps.io/rshinylady/)
+  - [gracekcharles/dreps\_shinyio](https://gracekcharles.shinyapps.io/dreps_shinyio/)
+  - [grattan/all-complications-should-count](https://grattan.shinyapps.io/all-complications-should-count/)
+  - [graves-vanderbilt/regtomean](https://graves-vanderbilt.shinyapps.io/regtomean/)
+  - [graves-vanderbilt/subsidy-comparison](https://graves-vanderbilt.shinyapps.io/subsidy-comparison/)
+  - [graydon/MapApp](https://graydon.shinyapps.io/MapApp/)
+  - [greensway/ignapp-v08](https://greensway.shinyapps.io/ignapp-v08/)
+  - [gregbehm/titanic](https://gregbehm.shinyapps.io/titanic/)
+  - [gregbehm/twodice](https://gregbehm.shinyapps.io/twodice/)
+  - [gregrousell/CSSE\_Map](https://gregrousell.shinyapps.io/CSSE_Map/)
+  - [gregway/pancan\_plotter](https://gregway.shinyapps.io/pancan_plotter/)
+  - [growneyapps/test\_retirement](https://growneyapps.shinyapps.io/test_retirement/)
+  - [gtcym/genjiapp](https://gtcym.shinyapps.io/genjiapp/)
+  - [guanzy/trafficcare2](https://guanzy.shinyapps.io/trafficcare2/)
+  - [guilleatt/shiny\_app\_project\_montecarlo](https://guilleatt.shinyapps.io/shiny_app_project_montecarlo/)
+  - [gulraiz/financialecon](https://gulraiz.shinyapps.io/financialecon/)
+  - [gutt/fpmaps](https://gutt.shinyapps.io/fpmaps/)
+  - [gutt/usabortionaccess](https://gutt.shinyapps.io/usabortionaccess/)
+  - [gutta/MedicarePayments](https://gutta.shinyapps.io/MedicarePayments/)
+  - [guttal/ewsfinance](https://guttal.shinyapps.io/ewsfinance/)
+  - [gvincke/beprmap](https://gvincke.shinyapps.io/beprmap/)
+  - [gzthompson/imagesurvey](https://gzthompson.shinyapps.io/imagesurvey/)
+  - [haakongjerlow/MapVDem](https://haakongjerlow.shinyapps.io/MapVDem/)
+  - [hadley/14-ggvis](https://hadley.shinyapps.io/14-ggvis/)
+  - [hadley/14-pipelines](https://hadley.shinyapps.io/14-pipelines/)
+  - [hadley/cran-downloads](https://hadley.shinyapps.io/cran-downloads/)
+  - [hadley/eggnogr](https://hadley.shinyapps.io/eggnogr/)
+  - [hadley/jobs](https://hadley.shinyapps.io/jobs/)
+  - [hadley/neiss-explorer](https://hadley.shinyapps.io/neiss-explorer/)
+  - [halake-kumar/cricket\_dashboard](https://halake-kumar.shinyapps.io/cricket_dashboard/)
+  - [halhen/2016-08-27-spelrisk](https://halhen.shinyapps.io/2016-08-27-spelrisk/)
+  - [hamagust/patAnalyticsM5\_V](https://hamagust.shinyapps.io/patAnalyticsM5_V/)
+  - [hambue/CL\_Draw\_16\_17](https://hambue.shinyapps.io/CL_Draw_16_17/)
+  - [hammadsheikh/PlottingTerrorism](https://hammadsheikh.shinyapps.io/PlottingTerrorism/)
+  - [hanifsamad/household-typology-test](https://hanifsamad.shinyapps.io/household-typology-test/)
+  - [hanifsamad/household-typology](https://hanifsamad.shinyapps.io/household-typology/)
+  - [hannahweeks/simpleapp](https://hannahweeks.shinyapps.io/simpleapp/)
+  - [hansonwu/stocks](https://hansonwu.shinyapps.io/stocks/)
+  - [haozhu233/rmd\_templates\_on\_cran](https://haozhu233.shinyapps.io/rmd_templates_on_cran/)
+  - [haozhu233/rstudio\_addins\_on\_cran](https://haozhu233.shinyapps.io/rstudio_addins_on_cran/)
+  - [hapit/HAPIT](https://hapit.shinyapps.io/HAPIT/)
+  - [harlanh/flic\_surveys](https://harlanh.shinyapps.io/flic_surveys/)
+  - [harlanh/OurDCSchoolsWeb](https://harlanh.shinyapps.io/OurDCSchoolsWeb/)
+  - [harless/PhillipsCurveApp](https://harless.shinyapps.io/PhillipsCurveApp/)
+  - [haschke/PTS-App](https://haschke.shinyapps.io/PTS-App/)
+  - [hatch113/bayesian\_net\_calc](https://hatch113.shinyapps.io/bayesian_net_calc/)
+  - [hatch113/hof\_calc\_app\_rb](https://hatch113.shinyapps.io/hof_calc_app_rb/)
+  - [hatch113/hof\_calc\_app](https://hatch113.shinyapps.io/hof_calc_app/)
+  - [hatch113/player\_proj\_app](https://hatch113.shinyapps.io/player_proj_app/)
+  - [hatch113/Survivor\_Optimization\_App](https://hatch113.shinyapps.io/Survivor_Optimization_App/)
+  - [hatch113g/bayesian\_net\_calc](https://hatch113g.shinyapps.io/bayesian_net_calc/)
+  - [hayle/AVbingo](https://hayle.shinyapps.io/AVbingo/)
+  - [hayle/FootVHeight](https://hayle.shinyapps.io/FootVHeight/)
+  - [hayle/tallfeet](https://hayle.shinyapps.io/tallfeet/)
+  - [hdoran/openAnalysis](https://hdoran.shinyapps.io/openAnalysis/)
+  - [he23/nem\_dashboard](https://he23.shinyapps.io/nem_dashboard/)
+  - [healthyhive/ReadmissionAnd](https://healthyhive.shinyapps.io/ReadmissionAnd/)
+  - [healthyhive/ReadmissionAndRatingApp](https://healthyhive.shinyapps.io/ReadmissionAndRatingApp/)
+  - [heartcenter/PROMISE\_Minimal\_Risk\_Tool](https://heartcenter.shinyapps.io/PROMISE_Minimal_Risk_Tool/)
+  - [heatherkitada/noaaShiny](https://heatherkitada.shinyapps.io/noaaShiny/)
+  - [heatherwelch/ecocastapp](https://heatherwelch.shinyapps.io/ecocastapp/)
+  - [hei-soga/globalBurden](https://hei-soga.shinyapps.io/globalBurden/)
+  - [helenhh/chicagoSnowApp](https://helenhh.shinyapps.io/chicagoSnowApp/)
+  - [hemprichbennett/eurovisionR](https://hemprichbennett.shinyapps.io/eurovisionR/)
+  - [herchu/ddp-project](https://herchu.shinyapps.io/ddp-project/)
+  - [herchu/shinytextpredict](https://herchu.shinyapps.io/shinytextpredict/)
+  - [herimanitra/dashboard](https://herimanitra.shinyapps.io/dashboard/)
+  - [herimanitra/myrcharts0](https://herimanitra.shinyapps.io/myrcharts0/)
+  - [herimanitra/presentation](https://herimanitra.shinyapps.io/presentation/)
+  - [hermes475/newplotconditional](https://hermes475.shinyapps.io/newplotconditional/)
+  - [hetmanb/EpiQuant](https://hetmanb.shinyapps.io/EpiQuant/)
+  - [histpat/HistPat](https://histpat.shinyapps.io/HistPat/)
+  - [hitesh-mistry-systemsforecasting/Lending\_Club\_App\_v1](https://hitesh-mistry-systemsforecasting.shinyapps.io/Lending_Club_App_v1/)
+  - [hiteshtulsani/Next-Word-Prediction](https://hiteshtulsani.shinyapps.io/Next-Word-Prediction/)
+  - [hiteshtulsani/Simulating-Sampling-Distributions](https://hiteshtulsani.shinyapps.io/Simulating-Sampling-Distributions/)
+  - [hjms/deployment\_app](https://hjms.shinyapps.io/deployment_app/)
+  - [hlynur/loftgaedi](https://hlynur.shinyapps.io/loftgaedi/)
+  - [hmiyake/data-pkg-prj](https://hmiyake.shinyapps.io/data-pkg-prj/)
+  - [hnhenk10/sentiment-visualization-us-dataset](https://hnhenk10.shinyapps.io/sentiment-visualization-us-dataset/)
+  - [hoehle/t21app](https://hoehle.shinyapps.io/t21app/)
+  - [hoganhaben/JFL\_ChinaRoots\_Traits](https://hoganhaben.shinyapps.io/JFL_ChinaRoots_Traits/)
+  - [hollander/2017-5-Philly-Primary](https://hollander.shinyapps.io/2017-5-Philly-Primary/)
+  - [hollander/2018-5-Philly-Primary](https://hollander.shinyapps.io/2018-5-Philly-Primary/)
+  - [hollander/pa-vote-explorer](https://hollander.shinyapps.io/pa-vote-explorer/)
+  - [holnburger/whatsapp\_analyser](https://holnburger.shinyapps.io/whatsapp_analyser/)
+  - [homer/sim\_tutorial\_Rmd](https://homer.shinyapps.io/sim_tutorial_Rmd/)
+  - [Hoofay/abtests](https://Hoofay.shinyapps.io/abtests/)
+  - [hoofay/eplpredictions](https://hoofay.shinyapps.io/eplpredictions/)
+  - [hoofay/travellingtp](https://hoofay.shinyapps.io/travellingtp/)
+  - [hoog10hk/Random\_Color\_Generator](https://hoog10hk.shinyapps.io/Random_Color_Generator/)
+  - [hoopsdb/scoutr](https://hoopsdb.shinyapps.io/scoutr/)
+  - [hort-science/ChillCalculator](https://hort-science.shinyapps.io/ChillCalculator/)
+  - [hospinf/hospinf](https://hospinf.shinyapps.io/hospinf/)
+  - [houssein-assaad/TwoWayANOVA](https://houssein-assaad.shinyapps.io/TwoWayANOVA/)
+  - [houston/potholes](https://houston.shinyapps.io/potholes/)
+  - [hoxom/advrquiz](https://hoxom.shinyapps.io/advrquiz/)
+  - [hoxom/BoketePlayer](https://hoxom.shinyapps.io/BoketePlayer/)
+  - [hoxom/heartofr](https://hoxom.shinyapps.io/heartofr/)
+  - [hoxom/ShinyAppTest](https://hoxom.shinyapps.io/ShinyAppTest/)
+  - [hrbrmstr/filtering-badness](https://hrbrmstr.shinyapps.io/filtering-badness/)
+  - [hrbrmstr/ggvis-maps](https://hrbrmstr.shinyapps.io/ggvis-maps/)
+  - [hrbrmstr/shinysnowfall](https://hrbrmstr.shinyapps.io/shinysnowfall/)
+  - [hrcamilo/HRFirstDevDatProd\_Normal](https://hrcamilo.shinyapps.io/HRFirstDevDatProd_Normal/)
+  - [hsiehlab/shinyApp](https://hsiehlab.shinyapps.io/shinyApp/)
+  - [huck/twitter](https://huck.shinyapps.io/twitter/)
+  - [hugh/chicago](https://hugh.shinyapps.io/chicago/)
+  - [hughjonesd/rcheology](https://hughjonesd.shinyapps.io/rcheology/)
+  - [hunterratliff1/Texas\_Health\_Professions](https://hunterratliff1.shinyapps.io/Texas_Health_Professions/)
+  - [hussnain/EnergyEfficiency\_Classification](https://hussnain.shinyapps.io/EnergyEfficiency_Classification/)
+  - [iainharlow/SoccerRanks](https://iainharlow.shinyapps.io/SoccerRanks/)
+  - [ianwells/harvey-ses-layers](https://ianwells.shinyapps.io/harvey-ses-layers/)
+  - [ibanezplayer/CarDesign](https://ibanezplayer.shinyapps.io/CarDesign/)
+  - [ibmdatascience/SparkSummitDemo](https://ibmdatascience.shinyapps.io/SparkSummitDemo/)
+  - [ibombonato/poker-variance-app](https://ibombonato.shinyapps.io/poker-variance-app/)
+  - [icarda/devdataprod-005](https://icarda.shinyapps.io/devdataprod-005/)
+  - [icgordon/DataProducts](https://icgordon.shinyapps.io/DataProducts/)
+  - [idcdlab/justscatterplot-app](https://idcdlab.shinyapps.io/justscatterplot-app/)
+  - [idescry/ididTaster](https://idescry.shinyapps.io/ididTaster/)
+  - [idlab/Build-A-Bayes](https://idlab.shinyapps.io/Build-A-Bayes/)
+  - [idosdba/nextWordApp](https://idosdba.shinyapps.io/nextWordApp/)
+  - [ieconometrics/test](https://ieconometrics.shinyapps.io/test/)
+  - [iheart/ShinyBuilder](https://iheart.shinyapps.io/ShinyBuilder/)
+  - [ihstevenson/sample\_means](https://ihstevenson.shinyapps.io/sample_means/)
+  - [ijlyttle/boxplot](https://ijlyttle.shinyapps.io/boxplot/)
+  - [ijlyttle/ggvis\_layer\_image](https://ijlyttle.shinyapps.io/ggvis_layer_image/)
+  - [ijlyttle/isugg\_ggvis\_shiny](https://ijlyttle.shinyapps.io/isugg_ggvis_shiny/)
+  - [ikisarmiento/Logits](https://ikisarmiento.shinyapps.io/Logits/)
+  - [ikorneta/ebola](https://ikorneta.shinyapps.io/ebola/)
+  - [ikorneta/ExpApp](https://ikorneta.shinyapps.io/ExpApp/)
+  - [ikshot/book\_price\_predict](https://ikshot.shinyapps.io/book_price_predict/)
+  - [iloveshorttrack/shorttrackH2H\_women](https://iloveshorttrack.shinyapps.io/shorttrackH2H_women/)
+  - [iloveshorttrack/shorttrackH2H](https://iloveshorttrack.shinyapps.io/shorttrackH2H/)
+  - [ilssc/crime\_pred](https://ilssc.shinyapps.io/crime_pred/)
+  - [imaclim/TransitionInEnergyDemandSectors](https://imaclim.shinyapps.io/TransitionInEnergyDemandSectors/)
+  - [inequalities/simulation](https://inequalities.shinyapps.io/simulation/)
+  - [inequalities2/simulation](https://inequalities2.shinyapps.io/simulation/)
+  - [inferencelab/exponential\_discounting\_demo](https://inferencelab.shinyapps.io/exponential_discounting_demo/)
+  - [inferencelab/hyperbolic\_discounting\_demo](https://inferencelab.shinyapps.io/hyperbolic_discounting_demo/)
+  - [ingridbaade/app-1](https://ingridbaade.shinyapps.io/app-1/)
+  - [inia/FENOSoja](https://inia.shinyapps.io/FENOSoja/)
+  - [injuryfreenc/OpioidActionPlan](https://injuryfreenc.shinyapps.io/OpioidActionPlan/)
+  - [interest/interest](https://interest.shinyapps.io/interest/)
+  - [internal/bengapple](https://internal.shinyapps.io/bengapple/)
+  - [internal/demo](https://internal.shinyapps.io/demo/)
+  - [internal/fwdthinking](https://internal.shinyapps.io/fwdthinking/)
+  - [internal/gallery](https://internal.shinyapps.io/gallery/)
+  - [internal/johnson](https://internal.shinyapps.io/johnson/)
+  - [internal/jstat](https://internal.shinyapps.io/jstat/)
+  - [internal/micasagroup](https://internal.shinyapps.io/micasagroup/)
+  - [internal/quantcompany](https://internal.shinyapps.io/quantcompany/)
+  - [internal/randommonkey](https://internal.shinyapps.io/randommonkey/)
+  - [internal/vnijs](https://internal.shinyapps.io/vnijs/)
+  - [internal/z-frm](https://internal.shinyapps.io/z-frm/)
+  - [internal/zmsgnk](https://internal.shinyapps.io/zmsgnk/)
+  - [internetrepublica/shinySC](https://internetrepublica.shinyapps.io/shinySC/)
+  - [intervene/intervene](https://intervene.shinyapps.io/intervene/)
+  - [inudaiskii/Project\_Iris](https://inudaiskii.shinyapps.io/Project_Iris/)
+  - [iphc/MSAB](https://iphc.shinyapps.io/MSAB/)
+  - [iplfantasy/IPLAnalytics](https://iplfantasy.shinyapps.io/IPLAnalytics/)
+  - [ipstat/ipstat\_2017](https://ipstat.shinyapps.io/ipstat_2017/)
+  - [ipwenergy/preferences](https://ipwenergy.shinyapps.io/preferences/)
+  - [ipwizard/ProgressPie](https://ipwizard.shinyapps.io/ProgressPie/)
+  - [irjerad/final](https://irjerad.shinyapps.io/final/)
+  - [irlo/stocks](https://irlo.shinyapps.io/stocks/)
+  - [ironholds/WhereInTheWorldIsWikipedia](https://ironholds.shinyapps.io/WhereInTheWorldIsWikipedia/)
+  - [irsadarief/shinylptest](https://irsadarief.shinyapps.io/shinylptest/)
+  - [isb-cgc/shiny-iatlas](https://isb-cgc.shinyapps.io/shiny-iatlas/)
+  - [ismay/ProbApp](https://ismay.shinyapps.io/ProbApp/)
+  - [isogloss/isogloss](https://isogloss.shinyapps.io/isogloss/)
+  - [istats/Association\_Categorical](https://istats.shinyapps.io/Association_Categorical/)
+  - [istats/EDA\_categorical](https://istats.shinyapps.io/EDA_categorical/)
+  - [istats/EDA\_quantitative](https://istats.shinyapps.io/EDA_quantitative/)
+  - [istats/ExploreCoverage](https://istats.shinyapps.io/ExploreCoverage/)
+  - [istats/guesscorr](https://istats.shinyapps.io/guesscorr/)
+  - [istats/LinearRegression](https://istats.shinyapps.io/LinearRegression/)
+  - [istats/MeanvsMedian](https://istats.shinyapps.io/MeanvsMedian/)
+  - [istats/NormalDist](https://istats.shinyapps.io/NormalDist/)
+  - [istats/power](https://istats.shinyapps.io/power/)
+  - [istats/RandomNumbers](https://istats.shinyapps.io/RandomNumbers/)
+  - [istats/SampDist\_discrete](https://istats.shinyapps.io/SampDist_discrete/)
+  - [itpiet/bagels](https://itpiet.shinyapps.io/bagels/)
+  - [ivalette/LastProject](https://ivalette.shinyapps.io/LastProject/)
+  - [iwoaugustynski/bilanse](https://iwoaugustynski.shinyapps.io/bilanse/)
+  - [iyermobile/NextWordPrediction](https://iyermobile.shinyapps.io/NextWordPrediction/)
+  - [jackman/closeSeats](https://jackman.shinyapps.io/closeSeats/)
+  - [jackman/sportsbet2016](https://jackman.shinyapps.io/sportsbet2016/)
+  - [jacobemerick/life-expectancy](https://jacobemerick.shinyapps.io/life-expectancy/)
+  - [jaeddy/shinyapp](https://jaeddy.shinyapps.io/shinyapp/)
+  - [jafec/Final](https://jafec.shinyapps.io/Final/)
+  - [jakewestfall/crossedpower](https://jakewestfall.shinyapps.io/crossedpower/)
+  - [jakewestfall/pangea](https://jakewestfall.shinyapps.io/pangea/)
+  - [jakewestfall/two\_factor\_power](https://jakewestfall.shinyapps.io/two_factor_power/)
+  - [jalapic/basicstats](https://jalapic.shinyapps.io/basicstats/)
+  - [jalapic/cricket](https://jalapic.shinyapps.io/cricket/)
+  - [jalapic/dynamiclines](https://jalapic.shinyapps.io/dynamiclines/)
+  - [jalapic/engsoccerbeta](https://jalapic.shinyapps.io/engsoccerbeta/)
+  - [jalapic/gamebygame](https://jalapic.shinyapps.io/gamebygame/)
+  - [jalapic/golf](https://jalapic.shinyapps.io/golf/)
+  - [jalapic/interactivelines](https://jalapic.shinyapps.io/interactivelines/)
+  - [jalapic/music](https://jalapic.shinyapps.io/music/)
+  - [jalapic/nhlelo](https://jalapic.shinyapps.io/nhlelo/)
+  - [jalapic/pubs](https://jalapic.shinyapps.io/pubs/)
+  - [jalapic/soccerteams](https://jalapic.shinyapps.io/soccerteams/)
+  - [james-thorson/FishViz](https://james-thorson.shinyapps.io/FishViz/)
+  - [james-thorson/shiny](https://james-thorson.shinyapps.io/shiny/)
+  - [jamescummings/my\_test\_shiny\_app](https://jamescummings.shinyapps.io/my_test_shiny_app/)
+  - [jamesjynus/New\_York\_City\_Shiny](https://jamesjynus.shinyapps.io/New_York_City_Shiny/)
+  - [jamesledoux/fg-models](https://jamesledoux.shinyapps.io/fg-models/)
+  - [jamesware/alleleFrequencyApp](https://jamesware.shinyapps.io/alleleFrequencyApp/)
+  - [jamiesamson/Sentimine](https://jamiesamson.shinyapps.io/Sentimine/)
+  - [janhoo/arcticcritter](https://janhoo.shinyapps.io/arcticcritter/)
+  - [janhove/false\_positive\_psychology](https://janhove.shinyapps.io/false_positive_psychology/)
+  - [jannemarielaursen/T2D\_Predictor](https://jannemarielaursen.shinyapps.io/T2D_Predictor/)
+  - [jasminedumas/hartford-crime](https://jasminedumas.shinyapps.io/hartford-crime/)
+  - [jasminedumas/image\_clf](https://jasminedumas.shinyapps.io/image_clf/)
+  - [jasonajones73/acsCounty](https://jasonajones73.shinyapps.io/acsCounty/)
+  - [jayenaar/eGFR\_Calculator](https://jayenaar.shinyapps.io/eGFR_Calculator/)
+  - [jaylamb20/FREDHEAD](https://jaylamb20.shinyapps.io/FREDHEAD/)
+  - [jaylkim/Multiplicity](https://jaylkim.shinyapps.io/Multiplicity/)
+  - [jbjares/sifemShinyModule](https://jbjares.shinyapps.io/sifemShinyModule/)
+  - [jbkunst/kmeans-images](https://jbkunst.shinyapps.io/kmeans-images/)
+  - [jbrant/1996CensusApp](https://jbrant.shinyapps.io/1996CensusApp/)
+  - [jbryan1/beta-binomial](https://jbryan1.shinyapps.io/beta-binomial/)
+  - [jbw2/code](https://jbw2.shinyapps.io/code/)
+  - [jbw2/mrpup-app](https://jbw2.shinyapps.io/mrpup-app/)
+  - [jcalejero/nfl\_2016\_dashboard](https://jcalejero.shinyapps.io/nfl_2016_dashboard/)
+  - [jcarroll/AUelection2016](https://jcarroll.shinyapps.io/AUelection2016/)
+  - [jcarroll/spurious-koala-rations](https://jcarroll.shinyapps.io/spurious-koala-rations/)
+  - [jcheng/choropleth](https://jcheng.shinyapps.io/choropleth/)
+  - [jcheng/choropleth2](https://jcheng.shinyapps.io/choropleth2/)
+  - [jcheng/choropleth3](https://jcheng.shinyapps.io/choropleth3/)
+  - [jcheng/crandash](https://jcheng.shinyapps.io/crandash/)
+  - [jcheng/kmeans](https://jcheng.shinyapps.io/kmeans/)
+  - [jcheng/mclust](https://jcheng.shinyapps.io/mclust/)
+  - [jcheng/superzip](https://jcheng.shinyapps.io/superzip/)
+  - [jcizel87/RiskWeightMonitor](https://jcizel87.shinyapps.io/RiskWeightMonitor/)
+  - [jcllorente/DevDataProject](https://jcllorente.shinyapps.io/DevDataProject/)
+  - [jcohensolal/JCSWordPredictor](https://jcohensolal.shinyapps.io/JCSWordPredictor/)
+  - [jcohensolal/NBAStatsExplorer](https://jcohensolal.shinyapps.io/NBAStatsExplorer/)
+  - [jcp1016/indeedoor](https://jcp1016.shinyapps.io/indeedoor/)
+  - [jcpistell/Earthquakes](https://jcpistell.shinyapps.io/Earthquakes/)
+  - [jcquiroz/MSE\_Southern\_Hake](https://jcquiroz.shinyapps.io/MSE_Southern_Hake/)
+  - [jcrodriguez/shinyWYSIWYG](https://jcrodriguez.shinyapps.io/shinyWYSIWYG/)
+  - [jcvd/MyApp1](https://jcvd.shinyapps.io/MyApp1/)
+  - [jddavis/FinalAppPolioData](https://jddavis.shinyapps.io/FinalAppPolioData/)
+  - [jdgallagher/seasonStats](https://jdgallagher.shinyapps.io/seasonStats/)
+  - [jdoi/LCO-CI](https://jdoi.shinyapps.io/LCO-CI/)
+  - [jdwor/NeuroimagingLandscape](https://jdwor.shinyapps.io/NeuroimagingLandscape/)
+  - [jedau/DevDataProd007-Proj](https://jedau.shinyapps.io/DevDataProd007-Proj/)
+  - [jeffgswanson/jeffRankings](https://jeffgswanson.shinyapps.io/jeffRankings/)
+  - [jeffheaton/shiny](https://jeffheaton.shinyapps.io/shiny/)
+  - [jefworks/NAMCShiny](https://jefworks.shinyapps.io/NAMCShiny/)
+  - [jemus42/tRakt](https://jemus42.shinyapps.io/tRakt/)
+  - [jennadallen/pet-records-app](https://jennadallen.shinyapps.io/pet-records-app/)
+  - [jennylistman/WomenCandidates](https://jennylistman.shinyapps.io/WomenCandidates/)
+  - [jensenlab/eduseq](https://jensenlab.shinyapps.io/eduseq/)
+  - [jeopardy-win-probability/jwp-app](https://jeopardy-win-probability.shinyapps.io/jwp-app/)
+  - [jepa/marmetadatamexeng](https://jepa.shinyapps.io/marmetadatamexeng/)
+  - [jepa/marmetadatamexesp](https://jepa.shinyapps.io/marmetadatamexesp/)
+  - [jepusto/ARPsimulator](https://jepusto.shinyapps.io/ARPsimulator/)
+  - [jepusto/gem-scd](https://jepusto.shinyapps.io/gem-scd/)
+  - [jepusto/SCD-effect-sizes](https://jepusto.shinyapps.io/SCD-effect-sizes/)
+  - [jerryaoverton/App-1](https://jerryaoverton.shinyapps.io/App-1/)
+  - [jescoyle/seals](https://jescoyle.shinyapps.io/seals/)
+  - [jessesadler/dvdm-correspondence](https://jessesadler.shinyapps.io/dvdm-correspondence/)
+  - [jester/jovial](https://jester.shinyapps.io/jovial/)
+  - [jeszenszkypeter/soundsoftheworld](https://jeszenszkypeter.shinyapps.io/soundsoftheworld/)
+  - [jflanagan/shiny](https://jflanagan.shinyapps.io/shiny/)
+  - [jflower/mapas](https://jflower.shinyapps.io/mapas/)
+  - [jgabry/gibbs\_shiny](https://jgabry.shinyapps.io/gibbs_shiny/)
+  - [jgabry/shinyStan\_demo](https://jgabry.shinyapps.io/shinyStan_demo/)
+  - [jgamblin/topdomains](https://jgamblin.shinyapps.io/topdomains/)
+  - [jheppler/deletefacebook](https://jheppler.shinyapps.io/deletefacebook/)
+  - [jhonasttan/citibikeanalysis](https://jhonasttan.shinyapps.io/citibikeanalysis/)
+  - [jhongajardo/Script\_RMarkdown\_Prueba\_OMDS](https://jhongajardo.shinyapps.io/Script_RMarkdown_Prueba_OMDS/)
+  - [jhubiostatistics/Biostatistics\_Review\_Times](https://jhubiostatistics.shinyapps.io/Biostatistics_Review_Times/)
+  - [jhubiostatistics/cast\_spells](https://jhubiostatistics.shinyapps.io/cast_spells/)
+  - [jhubiostatistics/drawyourprior](https://jhubiostatistics.shinyapps.io/drawyourprior/)
+  - [jhubiostatistics/papr](https://jhubiostatistics.shinyapps.io/papr/)
+  - [jhubiostatistics/recount](https://jhubiostatistics.shinyapps.io/recount/)
+  - [jhubiostatistics/shinycsv](https://jhubiostatistics.shinyapps.io/shinycsv/)
+  - [jianhua/powerplants](https://jianhua.shinyapps.io/powerplants/)
+  - [jiashenliu/NBAShotChart](https://jiashenliu.shinyapps.io/NBAShotChart/)
+  - [jiddualexander/junction\_app](https://jiddualexander.shinyapps.io/junction_app/)
+  - [jilliant/CraftyCrawlV1](https://jilliant.shinyapps.io/CraftyCrawlV1/)
+  - [jing-zen-garden/networkgraph](https://jing-zen-garden.shinyapps.io/networkgraph/)
+  - [jinsmeme/training\_console\_sample](https://jinsmeme.shinyapps.io/training_console_sample/)
+  - [jinsmeme/training\_console](https://jinsmeme.shinyapps.io/training_console/)
+  - [jiristepan/HyperLoserovac](https://jiristepan.shinyapps.io/HyperLoserovac/)
+  - [jjallaire/keras-customer-churn](https://jjallaire.shinyapps.io/keras-customer-churn/)
+  - [jjallaire/shiny-crandash](https://jjallaire.shinyapps.io/shiny-crandash/)
+  - [jjallaire/shiny-ggplot2-diamonds](https://jjallaire.shinyapps.io/shiny-ggplot2-diamonds/)
+  - [jjara/PCor](https://jjara.shinyapps.io/PCor/)
+  - [jjdblast/BMICAL](https://jjdblast.shinyapps.io/BMICAL/)
+  - [jjmerelo/github-data-explorer](https://jjmerelo.shinyapps.io/github-data-explorer/)
+  - [jjmerelo/province-data-explorer](https://jjmerelo.shinyapps.io/province-data-explorer/)
+  - [jjmullz/causal-impact](https://jjmullz.shinyapps.io/causal-impact/)
+  - [jkaupp/52vis\_Homeless](https://jkaupp.shinyapps.io/52vis_Homeless/)
+  - [jlgroup/aranoisy](https://jlgroup.shinyapps.io/aranoisy/)
+  - [jlsumner/electoralrules](https://jlsumner.shinyapps.io/electoralrules/)
+  - [jlsumner/scavengerhunt](https://jlsumner.shinyapps.io/scavengerhunt/)
+  - [jlsumner/syllabustool](https://jlsumner.shinyapps.io/syllabustool/)
+  - [jmaburto/DK\_App](https://jmaburto.shinyapps.io/DK_App/)
+  - [jmarshall/fexplore](https://jmarshall.shinyapps.io/fexplore/)
+  - [jmarshall/marginswing](https://jmarshall.shinyapps.io/marginswing/)
+  - [jmarshall/propdiff](https://jmarshall.shinyapps.io/propdiff/)
+  - [jmarshall/shiny](https://jmarshall.shinyapps.io/shiny/)
+  - [jmarshall/tax\_rates](https://jmarshall.shinyapps.io/tax_rates/)
+  - [jmcartiles/canary\_islands\_tourism\_dashboard](https://jmcartiles.shinyapps.io/canary_islands_tourism_dashboard/)
+  - [jmichaelrosenberg/railtrails](https://jmichaelrosenberg.shinyapps.io/railtrails/)
+  - [jmichaelrosenberg/SETHs](https://jmichaelrosenberg.shinyapps.io/SETHs/)
+  - [jmichaelrosenberg/shinykonfound](https://jmichaelrosenberg.shinyapps.io/shinykonfound/)
+  - [jmprietob/el\_tiempo](https://jmprietob.shinyapps.io/el_tiempo/)
+  - [jmprietob/eltiempo](https://jmprietob.shinyapps.io/eltiempo/)
+  - [jmprietob/meteo](https://jmprietob.shinyapps.io/meteo/)
+  - [jmrb/ShinyApp](https://jmrb.shinyapps.io/ShinyApp/)
+  - [jnolis/namer](https://jnolis.shinyapps.io/namer/)
+  - [joan-albert-erraez/Leaflet](https://joan-albert-erraez.shinyapps.io/Leaflet/)
+  - [joao/cranExplr](https://joao.shinyapps.io/cranExplr/)
+  - [jobonaf/collegi2018](https://jobonaf.shinyapps.io/collegi2018/)
+  - [jodyabney/Personal\_Fitbit\_Data\_Explorer](https://jodyabney.shinyapps.io/Personal_Fitbit_Data_Explorer/)
+  - [joejansen/citi-bike-data-with-rCharts](https://joejansen.shinyapps.io/citi-bike-data-with-rCharts/)
+  - [joejansen/nba-franchise-WS-charts](https://joejansen.shinyapps.io/nba-franchise-WS-charts/)
+  - [joelalcedo/JoelShinyProject](https://joelalcedo.shinyapps.io/JoelShinyProject/)
+  - [joelmoore/class\_group\_app](https://joelmoore.shinyapps.io/class_group_app/)
+  - [joemillard/climate](https://joemillard.shinyapps.io/climate/)
+  - [joereads/CapstoneApp2](https://joereads.shinyapps.io/CapstoneApp2/)
+  - [joeshannon/efflux](https://joeshannon.shinyapps.io/efflux/)
+  - [jofrhwld/referendum](https://jofrhwld.shinyapps.io/referendum/)
+  - [johnakwei1/CourseProject](https://johnakwei1.shinyapps.io/CourseProject/)
+  - [johnakwei1/SafetyClinicApp](https://johnakwei1.shinyapps.io/SafetyClinicApp/)
+  - [johnakwei1/Venture\_Capital\_Dashboard](https://johnakwei1.shinyapps.io/Venture_Capital_Dashboard/)
+  - [johnbradford/policeshooting](https://johnbradford.shinyapps.io/policeshooting/)
+  - [johnhubertjj/shiny\_twitter\_app\_POS18](https://johnhubertjj.shinyapps.io/shiny_twitter_app_POS18/)
+  - [johnlray/pD\_app](https://johnlray.shinyapps.io/pD_app/)
+  - [johnpaul/VegShiny](https://johnpaul.shinyapps.io/VegShiny/)
+  - [johnricco/cdfs](https://johnricco.shinyapps.io/cdfs/)
+  - [johnricco/Housing](https://johnricco.shinyapps.io/Housing/)
+  - [johnricco/metro\_walksheds](https://johnricco.shinyapps.io/metro_walksheds/)
+  - [johnrroby/NY-Influence](https://johnrroby.shinyapps.io/NY-Influence/)
+  - [johnson/burn-hurt](https://johnson.shinyapps.io/burn-hurt/)
+  - [johnyagecic/AEMRExplorerShinyApp](https://johnyagecic.shinyapps.io/AEMRExplorerShinyApp/)
+  - [johnyagecic/AgeStructureShiny](https://johnyagecic.shinyapps.io/AgeStructureShiny/)
+  - [johnyagecic/BoatRunExplorer](https://johnyagecic.shinyapps.io/BoatRunExplorer/)
+  - [johnyagecic/ManningsConverterApp](https://johnyagecic.shinyapps.io/ManningsConverterApp/)
+  - [johnyagecic/ManningsMC](https://johnyagecic.shinyapps.io/ManningsMC/)
+  - [johnyagecic/Overplots](https://johnyagecic.shinyapps.io/Overplots/)
+  - [johnyagecic/SolarEnergyMC](https://johnyagecic.shinyapps.io/SolarEnergyMC/)
+  - [jolandakos/NetworkApp](https://jolandakos.shinyapps.io/NetworkApp/)
+  - [jolars/eulerr](https://jolars.shinyapps.io/eulerr/)
+  - [jonathan-underwood/cognitive\_calculator](https://jonathan-underwood.shinyapps.io/cognitive_calculator/)
+  - [jonathan-underwood/cognitive\_impairment\_comparison](https://jonathan-underwood.shinyapps.io/cognitive_impairment_comparison/)
+  - [jonathanbouchet/visualization\_transport\_system](https://jonathanbouchet.shinyapps.io/visualization_transport_system/)
+  - [jonesaw4/Coon\_Fish\_Explorer](https://jonesaw4.shinyapps.io/Coon_Fish_Explorer/)
+  - [jonnypolonsky/HeRAMS\_shiny](https://jonnypolonsky.shinyapps.io/HeRAMS_shiny/)
+  - [jordan-mackie/TT\_pacing](https://jordan-mackie.shinyapps.io/TT_pacing/)
+  - [jordanbutz/directory](https://jordanbutz.shinyapps.io/directory/)
+  - [jordanmeyer/nyt-bar-optimizer](https://jordanmeyer.shinyapps.io/nyt-bar-optimizer/)
+  - [jorjial/atur](https://jorjial.shinyapps.io/atur/)
+  - [jorjial/deute](https://jorjial.shinyapps.io/deute/)
+  - [josearuiperez/Word\_cloud\_generator\_wikipedia](https://josearuiperez.shinyapps.io/Word_cloud_generator_wikipedia/)
+  - [josephdeleon/ImproveDetroit](https://josephdeleon.shinyapps.io/ImproveDetroit/)
+  - [joseppuig/shinyCEO](https://joseppuig.shinyapps.io/shinyCEO/)
+  - [josh-kalla/simple\_shiny\_randomization](https://josh-kalla.shinyapps.io/simple_shiny_randomization/)
+  - [josh-yazman/dem-primary-tracker](https://josh-yazman.shinyapps.io/dem-primary-tracker/)
+  - [josh-yazman/my\_first\_app](https://josh-yazman.shinyapps.io/my_first_app/)
+  - [josh-yazman/ncaa-predictions](https://josh-yazman.shinyapps.io/ncaa-predictions/)
+  - [josh-yazman/un-general-debate-ngram-viewer](https://josh-yazman.shinyapps.io/un-general-debate-ngram-viewer/)
+  - [josh-yazman/vpap-new-sentiments](https://josh-yazman.shinyapps.io/vpap-new-sentiments/)
+  - [joshuaadampoirier/igrf](https://joshuaadampoirier.shinyapps.io/igrf/)
+  - [joshuafeldman/flower-maker](https://joshuafeldman.shinyapps.io/flower-maker/)
+  - [joycerobbins/packageexplorer](https://joycerobbins.shinyapps.io/packageexplorer/)
+  - [joyofdata/hclust-shiny](https://joyofdata.shinyapps.io/hclust-shiny/)
+  - [jozhao/brewery-explorer](https://jozhao.shinyapps.io/brewery-explorer/)
+  - [jpaulson/helpmeviz-malnutrition](https://jpaulson.shinyapps.io/helpmeviz-malnutrition/)
+  - [jpaulson/helpmeviz](https://jpaulson.shinyapps.io/helpmeviz/)
+  - [jpbournas/TxtPrediction](https://jpbournas.shinyapps.io/TxtPrediction/)
+  - [jpchamps/test\_big5](https://jpchamps.shinyapps.io/test_big5/)
+  - [jpf5046/DallasApp](https://jpf5046.shinyapps.io/DallasApp/)
+  - [jpf5046/HeismanCompare](https://jpf5046.shinyapps.io/HeismanCompare/)
+  - [jplcva/Developing-Data-Products-Course-Project](https://jplcva.shinyapps.io/Developing-Data-Products-Course-Project/)
+  - [jrcunning/RcoralDEB](https://jrcunning.shinyapps.io/RcoralDEB/)
+  - [jrnew/sfhip-app](https://jrnew.shinyapps.io/sfhip-app/)
+  - [jroberayalas/DataProducts\_ShinyApp](https://jroberayalas.shinyapps.io/DataProducts_ShinyApp/)
+  - [js-tutorial/BasicDemoIntroJS](https://js-tutorial.shinyapps.io/BasicDemoIntroJS/)
+  - [jsbrava/shinyproject](https://jsbrava.shinyapps.io/shinyproject/)
+  - [jscarlton/climate\_belief\_maps](https://jscarlton.shinyapps.io/climate_belief_maps/)
+  - [jschoeley/hmdexp](https://jschoeley.shinyapps.io/hmdexp/)
+  - [jshreyas/plot](https://jshreyas.shinyapps.io/plot/)
+  - [jsohi/Zip-City](https://jsohi.shinyapps.io/Zip-City/)
+  - [jssteele/CentralLimitTheorem](https://jssteele.shinyapps.io/CentralLimitTheorem/)
+  - [jssteele/ContiuousInteractions](https://jssteele.shinyapps.io/ContiuousInteractions/)
+  - [jtannen/gop\_proposal\_20170209](https://jtannen.shinyapps.io/gop_proposal_20170209/)
+  - [jtannen/pa\_congressional\_redistricting](https://jtannen.shinyapps.io/pa_congressional_redistricting/)
+  - [jtannen/pa\_state\_elections](https://jtannen.shinyapps.io/pa_state_elections/)
+  - [jtuimala/veRotosite](https://jtuimala.shinyapps.io/veRotosite/)
+  - [juaparal/project\_develdataprod](https://juaparal.shinyapps.io/project_develdataprod/)
+  - [juba/scatterD3\_shiny\_app](https://juba.shinyapps.io/scatterD3_shiny_app/)
+  - [julia-wrobel/airbnb\_dashboard](https://julia-wrobel.shinyapps.io/airbnb_dashboard/)
+  - [juliasilge/cape\_town\_dashboard](https://juliasilge.shinyapps.io/cape_town_dashboard/)
+  - [juliasilge/population\_app](https://juliasilge.shinyapps.io/population_app/)
+  - [juliasilge/power-app](https://juliasilge.shinyapps.io/power-app/)
+  - [juliasilge/PredictNamesApp](https://juliasilge.shinyapps.io/PredictNamesApp/)
+  - [juliasilge/survey2016](https://juliasilge.shinyapps.io/survey2016/)
+  - [juliasilge/WaterMapApp](https://juliasilge.shinyapps.io/WaterMapApp/)
+  - [juliomulero/correlacion](https://juliomulero.shinyapps.io/correlacion/)
+  - [juliomulero/histogramas](https://juliomulero.shinyapps.io/histogramas/)
+  - [juliomulero/Micro](https://juliomulero.shinyapps.io/Micro/)
+  - [juliomulero/micro2](https://juliomulero.shinyapps.io/micro2/)
+  - [juliomulero/microrrelatos](https://juliomulero.shinyapps.io/microrrelatos/)
+  - [juliomulero/problemas](https://juliomulero.shinyapps.io/problemas/)
+  - [jumpingrivers/meetingsR](https://jumpingrivers.shinyapps.io/meetingsR/)
+  - [justastemp/shiny\_app](https://justastemp.shinyapps.io/shiny_app/)
+  - [justinchu/MovieLens-app](https://justinchu.shinyapps.io/MovieLens-app/)
+  - [justmarkham/babynames](https://justmarkham.shinyapps.io/babynames/)
+  - [jvadams/StatusGraphsApp](https://jvadams.shinyapps.io/StatusGraphsApp/)
+  - [jvadams/StreamShot](https://jvadams.shinyapps.io/StreamShot/)
+  - [jvcasill/shiny\_bivariate\_regression](https://jvcasill.shinyapps.io/shiny_bivariate_regression/)
+  - [jvcasill/shiny\_crossOver](https://jvcasill.shinyapps.io/shiny_crossOver/)
+  - [jvcasill/shiny\_distinctiveFeatures](https://jvcasill.shinyapps.io/shiny_distinctiveFeatures/)
+  - [jvcasill/shiny\_power](https://jvcasill.shinyapps.io/shiny_power/)
+  - [jwhendy/transpo-exploration](https://jwhendy.shinyapps.io/transpo-exploration/)
+  - [jwtierney-nba-data/shiny\_app](https://jwtierney-nba-data.shinyapps.io/shiny_app/)
+  - [jwwanalytics/Sport\_Difficulty](https://jwwanalytics.shinyapps.io/Sport_Difficulty/)
+  - [jxieds/Capstone\_ShinyApp](https://jxieds.shinyapps.io/Capstone_ShinyApp/)
+  - [k-doyle/deathandco](https://k-doyle.shinyapps.io/deathandco/)
+  - [kalilu/prison\_break](https://kalilu.shinyapps.io/prison_break/)
+  - [kamecon/eurodatos](https://kamecon.shinyapps.io/eurodatos/)
+  - [kamecon/PubFin](https://kamecon.shinyapps.io/PubFin/)
+  - [kamermanpr/sa-mortality-data](https://kamermanpr.shinyapps.io/sa-mortality-data/)
+  - [kamilgregor/czech\_voters\_transitions](https://kamilgregor.shinyapps.io/czech_voters_transitions/)
+  - [kamilgregor/eu\_pollster](https://kamilgregor.shinyapps.io/eu_pollster/)
+  - [kamilgregor/roman\_empire](https://kamilgregor.shinyapps.io/roman_empire/)
+  - [kamilgregor/shiny-iframe-explorer](https://kamilgregor.shinyapps.io/shiny-iframe-explorer/)
+  - [kanishka/2018-fifawc](https://kanishka.shinyapps.io/2018-fifawc/)
+  - [kanishka/popyr](https://kanishka.shinyapps.io/popyr/)
+  - [kanli/AD\_prediction](https://kanli.shinyapps.io/AD_prediction/)
+  - [kanudutta/EnergyPrediction](https://kanudutta.shinyapps.io/EnergyPrediction/)
+  - [kaplan/ucrdatatool](https://kaplan.shinyapps.io/ucrdatatool/)
+  - [kapoorabhishek/Factoranalysis](https://kapoorabhishek.shinyapps.io/Factoranalysis/)
+  - [kaquilino/DataProductsProject](https://kaquilino.shinyapps.io/DataProductsProject/)
+  - [karawoo/gas-mileage](https://karawoo.shinyapps.io/gas-mileage/)
+  - [karthikd/biasinlinguistics](https://karthikd.shinyapps.io/biasinlinguistics/)
+  - [karthikdurvasula/Severity\_Calculator](https://karthikdurvasula.shinyapps.io/Severity_Calculator/)
+  - [karthikdurvasula/severity\_power\_pvalues](https://karthikdurvasula.shinyapps.io/severity_power_pvalues/)
+  - [kasperskytte/shinyampvis](https://kasperskytte.shinyapps.io/shinyampvis/)
+  - [katherinemwood/lakens\_effect\_sizes](https://katherinemwood.shinyapps.io/lakens_effect_sizes/)
+  - [katrin/HNSCCmodel](https://katrin.shinyapps.io/HNSCCmodel/)
+  - [kaushiklakshman/very\_solid\_dashboard](https://kaushiklakshman.shinyapps.io/very_solid_dashboard/)
+  - [kaz-yos/hackebola](https://kaz-yos.shinyapps.io/hackebola/)
+  - [kaz-yos/shiny](https://kaz-yos.shinyapps.io/shiny/)
+  - [kaz-yos/ShinyDistributionsApp](https://kaz-yos.shinyapps.io/ShinyDistributionsApp/)
+  - [kchalk/631Shiny](https://kchalk.shinyapps.io/631Shiny/)
+  - [kcvi/START](https://kcvi.shinyapps.io/START/)
+  - [kczat/drarbitrage](https://kczat.shinyapps.io/drarbitrage/)
+  - [kdatascience/Fitbit\_Analytics](https://kdatascience.shinyapps.io/Fitbit_Analytics/)
+  - [kdvdecisionanalysis/TODD\_UWhunger](https://kdvdecisionanalysis.shinyapps.io/TODD_UWhunger/)
+  - [kdvprivate/Costanza\_Publish\_20160811](https://kdvprivate.shinyapps.io/Costanza_Publish_20160811/)
+  - [kecc/SurvivalCalculator](https://kecc.shinyapps.io/SurvivalCalculator/)
+  - [keithgw/Hello-Shiny](https://keithgw.shinyapps.io/Hello-Shiny/)
+  - [keithgw/VoterTurnout](https://keithgw.shinyapps.io/VoterTurnout/)
+  - [kenahrens/project](https://kenahrens.shinyapps.io/project/)
+  - [kenniajin/twitterSayDisease](https://kenniajin.shinyapps.io/twitterSayDisease/)
+  - [kennis-research/Bayes-App](https://kennis-research.shinyapps.io/Bayes-App/)
+  - [kennis-research/ROC-Curves](https://kennis-research.shinyapps.io/ROC-Curves/)
+  - [kenriceuw/SalaryExample](https://kenriceuw.shinyapps.io/SalaryExample/)
+  - [kenyonsportsanalytics/WorldCup2018](https://kenyonsportsanalytics.shinyapps.io/WorldCup2018/)
+  - [kesh-lab/PERS-calc](https://kesh-lab.shinyapps.io/PERS-calc/)
+  - [kevin-brosnan/twitteranalysis](https://kevin-brosnan.shinyapps.io/twitteranalysis/)
+  - [kgilpas/ShowofHands](https://kgilpas.shinyapps.io/ShowofHands/)
+  - [khturner/HashtagISME16](https://khturner.shinyapps.io/HashtagISME16/)
+  - [kiefer/NHLapp](https://kiefer.shinyapps.io/NHLapp/)
+  - [kig-analytics/sotm\_analytics](https://kig-analytics.shinyapps.io/sotm_analytics/)
+  - [kilimba/dataviz](https://kilimba.shinyapps.io/dataviz/)
+  - [kill3rbee/vFeedCve](https://kill3rbee.shinyapps.io/vFeedCve/)
+  - [kippdata/tidy\_tntp\_explorer](https://kippdata.shinyapps.io/tidy_tntp_explorer/)
+  - [kireru1/predictive-model](https://kireru1.shinyapps.io/predictive-model/)
+  - [kissel/osf\_shinyapp](https://kissel.shinyapps.io/osf_shinyapp/)
+  - [kk-gds/alpha\_variance](https://kk-gds.shinyapps.io/alpha_variance/)
+  - [kkalyan3/GeoVis](https://kkalyan3.shinyapps.io/GeoVis/)
+  - [kkimeng/IntroToShiny](https://kkimeng.shinyapps.io/IntroToShiny/)
+  - [klash/shinyTreeViewer](https://klash.shinyapps.io/shinyTreeViewer/)
+  - [klperez/CapstoneProject](https://klperez.shinyapps.io/CapstoneProject/)
+  - [kmkom/KolejeMazowieckie](https://kmkom.shinyapps.io/KolejeMazowieckie/)
+  - [knjogu2015/counties](https://knjogu2015.shinyapps.io/counties/)
+  - [kohovoliteu/eu\_pollster](https://kohovoliteu.shinyapps.io/eu_pollster/)
+  - [kohske/FFT2D](https://kohske.shinyapps.io/FFT2D/)
+  - [kohske/shinyapp01](https://kohske.shinyapps.io/shinyapp01/)
+  - [kohske/sm01](https://kohske.shinyapps.io/sm01/)
+  - [kos59125/anpanman](https://kos59125.shinyapps.io/anpanman/)
+  - [kostakospanos/mafia\_ny\_times](https://kostakospanos.shinyapps.io/mafia_ny_times/)
+  - [kpele/iWinRNBA](https://kpele.shinyapps.io/iWinRNBA/)
+  - [kpele/iWinRNHL](https://kpele.shinyapps.io/iWinRNHL/)
+  - [kpele/Lineups-BCL](https://kpele.shinyapps.io/Lineups-BCL/)
+  - [kpele/Lineups-NBA](https://kpele.shinyapps.io/Lineups-NBA/)
+  - [kphahn/klum](https://kphahn.shinyapps.io/klum/)
+  - [kramea/vehicles](https://kramea.shinyapps.io/vehicles/)
+  - [kristopherdelane/voting\_record\_kyga17](https://kristopherdelane.shinyapps.io/voting_record_kyga17/)
+  - [krlmlr/cooking-drake-tutorial](https://krlmlr.shinyapps.io/cooking-drake-tutorial/)
+  - [krohitm/us\_avg\_tuition](https://krohitm.shinyapps.io/us_avg_tuition/)
+  - [kruse-alex/cdv\_final2](https://kruse-alex.shinyapps.io/cdv_final2/)
+  - [kruse-alex/shiny](https://kruse-alex.shinyapps.io/shiny/)
+  - [krzyslom/pracuj](https://krzyslom.shinyapps.io/pracuj/)
+  - [kscott/powerdemo](https://kscott.shinyapps.io/powerdemo/)
+  - [kshaffer/congress](https://kshaffer.shinyapps.io/congress/)
+  - [ksharma26/twitterwordcloud](https://ksharma26.shinyapps.io/twitterwordcloud/)
+  - [ksmzn/hoxom-card](https://ksmzn.shinyapps.io/hoxom-card/)
+  - [ksmzn/statdist](https://ksmzn.shinyapps.io/statdist/)
+  - [ktebbe/hackathon](https://ktebbe.shinyapps.io/hackathon/)
+  - [ktupper/SLOAPCDWebDataDisplay](https://ktupper.shinyapps.io/SLOAPCDWebDataDisplay/)
+  - [kuansw/DDP\_Project](https://kuansw.shinyapps.io/DDP_Project/)
+  - [kuberiitb/myElectionApp](https://kuberiitb.shinyapps.io/myElectionApp/)
+  - [kuttyman/DCPurchaseOrders](https://kuttyman.shinyapps.io/DCPurchaseOrders/)
+  - [kvsatyam/Appbmi](https://kvsatyam.shinyapps.io/Appbmi/)
+  - [ky19900109/testapp](https://ky19900109.shinyapps.io/testapp/)
+  - [kyktan/DevelopingDataProducts\_ShinyApp](https://kyktan.shinyapps.io/DevelopingDataProducts_ShinyApp/)
+  - [kyle765/shiny](https://kyle765.shinyapps.io/shiny/)
+  - [kylehamilton/MAVIS\_v1\_0](https://kylehamilton.shinyapps.io/MAVIS_v1_0/)
+  - [kylethomas/finance\_app](https://kylethomas.shinyapps.io/finance_app/)
+  - [laac/Solow1](https://laac.shinyapps.io/Solow1/)
+  - [labenvmicro/shiny\_nmds](https://labenvmicro.shinyapps.io/shiny_nmds/)
+  - [laborant/winequality](https://laborant.shinyapps.io/winequality/)
+  - [lacistemataceae/next-word-prediction](https://lacistemataceae.shinyapps.io/next-word-prediction/)
+  - [ladageanurag/Regression\_Architect](https://ladageanurag.shinyapps.io/Regression_Architect/)
+  - [ladilettante/regression\_standard\_error](https://ladilettante.shinyapps.io/regression_standard_error/)
+  - [lafona/stresstest](https://lafona.shinyapps.io/stresstest/)
+  - [lakens/likelihood](https://lakens.shinyapps.io/likelihood/)
+  - [lakens/p-curves](https://lakens.shinyapps.io/p-curves/)
+  - [lakestat/SApp](https://lakestat.shinyapps.io/SApp/)
+  - [lal-group-test/missense\_burden\_viewer\_v0](https://lal-group-test.shinyapps.io/missense_burden_viewer_v0/)
+  - [lambresearch/Lotka\_Volterra](https://lambresearch.shinyapps.io/Lotka_Volterra/)
+  - [lanagarmiregroup/granatum](https://lanagarmiregroup.shinyapps.io/granatum/)
+  - [lancs/ToxBox](https://lancs.shinyapps.io/ToxBox/)
+  - [landcare/GBS\_Atlas](https://landcare.shinyapps.io/GBS_Atlas/)
+  - [landcare/TrapSim\_C2C](https://landcare.shinyapps.io/TrapSim_C2C/)
+  - [langtest/g-theory](https://langtest.shinyapps.io/g-theory/)
+  - [langtest/rep-chi](https://langtest.shinyapps.io/rep-chi/)
+  - [langtest/screenData](https://langtest.shinyapps.io/screenData/)
+  - [languagevariationsuite/Pages](https://languagevariationsuite.shinyapps.io/Pages/)
+  - [languagevariationsuite/TextMining](https://languagevariationsuite.shinyapps.io/TextMining/)
+  - [larastas/APIM\_SEM](https://larastas.shinyapps.io/APIM_SEM/)
+  - [larrydag/boardgame\_reco](https://larrydag.shinyapps.io/boardgame_reco/)
+  - [lasquinceletras/intro\_R\_rladies](https://lasquinceletras.shinyapps.io/intro_R_rladies/)
+  - [latishk/SFCrime](https://latishk.shinyapps.io/SFCrime/)
+  - [laurenrenaud/AlleghenyCrashes](https://laurenrenaud.shinyapps.io/AlleghenyCrashes/)
+  - [lavyfriedman/nbaproject](https://lavyfriedman.shinyapps.io/nbaproject/)
+  - [lawsofthought/false\_discovery](https://lawsofthought.shinyapps.io/false_discovery/)
+  - [lawsofthought/guardian-league-table-2018](https://lawsofthought.shinyapps.io/guardian-league-table-2018/)
+  - [lawsofthought/optional\_stopping](https://lawsofthought.shinyapps.io/optional_stopping/)
+  - [lawsofthought/p\_hacking](https://lawsofthought.shinyapps.io/p_hacking/)
+  - [lawsofthought/power\_failure](https://lawsofthought.shinyapps.io/power_failure/)
+  - [laynevashro/4fPM](https://laynevashro.shinyapps.io/4fPM/)
+  - [laynevashro/coach\_cors](https://laynevashro.shinyapps.io/coach_cors/)
+  - [laynevashro/coach\_nets](https://laynevashro.shinyapps.io/coach_nets/)
+  - [laynevashro/comps\_intl](https://laynevashro.shinyapps.io/comps_intl/)
+  - [laynevashro/comps\_nba](https://laynevashro.shinyapps.io/comps_nba/)
+  - [laynevashro/comps](https://laynevashro.shinyapps.io/comps/)
+  - [laynevashro/preds](https://laynevashro.shinyapps.io/preds/)
+  - [lbenz730/assist\_networks](https://lbenz730.shinyapps.io/assist_networks/)
+  - [lbenz730/ivy\_tiebreaks](https://lbenz730.shinyapps.io/ivy_tiebreaks/)
+  - [lbnlshiny/DEMENT](https://lbnlshiny.shinyapps.io/DEMENT/)
+  - [lcilek/ChileCCProj\_2005](https://lcilek.shinyapps.io/ChileCCProj_2005/)
+  - [lcolladotor/materias](https://lcolladotor.shinyapps.io/materias/)
+  - [lcolladotor/mortgage2](https://lcolladotor.shinyapps.io/mortgage2/)
+  - [ldlong/Grade\_Distribution](https://ldlong.shinyapps.io/Grade_Distribution/)
+  - [leafcutter/leafviz](https://leafcutter.shinyapps.io/leafviz/)
+  - [leafcutter/sQTLviz](https://leafcutter.shinyapps.io/sQTLviz/)
+  - [lebryant126/Beatles\_Live\_Perfomances](https://lebryant126.shinyapps.io/Beatles_Live_Perfomances/)
+  - [leehbi/Tour](https://leehbi.shinyapps.io/Tour/)
+  - [lenalyticslab/counties](https://lenalyticslab.shinyapps.io/counties/)
+  - [lenalyticslab/kenya](https://lenalyticslab.shinyapps.io/kenya/)
+  - [lenalyticslab/nkrBaby](https://lenalyticslab.shinyapps.io/nkrBaby/)
+  - [lenwood/USArrests](https://lenwood.shinyapps.io/USArrests/)
+  - [leofjsa/WordPredictor](https://leofjsa.shinyapps.io/WordPredictor/)
+  - [lestarr/app\_swiftkey](https://lestarr.shinyapps.io/app_swiftkey/)
+  - [levi/Standard\_Deviation](https://levi.shinyapps.io/Standard_Deviation/)
+  - [levv-logic/dashboard](https://levv-logic.shinyapps.io/dashboard/)
+  - [lexdaniels/Wind](https://lexdaniels.shinyapps.io/Wind/)
+  - [lgadar/Quadratic\_equation](https://lgadar.shinyapps.io/Quadratic_equation/)
+  - [libardo1/NavBar](https://libardo1.shinyapps.io/NavBar/)
+  - [liberos/OneTaste\_shiny](https://liberos.shinyapps.io/OneTaste_shiny/)
+  - [liberos/power](https://liberos.shinyapps.io/power/)
+  - [liberos/VSS-GSS](https://liberos.shinyapps.io/VSS-GSS/)
+  - [lightpollution/spectra](https://lightpollution.shinyapps.io/spectra/)
+  - [likingonline/shareblue\_sockpuppets](https://likingonline.shinyapps.io/shareblue_sockpuppets/)
+  - [limno/envirodiy\_crossroads](https://limno.shinyapps.io/envirodiy_crossroads/)
+  - [lingani/MyDataProductProject](https://lingani.shinyapps.io/MyDataProductProject/)
+  - [lingtax/PlanningProgressDashboard](https://lingtax.shinyapps.io/PlanningProgressDashboard/)
+  - [livedataoxford/Cultures-of-Knowledge\_whole-network](https://livedataoxford.shinyapps.io/Cultures-of-Knowledge_whole-network/)
+  - [livedataoxford/DesktopItems](https://livedataoxford.shinyapps.io/DesktopItems/)
+  - [livedataoxford/NFLAttendanceRecords](https://livedataoxford.shinyapps.io/NFLAttendanceRecords/)
+  - [livedataoxford/OxRep\_maps\_mines](https://livedataoxford.shinyapps.io/OxRep_maps_mines/)
+  - [lizrichardson/jets\_mince\_pie\_selector](https://lizrichardson.shinyapps.io/jets_mince_pie_selector/)
+  - [llewellynjean/MyApp](https://llewellynjean.shinyapps.io/MyApp/)
+  - [lmullen/gender-predictor](https://lmullen.shinyapps.io/gender-predictor/)
+  - [loghan/Ratings\_History](https://loghan.shinyapps.io/Ratings_History/)
+  - [loghan/Season\_Projections](https://loghan.shinyapps.io/Season_Projections/)
+  - [Loghan/season\_projections](https://Loghan.shinyapps.io/season_projections/)
+  - [loiyumba/Global\_Temp](https://loiyumba.shinyapps.io/Global_Temp/)
+  - [loiyumba/hospital\_ranking](https://loiyumba.shinyapps.io/hospital_ranking/)
+  - [loiyumba/National\_Hospital\_Directory](https://loiyumba.shinyapps.io/National_Hospital_Directory/)
+  - [lollydaggle/crowdfundinginsulin](https://lollydaggle.shinyapps.io/crowdfundinginsulin/)
+  - [longhowlam/SCHOOL\_CITO](https://longhowlam.shinyapps.io/SCHOOL_CITO/)
+  - [lotteryforecaster/Lotteryforecast](https://lotteryforecaster.shinyapps.io/Lotteryforecast/)
+  - [louisg/lit-groups](https://louisg.shinyapps.io/lit-groups/)
+  - [lovechristensen/svensk\_partiopinion](https://lovechristensen.shinyapps.io/svensk_partiopinion/)
+  - [lovettbr/arsef\_hypocreales\_mapping](https://lovettbr.shinyapps.io/arsef_hypocreales_mapping/)
+  - [lpogorelsky/EncuestaSalarialDataScientistArgentina2016](https://lpogorelsky.shinyapps.io/EncuestaSalarialDataScientistArgentina2016/)
+  - [lpogorelsky/EncuestaSalarialDataScientistArgentina2017](https://lpogorelsky.shinyapps.io/EncuestaSalarialDataScientistArgentina2017/)
+  - [lselzer/PruebaHipotesis](https://lselzer.shinyapps.io/PruebaHipotesis/)
+  - [lspinheiro/swiftkey](https://lspinheiro.shinyapps.io/swiftkey/)
+  - [lsteely/streamflow\_joyplots](https://lsteely.shinyapps.io/streamflow_joyplots/)
+  - [ltlow/Next-WordPredictor](https://ltlow.shinyapps.io/Next-WordPredictor/)
+  - [lucy/gilmore-guys-predictions](https://lucy.shinyapps.io/gilmore-guys-predictions/)
+  - [lucy/haiku](https://lucy.shinyapps.io/haiku/)
+  - [lucy/sgpvalue](https://lucy.shinyapps.io/sgpvalue/)
+  - [lucy/tidy-text-GUI](https://lucy.shinyapps.io/tidy-text-GUI/)
+  - [luislundquist/coursera\_capstone](https://luislundquist.shinyapps.io/coursera_capstone/)
+  - [lumatadigital/TwitterSIYapp](https://lumatadigital.shinyapps.io/TwitterSIYapp/)
+  - [lunaxc/boston\_happiness\_index](https://lunaxc.shinyapps.io/boston_happiness_index/)
+  - [lynch-interactive-animations/cec\_presentation](https://lynch-interactive-animations.shinyapps.io/cec_presentation/)
+  - [lynch-interactive-animations/new\_app](https://lynch-interactive-animations.shinyapps.io/new_app/)
+  - [lyricsexplorer/lyricsexplorer](https://lyricsexplorer.shinyapps.io/lyricsexplorer/)
+  - [m-ezekiel/Markov-Generative-Language-Model](https://m-ezekiel.shinyapps.io/Markov-Generative-Language-Model/)
+  - [maayan-lab/nasb-microtask-viewer-shiny](https://maayan-lab.shinyapps.io/nasb-microtask-viewer-shiny/)
+  - [macartan/delta\_priors](https://macartan.shinyapps.io/delta_priors/)
+  - [macartan/fish](https://macartan.shinyapps.io/fish/)
+  - [macherkime/just\_to\_see](https://macherkime.shinyapps.io/just_to_see/)
+  - [madziq/TWD\_Projekt2](https://madziq.shinyapps.io/TWD_Projekt2/)
+  - [mafap/data](https://mafap.shinyapps.io/data/)
+  - [maitray/twitter](https://maitray.shinyapps.io/twitter/)
+  - [maksimhorowitz/Shiny2GuardDirectory](https://maksimhorowitz.shinyapps.io/Shiny2GuardDirectory/)
+  - [malaria/g6pd\_screening](https://malaria.shinyapps.io/g6pd_screening/)
+  - [malimosh/kindle](https://malimosh.shinyapps.io/kindle/)
+  - [malter61/BaseballStats](https://malter61.shinyapps.io/BaseballStats/)
+  - [malter61/gamePredictor](https://malter61.shinyapps.io/gamePredictor/)
+  - [malter61/strikezoneaccuracy](https://malter61.shinyapps.io/strikezoneaccuracy/)
+  - [manaswink/SocialMediaPulse](https://manaswink.shinyapps.io/SocialMediaPulse/)
+  - [manavmittal23/ShinyApp1](https://manavmittal23.shinyapps.io/ShinyApp1/)
+  - [mandelbrot/shiny](https://mandelbrot.shinyapps.io/shiny/)
+  - [mangothecat/Anscombes-Quartet](https://mangothecat.shinyapps.io/Anscombes-Quartet/)
+  - [mangothecat/sasmap](https://mangothecat.shinyapps.io/sasmap/)
+  - [mannybernabe/ShinyApp2](https://mannybernabe.shinyapps.io/ShinyApp2/)
+  - [manuelblancovalentin/AirQuality-Data-Analysis-App-v11](https://manuelblancovalentin.shinyapps.io/AirQuality-Data-Analysis-App-v11/)
+  - [mapologo/dp\_mapologo](https://mapologo.shinyapps.io/dp_mapologo/)
+  - [maracuya/wildcard\_ek](https://maracuya.shinyapps.io/wildcard_ek/)
+  - [marcelo-ventura/crypto](https://marcelo-ventura.shinyapps.io/crypto/)
+  - [marceloalvesuff/shiny\_rfacebook](https://marceloalvesuff.shinyapps.io/shiny_rfacebook/)
+  - [marceloalvesuff/shiny\_teste](https://marceloalvesuff.shinyapps.io/shiny_teste/)
+  - [marcfresquet/01-barcelona-incidents-complaints-suggestions](https://marcfresquet.shinyapps.io/01-barcelona-incidents-complaints-suggestions/)
+  - [marcfresquet/02-fosses-comunes-catalunya](https://marcfresquet.shinyapps.io/02-fosses-comunes-catalunya/)
+  - [marckissel/wisdom\_database](https://marckissel.shinyapps.io/wisdom_database/)
+  - [marco/traffic](https://marco.shinyapps.io/traffic/)
+  - [marcosci/NLMR\_Fractal\_Terrain](https://marcosci.shinyapps.io/NLMR_Fractal_Terrain/)
+  - [marcosfs/ideb](https://marcosfs.shinyapps.io/ideb/)
+  - [marcosjnez/Severity](https://marcosjnez.shinyapps.io/Severity/)
+  - [marcus/bus\_simulator](https://marcus.shinyapps.io/bus_simulator/)
+  - [marcuspaget/AusGovInfo](https://marcuspaget.shinyapps.io/AusGovInfo/)
+  - [marialma/shinyflu](https://marialma.shinyapps.io/shinyflu/)
+  - [mariplaza/GeoDemographics](https://mariplaza.shinyapps.io/GeoDemographics/)
+  - [mark/bigquery-viz](https://mark.shinyapps.io/bigquery-viz/)
+  - [mark/GA\_timeseries](https://mark.shinyapps.io/GA_timeseries/)
+  - [mark/ga-effect](https://mark.shinyapps.io/ga-effect/)
+  - [mark/ga-meta](https://mark.shinyapps.io/ga-meta/)
+  - [mark/ga-rollup](https://mark.shinyapps.io/ga-rollup/)
+  - [mark/googleAnalyticsRv4Demo](https://mark.shinyapps.io/googleAnalyticsRv4Demo/)
+  - [mark/googleAuthRMarkdown](https://mark.shinyapps.io/googleAuthRMarkdown/)
+  - [mark/searchAnalyticsShiny](https://mark.shinyapps.io/searchAnalyticsShiny/)
+  - [mark/searchConsoleRDemo](https://mark.shinyapps.io/searchConsoleRDemo/)
+  - [markbergen-shiny/county\_data\_dashboard\_v2](https://markbergen-shiny.shinyapps.io/county_data_dashboard_v2/)
+  - [markewing/Hiking\_App](https://markewing.shinyapps.io/Hiking_App/)
+  - [markwolff/QMtriplot17C](https://markwolff.shinyapps.io/QMtriplot17C/)
+  - [mars-project-sat/mars-sat](https://mars-project-sat.shinyapps.io/mars-sat/)
+  - [marsouin/ShinyMarsouin](https://marsouin.shinyapps.io/ShinyMarsouin/)
+  - [marxism/marx-alluvial](https://marxism.shinyapps.io/marx-alluvial/)
+  - [marxism/marx-network](https://marxism.shinyapps.io/marx-network/)
+  - [marxism/marx-search](https://marxism.shinyapps.io/marx-search/)
+  - [maschine/cl\_spreads](https://maschine.shinyapps.io/cl_spreads/)
+  - [massyfigini/NextWordApp](https://massyfigini.shinyapps.io/NextWordApp/)
+  - [masterdatcom2017/twitter](https://masterdatcom2017.shinyapps.io/twitter/)
+  - [matt321o6/developingdataproducts](https://matt321o6.shinyapps.io/developingdataproducts/)
+  - [matt321o6/secnow](https://matt321o6.shinyapps.io/secnow/)
+  - [mattbrehmer/ShinyFork](https://mattbrehmer.shinyapps.io/ShinyFork/)
+  - [mattcowgill/aflfant](https://mattcowgill.shinyapps.io/aflfant/)
+  - [mattcowgill/teamdash](https://mattcowgill.shinyapps.io/teamdash/)
+  - [mattdray/wc18-age](https://mattdray.shinyapps.io/wc18-age/)
+  - [mattfrost/insurance\_estimator](https://mattfrost.shinyapps.io/insurance_estimator/)
+  - [mattgibbs/MurrayFlows](https://mattgibbs.shinyapps.io/MurrayFlows/)
+  - [matthesecolab/mammal-app](https://matthesecolab.shinyapps.io/mammal-app/)
+  - [matthewmatix/bayesonline](https://matthewmatix.shinyapps.io/bayesonline/)
+  - [mattkmiecik/boot-perm-app](https://mattkmiecik.shinyapps.io/boot-perm-app/)
+  - [mattmdedek/JHU-DataProductsProject](https://mattmdedek.shinyapps.io/JHU-DataProductsProject/)
+  - [mattmills49/Point\_Diff\_Shiny](https://mattmills49.shinyapps.io/Point_Diff_Shiny/)
+  - [mattyreesy/Developing-data-product-course-project](https://mattyreesy.shinyapps.io/Developing-data-product-course-project/)
+  - [maureen/DualProcessROC](https://maureen.shinyapps.io/DualProcessROC/)
+  - [maureen/SimpleROC](https://maureen.shinyapps.io/SimpleROC/)
+  - [maxjacu/ConverterString](https://maxjacu.shinyapps.io/ConverterString/)
+  - [maxkasy/webappdontrandomize](https://maxkasy.shinyapps.io/webappdontrandomize/)
+  - [maxluke/ontarioDemand](https://maxluke.shinyapps.io/ontarioDemand/)
+  - [maxshang/Farm\_Profit\_Variability\_Simulation](https://maxshang.shinyapps.io/Farm_Profit_Variability_Simulation/)
+  - [maxshang/sheep](https://maxshang.shinyapps.io/sheep/)
+  - [mbcladwell/behavior-epistasis](https://mbcladwell.shinyapps.io/behavior-epistasis/)
+  - [mbcladwell/fertility](https://mbcladwell.shinyapps.io/fertility/)
+  - [mbienz/labour-market-dashboard\_prod](https://mbienz.shinyapps.io/labour-market-dashboard_prod/)
+  - [mbienz/tourism\_dashboard\_prod](https://mbienz.shinyapps.io/tourism_dashboard_prod/)
+  - [mbienz/urban-development-capacity](https://mbienz.shinyapps.io/urban-development-capacity/)
+  - [mbillig/tolkienanalysisapp](https://mbillig.shinyapps.io/tolkienanalysisapp/)
+  - [mbolisetty/CellView](https://mbolisetty.shinyapps.io/CellView/)
+  - [mccudden/kfre\_app](https://mccudden.shinyapps.io/kfre_app/)
+  - [mcdickenson/ibp-demo](https://mcdickenson.shinyapps.io/ibp-demo/)
+  - [mcdlee/KHCityBike](https://mcdlee.shinyapps.io/KHCityBike/)
+  - [mchakrawarthy/NutritionApp](https://mchakrawarthy.shinyapps.io/NutritionApp/)
+  - [mclapham/firstApp](https://mclapham.shinyapps.io/firstApp/)
+  - [mcliff/qknewt](https://mcliff.shinyapps.io/qknewt/)
+  - [mcolosso/Central\_Limit\_Theorem](https://mcolosso.shinyapps.io/Central_Limit_Theorem/)
+  - [mconsid3/HearthstoneCardUsage](https://mconsid3.shinyapps.io/HearthstoneCardUsage/)
+  - [mconsid3/shinyTwitch](https://mconsid3.shinyapps.io/shinyTwitch/)
+  - [mcpasin/WebAnalytics-Dashboard](https://mcpasin.shinyapps.io/WebAnalytics-Dashboard/)
+  - [mdat/DCMetroBus\_WaitTimes\_20170319](https://mdat.shinyapps.io/DCMetroBus_WaitTimes_20170319/)
+  - [mdbrown/PowerSAM\_ncc](https://mdbrown.shinyapps.io/PowerSAM_ncc/)
+  - [mdbrown/PowerSAM](https://mdbrown.shinyapps.io/PowerSAM/)
+  - [mdefelice/SOLAR-SHINY](https://mdefelice.shinyapps.io/SOLAR-SHINY/)
+  - [mdlincoln/adjacency\_plot](https://mdlincoln.shinyapps.io/adjacency_plot/)
+  - [mdpillet/LogisticModel](https://mdpillet.shinyapps.io/LogisticModel/)
+  - [medh/ProjectAppDP](https://medh.shinyapps.io/ProjectAppDP/)
+  - [medhi/DevelopingDataProducts](https://medhi.shinyapps.io/DevelopingDataProducts/)
+  - [medhi/TwitteR](https://medhi.shinyapps.io/TwitteR/)
+  - [mekline/saltydates](https://mekline.shinyapps.io/saltydates/)
+  - [meldow/Shiny\_IRIS](https://meldow.shinyapps.io/Shiny_IRIS/)
+  - [melissatan/word\_psychic](https://melissatan.shinyapps.io/word_psychic/)
+  - [melondonkey/riskApp](https://melondonkey.shinyapps.io/riskApp/)
+  - [mengyingli/topicModeling](https://mengyingli.shinyapps.io/topicModeling/)
+  - [metaviz/funnelinf\_app](https://metaviz.shinyapps.io/funnelinf_app/)
+  - [meteoswiss/skill\_metrics](https://meteoswiss.shinyapps.io/skill_metrics/)
+  - [metrumrg/tdmdosing](https://metrumrg.shinyapps.io/tdmdosing/)
+  - [meyer/MPD\_Report\_Data\_Explorer](https://meyer.shinyapps.io/MPD_Report_Data_Explorer/)
+  - [meysubb/cws-d1](https://meysubb.shinyapps.io/cws-d1/)
+  - [meysubb/March\_Madness\_Dashboard](https://meysubb.shinyapps.io/March_Madness_Dashboard/)
+  - [mezz/dcuo](https://mezz.shinyapps.io/dcuo/)
+  - [mfoos/immunecelltypes](https://mfoos.shinyapps.io/immunecelltypes/)
+  - [mfoos/shinyresumedemo](https://mfoos.shinyapps.io/shinyresumedemo/)
+  - [mfpartridge/shinysamplesizesdashboard](https://mfpartridge.shinyapps.io/shinysamplesizesdashboard/)
+  - [mfpartridge/shinysamplesizesdocumentation](https://mfpartridge.shinyapps.io/shinysamplesizesdocumentation/)
+  - [mfpartridge/shinysamplesizespresentation](https://mfpartridge.shinyapps.io/shinysamplesizespresentation/)
+  - [mfviz/betChoice](https://mfviz.shinyapps.io/betChoice/)
+  - [mfviz/test\_app](https://mfviz.shinyapps.io/test_app/)
+  - [mfviz/traffic\_riddle](https://mfviz.shinyapps.io/traffic_riddle/)
+  - [mgrbovic/NextWordPredictor](https://mgrbovic.shinyapps.io/NextWordPredictor/)
+  - [mgstetter/quantgensimAPP](https://mgstetter.shinyapps.io/quantgensimAPP/)
+  - [mgultas/shiny\_boxplot](https://mgultas.shinyapps.io/shiny_boxplot/)
+  - [mhahsler-apps/Jester](https://mhahsler-apps.shinyapps.io/Jester/)
+  - [mhpcenterforhousingdata/housingandmigration](https://mhpcenterforhousingdata.shinyapps.io/housingandmigration/)
+  - [micasagroup/nwpgame](https://micasagroup.shinyapps.io/nwpgame/)
+  - [micfm/capital\_structure\_mobile](https://micfm.shinyapps.io/capital_structure_mobile/)
+  - [micfm/intro\_duration](https://micfm.shinyapps.io/intro_duration/)
+  - [micfm/limit\_order\_book](https://micfm.shinyapps.io/limit_order_book/)
+  - [micfm/loan\_term\_payment\_mobile](https://micfm.shinyapps.io/loan_term_payment_mobile/)
+  - [micfm/option\_intro](https://micfm.shinyapps.io/option_intro/)
+  - [micfm/pairs\_trade](https://micfm.shinyapps.io/pairs_trade/)
+  - [micfm/risk\_future\_past](https://micfm.shinyapps.io/risk_future_past/)
+  - [micfm/short\_selling\_stock\_mobile](https://micfm.shinyapps.io/short_selling_stock_mobile/)
+  - [micfm/uses\_monte\_carlo\_mobile](https://micfm.shinyapps.io/uses_monte_carlo_mobile/)
+  - [micfm/what\_is\_risk](https://micfm.shinyapps.io/what_is_risk/)
+  - [michaelinkles/ShinySTEM](https://michaelinkles.shinyapps.io/ShinySTEM/)
+  - [michaellevy/gwdegree](https://michaellevy.shinyapps.io/gwdegree/)
+  - [michaellopez/my\_app](https://michaellopez.shinyapps.io/my_app/)
+  - [michaellopez/QBcurves](https://michaellopez.shinyapps.io/QBcurves/)
+  - [michaelpawlus/song\_lyric\_term\_matching](https://michaelpawlus.shinyapps.io/song_lyric_term_matching/)
+  - [michaelstanhope/shiny-examples](https://michaelstanhope.shinyapps.io/shiny-examples/)
+  - [michaelstanhope/TestApp](https://michaelstanhope.shinyapps.io/TestApp/)
+  - [michaud/CDCPlot](https://michaud.shinyapps.io/CDCPlot/)
+  - [michbur/AmpSim](https://michbur.shinyapps.io/AmpSim/)
+  - [michielkoens/Sudoku](https://michielkoens.shinyapps.io/Sudoku/)
+  - [micncltools/ClinicalAccuracyAndUtility](https://micncltools.shinyapps.io/ClinicalAccuracyAndUtility/)
+  - [micncltools/TestAccuracy](https://micncltools.shinyapps.io/TestAccuracy/)
+  - [middleprofessor/HarrellPlot](https://middleprofessor.shinyapps.io/HarrellPlot/)
+  - [mifisi/AtrialFib](https://mifisi.shinyapps.io/AtrialFib/)
+  - [mifisi/HeartFailure](https://mifisi.shinyapps.io/HeartFailure/)
+  - [mikabr/cambridge](https://mikabr.shinyapps.io/cambridge/)
+  - [mikabr/names](https://mikabr.shinyapps.io/names/)
+  - [mikaelhuss/ExploreAllenBrainRNASeq](https://mikaelhuss.shinyapps.io/ExploreAllenBrainRNASeq/)
+  - [mikaelhuss/sthlm\_temperatures](https://mikaelhuss.shinyapps.io/sthlm_temperatures/)
+  - [mikaelhuss/SwedishTwitterCommunities](https://mikaelhuss.shinyapps.io/SwedishTwitterCommunities/)
+  - [mikebirdgeneau/ABVotes\_2015](https://mikebirdgeneau.shinyapps.io/ABVotes_2015/)
+  - [mikebirdgeneau/BabyPredictor](https://mikebirdgeneau.shinyapps.io/BabyPredictor/)
+  - [mikebirdgeneau/Digital\_Elevation\_Light](https://mikebirdgeneau.shinyapps.io/Digital_Elevation_Light/)
+  - [mikegros/ufr\_analysis](https://mikegros.shinyapps.io/ufr_analysis/)
+  - [mikerspencer/Manning](https://mikerspencer.shinyapps.io/Manning/)
+  - [mikesilva/movie-recommender](https://mikesilva.shinyapps.io/movie-recommender/)
+  - [mikewk/botornot](https://mikewk.shinyapps.io/botornot/)
+  - [mikewk/correlation\_game](https://mikewk.shinyapps.io/correlation_game/)
+  - [mikewk/correlation](https://mikewk.shinyapps.io/correlation/)
+  - [mikewk/friendship](https://mikewk.shinyapps.io/friendship/)
+  - [mikewk/mikelectplot](https://mikewk.shinyapps.io/mikelectplot/)
+  - [mikeyharper/windturbinemap](https://mikeyharper.shinyapps.io/windturbinemap/)
+  - [mile/Ebola\_Sim](https://mile.shinyapps.io/Ebola_Sim/)
+  - [mile/final\_project](https://mile.shinyapps.io/final_project/)
+  - [mile/SPBWDL\_Drawing\_Ideas](https://mile.shinyapps.io/SPBWDL_Drawing_Ideas/)
+  - [minhealthnz/datapharm-beta](https://minhealthnz.shinyapps.io/datapharm-beta/)
+  - [minhealthnz/nz-health-survey-2015-16-annual-update](https://minhealthnz.shinyapps.io/nz-health-survey-2015-16-annual-update/)
+  - [minhealthnz/nz-health-survey-2015-16-tier-1](https://minhealthnz.shinyapps.io/nz-health-survey-2015-16-tier-1/)
+  - [minhealthnz/nz-health-survey-2016-17-annual-data-explorer](https://minhealthnz.shinyapps.io/nz-health-survey-2016-17-annual-data-explorer/)
+  - [minhealthnz/nz-health-survey-2016-17-tier-1](https://minhealthnz.shinyapps.io/nz-health-survey-2016-17-tier-1/)
+  - [miningchi2/chicrime](https://miningchi2.shinyapps.io/chicrime/)
+  - [miningchi2/redlight](https://miningchi2.shinyapps.io/redlight/)
+  - [miproblems/milembed](https://miproblems.shinyapps.io/milembed/)
+  - [miqdadasaria/brexit](https://miqdadasaria.shinyapps.io/brexit/)
+  - [miqdadasaria/ccg\_equity](https://miqdadasaria.shinyapps.io/ccg_equity/)
+  - [missaugustina/mad\_libs](https://missaugustina.shinyapps.io/mad_libs/)
+  - [mitchki/project](https://mitchki.shinyapps.io/project/)
+  - [mjpascual/1030\_lecture](https://mjpascual.shinyapps.io/1030_lecture/)
+  - [mjwestgate/ecoterms](https://mjwestgate.shinyapps.io/ecoterms/)
+  - [mkarp94/DataProduct](https://mkarp94.shinyapps.io/DataProduct/)
+  - [mkiang/DiseaseDynamics](https://mkiang.shinyapps.io/DiseaseDynamics/)
+  - [mldschry/JPL\_Shiny](https://mldschry.shinyapps.io/JPL_Shiny/)
+  - [mlewis/lnhBrowser](https://mlewis.shinyapps.io/lnhBrowser/)
+  - [mmathur/evalue](https://mmathur.shinyapps.io/evalue/)
+  - [mmcbee/gifted\_identification\_explorer](https://mmcbee.shinyapps.io/gifted_identification_explorer/)
+  - [mmcbee/optimal\_identification](https://mmcbee.shinyapps.io/optimal_identification/)
+  - [mmiah/raman\_spectroscopy](https://mmiah.shinyapps.io/raman_spectroscopy/)
+  - [mnicola76/titanic](https://mnicola76.shinyapps.io/titanic/)
+  - [modernkris/00\_ClassProject-Submittals](https://modernkris.shinyapps.io/00_ClassProject-Submittals/)
+  - [momobo-coursera/DDP\_Project](https://momobo-coursera.shinyapps.io/DDP_Project/)
+  - [monash-biostat/NonUniformCorrelation](https://monash-biostat.shinyapps.io/NonUniformCorrelation/)
+  - [monex/expertus](https://monex.shinyapps.io/expertus/)
+  - [moniquemackenzie/WildlifeSurvey](https://moniquemackenzie.shinyapps.io/WildlifeSurvey/)
+  - [monkmanmh/MLBrunscoring\_shiny](https://monkmanmh.shinyapps.io/MLBrunscoring_shiny/)
+  - [monsoro-lab-ectomap/EctoMAP](https://monsoro-lab-ectomap.shinyapps.io/EctoMAP/)
+  - [montanemartin/jubilaciones](https://montanemartin.shinyapps.io/jubilaciones/)
+  - [moppettsmusings/hip\_fracture](https://moppettsmusings.shinyapps.io/hip_fracture/)
+  - [moral/MSTgraphics](https://moral.shinyapps.io/MSTgraphics/)
+  - [morgan/utility\_calculator](https://morgan.shinyapps.io/utility_calculator/)
+  - [morgan/utility](https://morgan.shinyapps.io/utility/)
+  - [morganjacobus/MARTA\_Bus\_Finder](https://morganjacobus.shinyapps.io/MARTA_Bus_Finder/)
+  - [morph/FGOSummonCalc](https://morph.shinyapps.io/FGOSummonCalc/)
+  - [mounabelaid/application](https://mounabelaid.shinyapps.io/application/)
+  - [mounabelaid/twittersentimentanalysis](https://mounabelaid.shinyapps.io/twittersentimentanalysis/)
+  - [movethevote/movethevote](https://movethevote.shinyapps.io/movethevote/)
+  - [mpodell/goal\_inspector](https://mpodell.shinyapps.io/goal_inspector/)
+  - [mppearson1/10bn](https://mppearson1.shinyapps.io/10bn/)
+  - [mrd4/track](https://mrd4.shinyapps.io/track/)
+  - [mridulj/assignment](https://mridulj.shinyapps.io/assignment/)
+  - [mrooijer/graphic](https://mrooijer.shinyapps.io/graphic/)
+  - [mroutley/CapitalStocksFlows](https://mroutley.shinyapps.io/CapitalStocksFlows/)
+  - [mroutley/public\_sector\_employment](https://mroutley.shinyapps.io/public_sector_employment/)
+  - [mrpredicts/RRRR](https://mrpredicts.shinyapps.io/RRRR/)
+  - [mrunadon/animetwitter](https://mrunadon.shinyapps.io/animetwitter/)
+  - [mrunadon/exgaussian](https://mrunadon.shinyapps.io/exgaussian/)
+  - [mrunadon/hyperbolicexponentialsimulation](https://mrunadon.shinyapps.io/hyperbolicexponentialsimulation/)
+  - [mryap/learn\_r-markdown](https://mryap.shinyapps.io/learn_r-markdown/)
+  - [mryeti1/stravatdfmakeover](https://mryeti1.shinyapps.io/stravatdfmakeover/)
+  - [mshea/lifescores](https://mshea.shinyapps.io/lifescores/)
+  - [mtaufeeq/Project](https://mtaufeeq.shinyapps.io/Project/)
+  - [mtganalyze/evcalculator](https://mtganalyze.shinyapps.io/evcalculator/)
+  - [muller-gaetan/cugn\_v1](https://muller-gaetan.shinyapps.io/cugn_v1/)
+  - [muon-stat/dieselgate](https://muon-stat.shinyapps.io/dieselgate/)
+  - [muranga/dataton17\_m30int](https://muranga.shinyapps.io/dataton17_m30int/)
+  - [murilofm/App-1](https://murilofm.shinyapps.io/App-1/)
+  - [muschellij2/ENAR\_2014](https://muschellij2.shinyapps.io/ENAR_2014/)
+  - [muschellij2/ENAR\_Over\_Time](https://muschellij2.shinyapps.io/ENAR_Over_Time/)
+  - [muuankarski/valiajat](https://muuankarski.shinyapps.io/valiajat/)
+  - [mvansmeden/BeyondEPV](https://mvansmeden.shinyapps.io/BeyondEPV/)
+  - [mvonderlieth/ddp\_09](https://mvonderlieth.shinyapps.io/ddp_09/)
+  - [myappshiny/fagan](https://myappshiny.shinyapps.io/fagan/)
+  - [Myleith/myedinburgh](https://Myleith.shinyapps.io/myedinburgh/)
+  - [mytinyshinys/bundesliga](https://mytinyshinys.shinyapps.io/bundesliga/)
+  - [mytinyshinys/clickweatherus2](https://mytinyshinys.shinyapps.io/clickweatherus2/)
+  - [mytinyshinys/cranlogsFlexDB](https://mytinyshinys.shinyapps.io/cranlogsFlexDB/)
+  - [mytinyshinys/dashboard](https://mytinyshinys.shinyapps.io/dashboard/)
+  - [mytinyshinys/divisionRaces](https://mytinyshinys.shinyapps.io/divisionRaces/)
+  - [mytinyshinys/earthtonesFlexDB](https://mytinyshinys.shinyapps.io/earthtonesFlexDB/)
+  - [mytinyshinys/eplLatest](https://mytinyshinys.shinyapps.io/eplLatest/)
+  - [mytinyshinys/ggthemesDB](https://mytinyshinys.shinyapps.io/ggthemesDB/)
+  - [mytinyshinys/githubAnalyses](https://mytinyshinys.shinyapps.io/githubAnalyses/)
+  - [mytinyshinys/goodCountry](https://mytinyshinys.shinyapps.io/goodCountry/)
+  - [mytinyshinys/guestApps](https://mytinyshinys.shinyapps.io/guestApps/)
+  - [mytinyshinys/mediaHeadlines](https://mytinyshinys.shinyapps.io/mediaHeadlines/)
+  - [mytinyshinys/mlbFlexDB](https://mytinyshinys.shinyapps.io/mlbFlexDB/)
+  - [mytinyshinys/musicChartsFlexDB](https://mytinyshinys.shinyapps.io/musicChartsFlexDB/)
+  - [mytinyshinys/nbaCharts](https://mytinyshinys.shinyapps.io/nbaCharts/)
+  - [mytinyshinys/OECD](https://mytinyshinys.shinyapps.io/OECD/)
+  - [mytinyshinys/premierLeague](https://mytinyshinys.shinyapps.io/premierLeague/)
+  - [mytinyshinys/quiltFlexDB](https://mytinyshinys.shinyapps.io/quiltFlexDB/)
+  - [mytinyshinys/rpubs](https://mytinyshinys.shinyapps.io/rpubs/)
+  - [mytinyshinys/seriea](https://mytinyshinys.shinyapps.io/seriea/)
+  - [mytinyshinys/shotCharts](https://mytinyshinys.shinyapps.io/shotCharts/)
+  - [mytinyshinys/socioEconomicBlog](https://mytinyshinys.shinyapps.io/socioEconomicBlog/)
+  - [mytinyshinys/sportsBlog](https://mytinyshinys.shinyapps.io/sportsBlog/)
+  - [mytinyshinys/spotifyFlexDB](https://mytinyshinys.shinyapps.io/spotifyFlexDB/)
+  - [mytinyshinys/spotifyShiny](https://mytinyshinys.shinyapps.io/spotifyShiny/)
+  - [mytinyshinys/stackOverflowFlexDB](https://mytinyshinys.shinyapps.io/stackOverflowFlexDB/)
+  - [mytinyshinys/statsCanFlexDB](https://mytinyshinys.shinyapps.io/statsCanFlexDB/)
+  - [mytinyshinys/supremecourtFlexDB](https://mytinyshinys.shinyapps.io/supremecourtFlexDB/)
+  - [mytinyshinys/user2016FlexDB](https://mytinyshinys.shinyapps.io/user2016FlexDB/)
+  - [mytinyshinys/wikipedia](https://mytinyshinys.shinyapps.io/wikipedia/)
+  - [mytinyshinys/wordCloud](https://mytinyshinys.shinyapps.io/wordCloud/)
+  - [mytinyshinys/worldBank](https://mytinyshinys.shinyapps.io/worldBank/)
+  - [mytinyshinys/worldSoccer](https://mytinyshinys.shinyapps.io/worldSoccer/)
+  - [n3wsandnumb3rs/SEGv1dot2](https://n3wsandnumb3rs.shinyapps.io/SEGv1dot2/)
+  - [n3wsandnumb3rs/SEGv1dot3](https://n3wsandnumb3rs.shinyapps.io/SEGv1dot3/)
+  - [nabi/RecommenadtionEngine](https://nabi.shinyapps.io/RecommenadtionEngine/)
+  - [najkoja/hybridoa](https://najkoja.shinyapps.io/hybridoa/)
+  - [nameprediction/namepred](https://nameprediction.shinyapps.io/namepred/)
+  - [nancyyi/icf1](https://nancyyi.shinyapps.io/icf1/)
+  - [nandha/espnApp](https://nandha.shinyapps.io/espnApp/)
+  - [nanx/imgsvd](https://nanx.shinyapps.io/imgsvd/)
+  - [nanx/signify](https://nanx.shinyapps.io/signify/)
+  - [nate/DSCapstone](https://nate.shinyapps.io/DSCapstone/)
+  - [natea/opioid\_rx\_rate](https://natea.shinyapps.io/opioid_rx_rate/)
+  - [nathanaeljosephroy/Life-Simulation](https://nathanaeljosephroy.shinyapps.io/Life-Simulation/)
+  - [nathanday/CrimeCast](https://nathanday.shinyapps.io/CrimeCast/)
+  - [natydasilva/shiny\_msq](https://natydasilva.shinyapps.io/shiny_msq/)
+  - [natydasilva/shinyV03](https://natydasilva.shinyapps.io/shinyV03/)
+  - [nazareno/minha-cidade](https://nazareno.shinyapps.io/minha-cidade/)
+  - [ndasilva/shiny-pov](https://ndasilva.shinyapps.io/shiny-pov/)
+  - [nddeepak/river\_sunburst](https://nddeepak.shinyapps.io/river_sunburst/)
+  - [ndim/shiny-app](https://ndim.shinyapps.io/shiny-app/)
+  - [ndphillips/Visual\_Resume](https://ndphillips.shinyapps.io/Visual_Resume/)
+  - [ndslds/dataExplorer](https://ndslds.shinyapps.io/dataExplorer/)
+  - [neanderthal-ase/neanderthal\_ase](https://neanderthal-ase.shinyapps.io/neanderthal_ase/)
+  - [neconiesp/eleicoes2014](https://neconiesp.shinyapps.io/eleicoes2014/)
+  - [neilfws/ausnewsClouds](https://neilfws.shinyapps.io/ausnewsClouds/)
+  - [nelsonamayad/col2018\_tend](https://nelsonamayad.shinyapps.io/col2018_tend/)
+  - [nelsongreen/frcfieldgeom](https://nelsongreen.shinyapps.io/frcfieldgeom/)
+  - [neofranz/Project](https://neofranz.shinyapps.io/Project/)
+  - [nercompshiny/CanvasAccess](https://nercompshiny.shinyapps.io/CanvasAccess/)
+  - [nercompshiny/networkgraphs](https://nercompshiny.shinyapps.io/networkgraphs/)
+  - [neuroradiology/strokeimbio](https://neuroradiology.shinyapps.io/strokeimbio/)
+  - [neurotroph/Shiny-CutOffs](https://neurotroph.shinyapps.io/Shiny-CutOffs/)
+  - [nhukretep/btw17\_wahlkreise](https://nhukretep.shinyapps.io/btw17_wahlkreise/)
+  - [niceguy/shiny\_model2](https://niceguy.shinyapps.io/shiny_model2/)
+  - [nicholas-neuteufel/NBAPlayerSeasonClustering](https://nicholas-neuteufel.shinyapps.io/NBAPlayerSeasonClustering/)
+  - [nickbloom/rivals\_shiny](https://nickbloom.shinyapps.io/rivals_shiny/)
+  - [nickstrayer/shinyearr\_demo](https://nickstrayer.shinyapps.io/shinyearr_demo/)
+  - [nickstrayer/shinysense\_earr\_demo](https://nickstrayer.shinyapps.io/shinysense_earr_demo/)
+  - [nickubels/alcohol\_and\_traffic](https://nickubels.shinyapps.io/alcohol_and_traffic/)
+  - [nicolegoebel/shiny\_NLP\_COCA\_combo](https://nicolegoebel.shinyapps.io/shiny_NLP_COCA_combo/)
+  - [nicolewhite/dfw-app](https://nicolewhite.shinyapps.io/dfw-app/)
+  - [nicopillon/Human\_Rat\_Mouse](https://nicopillon.shinyapps.io/Human_Rat_Mouse/)
+  - [nicrivers/electricity](https://nicrivers.shinyapps.io/electricity/)
+  - [nielshanson/predicttheword](https://nielshanson.shinyapps.io/predicttheword/)
+  - [nierhoff/DDP\_Shiny\_Project](https://nierhoff.shinyapps.io/DDP_Shiny_Project/)
+  - [nikolaypavlov/leaflet-da-hw](https://nikolaypavlov.shinyapps.io/leaflet-da-hw/)
+  - [nimahraja/Betfair\_Election\_Graphs](https://nimahraja.shinyapps.io/Betfair_Election_Graphs/)
+  - [nimahraja/Coalition\_Marginals](https://nimahraja.shinyapps.io/Coalition_Marginals/)
+  - [nimahraja/Possible\_Coalitions](https://nimahraja.shinyapps.io/Possible_Coalitions/)
+  - [ninety-fourbyfifty/2018WorldCup](https://ninety-fourbyfifty.shinyapps.io/2018WorldCup/)
+  - [ninety-fourbyfifty/NBADraftModel](https://ninety-fourbyfifty.shinyapps.io/NBADraftModel/)
+  - [nisrapopstats/babynames2016](https://nisrapopstats.shinyapps.io/babynames2016/)
+  - [nitingupta2/stockReturns](https://nitingupta2.shinyapps.io/stockReturns/)
+  - [nivranshu/t20-stats](https://nivranshu.shinyapps.io/t20-stats/)
+  - [nlucas/stormevents](https://nlucas.shinyapps.io/stormevents/)
+  - [nmdprediction/nmdescintolerancescore](https://nmdprediction.shinyapps.io/nmdescintolerancescore/)
+  - [nmdprediction/nmdescpredictor](https://nmdprediction.shinyapps.io/nmdescpredictor/)
+  - [nmdpredictions/shiny](https://nmdpredictions.shinyapps.io/shiny/)
+  - [nnicolas/predictor](https://nnicolas.shinyapps.io/predictor/)
+  - [noamross/compois](https://noamross.shinyapps.io/compois/)
+  - [noamross/rchie](https://noamross.shinyapps.io/rchie/)
+  - [nobilor/Football\_Result\_Sim](https://nobilor.shinyapps.io/Football_Result_Sim/)
+  - [nobilor/shiny\_Ergebnismodell](https://nobilor.shinyapps.io/shiny_Ergebnismodell/)
+  - [nolan/million\_countdown](https://nolan.shinyapps.io/million_countdown/)
+  - [nolan/whos-at-cogsci](https://nolan.shinyapps.io/whos-at-cogsci/)
+  - [nomoremarking/reports](https://nomoremarking.shinyapps.io/reports/)
+  - [noootsab/devdataprod-noootsab](https://noootsab.shinyapps.io/devdataprod-noootsab/)
+  - [norbertbin/IAmA-App](https://norbertbin.shinyapps.io/IAmA-App/)
+  - [nraley/CrashFatalities](https://nraley.shinyapps.io/CrashFatalities/)
+  - [nrobbins/20161105\_hydropatterning\_app](https://nrobbins.shinyapps.io/20161105_hydropatterning_app/)
+  - [nrobbins/20171008\_hydropatterning\_app](https://nrobbins.shinyapps.io/20171008_hydropatterning_app/)
+  - [nseewald1/SMARTsize](https://nseewald1.shinyapps.io/SMARTsize/)
+  - [nsf-grfp/predict](https://nsf-grfp.shinyapps.io/predict/)
+  - [nsf-grfp/shiny](https://nsf-grfp.shinyapps.io/shiny/)
+  - [nstrayer/drawadist](https://nstrayer.shinyapps.io/drawadist/)
+  - [nstrayer/drawr\_demo](https://nstrayer.shinyapps.io/drawr_demo/)
+  - [nstrayer/viewr\_imagenet](https://nstrayer.shinyapps.io/viewr_imagenet/)
+  - [nsynes/EU\_Petition](https://nsynes.shinyapps.io/EU_Petition/)
+  - [ntjames/jsm17](https://ntjames.shinyapps.io/jsm17/)
+  - [ntncmch/triathlon-app](https://ntncmch.shinyapps.io/triathlon-app/)
+  - [nyctaxi/destination\_probability](https://nyctaxi.shinyapps.io/destination_probability/)
+  - [nykter/Main](https://nykter.shinyapps.io/Main/)
+  - [nyubachi/AntibactRadar](https://nyubachi.shinyapps.io/AntibactRadar/)
+  - [nyubachi/BloodConcentrationSimulation](https://nyubachi.shinyapps.io/BloodConcentrationSimulation/)
+  - [nzcms-ct-data-explorer/trimleaguetable2](https://nzcms-ct-data-explorer.shinyapps.io/trimleaguetable2/)
+  - [nzcms-ct-data-explorer/version8](https://nzcms-ct-data-explorer.shinyapps.io/version8/)
+  - [nzcms-ct-data-explorer/Worms](https://nzcms-ct-data-explorer.shinyapps.io/Worms/)
+  - [obepi/WordPredictor](https://obepi.shinyapps.io/WordPredictor/)
+  - [object-of-class/logLRplot](https://object-of-class.shinyapps.io/logLRplot/)
+  - [objectcomputing/settFeb2015](https://objectcomputing.shinyapps.io/settFeb2015/)
+  - [obrl-soil/splineapp](https://obrl-soil.shinyapps.io/splineapp/)
+  - [odeleon/ngram](https://odeleon.shinyapps.io/ngram/)
+  - [odelibalta/LifeExpentancyWHOrg](https://odelibalta.shinyapps.io/LifeExpentancyWHOrg/)
+  - [oeda/socialpolicysim](https://oeda.shinyapps.io/socialpolicysim/)
+  - [oganm/cellTypeExpression](https://oganm.shinyapps.io/cellTypeExpression/)
+  - [oja/hybridoa](https://oja.shinyapps.io/hybridoa/)
+  - [ojedarojo/JTGenoma](https://ojedarojo.shinyapps.io/JTGenoma/)
+  - [ojessen/whiskyTastings](https://ojessen.shinyapps.io/whiskyTastings/)
+  - [ojessen/whiskyTastingsApp](https://ojessen.shinyapps.io/whiskyTastingsApp/)
+  - [olbecke/shinyapp](https://olbecke.shinyapps.io/shinyapp/)
+  - [olivierlharidon/Offre\_Demande](https://olivierlharidon.shinyapps.io/Offre_Demande/)
+  - [omaymas/Exploring\_Climate\_Change\_1900-2014](https://omaymas.shinyapps.io/Exploring_Climate_Change_1900-2014/)
+  - [omaymas/Influence\_Analysis](https://omaymas.shinyapps.io/Influence_Analysis/)
+  - [omaymas/prophet\_explore](https://omaymas.shinyapps.io/prophet_explore/)
+  - [omaymas/r-tags](https://omaymas.shinyapps.io/r-tags/)
+  - [omaymas/stringr\_help](https://omaymas.shinyapps.io/stringr_help/)
+  - [omedalus/meaner](https://omedalus.shinyapps.io/meaner/)
+  - [omicsguy-apps/enerygy\_bars](https://omicsguy-apps.shinyapps.io/enerygy_bars/)
+  - [oncologynibr/drive](https://oncologynibr.shinyapps.io/drive/)
+  - [onlinedialogue/ab-test-calculator-bayes](https://onlinedialogue.shinyapps.io/ab-test-calculator-bayes/)
+  - [onsmodels/OpenPhysProp](https://onsmodels.shinyapps.io/OpenPhysProp/)
+  - [opat/Meropenem\_for\_OPAT](https://opat.shinyapps.io/Meropenem_for_OPAT/)
+  - [opencontent/OER-Impact-Calculator](https://opencontent.shinyapps.io/OER-Impact-Calculator/)
+  - [opendata/Riverfly](https://opendata.shinyapps.io/Riverfly/)
+  - [opendata/shinyapp](https://opendata.shinyapps.io/shinyapp/)
+  - [opendatamapssl/Crime](https://opendatamapssl.shinyapps.io/Crime/)
+  - [openfda/RR\_D](https://openfda.shinyapps.io/RR_D/)
+  - [openmeteo/pogoda](https://openmeteo.shinyapps.io/pogoda/)
+  - [orreco/lactate](https://orreco.shinyapps.io/lactate/)
+  - [osac/decomp\_ts](https://osac.shinyapps.io/decomp_ts/)
+  - [ospc/border-adjustment-calculator](https://ospc.shinyapps.io/border-adjustment-calculator/)
+  - [oste434/Cricket\_Visualisation](https://oste434.shinyapps.io/Cricket_Visualisation/)
+  - [oszkar/developingdataproductsclass](https://oszkar.shinyapps.io/developingdataproductsclass/)
+  - [ottlngr/biathlon\_world\_cup](https://ottlngr.shinyapps.io/biathlon_world_cup/)
+  - [ou-statswidgets/dance\_a](https://ou-statswidgets.shinyapps.io/dance_a/)
+  - [outcomeproject/BRFSS\_ShinyApp2](https://outcomeproject.shinyapps.io/BRFSS_ShinyApp2/)
+  - [outcomeproject/BRFSS\_Trend\_Plot](https://outcomeproject.shinyapps.io/BRFSS_Trend_Plot/)
+  - [outcomeproject/delitos](https://outcomeproject.shinyapps.io/delitos/)
+  - [outcomeproject/desempleo](https://outcomeproject.shinyapps.io/desempleo/)
+  - [ouzor/sotkanet](https://ouzor.shinyapps.io/sotkanet/)
+  - [owobeid/designing\_data\_products\_course\_project](https://owobeid.shinyapps.io/designing_data_products_course_project/)
+  - [ozguzmete/demo](https://ozguzmete.shinyapps.io/demo/)
+  - [pabischoff/nearbnb](https://pabischoff.shinyapps.io/nearbnb/)
+  - [pablobernabeu/ERP-waveform-visualization\_CMS-experiment](https://pablobernabeu.shinyapps.io/ERP-waveform-visualization_CMS-experiment/)
+  - [pablovicentemunuera/personal](https://pablovicentemunuera.shinyapps.io/personal/)
+  - [paceturf/GPAvatar](https://paceturf.shinyapps.io/GPAvatar/)
+  - [pachamaltese/elder-population-in-chile](https://pachamaltese.shinyapps.io/elder-population-in-chile/)
+  - [pacificprince/Shiny](https://pacificprince.shinyapps.io/Shiny/)
+  - [palashgoyal1/Shiny\_App](https://palashgoyal1.shinyapps.io/Shiny_App/)
+  - [paldhous/datacanvas-sensor](https://paldhous.shinyapps.io/datacanvas-sensor/)
+  - [paleo13/shiny\_2](https://paleo13.shinyapps.io/shiny_2/)
+  - [pandalusplatyceros/cod\_rebuilder](https://pandalusplatyceros.shinyapps.io/cod_rebuilder/)
+  - [para2x/Spatio-Temporal](https://para2x.shinyapps.io/Spatio-Temporal/)
+  - [paradesign/paradesign](https://paradesign.shinyapps.io/paradesign/)
+  - [parameterlibrary/distributionexplorer](https://parameterlibrary.shinyapps.io/distributionexplorer/)
+  - [paschall/stockAnalysis](https://paschall.shinyapps.io/stockAnalysis/)
+  - [paspeur/stormap](https://paspeur.shinyapps.io/stormap/)
+  - [paspeur/wordmaster-io](https://paspeur.shinyapps.io/wordmaster-io/)
+  - [pat-s/hyperspectral](https://pat-s.shinyapps.io/hyperspectral/)
+  - [paternogbc/SS\_regression](https://paternogbc.shinyapps.io/SS_regression/)
+  - [patilv/WDIShiny](https://patilv.shinyapps.io/WDIShiny/)
+  - [patiwari/TV\_Shiny\_App](https://patiwari.shinyapps.io/TV_Shiny_App/)
+  - [patrickbarks/bayes](https://patrickbarks.shinyapps.io/bayes/)
+  - [paul-reiners/titanic-app](https://paul-reiners.shinyapps.io/titanic-app/)
+  - [paulamoraga/spatialepiapp](https://paulamoraga.shinyapps.io/spatialepiapp/)
+  - [paulcbauer/plotlylayout](https://paulcbauer.shinyapps.io/plotlylayout/)
+  - [paulcbauer/plotlymarkers](https://paulcbauer.shinyapps.io/plotlymarkers/)
+  - [paulditterline/Louisville\_Salaries](https://paulditterline.shinyapps.io/Louisville_Salaries/)
+  - [paulditterline/US\_Baby\_Names](https://paulditterline.shinyapps.io/US_Baby_Names/)
+  - [paulino-tardaguila/ClusterViz](https://paulino-tardaguila.shinyapps.io/ClusterViz/)
+  - [pawelmatuszewski/aplikacja\_-\_tematy\_w\_czasie](https://pawelmatuszewski.shinyapps.io/aplikacja_-_tematy_w_czasie/)
+  - [pawelmatuszewski/Aplikacja-TematyWczasie](https://pawelmatuszewski.shinyapps.io/Aplikacja-TematyWczasie/)
+  - [pawelmatuszewski/AppCC](https://pawelmatuszewski.shinyapps.io/AppCC/)
+  - [pawelmatuszewski/wyborysamorzadowe18](https://pawelmatuszewski.shinyapps.io/wyborysamorzadowe18/)
+  - [pawelp/meetup-analysis](https://pawelp.shinyapps.io/meetup-analysis/)
+  - [pbloom/ERPVis](https://pbloom.shinyapps.io/ERPVis/)
+  - [pbulsink/NHL\_Elo\_Ratings](https://pbulsink.shinyapps.io/NHL_Elo_Ratings/)
+  - [pchuck/etf-leverage-simulator](https://pchuck.shinyapps.io/etf-leverage-simulator/)
+  - [pdelboca/analisis-candidatos-diputado-2017](https://pdelboca.shinyapps.io/analisis-candidatos-diputado-2017/)
+  - [pdop/ODdash\_v1](https://pdop.shinyapps.io/ODdash_v1/)
+  - [pdrhiggins/ctsu](https://pdrhiggins.shinyapps.io/ctsu/)
+  - [pecheverr/AppR](https://pecheverr.shinyapps.io/AppR/)
+  - [pecostats/DIY\_ANOVA](https://pecostats.shinyapps.io/DIY_ANOVA/)
+  - [pedagueau/phyteauviz](https://pedagueau.shinyapps.io/phyteauviz/)
+  - [peerjeda/pvalueviz](https://peerjeda.shinyapps.io/pvalueviz/)
+  - [peggyfan/shinyapps](https://peggyfan.shinyapps.io/shinyapps/)
+  - [penn-musa/shiny](https://penn-musa.shinyapps.io/shiny/)
+  - [petecaya/event\_study](https://petecaya.shinyapps.io/event_study/)
+  - [petecaya/Event\_Study](https://petecaya.shinyapps.io/Event_Study/)
+  - [petehaitch/AFLW](https://petehaitch.shinyapps.io/AFLW/)
+  - [peter-mott/Poverty\_EU\_UK](https://peter-mott.shinyapps.io/Poverty_EU_UK/)
+  - [petras/manoseimas](https://petras.shinyapps.io/manoseimas/)
+  - [pewi/Mars](https://pewi.shinyapps.io/Mars/)
+  - [pgodard/irisGlmPred](https://pgodard.shinyapps.io/irisGlmPred/)
+  - [pharmacometrics/exploredata](https://pharmacometrics.shinyapps.io/exploredata/)
+  - [pharmacometrics/ggplotmydata](https://pharmacometrics.shinyapps.io/ggplotmydata/)
+  - [pharmacometrics/ggplotwithyourdata](https://pharmacometrics.shinyapps.io/ggplotwithyourdata/)
+  - [pharmacometrics/MetaDataExplore](https://pharmacometrics.shinyapps.io/MetaDataExplore/)
+  - [phbarton/Capstone](https://phbarton.shinyapps.io/Capstone/)
+  - [philipk/Tidy3](https://philipk.shinyapps.io/Tidy3/)
+  - [philipp/FalseDiscoveryRate](https://philipp.shinyapps.io/FalseDiscoveryRate/)
+  - [philippsp/BookRecommendation](https://philippsp.shinyapps.io/BookRecommendation/)
+  - [phiprimedy/project](https://phiprimedy.shinyapps.io/project/)
+  - [phjulien/Series](https://phjulien.shinyapps.io/Series/)
+  - [phoebe/you-are-not-alone](https://phoebe.shinyapps.io/you-are-not-alone/)
+  - [phoebewong/calendar\_shinyio](https://phoebewong.shinyapps.io/calendar_shinyio/)
+  - [phoebezhou/nyc-property-sales-shiny](https://phoebezhou.shinyapps.io/nyc-property-sales-shiny/)
+  - [phoneapps/ultrasound\_app](https://phoneapps.shinyapps.io/ultrasound_app/)
+  - [phsz/Shiny\_Company\_Logo](https://phsz.shinyapps.io/Shiny_Company_Logo/)
+  - [phyzoo/LogisticStochastic](https://phyzoo.shinyapps.io/LogisticStochastic/)
+  - [phyzoo/ModelApp](https://phyzoo.shinyapps.io/ModelApp/)
+  - [phyzoo/StochasticCompetition](https://phyzoo.shinyapps.io/StochasticCompetition/)
+  - [piair/Shiny](https://piair.shinyapps.io/Shiny/)
+  - [piair/Swiftkey](https://piair.shinyapps.io/Swiftkey/)
+  - [pianalytics/InteractiveLTV](https://pianalytics.shinyapps.io/InteractiveLTV/)
+  - [pietrofodra/Test](https://pietrofodra.shinyapps.io/Test/)
+  - [pilotgtec/PH-Pop-Map](https://pilotgtec.shinyapps.io/PH-Pop-Map/)
+  - [pilotgtec/PSEMomentumCharts](https://pilotgtec.shinyapps.io/PSEMomentumCharts/)
+  - [pitakakariki/Parliament](https://pitakakariki.shinyapps.io/Parliament/)
+  - [pittsburghpa/burghs\_iviewtrees](https://pittsburghpa.shinyapps.io/burghs_iviewtrees/)
+  - [pittsburghpa/BurghsEyeView](https://pittsburghpa.shinyapps.io/BurghsEyeView/)
+  - [pittsburghpa/BurghsEyeViewParcels](https://pittsburghpa.shinyapps.io/BurghsEyeViewParcels/)
+  - [pittsburghpa/BurghsEyeViewPlaces](https://pittsburghpa.shinyapps.io/BurghsEyeViewPlaces/)
+  - [pittsburghpa/BurghsEyeViewTrees](https://pittsburghpa.shinyapps.io/BurghsEyeViewTrees/)
+  - [pittsburghpa/pips](https://pittsburghpa.shinyapps.io/pips/)
+  - [pjchamberlain/ds-capstone-app](https://pjchamberlain.shinyapps.io/ds-capstone-app/)
+  - [pjpjean/cpskapp](https://pjpjean.shinyapps.io/cpskapp/)
+  - [pjpjean/DataProdShinyApp](https://pjpjean.shinyapps.io/DataProdShinyApp/)
+  - [pk-shinies/ipto-ml](https://pk-shinies.shinyapps.io/ipto-ml/)
+  - [pkimes/shc\_example](https://pkimes.shinyapps.io/shc_example/)
+  - [plantid/posr](https://plantid.shinyapps.io/posr/)
+  - [plantmodelling/archidart](https://plantmodelling.shinyapps.io/archidart/)
+  - [plantmodelling/marshal](https://plantmodelling.shinyapps.io/marshal/)
+  - [plantmodelling/mecha](https://plantmodelling.shinyapps.io/mecha/)
+  - [plantmodelling/phenome\_bingo](https://plantmodelling.shinyapps.io/phenome_bingo/)
+  - [plantmodelling/science\_podcasts](https://plantmodelling.shinyapps.io/science_podcasts/)
+  - [plantmodelling/shinyRootBox](https://plantmodelling.shinyapps.io/shinyRootBox/)
+  - [plantmodelling/water\_network](https://plantmodelling.shinyapps.io/water_network/)
+  - [plejeail/securip](https://plejeail.shinyapps.io/securip/)
+  - [plethodonick/week\_4\_occupancy\_shiny](https://plethodonick.shinyapps.io/week_4_occupancy_shiny/)
+  - [plmur/elecciones\_cr\_2018](https://plmur.shinyapps.io/elecciones_cr_2018/)
+  - [plotly/plotly\_in\_shiny](https://plotly.shinyapps.io/plotly_in_shiny/)
+  - [pmacp/CRTSampSize](https://pmacp.shinyapps.io/CRTSampSize/)
+  - [pmacp/Influenza\_isolates](https://pmacp.shinyapps.io/Influenza_isolates/)
+  - [pmaier1971/AutomatedForecastingWithShiny](https://pmaier1971.shinyapps.io/AutomatedForecastingWithShiny/)
+  - [pmckenz1/Deterministic\_Mutualism\_Model](https://pmckenz1.shinyapps.io/Deterministic_Mutualism_Model/)
+  - [pmr2/Shrinkage](https://pmr2.shinyapps.io/Shrinkage/)
+  - [pnw-science/PNW\_Webpage](https://pnw-science.shinyapps.io/PNW_Webpage/)
+  - [podspods/snoring](https://podspods.shinyapps.io/snoring/)
+  - [podval/WineQuality](https://podval.shinyapps.io/WineQuality/)
+  - [poissonconsulting/rtide](https://poissonconsulting.shinyapps.io/rtide/)
+  - [poligraphy/nycschools](https://poligraphy.shinyapps.io/nycschools/)
+  - [polk54/child\_mortality\_rate\_by\_income\_level](https://polk54.shinyapps.io/child_mortality_rate_by_income_level/)
+  - [pollsavvy/pollsavvy](https://pollsavvy.shinyapps.io/pollsavvy/)
+  - [polyphant/arxiv\_topicmodels](https://polyphant.shinyapps.io/arxiv_topicmodels/)
+  - [popgen/diveRsity-online](https://popgen.shinyapps.io/diveRsity-online/)
+  - [popgen/divMigrate-online](https://popgen.shinyapps.io/divMigrate-online/)
+  - [popgensim/election](https://popgensim.shinyapps.io/election/)
+  - [popgensim/popgen\_app](https://popgensim.shinyapps.io/popgen_app/)
+  - [poppypresents/Jambo\_Map](https://poppypresents.shinyapps.io/Jambo_Map/)
+  - [powchow/App-FashionOnTwitter](https://powchow.shinyapps.io/App-FashionOnTwitter/)
+  - [ppiccato/judiciales](https://ppiccato.shinyapps.io/judiciales/)
+  - [pppp/shinyproteinpredictions](https://pppp.shinyapps.io/shinyproteinpredictions/)
+  - [pquinn1991/midterms](https://pquinn1991.shinyapps.io/midterms/)
+  - [pracademic/brexit](https://pracademic.shinyapps.io/brexit/)
+  - [pracademic/LISA](https://pracademic.shinyapps.io/LISA/)
+  - [pracademic/STATS19\_scanner](https://pracademic.shinyapps.io/STATS19_scanner/)
+  - [pragyansmita/paygap\_Shiny](https://pragyansmita.shinyapps.io/paygap_Shiny/)
+  - [praneeth/twitterlive](https://praneeth.shinyapps.io/twitterlive/)
+  - [prateekjoshi565/Chicago\_Crime\_Lens](https://prateekjoshi565.shinyapps.io/Chicago_Crime_Lens/)
+  - [prathmeshs/puppyfinder](https://prathmeshs.shinyapps.io/puppyfinder/)
+  - [precision-methodologies/thecost](https://precision-methodologies.shinyapps.io/thecost/)
+  - [presidual/nba-calendar](https://presidual.shinyapps.io/nba-calendar/)
+  - [presidual/nba-play-type](https://presidual.shinyapps.io/nba-play-type/)
+  - [presidual/nba-rolling-charts](https://presidual.shinyapps.io/nba-rolling-charts/)
+  - [presidual/wnba-stats](https://presidual.shinyapps.io/wnba-stats/)
+  - [principalimages/Shiny](https://principalimages.shinyapps.io/Shiny/)
+  - [prpatil/cod\_app](https://prpatil.shinyapps.io/cod_app/)
+  - [prusinowskik/twd-projekt2](https://prusinowskik.shinyapps.io/twd-projekt2/)
+  - [psaravind/TopBabyNames](https://psaravind.shinyapps.io/TopBabyNames/)
+  - [psobczyk/varclust\_online](https://psobczyk.shinyapps.io/varclust_online/)
+  - [pssguy/alcoholConsumption](https://pssguy.shinyapps.io/alcoholConsumption/)
+  - [pssguy/blog](https://pssguy.shinyapps.io/blog/)
+  - [pssguy/lifeExpectancy](https://pssguy.shinyapps.io/lifeExpectancy/)
+  - [pssguy/soccerHistory](https://pssguy.shinyapps.io/soccerHistory/)
+  - [psuantt/parte2\_1](https://psuantt.shinyapps.io/parte2_1/)
+  - [psuantt/RESULTADOS](https://psuantt.shinyapps.io/RESULTADOS/)
+  - [psychemedia/shinychamp](https://psychemedia.shinyapps.io/shinychamp/)
+  - [psychology/smartphone](https://psychology.shinyapps.io/smartphone/)
+  - [psychology/smartphonepersonality](https://psychology.shinyapps.io/smartphonepersonality/)
+  - [publichealthwalesobservatory/cmp\_2018\_eng](https://publichealthwalesobservatory.shinyapps.io/cmp_2018_eng/)
+  - [pulangmengundi/pickups](https://pulangmengundi.shinyapps.io/pickups/)
+  - [pulsewavesync/PulseWaveSync\_2\_1](https://pulsewavesync.shinyapps.io/PulseWaveSync_2_1/)
+  - [purplegenie/hoc\_demo\_app](https://purplegenie.shinyapps.io/hoc_demo_app/)
+  - [purplegenie/shinyapp](https://purplegenie.shinyapps.io/shinyapp/)
+  - [pvc999/mapfast](https://pvc999.shinyapps.io/mapfast/)
+  - [pvc999/mapfullfast](https://pvc999.shinyapps.io/mapfullfast/)
+  - [pwh124/expressionshiny](https://pwh124.shinyapps.io/expressionshiny/)
+  - [pyhatanja/Coalescence](https://pyhatanja.shinyapps.io/Coalescence/)
+  - [pyhatanja/CoalescenceContinuous](https://pyhatanja.shinyapps.io/CoalescenceContinuous/)
+  - [qbotics/rpolyhedra-explorer](https://qbotics.shinyapps.io/rpolyhedra-explorer/)
+  - [qinwf/jiebaR-shiny](https://qinwf.shinyapps.io/jiebaR-shiny/)
+  - [quantstats/shinyplotly](https://quantstats.shinyapps.io/shinyplotly/)
+  - [quantstats/yahoo](https://quantstats.shinyapps.io/yahoo/)
+  - [quintana/Sentiment-analysis](https://quintana.shinyapps.io/Sentiment-analysis/)
+  - [radhwane/NLPDemo2](https://radhwane.shinyapps.io/NLPDemo2/)
+  - [rafalab/roc-precision-](https://rafalab.shinyapps.io/roc-precision-/)
+  - [rafalab/roc-precision-recall](https://rafalab.shinyapps.io/roc-precision-recall/)
+  - [raffdoc/DataScienceCapstoneNLP](https://raffdoc.shinyapps.io/DataScienceCapstoneNLP/)
+  - [raheemiqbal1/Capstone\_Shiny\_App](https://raheemiqbal1.shinyapps.io/Capstone_Shiny_App/)
+  - [rahulravindran/assignment](https://rahulravindran.shinyapps.io/assignment/)
+  - [rahulsinghania/BoredPanda](https://rahulsinghania.shinyapps.io/BoredPanda/)
+  - [rain1024/dataR](https://rain1024.shinyapps.io/dataR/)
+  - [rajuvarghese/tiapp](https://rajuvarghese.shinyapps.io/tiapp/)
+  - [rakadipta/EPLcapstone](https://rakadipta.shinyapps.io/EPLcapstone/)
+  - [ramshiny/gbmParameterPerformance](https://ramshiny.shinyapps.io/gbmParameterPerformance/)
+  - [ranausman/massshooting](https://ranausman.shinyapps.io/massshooting/)
+  - [randomizeauthor/shiny](https://randomizeauthor.shinyapps.io/shiny/)
+  - [randommonkey/custom\_lsv\_tancerca\_tanlejos\_bog](https://randommonkey.shinyapps.io/custom_lsv_tancerca_tanlejos_bog/)
+  - [randommonkey/custom\_lsv\_tancerca\_tanlejos\_med](https://randommonkey.shinyapps.io/custom_lsv_tancerca_tanlejos_med/)
+  - [randommonkey/plebiscito](https://randommonkey.shinyapps.io/plebiscito/)
+  - [randomwalker/R-Cube](https://randomwalker.shinyapps.io/R-Cube/)
+  - [rania/PoliticalSpeechProject](https://rania.shinyapps.io/PoliticalSpeechProject/)
+  - [ranlot/coastlinetrip](https://ranlot.shinyapps.io/coastlinetrip/)
+  - [raphael/ok\_shiny](https://raphael.shinyapps.io/ok_shiny/)
+  - [raphifix/hurricane\_distribution\_over\_time](https://raphifix.shinyapps.io/hurricane_distribution_over_time/)
+  - [rapps/wordcloud01](https://rapps.shinyapps.io/wordcloud01/)
+  - [rasmusab/drinkr](https://rasmusab.shinyapps.io/drinkr/)
+  - [raviolli77/apple\_watch\_dashboard](https://raviolli77.shinyapps.io/apple_watch_dashboard/)
+  - [ray-huey/test](https://ray-huey.shinyapps.io/test/)
+  - [raymondwstang/assignment](https://raymondwstang.shinyapps.io/assignment/)
+  - [rchesak/e-coli-beach-predictions](https://rchesak.shinyapps.io/e-coli-beach-predictions/)
+  - [rcongiu/commute](https://rcongiu.shinyapps.io/commute/)
+  - [rdatasculptor/partijkiezer\_op\_emotie](https://rdatasculptor.shinyapps.io/partijkiezer_op_emotie/)
+  - [reacfintools/Business\_Dashboard](https://reacfintools.shinyapps.io/Business_Dashboard/)
+  - [realtorseanwang/app-5](https://realtorseanwang.shinyapps.io/app-5/)
+  - [rebnapp/rebn](https://rebnapp.shinyapps.io/rebn/)
+  - [recmap/state\_x77](https://recmap.shinyapps.io/state_x77/)
+  - [redgar598/BECon](https://redgar598.shinyapps.io/BECon/)
+  - [redoakstrategic/IowaCaucusResults](https://redoakstrategic.shinyapps.io/IowaCaucusResults/)
+  - [redouad/WHIP](https://redouad.shinyapps.io/WHIP/)
+  - [reefersadness/ncaasctrial](https://reefersadness.shinyapps.io/ncaasctrial/)
+  - [reefersadness/updatedncaashotchart](https://reefersadness.shinyapps.io/updatedncaashotchart/)
+  - [regan008/mining\_my\_day](https://regan008.shinyapps.io/mining_my_day/)
+  - [regisgallon/G2Sd](https://regisgallon.shinyapps.io/G2Sd/)
+  - [reisanar/billboard](https://reisanar.shinyapps.io/billboard/)
+  - [reisanar/metro\_rei](https://reisanar.shinyapps.io/metro_rei/)
+  - [reishimizu/Distribution-simulator](https://reishimizu.shinyapps.io/Distribution-simulator/)
+  - [rekarrr/taiwanPetition](https://rekarrr.shinyapps.io/taiwanPetition/)
+  - [rekarrr/trumpPetition](https://rekarrr.shinyapps.io/trumpPetition/)
+  - [rekarrr/UKDS\_data\_dive\_prototype](https://rekarrr.shinyapps.io/UKDS_data_dive_prototype/)
+  - [rekarrr/usPresidentDebateWordSearch](https://rekarrr.shinyapps.io/usPresidentDebateWordSearch/)
+  - [rensa/isithotrightnow](https://rensa.shinyapps.io/isithotrightnow/)
+  - [resolve/ManComp](https://resolve.shinyapps.io/ManComp/)
+  - [retr0/journal\_costs](https://retr0.shinyapps.io/journal_costs/)
+  - [rettiganti/ECMORisk](https://rettiganti.shinyapps.io/ECMORisk/)
+  - [review/rtr\_dial](https://review.shinyapps.io/rtr_dial/)
+  - [revolutionanalyticssid/RevoBlogApp](https://revolutionanalyticssid.shinyapps.io/RevoBlogApp/)
+  - [rexanalytics/deploy](https://rexanalytics.shinyapps.io/deploy/)
+  - [rh-uxd/shiny\_task](https://rh-uxd.shinyapps.io/shiny_task/)
+  - [rheinkind/SimpleInvesting](https://rheinkind.shinyapps.io/SimpleInvesting/)
+  - [rhuanlima/speedtest](https://rhuanlima.shinyapps.io/speedtest/)
+  - [rhuanlima/speedtestR](https://rhuanlima.shinyapps.io/speedtestR/)
+  - [riate/matrixes](https://riate.shinyapps.io/matrixes/)
+  - [ricencode/RICENCODE](https://ricencode.shinyapps.io/RICENCODE/)
+  - [rich/geocoder](https://rich.shinyapps.io/geocoder/)
+  - [rich/globe](https://rich.shinyapps.io/globe/)
+  - [rich/nyc\_sat](https://rich.shinyapps.io/nyc_sat/)
+  - [rich/regression](https://rich.shinyapps.io/regression/)
+  - [rich/school\_enrollment](https://rich.shinyapps.io/school_enrollment/)
+  - [richarddmorey/bf\_calibrations](https://richarddmorey.shinyapps.io/bf_calibrations/)
+  - [richarddmorey/CIs\_and\_p](https://richarddmorey.shinyapps.io/CIs_and_p/)
+  - [richarddmorey/confidenceFallacy](https://richarddmorey.shinyapps.io/confidenceFallacy/)
+  - [richarddmorey/contingencyTables](https://richarddmorey.shinyapps.io/contingencyTables/)
+  - [richarddmorey/jzsMarginal](https://richarddmorey.shinyapps.io/jzsMarginal/)
+  - [richarddmorey/PowerWorkshop](https://richarddmorey.shinyapps.io/PowerWorkshop/)
+  - [richarddmorey/RPP\_results](https://richarddmorey.shinyapps.io/RPP_results/)
+  - [richarddmorey/standardizing\_and\_correlations](https://richarddmorey.shinyapps.io/standardizing_and_correlations/)
+  - [richarddmorey/test](https://richarddmorey.shinyapps.io/test/)
+  - [richardpilbery/English\_Ambulance\_Service\_Cardiac\_Arrest\_Performance](https://richardpilbery.shinyapps.io/English_Ambulance_Service_Cardiac_Arrest_Performance/)
+  - [richpauloo/tds\_leaflet](https://richpauloo.shinyapps.io/tds_leaflet/)
+  - [rigelfive/MarketAnalyzer](https://rigelfive.shinyapps.io/MarketAnalyzer/)
+  - [rinzewind/el\_pais\_editoriales](https://rinzewind.shinyapps.io/el_pais_editoriales/)
+  - [riskcalculator/PROMISS](https://riskcalculator.shinyapps.io/PROMISS/)
+  - [riskcalculator/riskcalc](https://riskcalculator.shinyapps.io/riskcalc/)
+  - [ristohinno/GermanTankProblemApp](https://ristohinno.shinyapps.io/GermanTankProblemApp/)
+  - [riverpeek/thermohydrographs](https://riverpeek.shinyapps.io/thermohydrographs/)
+  - [rjpearson/tidy\_tuesday\_14](https://rjpearson.shinyapps.io/tidy_tuesday_14/)
+  - [rkahne/contributions](https://rkahne.shinyapps.io/contributions/)
+  - [rkahne/Election2016](https://rkahne.shinyapps.io/Election2016/)
+  - [rkahne/ky-house-18](https://rkahne.shinyapps.io/ky-house-18/)
+  - [rkahne/kyelect\_2018](https://rkahne.shinyapps.io/kyelect_2018/)
+  - [rkahne/kyleg\_twitter](https://rkahne.shinyapps.io/kyleg_twitter/)
+  - [rkahne/kyleg](https://rkahne.shinyapps.io/kyleg/)
+  - [rkahne/louisville\_crime\_rates](https://rkahne.shinyapps.io/louisville_crime_rates/)
+  - [rkahne/presidential\_vistualization](https://rkahne.shinyapps.io/presidential_vistualization/)
+  - [rkahne/primary-18](https://rkahne.shinyapps.io/primary-18/)
+  - [rkbarney/thisnotthatstat](https://rkbarney.shinyapps.io/thisnotthatstat/)
+  - [rklancer/mind-reading](https://rklancer.shinyapps.io/mind-reading/)
+  - [rljc/HappyIndexApp](https://rljc.shinyapps.io/HappyIndexApp/)
+  - [rmaster/BMICalculator](https://rmaster.shinyapps.io/BMICalculator/)
+  - [rmhogervorst/powrballad](https://rmhogervorst.shinyapps.io/powrballad/)
+  - [rmidura/Codogno](https://rmidura.shinyapps.io/Codogno/)
+  - [rmseals/NormalApprox](https://rmseals.shinyapps.io/NormalApprox/)
+  - [rmuraglia/select\_char\_usage\_shiny](https://rmuraglia.shinyapps.io/select_char_usage_shiny/)
+  - [rnall/storm\_report2](https://rnall.shinyapps.io/storm_report2/)
+  - [rnorouzian/bayesian-t-tests](https://rnorouzian.shinyapps.io/bayesian-t-tests/)
+  - [robcreel/simpsons\_paradox\_explored\_graphically](https://robcreel.shinyapps.io/simpsons_paradox_explored_graphically/)
+  - [robert-a-ackerman/APIMPowerRdis](https://robert-a-ackerman.shinyapps.io/APIMPowerRdis/)
+  - [robert-ackerman/APIMPowerR](https://robert-ackerman.shinyapps.io/APIMPowerR/)
+  - [robert-schlegel/SACTN](https://robert-schlegel.shinyapps.io/SACTN/)
+  - [robertcnorberg/BinomialDistApp](https://robertcnorberg.shinyapps.io/BinomialDistApp/)
+  - [robertcope/physical\_network](https://robertcope.shinyapps.io/physical_network/)
+  - [roberthickman/european](https://roberthickman.shinyapps.io/european/)
+  - [roberthickman/EuropeanPopulationCompressed](https://roberthickman.shinyapps.io/EuropeanPopulationCompressed/)
+  - [roberthickman/labnegswing4](https://roberthickman.shinyapps.io/labnegswing4/)
+  - [roberthickman/LiberalAlliance](https://roberthickman.shinyapps.io/LiberalAlliance/)
+  - [robertkck/patent\_map](https://robertkck.shinyapps.io/patent_map/)
+  - [robertmyles/carnaval\_2017](https://robertmyles.shinyapps.io/carnaval_2017/)
+  - [robertwilson190/EnergyAndEmissions](https://robertwilson190.shinyapps.io/EnergyAndEmissions/)
+  - [robharrand/calderdale\_emergency\_school\_closures](https://robharrand.shinyapps.io/calderdale_emergency_school_closures/)
+  - [robharrand/HumaneLeague](https://robharrand.shinyapps.io/HumaneLeague/)
+  - [robharrand/leeds\_cycle\_app](https://robharrand.shinyapps.io/leeds_cycle_app/)
+  - [robharrand/Leeds\_open](https://robharrand.shinyapps.io/Leeds_open/)
+  - [robharrand/Leeds\_Road\_Traffic\_Accidents](https://robharrand.shinyapps.io/Leeds_Road_Traffic_Accidents/)
+  - [robharrand/romanroadsandpreciousmetals](https://robharrand.shinyapps.io/romanroadsandpreciousmetals/)
+  - [robharrand/stoplivetransport\_shiny](https://robharrand.shinyapps.io/stoplivetransport_shiny/)
+  - [robin/PremPredict](https://robin.shinyapps.io/PremPredict/)
+  - [robinlovelace/fixMyPath](https://robinlovelace.shinyapps.io/fixMyPath/)
+  - [robinlovelace/himod](https://robinlovelace.shinyapps.io/himod/)
+  - [robinlovelace/rentSplit](https://robinlovelace.shinyapps.io/rentSplit/)
+  - [robinlovelace/spatial-lines-test](https://robinlovelace.shinyapps.io/spatial-lines-test/)
+  - [robscottd/DPProject](https://robscottd.shinyapps.io/DPProject/)
+  - [robscottd/FedElect2015](https://robscottd.shinyapps.io/FedElect2015/)
+  - [robscottd/Ottawa311Noise](https://robscottd.shinyapps.io/Ottawa311Noise/)
+  - [rocketmill/shiny\_hotdog](https://rocketmill.shinyapps.io/shiny_hotdog/)
+  - [roderich25/earthquakesMX](https://roderich25.shinyapps.io/earthquakesMX/)
+  - [roderich25/soccerviz](https://roderich25.shinyapps.io/soccerviz/)
+  - [rodrigodealexandre/predictive\_text\_model](https://rodrigodealexandre.shinyapps.io/predictive_text_model/)
+  - [rohanpitre/GolfAnalytics](https://rohanpitre.shinyapps.io/GolfAnalytics/)
+  - [rokka/shinyweatherdata](https://rokka.shinyapps.io/shinyweatherdata/)
+  - [romunov/cena\_naftnih\_derivatov](https://romunov.shinyapps.io/cena_naftnih_derivatov/)
+  - [ronammar/baby\_names\_shiny\_appy](https://ronammar.shinyapps.io/baby_names_shiny_appy/)
+  - [ronandrhonap/6ofthebest](https://ronandrhonap.shinyapps.io/6ofthebest/)
+  - [ronandrhondap/6ofthebest](https://ronandrhondap.shinyapps.io/6ofthebest/)
+  - [ronnydw/shinyStockReturns](https://ronnydw.shinyapps.io/shinyStockReturns/)
+  - [roose/shinyData](https://roose.shinyapps.io/shinyData/)
+  - [ropensci/contributr](https://ropensci.shinyapps.io/contributr/)
+  - [ropensci/taxmap](https://ropensci.shinyapps.io/taxmap/)
+  - [rortizdu/SuperficiesApp](https://rortizdu.shinyapps.io/SuperficiesApp/)
+  - [royalveterinarycollege/epidemix](https://royalveterinarycollege.shinyapps.io/epidemix/)
+  - [rpadawan/diamonds](https://rpadawan.shinyapps.io/diamonds/)
+  - [rs-fan-jp/surv\_h27](https://rs-fan-jp.shinyapps.io/surv_h27/)
+  - [rs-fan-jp/surv\_jp](https://rs-fan-jp.shinyapps.io/surv_jp/)
+  - [rsangole/Distributions](https://rsangole.shinyapps.io/Distributions/)
+  - [rsangole/LDA\_Visual](https://rsangole.shinyapps.io/LDA_Visual/)
+  - [rslbliss/R\_from\_Stata](https://rslbliss.shinyapps.io/R_from_Stata/)
+  - [rssanders3/shiny-next-word-predict](https://rssanders3.shinyapps.io/shiny-next-word-predict/)
+  - [rudnev/Basic\_Values](https://rudnev.shinyapps.io/Basic_Values/)
+  - [rudyjuly2/brweek13](https://rudyjuly2.shinyapps.io/brweek13/)
+  - [runzemc/books](https://runzemc.shinyapps.io/books/)
+  - [runzemc/sentiment](https://runzemc.shinyapps.io/sentiment/)
+  - [runzemc/shiny](https://runzemc.shinyapps.io/shiny/)
+  - [rusdracor/showcase](https://rusdracor.shinyapps.io/showcase/)
+  - [russ/jhu-data-spec-devldata-courseproject](https://russ.shinyapps.io/jhu-data-spec-devldata-courseproject/)
+  - [ruthedunn/seabird\_fmr\_calculator](https://ruthedunn.shinyapps.io/seabird_fmr_calculator/)
+  - [rvanaert/p-uniform](https://rvanaert.shinyapps.io/p-uniform/)
+  - [ryanburge/gss\_reltrad\_pid](https://ryanburge.shinyapps.io/gss_reltrad_pid/)
+  - [ryandkerr/nationals15](https://ryandkerr.shinyapps.io/nationals15/)
+  - [s12k/SupportDrivenApp1](https://s12k.shinyapps.io/SupportDrivenApp1/)
+  - [saberpowers/mRchmadness](https://saberpowers.shinyapps.io/mRchmadness/)
+  - [saberpowers/trajectory-distribution](https://saberpowers.shinyapps.io/trajectory-distribution/)
+  - [sachioiwamoto/shinyapp](https://sachioiwamoto.shinyapps.io/shinyapp/)
+  - [sachsmc/cosinor-shinyapp](https://sachsmc.shinyapps.io/cosinor-shinyapp/)
+  - [sachsmc/illustrateROC](https://sachsmc.shinyapps.io/illustrateROC/)
+  - [sachsmc/plotROC](https://sachsmc.shinyapps.io/plotROC/)
+  - [saezlab/HeLa\_App](https://saezlab.shinyapps.io/HeLa_App/)
+  - [safetyapp/GoWvis](https://safetyapp.shinyapps.io/GoWvis/)
+  - [safetyapp/meet\_summ\_proto](https://safetyapp.shinyapps.io/meet_summ_proto/)
+  - [safferli/hackathon\_shiny](https://safferli.shinyapps.io/hackathon_shiny/)
+  - [sahuvaibhav/Stats](https://sahuvaibhav.shinyapps.io/Stats/)
+  - [sahuvaibhav/ViewConfidenceInterval](https://sahuvaibhav.shinyapps.io/ViewConfidenceInterval/)
+  - [saidee/winprobpast](https://saidee.shinyapps.io/winprobpast/)
+  - [saidee/winprot20](https://saidee.shinyapps.io/winprot20/)
+  - [salamonaska/chicken](https://salamonaska.shinyapps.io/chicken/)
+  - [salauer/education](https://salauer.shinyapps.io/education/)
+  - [salauer/shiny-leaflet](https://salauer.shinyapps.io/shiny-leaflet/)
+  - [samantheluidatascience/Capstone](https://samantheluidatascience.shinyapps.io/Capstone/)
+  - [sameh/Scraping\_Basketball\_Reference\_Shiny](https://sameh.shinyapps.io/Scraping_Basketball_Reference_Shiny/)
+  - [samizdat/faktury-pravni](https://samizdat.shinyapps.io/faktury-pravni/)
+  - [samizdat/patek13](https://samizdat.shinyapps.io/patek13/)
+  - [samizdat/zakazky2](https://samizdat.shinyapps.io/zakazky2/)
+  - [sanjaybasu/ascvd](https://sanjaybasu.shinyapps.io/ascvd/)
+  - [sanjaybasu/intbp](https://sanjaybasu.shinyapps.io/intbp/)
+  - [sanjaybasu/shinyapp](https://sanjaybasu.shinyapps.io/shinyapp/)
+  - [sarredondo/mlplasmids](https://sarredondo.shinyapps.io/mlplasmids/)
+  - [sarthakdasadia/GlobalTerrorism](https://sarthakdasadia.shinyapps.io/GlobalTerrorism/)
+  - [sastoudt/submit-writing-journal](https://sastoudt.shinyapps.io/submit-writing-journal/)
+  - [saurabhfirstdashboard/firstdashboard\_publish](https://saurabhfirstdashboard.shinyapps.io/firstdashboard_publish/)
+  - [saurfang/shinyAceAutocomplete](https://saurfang.shinyapps.io/shinyAceAutocomplete/)
+  - [sautergroup/macro\_visual](https://sautergroup.shinyapps.io/macro_visual/)
+  - [sayandev/prediction\_shinyApp](https://sayandev.shinyapps.io/prediction_shinyApp/)
+  - [sb452/fieller](https://sb452.shinyapps.io/fieller/)
+  - [sb452/power](https://sb452.shinyapps.io/power/)
+  - [sbet/valkompass2014shiny](https://sbet.shinyapps.io/valkompass2014shiny/)
+  - [sbravo/IIexLatam2018](https://sbravo.shinyapps.io/IIexLatam2018/)
+  - [scarpino/moderator\_buster](https://scarpino.shinyapps.io/moderator_buster/)
+  - [scchen/p\_distribution\_in\_stat\_book](https://scchen.shinyapps.io/p_distribution_in_stat_book/)
+  - [schinria/Presidential-Candidates-Tweets](https://schinria.shinyapps.io/Presidential-Candidates-Tweets/)
+  - [schliebs/dufour](https://schliebs.shinyapps.io/dufour/)
+  - [schliebs/foreignaid](https://schliebs.shinyapps.io/foreignaid/)
+  - [schoemanna/mc\_power\_med](https://schoemanna.shinyapps.io/mc_power_med/)
+  - [scien-analytics/seg\_admision\_colegios\_zgz\_2016](https://scien-analytics.shinyapps.io/seg_admision_colegios_zgz_2016/)
+  - [scotinastats/HallOfFameR](https://scotinastats.shinyapps.io/HallOfFameR/)
+  - [scotinastats/MLBcurves](https://scotinastats.shinyapps.io/MLBcurves/)
+  - [scotland/babynames](https://scotland.shinyapps.io/babynames/)
+  - [scotland/fisheries](https://scotland.shinyapps.io/fisheries/)
+  - [scotland/household-projection-variants2](https://scotland.shinyapps.io/household-projection-variants2/)
+  - [scotland/population-estimates](https://scotland.shinyapps.io/population-estimates/)
+  - [scotland/population-projection-variants-scotland-uk](https://scotland.shinyapps.io/population-projection-variants-scotland-uk/)
+  - [scotland/sg-scottish-energy-statistics](https://scotland.shinyapps.io/sg-scottish-energy-statistics/)
+  - [scotland/sub-national-population-projections](https://scotland.shinyapps.io/sub-national-population-projections/)
+  - [scott-laforest/adp-tracker](https://scott-laforest.shinyapps.io/adp-tracker/)
+  - [scottbot/s\_app](https://scottbot.shinyapps.io/s_app/)
+  - [scottljohnson/census-app](https://scottljohnson.shinyapps.io/census-app/)
+  - [sctyner/magic-tidying-data](https://sctyner.shinyapps.io/magic-tidying-data/)
+  - [sdray/globalspectr](https://sdray.shinyapps.io/globalspectr/)
+  - [sean/runconf17-app](https://sean.shinyapps.io/runconf17-app/)
+  - [seanafischer/FilmIdeologyByKeyword](https://seanafischer.shinyapps.io/FilmIdeologyByKeyword/)
+  - [seanangio/mann\_ki\_baat](https://seanangio.shinyapps.io/mann_ki_baat/)
+  - [seanfromseabeck/slave\_trade](https://seanfromseabeck.shinyapps.io/slave_trade/)
+  - [seanmgonzalez/flic\_surveys](https://seanmgonzalez.shinyapps.io/flic_surveys/)
+  - [seascapemodels/inst](https://seascapemodels.shinyapps.io/inst/)
+  - [seasmith/HoustonCrimeViewer](https://seasmith.shinyapps.io/HoustonCrimeViewer/)
+  - [sebastiansauer/shiny\_overlapping\_normal](https://sebastiansauer.shinyapps.io/shiny_overlapping_normal/)
+  - [sedufau/megalex](https://sedufau.shinyapps.io/megalex/)
+  - [seedmapper/climate\_partitioning\_app](https://seedmapper.shinyapps.io/climate_partitioning_app/)
+  - [seedmapper/seed\_selector](https://seedmapper.shinyapps.io/seed_selector/)
+  - [seigma/suicide](https://seigma.shinyapps.io/suicide/)
+  - [selfesteem/maps](https://selfesteem.shinyapps.io/maps/)
+  - [selfesteem/self\_esteem](https://selfesteem.shinyapps.io/self_esteem/)
+  - [serge/ThoughtsReader](https://serge.shinyapps.io/ThoughtsReader/)
+  - [sergioaguado/Beaches\_project](https://sergioaguado.shinyapps.io/Beaches_project/)
+  - [sergiopetralia/PBM2015](https://sergiopetralia.shinyapps.io/PBM2015/)
+  - [severetesting/calculator](https://severetesting.shinyapps.io/calculator/)
+  - [sfg-ucsb/network-transboundary-fisheries](https://sfg-ucsb.shinyapps.io/network-transboundary-fisheries/)
+  - [sfsheath/amphitheaterelevations](https://sfsheath.shinyapps.io/amphitheaterelevations/)
+  - [sgibb/ims-shiny](https://sgibb.shinyapps.io/ims-shiny/)
+  - [sgrim/CoCSalaries](https://sgrim.shinyapps.io/CoCSalaries/)
+  - [sh4bbych3f/happy](https://sh4bbych3f.shinyapps.io/happy/)
+  - [shackett/fighter\_styles](https://shackett.shinyapps.io/fighter_styles/)
+  - [shafi/Project](https://shafi.shinyapps.io/Project/)
+  - [shambhala/Registration\_Summary](https://shambhala.shinyapps.io/Registration_Summary/)
+  - [shanehodonnell/nhl\_playoff\_shiny\_app](https://shanehodonnell.shinyapps.io/nhl_playoff_shiny_app/)
+  - [shariliu/loook](https://shariliu.shinyapps.io/loook/)
+  - [sharlagelfand/peppermint](https://sharlagelfand.shinyapps.io/peppermint/)
+  - [sharlagelfand/ryeshadow](https://sharlagelfand.shinyapps.io/ryeshadow/)
+  - [sharlagelfand/toronto-sexual-health-clinics](https://sharlagelfand.shinyapps.io/toronto-sexual-health-clinics/)
+  - [sharpstatsci/vaxapp1](https://sharpstatsci.shinyapps.io/vaxapp1/)
+  - [shastacountyhhsa/STDdata](https://shastacountyhhsa.shinyapps.io/STDdata/)
+  - [shdurham/Presidential\_Approval\_Ratings\_Developing\_Data\_Products](https://shdurham.shinyapps.io/Presidential_Approval_Ratings_Developing_Data_Products/)
+  - [sheffieldbeer/census-app](https://sheffieldbeer.shinyapps.io/census-app/)
+  - [shinr/Shiny](https://shinr.shinyapps.io/Shiny/)
+  - [shiring/demo\_dashboard\_pred\_maint\_fast](https://shiring.shinyapps.io/demo_dashboard_pred_maint_fast/)
+  - [shiring/gwas\_shiny\_app](https://shiring.shinyapps.io/gwas_shiny_app/)
+  - [shiring/wgs\_app](https://shiring.shinyapps.io/wgs_app/)
+  - [shobhitsingh/LeafletShinyR](https://shobhitsingh.shinyapps.io/LeafletShinyR/)
+  - [shobhitsingh/StockDataApp](https://shobhitsingh.shinyapps.io/StockDataApp/)
+  - [shoshievass/PretrialBargainingApp](https://shoshievass.shinyapps.io/PretrialBargainingApp/)
+  - [showlegend/playerratings](https://showlegend.shinyapps.io/playerratings/)
+  - [showrolyteatul/model1GUI\_v1](https://showrolyteatul.shinyapps.io/model1GUI_v1/)
+  - [shuangsong/project](https://shuangsong.shinyapps.io/project/)
+  - [shunya-nuta/census-app-japan](https://shunya-nuta.shinyapps.io/census-app-japan/)
+  - [shunya-nuta/census-app](https://shunya-nuta.shinyapps.io/census-app/)
+  - [sieriebriennikov/ninja](https://sieriebriennikov.shinyapps.io/ninja/)
+  - [sifteambuilder/shiny](https://sifteambuilder.shinyapps.io/shiny/)
+  - [silastittes/OU-sim-app](https://silastittes.shinyapps.io/OU-sim-app/)
+  - [silvio/apres](https://silvio.shinyapps.io/apres/)
+  - [silvio/ENEMSC](https://silvio.shinyapps.io/ENEMSC/)
+  - [simecek/mtcars\_demo](https://simecek.shinyapps.io/mtcars_demo/)
+  - [simecek/pf2014en](https://simecek.shinyapps.io/pf2014en/)
+  - [simongoring/authorNetwork](https://simongoring.shinyapps.io/authorNetwork/)
+  - [simongoring/Recalibrate](https://simongoring.shinyapps.io/Recalibrate/)
+  - [simongoring/RegularExpressionR](https://simongoring.shinyapps.io/RegularExpressionR/)
+  - [simonriley/grey\_literature\_search\_\_retrieval\_tool](https://simonriley.shinyapps.io/grey_literature_search__retrieval_tool/)
+  - [simontarr/maxent\_beta\_multiplier\_visualiser](https://simontarr.shinyapps.io/maxent_beta_multiplier_visualiser/)
+  - [siowmeng/shiny-CLT](https://siowmeng.shinyapps.io/shiny-CLT/)
+  - [sirallen/nicStructure](https://sirallen.shinyapps.io/nicStructure/)
+  - [sirujam/Telecom\_Trend](https://sirujam.shinyapps.io/Telecom_Trend/)
+  - [sizespectra/SizeSpectra](https://sizespectra.shinyapps.io/SizeSpectra/)
+  - [sjmgarnier/ant\_collective\_decision](https://sjmgarnier.shinyapps.io/ant_collective_decision/)
+  - [sjmgarnier/bee\_house\_hunting](https://sjmgarnier.shinyapps.io/bee_house_hunting/)
+  - [sjmgarnier/wisdom\_of\_crowds\_exp](https://sjmgarnier.shinyapps.io/wisdom_of_crowds_exp/)
+  - [sjmgarnier/wisdom\_of\_crowds](https://sjmgarnier.shinyapps.io/wisdom_of_crowds/)
+  - [skaae/test\_project](https://skaae.shinyapps.io/test_project/)
+  - [skaggs/text-tokenization-and-feature-hashing](https://skaggs.shinyapps.io/text-tokenization-and-feature-hashing/)
+  - [skahali/devdataprod-assignment](https://skahali.shinyapps.io/devdataprod-assignment/)
+  - [skewtosis/tailsbenefits](https://skewtosis.shinyapps.io/tailsbenefits/)
+  - [skimitdata/App2](https://skimitdata.shinyapps.io/App2/)
+  - [skimitdata/Show](https://skimitdata.shinyapps.io/Show/)
+  - [skinsella/euprocesses](https://skinsella.shinyapps.io/euprocesses/)
+  - [skirmer/Kiva\_Loans](https://skirmer.shinyapps.io/Kiva_Loans/)
+  - [skitestguys/shinyski](https://skitestguys.shinyapps.io/shinyski/)
+  - [sl-iconicity/iconicity\_patterns](https://sl-iconicity.shinyapps.io/iconicity_patterns/)
+  - [slaborde/workspace](https://slaborde.shinyapps.io/workspace/)
+  - [slager/eBirdmass](https://slager.shinyapps.io/eBirdmass/)
+  - [slbd/pmi\_app](https://slbd.shinyapps.io/pmi_app/)
+  - [sleepingmichi/hoge](https://sleepingmichi.shinyapps.io/hoge/)
+  - [slerka/fansstructure](https://slerka.shinyapps.io/fansstructure/)
+  - [smadaplaysfantasy/MiLB\_Game\_Log\_Graphs\_App](https://smadaplaysfantasy.shinyapps.io/MiLB_Game_Log_Graphs_App/)
+  - [smartinsightsfromdata/TSupplyDemand](https://smartinsightsfromdata.shinyapps.io/TSupplyDemand/)
+  - [smasongarrison/enumR\_interface](https://smasongarrison.shinyapps.io/enumR_interface/)
+  - [snak/apptrois](https://snak.shinyapps.io/apptrois/)
+  - [snatool/JapanPrefectureQuiz](https://snatool.shinyapps.io/JapanPrefectureQuiz/)
+  - [sneik/DevelopingDataProducts](https://sneik.shinyapps.io/DevelopingDataProducts/)
+  - [sniffles/item-analysis-dashboard-demo](https://sniffles.shinyapps.io/item-analysis-dashboard-demo/)
+  - [snin-17/farm\_stats\_app](https://snin-17.shinyapps.io/farm_stats_app/)
+  - [songeo/killedjournalists\_app](https://songeo.shinyapps.io/killedjournalists_app/)
+  - [spades/ForestChange\_ProofOfConcept](https://spades.shinyapps.io/ForestChange_ProofOfConcept/)
+  - [spannbaueradam/r\_regex\_tester](https://spannbaueradam.shinyapps.io/r_regex_tester/)
+  - [spannbaueradam/rPackedBarDemo](https://spannbaueradam.shinyapps.io/rPackedBarDemo/)
+  - [spholmes/birthday\_app](https://spholmes.shinyapps.io/birthday_app/)
+  - [spirikahu/PARCIs](https://spirikahu.shinyapps.io/PARCIs/)
+  - [sportmaths2/Varios](https://sportmaths2.shinyapps.io/Varios/)
+  - [sportstatistics-s3/TennisATP](https://sportstatistics-s3.shinyapps.io/TennisATP/)
+  - [sriyoda/ShinyApp](https://sriyoda.shinyapps.io/ShinyApp/)
+  - [srosenbaum6/BTBA](https://srosenbaum6.shinyapps.io/BTBA/)
+  - [ssalvaggio/Capstone01](https://ssalvaggio.shinyapps.io/Capstone01/)
+  - [ssifleet/CC-App](https://ssifleet.shinyapps.io/CC-App/)
+  - [ssm-ecologie/qualite-des-eaux](https://ssm-ecologie.shinyapps.io/qualite-des-eaux/)
+  - [stablemarkets/dpmixapp](https://stablemarkets.shinyapps.io/dpmixapp/)
+  - [staburo/riskcalc](https://staburo.shinyapps.io/riskcalc/)
+  - [stalyn/jackknife](https://stalyn.shinyapps.io/jackknife/)
+  - [starrfelt/TRiPS](https://starrfelt.shinyapps.io/TRiPS/)
+  - [stat4249ratsinnewyork/app123](https://stat4249ratsinnewyork.shinyapps.io/app123/)
+  - [statemra/emra](https://statemra.shinyapps.io/emra/)
+  - [statisfactions/guessing-game](https://statisfactions.shinyapps.io/guessing-game/)
+  - [statisti/kelly2](https://statisti.shinyapps.io/kelly2/)
+  - [statisti/vakio](https://statisti.shinyapps.io/vakio/)
+  - [statisticalplumber/lotka](https://statisticalplumber.shinyapps.io/lotka/)
+  - [statisticalskier/MajorChampsRaces](https://statisticalskier.shinyapps.io/MajorChampsRaces/)
+  - [statisticalskier/nation](https://statisticalskier.shinyapps.io/nation/)
+  - [statisticalskier/single\_skier](https://statisticalskier.shinyapps.io/single_skier/)
+  - [statisticalskier/split-round-plots](https://statisticalskier.shinyapps.io/split-round-plots/)
+  - [statistics/LabVisualization](https://statistics.shinyapps.io/LabVisualization/)
+  - [statisticsnz/Disability](https://statisticsnz.shinyapps.io/Disability/)
+  - [statisticsnz/lake\_water\_quality](https://statisticsnz.shinyapps.io/lake_water_quality/)
+  - [statisticsnz/landcover](https://statisticsnz.shinyapps.io/landcover/)
+  - [statisticsnz/river\_water\_quality\_nitrogen](https://statisticsnz.shinyapps.io/river_water_quality_nitrogen/)
+  - [statisticsnz/seasonal\_rainfall](https://statisticsnz.shinyapps.io/seasonal_rainfall/)
+  - [statnet/epidcm](https://statnet.shinyapps.io/epidcm/)
+  - [statnet/statnetWeb](https://statnet.shinyapps.io/statnetWeb/)
+  - [statofmind/MillionDollarStory](https://statofmind.shinyapps.io/MillionDollarStory/)
+  - [statswish/AllNBAmodel](https://statswish.shinyapps.io/AllNBAmodel/)
+  - [statswish/MVPapp](https://statswish.shinyapps.io/MVPapp/)
+  - [steadylosing/nba\_playoff\_series\_predictions\_multinomial\_regression](https://steadylosing.shinyapps.io/nba_playoff_series_predictions_multinomial_regression/)
+  - [steadylosing/newstart](https://steadylosing.shinyapps.io/newstart/)
+  - [steamerprojections/bayesprojection](https://steamerprojections.shinyapps.io/bayesprojection/)
+  - [steamerprojections/simple\_projection](https://steamerprojections.shinyapps.io/simple_projection/)
+  - [steamerprojections/steamer\_error\_bars](https://steamerprojections.shinyapps.io/steamer_error_bars/)
+  - [steamtraen/rsprite](https://steamtraen.shinyapps.io/rsprite/)
+  - [stef/cost\_of\_coffee](https://stef.shinyapps.io/cost_of_coffee/)
+  - [stef/dashboard](https://stef.shinyapps.io/dashboard/)
+  - [stef/dynamicsvssalesforce](https://stef.shinyapps.io/dynamicsvssalesforce/)
+  - [stef/is\_the\_cloud\_cost\_effective](https://stef.shinyapps.io/is_the_cloud_cost_effective/)
+  - [stefanocoretta/sfm-exporter](https://stefanocoretta.shinyapps.io/sfm-exporter/)
+  - [stefanwilhelm/heatmap](https://stefanwilhelm.shinyapps.io/heatmap/)
+  - [stekhoven/barplotNonsense](https://stekhoven.shinyapps.io/barplotNonsense/)
+  - [steno/grc2h](https://steno.shinyapps.io/grc2h/)
+  - [steno/T1RiskEngine](https://steno.shinyapps.io/T1RiskEngine/)
+  - [steperi/fullcard](https://steperi.shinyapps.io/fullcard/)
+  - [steperi/national](https://steperi.shinyapps.io/national/)
+  - [steperi/pori60](https://steperi.shinyapps.io/pori60/)
+  - [steperi/rawtable](https://steperi.shinyapps.io/rawtable/)
+  - [steperi/teamcard](https://steperi.shinyapps.io/teamcard/)
+  - [steperi/teamtable](https://steperi.shinyapps.io/teamtable/)
+  - [steperi/xmap\_without\_player](https://steperi.shinyapps.io/xmap_without_player/)
+  - [stephens999/unimodal](https://stephens999.shinyapps.io/unimodal/)
+  - [stephensmith21/stockportfolio](https://stephensmith21.shinyapps.io/stockportfolio/)
+  - [steve-wilkinson/metadata](https://steve-wilkinson.shinyapps.io/metadata/)
+  - [stevebronder/Steve\_Bronder\_Tufte](https://stevebronder.shinyapps.io/Steve_Bronder_Tufte/)
+  - [stevelane/ausbeertax](https://stevelane.shinyapps.io/ausbeertax/)
+  - [stevelane/silly-sentences](https://stevelane.shinyapps.io/silly-sentences/)
+  - [stevelane/zombies-humans](https://stevelane.shinyapps.io/zombies-humans/)
+  - [stevemarti25/app-1](https://stevemarti25.shinyapps.io/app-1/)
+  - [stevemarti25/app-2](https://stevemarti25.shinyapps.io/app-2/)
+  - [stevenhawken/FluGBSapp](https://stevenhawken.shinyapps.io/FluGBSapp/)
+  - [stevenlsenior/Alcohol\_admissions](https://stevenlsenior.shinyapps.io/Alcohol_admissions/)
+  - [stevenlsenior/Data\_Products](https://stevenlsenior.shinyapps.io/Data_Products/)
+  - [stevenranney/gradeInflation](https://stevenranney.shinyapps.io/gradeInflation/)
+  - [stevenvanbelleghem/shiny\_travel](https://stevenvanbelleghem.shinyapps.io/shiny_travel/)
+  - [stia/litcascades](https://stia.shinyapps.io/litcascades/)
+  - [stia/tlit](https://stia.shinyapps.io/tlit/)
+  - [stibu81/textpredapp](https://stibu81.shinyapps.io/textpredapp/)
+  - [stoltzmaniac/medicare\_data](https://stoltzmaniac.shinyapps.io/medicare_data/)
+  - [strakaps/ctrmapp](https://strakaps.shinyapps.io/ctrmapp/)
+  - [strigoi/qualitystat](https://strigoi.shinyapps.io/qualitystat/)
+  - [strong/earthtones\_example](https://strong.shinyapps.io/earthtones_example/)
+  - [stulacy/msm-shiny](https://stulacy.shinyapps.io/msm-shiny/)
+  - [sudhirwadhwa/sudhir\_shiny](https://sudhirwadhwa.shinyapps.io/sudhir_shiny/)
+  - [summersuny/SHINY](https://summersuny.shinyapps.io/SHINY/)
+  - [sungexplore/healthdatabreach](https://sungexplore.shinyapps.io/healthdatabreach/)
+  - [sungexplore/hospitalcompare](https://sungexplore.shinyapps.io/hospitalcompare/)
+  - [sungexplore/hospitaltrend](https://sungexplore.shinyapps.io/hospitaltrend/)
+  - [sungexplore/hosprating](https://sungexplore.shinyapps.io/hosprating/)
+  - [sungexplore/mepstrend](https://sungexplore.shinyapps.io/mepstrend/)
+  - [supstat/dialect\_map\_shiny\_project](https://supstat.shinyapps.io/dialect_map_shiny_project/)
+  - [surabayanlp/Visualisasi](https://surabayanlp.shinyapps.io/Visualisasi/)
+  - [surlyanalytics/github\_hot\_or\_not](https://surlyanalytics.shinyapps.io/github_hot_or_not/)
+  - [svetlana/snowflakes](https://svetlana.shinyapps.io/snowflakes/)
+  - [svonkleeck/NLPPrediction](https://svonkleeck.shinyapps.io/NLPPrediction/)
+  - [svq02/DevelopingDataProducts](https://svq02.shinyapps.io/DevelopingDataProducts/)
+  - [swainjo/shiny](https://swainjo.shinyapps.io/shiny/)
+  - [swarkul/Proj](https://swarkul.shinyapps.io/Proj/)
+  - [swart/RelatedTags](https://swart.shinyapps.io/RelatedTags/)
+  - [sweiss/CarSales](https://sweiss.shinyapps.io/CarSales/)
+  - [sweiss/carvis](https://sweiss.shinyapps.io/carvis/)
+  - [swhgoon/part1\_devdataprod-shiny](https://swhgoon.shinyapps.io/part1_devdataprod-shiny/)
+  - [swoldetsadick/COURDDPPRO1](https://swoldetsadick.shinyapps.io/COURDDPPRO1/)
+  - [swopmd/SWOP](https://swopmd.shinyapps.io/SWOP/)
+  - [swopmd/swopreg](https://swopmd.shinyapps.io/swopreg/)
+  - [syafeeqalias/v3\_-\_added\_total\_tables](https://syafeeqalias.shinyapps.io/v3_-_added_total_tables/)
+  - [symbolix/user2018](https://symbolix.shinyapps.io/user2018/)
+  - [szilard/shinyvalidinp-demo](https://szilard.shinyapps.io/shinyvalidinp-demo/)
+  - [szmartin/newCourseProject](https://szmartin.shinyapps.io/newCourseProject/)
+  - [t-trevorcaughlin/ReforestationDynamics](https://t-trevorcaughlin.shinyapps.io/ReforestationDynamics/)
+  - [talonsensei/simplePlot](https://talonsensei.shinyapps.io/simplePlot/)
+  - [tanaka-group-imperial/ConversionStratification](https://tanaka-group-imperial.shinyapps.io/ConversionStratification/)
+  - [tanartuntik/deploy](https://tanartuntik.shinyapps.io/deploy/)
+  - [tangerine007/hackathon](https://tangerine007.shinyapps.io/hackathon/)
+  - [tannenberg/regimes\_in\_the\_world](https://tannenberg.shinyapps.io/regimes_in_the_world/)
+  - [tannenberg/regimes-of-the-world](https://tannenberg.shinyapps.io/regimes-of-the-world/)
+  - [tarashui/ColumbiaTaxiProject](https://tarashui.shinyapps.io/ColumbiaTaxiProject/)
+  - [tatjana/TrafficAccidents](https://tatjana.shinyapps.io/TrafficAccidents/)
+  - [tatjanakec/permutation\_bootstrap](https://tatjanakec.shinyapps.io/permutation_bootstrap/)
+  - [tattva/health\_analytics](https://tattva.shinyapps.io/health_analytics/)
+  - [tattva/nfhs\_up](https://tattva.shinyapps.io/nfhs_up/)
+  - [taxsmack/FearNot](https://taxsmack.shinyapps.io/FearNot/)
+  - [tboomer/FlightDelay](https://tboomer.shinyapps.io/FlightDelay/)
+  - [tbosch/Coachingcopy](https://tbosch.shinyapps.io/Coachingcopy/)
+  - [tbosch/Dashboardexample](https://tbosch.shinyapps.io/Dashboardexample/)
+  - [tbosch/soccer](https://tbosch.shinyapps.io/soccer/)
+  - [tbosch/vbt\_1rm](https://tbosch.shinyapps.io/vbt_1rm/)
+  - [tcb-analytics/bostonsolar](https://tcb-analytics.shinyapps.io/bostonsolar/)
+  - [tcb-analytics/dfsmlb](https://tcb-analytics.shinyapps.io/dfsmlb/)
+  - [tcb-analytics/dfsnba](https://tcb-analytics.shinyapps.io/dfsnba/)
+  - [tcb-analytics/dfsnfl](https://tcb-analytics.shinyapps.io/dfsnfl/)
+  - [tcb-analytics/dfsoptimize](https://tcb-analytics.shinyapps.io/dfsoptimize/)
+  - [tcb-analytics/NBABench](https://tcb-analytics.shinyapps.io/NBABench/)
+  - [tcb-analytics/overwatch](https://tcb-analytics.shinyapps.io/overwatch/)
+  - [tcb-analytics/redditNFL](https://tcb-analytics.shinyapps.io/redditNFL/)
+  - [technicalelvis/prince\_song\_recommender](https://technicalelvis.shinyapps.io/prince_song_recommender/)
+  - [tenan/VO2sim](https://tenan.shinyapps.io/VO2sim/)
+  - [teouch-analytics/form-sheets](https://teouch-analytics.shinyapps.io/form-sheets/)
+  - [teramonagi/advancedr\_jbook](https://teramonagi.shinyapps.io/advancedr_jbook/)
+  - [teramonagi/daily\_steps\_of\_dichika](https://teramonagi.shinyapps.io/daily_steps_of_dichika/)
+  - [teramonagi/JGBViewer](https://teramonagi.shinyapps.io/JGBViewer/)
+  - [terrydolan/lfcgmR](https://terrydolan.shinyapps.io/lfcgmR/)
+  - [testersurvey/shiny\_testers](https://testersurvey.shinyapps.io/shiny_testers/)
+  - [tgwhite/CA\_municipal\_finance](https://tgwhite.shinyapps.io/CA_municipal_finance/)
+  - [thanhtnguyen/Coursera](https://thanhtnguyen.shinyapps.io/Coursera/)
+  - [theartandscienceofdata/BillionDollarQuestions](https://theartandscienceofdata.shinyapps.io/BillionDollarQuestions/)
+  - [thedatajournalist/SentimentApp](https://thedatajournalist.shinyapps.io/SentimentApp/)
+  - [thelab/funguild](https://thelab.shinyapps.io/funguild/)
+  - [theodor/theodor-stopping-distance](https://theodor.shinyapps.io/theodor-stopping-distance/)
+  - [theshoshineboy/NSE50\_Stocks](https://theshoshineboy.shinyapps.io/NSE50_Stocks/)
+  - [thething/SNPcalc](https://thething.shinyapps.io/SNPcalc/)
+  - [thewiremonkey/mass](https://thewiremonkey.shinyapps.io/mass/)
+  - [thewiremonkey/shootingsUS](https://thewiremonkey.shinyapps.io/shootingsUS/)
+  - [thiemom/dataproducts-titanic](https://thiemom.shinyapps.io/dataproducts-titanic/)
+  - [thiessen/final-baseball-app](https://thiessen.shinyapps.io/final-baseball-app/)
+  - [thinkr/legislatives2017](https://thinkr.shinyapps.io/legislatives2017/)
+  - [thinkr/tweetstorm](https://thinkr.shinyapps.io/tweetstorm/)
+  - [thinktostart/FB\_page\_analyzer](https://thinktostart.shinyapps.io/FB_page_analyzer/)
+  - [thisisnic/anscombe](https://thisisnic.shinyapps.io/anscombe/)
+  - [thisisnic/PrelimLondon](https://thisisnic.shinyapps.io/PrelimLondon/)
+  - [thomas-keller/nips2016](https://thomas-keller.shinyapps.io/nips2016/)
+  - [thomas-mailund/coalescence\_densities](https://thomas-mailund.shinyapps.io/coalescence_densities/)
+  - [thomasbridge/BrentwoodElections](https://thomasbridge.shinyapps.io/BrentwoodElections/)
+  - [thomassiegmund/basic](https://thomassiegmund.shinyapps.io/basic/)
+  - [thomassiegmund/interaction](https://thomassiegmund.shinyapps.io/interaction/)
+  - [thoughtful/onevoteweb](https://thoughtful.shinyapps.io/onevoteweb/)
+  - [tianyigu/aircrash\_](https://tianyigu.shinyapps.io/aircrash_/)
+  - [ticklesnarf/ticklesnarf](https://ticklesnarf.shinyapps.io/ticklesnarf/)
+  - [tidydatabykwg57/flabsences](https://tidydatabykwg57.shinyapps.io/flabsences/)
+  - [tikhonov/lchi2017](https://tikhonov.shinyapps.io/lchi2017/)
+  - [timbrock/baseshiny](https://timbrock.shinyapps.io/baseshiny/)
+  - [timbrock/benfordapp](https://timbrock.shinyapps.io/benfordapp/)
+  - [timbrock/emissions](https://timbrock.shinyapps.io/emissions/)
+  - [timcameron/ausemploymentflows](https://timcameron.shinyapps.io/ausemploymentflows/)
+  - [timcdlucas/gremApp](https://timcdlucas.shinyapps.io/gremApp/)
+  - [timphan/democrats](https://timphan.shinyapps.io/democrats/)
+  - [timphan/iris](https://timphan.shinyapps.io/iris/)
+  - [timtrice/shinycanes](https://timtrice.shinyapps.io/shinycanes/)
+  - [tladeras/dataLiteracy](https://tladeras.shinyapps.io/dataLiteracy/)
+  - [tmacog/middle-grounds](https://tmacog.shinyapps.io/middle-grounds/)
+  - [tmelliott/aklbusdelays](https://tmelliott.shinyapps.io/aklbusdelays/)
+  - [tnidelet/HackVizOccitanie](https://tnidelet.shinyapps.io/HackVizOccitanie/)
+  - [tnybny/CondProbMaps](https://tnybny.shinyapps.io/CondProbMaps/)
+  - [toclimb8a/maxtograde](https://toclimb8a.shinyapps.io/maxtograde/)
+  - [todd/ballr](https://todd.shinyapps.io/ballr/)
+  - [todd/traveling-salesman](https://todd.shinyapps.io/traveling-salesman/)
+  - [tojyouso/fpl\_fixture\_difficulty](https://tojyouso.shinyapps.io/fpl_fixture_difficulty/)
+  - [tokyofoundation/Beta61](https://tokyofoundation.shinyapps.io/Beta61/)
+  - [tokyofoundation/Beta62](https://tokyofoundation.shinyapps.io/Beta62/)
+  - [tom-courtney/CourseProject](https://tom-courtney.shinyapps.io/CourseProject/)
+  - [tomaugust/naturespostcodes](https://tomaugust.shinyapps.io/naturespostcodes/)
+  - [tomfaulkenberry/mathclub-2017](https://tomfaulkenberry.shinyapps.io/mathclub-2017/)
+  - [tomfaulkenberry/tdist](https://tomfaulkenberry.shinyapps.io/tdist/)
+  - [tomholbrook/shiny\_map\_evotes](https://tomholbrook.shinyapps.io/shiny_map_evotes/)
+  - [tomhopper/MI\_50\_Safest\_cities](https://tomhopper.shinyapps.io/MI_50_Safest_cities/)
+  - [tomliptrot/international\_jobs](https://tomliptrot.shinyapps.io/international_jobs/)
+  - [tomlous/capstone](https://tomlous.shinyapps.io/capstone/)
+  - [tomlouwerse/coalition-app](https://tomlouwerse.shinyapps.io/coalition-app/)
+  - [tomstringham/pc\_delegate\_tracker](https://tomstringham.shinyapps.io/pc_delegate_tracker/)
+  - [tonyangelo/hPVI\_2015\_histapp](https://tonyangelo.shinyapps.io/hPVI_2015_histapp/)
+  - [tonyd/DevDataProducts](https://tonyd.shinyapps.io/DevDataProducts/)
+  - [tonyfischetti/InteractiveLogisticRegression](https://tonyfischetti.shinyapps.io/InteractiveLogisticRegression/)
+  - [topquirk67/DataProductsProjectShiny](https://topquirk67.shinyapps.io/DataProductsProjectShiny/)
+  - [totocol/dataproductsproject](https://totocol.shinyapps.io/dataproductsproject/)
+  - [tpahern/cyp2d6meta](https://tpahern.shinyapps.io/cyp2d6meta/)
+  - [tpasinet/season-smallmultiples-app](https://tpasinet.shinyapps.io/season-smallmultiples-app/)
+  - [trademodel/econ\_model](https://trademodel.shinyapps.io/econ_model/)
+  - [trademodel/tmodel](https://trademodel.shinyapps.io/tmodel/)
+  - [tradewp/TwitterAnalytics](https://tradewp.shinyapps.io/TwitterAnalytics/)
+  - [trading/ploption](https://trading.shinyapps.io/ploption/)
+  - [trading/stock\_vol](https://trading.shinyapps.io/stock_vol/)
+  - [trafforddatalab/IMD\_2015](https://trafforddatalab.shinyapps.io/IMD_2015/)
+  - [trainingidn/tdiff-datasets](https://trainingidn.shinyapps.io/tdiff-datasets/)
+  - [transbig/NZX\_Share\_Price\_Prediction](https://transbig.shinyapps.io/NZX_Share_Price_Prediction/)
+  - [translatedmedicine/HINTS2017](https://translatedmedicine.shinyapps.io/HINTS2017/)
+  - [tread/VISA-shiny](https://tread.shinyapps.io/VISA-shiny/)
+  - [trestle/clippr](https://trestle.shinyapps.io/clippr/)
+  - [trestletech/dallas-police](https://trestletech.shinyapps.io/dallas-police/)
+  - [trestletech/dpd-active](https://trestletech.shinyapps.io/dpd-active/)
+  - [trestletech/mc-words](https://trestletech.shinyapps.io/mc-words/)
+  - [trevor/subalgebra](https://trevor.shinyapps.io/subalgebra/)
+  - [tricha3/youth-soccer-virginia](https://tricha3.shinyapps.io/youth-soccer-virginia/)
+  - [tristan/eyetracking\_dashboard\_demo](https://tristan.shinyapps.io/eyetracking_dashboard_demo/)
+  - [tristan/l2t\_database\_explorer\_demo](https://tristan.shinyapps.io/l2t_database_explorer_demo/)
+  - [trout/lahontan](https://trout.shinyapps.io/lahontan/)
+  - [troutbum/gpat](https://troutbum.shinyapps.io/gpat/)
+  - [troysh/babies](https://troysh.shinyapps.io/babies/)
+  - [tschmidt83/historical\_final\_positions](https://tschmidt83.shinyapps.io/historical_final_positions/)
+  - [tschmidt83/shiny](https://tschmidt83.shinyapps.io/shiny/)
+  - [tschmidt83/supe-R-bowl](https://tschmidt83.shinyapps.io/supe-R-bowl/)
+  - [tsuprun/corrone](https://tsuprun.shinyapps.io/corrone/)
+  - [ttso/AaltoAltm](https://ttso.shinyapps.io/AaltoAltm/)
+  - [ttso/AaltoAltmSince2007](https://ttso.shinyapps.io/AaltoAltmSince2007/)
+  - [ttso/aaltodimensions](https://ttso.shinyapps.io/aaltodimensions/)
+  - [ttso/altm2015top100](https://ttso.shinyapps.io/altm2015top100/)
+  - [ttso/altm2016top100](https://ttso.shinyapps.io/altm2016top100/)
+  - [ttso/altmpolicy](https://ttso.shinyapps.io/altmpolicy/)
+  - [ttso/emailstats](https://ttso.shinyapps.io/emailstats/)
+  - [ttso/hkistreets](https://ttso.shinyapps.io/hkistreets/)
+  - [ttso/lintuatlas](https://ttso.shinyapps.io/lintuatlas/)
+  - [ttso/nordicwikicites](https://ttso.shinyapps.io/nordicwikicites/)
+  - [ttso/snow](https://ttso.shinyapps.io/snow/)
+  - [ttso/twfavs](https://ttso.shinyapps.io/twfavs/)
+  - [turfeffect/marea](https://turfeffect.shinyapps.io/marea/)
+  - [tutorials/02-Vis-Basics](https://tutorials.shinyapps.io/02-Vis-Basics/)
+  - [tutorials/03a-data-manip-filter](https://tutorials.shinyapps.io/03a-data-manip-filter/)
+  - [tvbassine/fourfactors123](https://tvbassine.shinyapps.io/fourfactors123/)
+  - [tvbassine/lottosim](https://tvbassine.shinyapps.io/lottosim/)
+  - [tvbassine/threepointprojections](https://tvbassine.shinyapps.io/threepointprojections/)
+  - [tvbassine/usts](https://tvbassine.shinyapps.io/usts/)
+  - [tvdwiele/Santander-Product-Recommendation](https://tvdwiele.shinyapps.io/Santander-Product-Recommendation/)
+  - [tvganesh/googly](https://tvganesh.shinyapps.io/googly/)
+  - [tvganesh/inswingerFinal](https://tvganesh.shinyapps.io/inswingerFinal/)
+  - [tvganesh/Sixer](https://tvganesh.shinyapps.io/Sixer/)
+  - [twittertextclustering/Twitter\_Cluster\_Analysis](https://twittertextclustering.shinyapps.io/Twitter_Cluster_Analysis/)
+  - [tybyers/dataproducts\_shiny](https://tybyers.shinyapps.io/dataproducts_shiny/)
+  - [tylerclavelle/thePhactory](https://tylerclavelle.shinyapps.io/thePhactory/)
+  - [tylerhunt/cfbRankings](https://tylerhunt.shinyapps.io/cfbRankings/)
+  - [tylerlewiscook/WorldCupGoals](https://tylerlewiscook.shinyapps.io/WorldCupGoals/)
+  - [tylermw/shinychat](https://tylermw.shinyapps.io/shinychat/)
+  - [tynebridgeharriers/tbhparkrun](https://tynebridgeharriers.shinyapps.io/tbhparkrun/)
+  - [uaclimateextension/precipChart](https://uaclimateextension.shinyapps.io/precipChart/)
+  - [uasnap/climdist](https://uasnap.shinyapps.io/climdist/)
+  - [uasnap/customiconsdemo](https://uasnap.shinyapps.io/customiconsdemo/)
+  - [uasnap/ex\_leaflet](https://uasnap.shinyapps.io/ex_leaflet/)
+  - [uasnap/jfsp-v10](https://uasnap.shinyapps.io/jfsp-v10/)
+  - [uasnap/nwtapp](https://uasnap.shinyapps.io/nwtapp/)
+  - [uasnap/standage](https://uasnap.shinyapps.io/standage/)
+  - [ucanr/SFREC\_Web\_Application](https://ucanr.shinyapps.io/SFREC_Web_Application/)
+  - [ucsdbiostats/SamplingDistributions\_ShinyApplet](https://ucsdbiostats.shinyapps.io/SamplingDistributions_ShinyApplet/)
+  - [udenvh/vuurwerk\_overlast\_2016](https://udenvh.shinyapps.io/vuurwerk_overlast_2016/)
+  - [uhasselt/shiny-biclust](https://uhasselt.shinyapps.io/shiny-biclust/)
+  - [ukacz/asymptotics](https://ukacz.shinyapps.io/asymptotics/)
+  - [ukacz/cap-region-housing](https://ukacz.shinyapps.io/cap-region-housing/)
+  - [ulizellbeck/capstone](https://ulizellbeck.shinyapps.io/capstone/)
+  - [ulvic/Flight\_data\_visual](https://ulvic.shinyapps.io/Flight_data_visual/)
+  - [umair/segmented\_app\_doc](https://umair.shinyapps.io/segmented_app_doc/)
+  - [umiami-hihg-bioinf/autism-query-tool](https://umiami-hihg-bioinf.shinyapps.io/autism-query-tool/)
+  - [und1f/shiny-stocks](https://und1f.shinyapps.io/shiny-stocks/)
+  - [underground-analysis/cluster](https://underground-analysis.shinyapps.io/cluster/)
+  - [unicepro-ove/butineur](https://unicepro-ove.shinyapps.io/butineur/)
+  - [unikum/ga-dimsmets](https://unikum.shinyapps.io/ga-dimsmets/)
+  - [uown/test\_shiny1](https://uown.shinyapps.io/test_shiny1/)
+  - [upsa/DynamicUI](https://upsa.shinyapps.io/DynamicUI/)
+  - [uribo/Japan\_useR](https://uribo.shinyapps.io/Japan_useR/)
+  - [urigonzalezbravo/CurvaPsicofisica](https://urigonzalezbravo.shinyapps.io/CurvaPsicofisica/)
+  - [urigonzalezbravo/LeyWeberFechner](https://urigonzalezbravo.shinyapps.io/LeyWeberFechner/)
+  - [urigonzalezbravo/Stevens](https://urigonzalezbravo.shinyapps.io/Stevens/)
+  - [usda/r11\_app](https://usda.shinyapps.io/r11_app/)
+  - [ustreettdg/ratings-app](https://ustreettdg.shinyapps.io/ratings-app/)
+  - [utrecht-university/elicitation](https://utrecht-university.shinyapps.io/elicitation/)
+  - [utrecht-university/MetaForest\_online](https://utrecht-university.shinyapps.io/MetaForest_online/)
+  - [utrecht-university/monitordiversiteitbacheloruu](https://utrecht-university.shinyapps.io/monitordiversiteitbacheloruu/)
+  - [valeria/FINAL\_PROJECT\_COURSERA\_DDP](https://valeria.shinyapps.io/FINAL_PROJECT_COURSERA_DDP/)
+  - [valerio-vaccaro/bitcoin\_monitor](https://valerio-vaccaro.shinyapps.io/bitcoin_monitor/)
+  - [vamshideep/Projects](https://vamshideep.shinyapps.io/Projects/)
+  - [vandals/legacy](https://vandals.shinyapps.io/legacy/)
+  - [vanflad/Legacy](https://vanflad.shinyapps.io/Legacy/)
+  - [vbarna/print\_distribution](https://vbarna.shinyapps.io/print_distribution/)
+  - [vbonapersona/MaDEapp](https://vbonapersona.shinyapps.io/MaDEapp/)
+  - [veikkoisotalo/helsinkiclusters-app](https://veikkoisotalo.shinyapps.io/helsinkiclusters-app/)
+  - [veikkoisotalo/helsinkikuntavaalit-app](https://veikkoisotalo.shinyapps.io/helsinkikuntavaalit-app/)
+  - [veikkoisotalo/helsinkiparties-app](https://veikkoisotalo.shinyapps.io/helsinkiparties-app/)
+  - [venexia/PharmIV](https://venexia.shinyapps.io/PharmIV/)
+  - [venkateshnagella/DevelopingDataProducts](https://venkateshnagella.shinyapps.io/DevelopingDataProducts/)
+  - [vera-institute/nyc\_jail\_population](https://vera-institute.shinyapps.io/nyc_jail_population/)
+  - [verenahaunschmid/WordcloudExploreR](https://verenahaunschmid.shinyapps.io/WordcloudExploreR/)
+  - [vetinst/luseberegning](https://vetinst.shinyapps.io/luseberegning/)
+  - [vevealab/WeightFunctionModel](https://vevealab.shinyapps.io/WeightFunctionModel/)
+  - [vha-healthequity/NVHER\_Shiny](https://vha-healthequity.shinyapps.io/NVHER_Shiny/)
+  - [vha-healthequity/NVHER](https://vha-healthequity.shinyapps.io/NVHER/)
+  - [victor/monster](https://victor.shinyapps.io/monster/)
+  - [vikdad1/Shiny\_App](https://vikdad1.shinyapps.io/Shiny_App/)
+  - [vincentrupp/R\_Xmas\_Tree](https://vincentrupp.shinyapps.io/R_Xmas_Tree/)
+  - [violadoesdata/san\_diego\_progressive\_voter\_meta-guide](https://violadoesdata.shinyapps.io/san_diego_progressive_voter_meta-guide/)
+  - [virmaja/MandR](https://virmaja.shinyapps.io/MandR/)
+  - [virusme/abs\_census2016\_incomes\_visualisation](https://virusme.shinyapps.io/abs_census2016_incomes_visualisation/)
+  - [visiuchen/PITTSBURGH-CRIME-MAP](https://visiuchen.shinyapps.io/PITTSBURGH-CRIME-MAP/)
+  - [vivaldianalytics/Violin](https://vivaldianalytics.shinyapps.io/Violin/)
+  - [vivekkhetan/tweetcloud](https://vivekkhetan.shinyapps.io/tweetcloud/)
+  - [viz-my-grant/view](https://viz-my-grant.shinyapps.io/view/)
+  - [vlandham/boston\_police\_incidents](https://vlandham.shinyapps.io/boston_police_incidents/)
+  - [vmachan/vm\_shinyapp\_01](https://vmachan.shinyapps.io/vm_shinyapp_01/)
+  - [vnijs/marketing](https://vnijs.shinyapps.io/marketing/)
+  - [vnijs/quant](https://vnijs.shinyapps.io/quant/)
+  - [vnijs/radiant](https://vnijs.shinyapps.io/radiant/)
+  - [volterr/ShinyAssignment](https://volterr.shinyapps.io/ShinyAssignment/)
+  - [vor/subalgebra](https://vor.shinyapps.io/subalgebra/)
+  - [vranjan/irisExplore](https://vranjan.shinyapps.io/irisExplore/)
+  - [vruvora/congressional\_earmarks](https://vruvora.shinyapps.io/congressional_earmarks/)
+  - [vshivarov/golub\_shiny3](https://vshivarov.shinyapps.io/golub_shiny3/)
+  - [vtquach/Pitchfork-Reviews](https://vtquach.shinyapps.io/Pitchfork-Reviews/)
+  - [vykhand/devdataprod-010](https://vykhand.shinyapps.io/devdataprod-010/)
+  - [vzaigrin/WordsPrediction](https://vzaigrin.shinyapps.io/WordsPrediction/)
+  - [walkerke/dimple\_pyramid](https://walkerke.shinyapps.io/dimple_pyramid/)
+  - [walkerke/gender-age-explorer](https://walkerke.shinyapps.io/gender-age-explorer/)
+  - [walkerke/lex\_former\_ussr](https://walkerke.shinyapps.io/lex_former_ussr/)
+  - [walkerke/neighborhood\_diversity](https://walkerke.shinyapps.io/neighborhood_diversity/)
+  - [walkerke/texas\_pyramids](https://walkerke.shinyapps.io/texas_pyramids/)
+  - [walkerke/tigris-zip-income](https://walkerke.shinyapps.io/tigris-zip-income/)
+  - [wallach/MLB\_franchise\_performance](https://wallach.shinyapps.io/MLB_franchise_performance/)
+  - [wandernat/arewerepresented](https://wandernat.shinyapps.io/arewerepresented/)
+  - [waterdatascience/exploreEGRET](https://waterdatascience.shinyapps.io/exploreEGRET/)
+  - [watjoa/CaviR](https://watjoa.shinyapps.io/CaviR/)
+  - [wb-lac/lac\_diversity](https://wb-lac.shinyapps.io/lac_diversity/)
+  - [wcu-hydro/GribbleGap\_Discharge](https://wcu-hydro.shinyapps.io/GribbleGap_Discharge/)
+  - [wd2017/game-of-thrones](https://wd2017.shinyapps.io/game-of-thrones/)
+  - [wdanalytics/tap-water-quality](https://wdanalytics.shinyapps.io/tap-water-quality/)
+  - [wdkz125/Caramel](https://wdkz125.shinyapps.io/Caramel/)
+  - [weatherlisa/App-1](https://weatherlisa.shinyapps.io/App-1/)
+  - [webapps/riskcalc](https://webapps.shinyapps.io/riskcalc/)
+  - [webapptester/Dynamic\_Probabilities](https://webapptester.shinyapps.io/Dynamic_Probabilities/)
+  - [webbphysprep/Drill\_App](https://webbphysprep.shinyapps.io/Drill_App/)
+  - [weekendarchaeo/mysteps](https://weekendarchaeo.shinyapps.io/mysteps/)
+  - [weinbergerlab/shinyplay03](https://weinbergerlab.shinyapps.io/shinyplay03/)
+  - [weinstein/whaletest](https://weinstein.shinyapps.io/whaletest/)
+  - [wendyu/Gender\_Pay\_Gap](https://wendyu.shinyapps.io/Gender_Pay_Gap/)
+  - [wesslen/rnc-charlotte](https://wesslen.shinyapps.io/rnc-charlotte/)
+  - [wesslen/senate](https://wesslen.shinyapps.io/senate/)
+  - [what-works-wellbeing/HappyJobsTestApp](https://what-works-wellbeing.shinyapps.io/HappyJobsTestApp/)
+  - [whatstat/shiny](https://whatstat.shinyapps.io/shiny/)
+  - [who-dares/pageviews\_app](https://who-dares.shinyapps.io/pageviews_app/)
+  - [whoequity/HEAT](https://whoequity.shinyapps.io/HEAT/)
+  - [widdowquinn/nucleotide\_frequencies](https://widdowquinn.shinyapps.io/nucleotide_frequencies/)
+  - [wilkins/bird\_vocal\_scaling](https://wilkins.shinyapps.io/bird_vocal_scaling/)
+  - [wilkins/Scratch](https://wilkins.shinyapps.io/Scratch/)
+  - [wilkins/seeClimate](https://wilkins.shinyapps.io/seeClimate/)
+  - [wilkinsondi/blogimpact](https://wilkinsondi.shinyapps.io/blogimpact/)
+  - [willgervais/atheist\_rate](https://willgervais.shinyapps.io/atheist_rate/)
+  - [willgervais/Bayes-Factor-for-Tested-Alternative](https://willgervais.shinyapps.io/Bayes-Factor-for-Tested-Alternative/)
+  - [williamstudent/nextword](https://williamstudent.shinyapps.io/nextword/)
+  - [willisnz/Single\_House\_Zone\_2013\_PUAP](https://willisnz.shinyapps.io/Single_House_Zone_2013_PUAP/)
+  - [willpearse/pd\_app](https://willpearse.shinyapps.io/pd_app/)
+  - [willwolf/ordered-categorical-a-b-test](https://willwolf.shinyapps.io/ordered-categorical-a-b-test/)
+  - [willwolf/rescue-time-estimation](https://willwolf.shinyapps.io/rescue-time-estimation/)
+  - [win-vector/CampaignPlanner](https://win-vector.shinyapps.io/CampaignPlanner/)
+  - [win-vector/ExploreModels](https://win-vector.shinyapps.io/ExploreModels/)
+  - [win-vector/kcompshiny](https://win-vector.shinyapps.io/kcompshiny/)
+  - [winston/activity-dashboard](https://winston.shinyapps.io/activity-dashboard/)
+  - [winston/buses](https://winston.shinyapps.io/buses/)
+  - [winston/dash](https://winston.shinyapps.io/dash/)
+  - [winston/ggvis-basics-histogram-slider](https://winston.shinyapps.io/ggvis-basics-histogram-slider/)
+  - [winston/movies](https://winston.shinyapps.io/movies/)
+  - [wisconsindnr/EcycleCollectorSite](https://wisconsindnr.shinyapps.io/EcycleCollectorSite/)
+  - [wittmaan/FIFA\_WORLD\_CUP\_2018\_Prediction](https://wittmaan.shinyapps.io/FIFA_WORLD_CUP_2018_Prediction/)
+  - [wjjessen/GeneTyPR](https://wjjessen.shinyapps.io/GeneTyPR/)
+  - [wmurphyrd/adit](https://wmurphyrd.shinyapps.io/adit/)
+  - [wolfganggross/shiny](https://wolfganggross.shinyapps.io/shiny/)
+  - [wordcloud/basictext](https://wordcloud.shinyapps.io/basictext/)
+  - [wordcloud/factorapp](https://wordcloud.shinyapps.io/factorapp/)
+  - [wordcloud/flipkart](https://wordcloud.shinyapps.io/flipkart/)
+  - [wordcloud/googlenews](https://wordcloud.shinyapps.io/googlenews/)
+  - [wordcloud/jsmapp](https://wordcloud.shinyapps.io/jsmapp/)
+  - [wordcloud/textsplit](https://wordcloud.shinyapps.io/textsplit/)
+  - [wordmapper/wordmapper](https://wordmapper.shinyapps.io/wordmapper/)
+  - [worville/MLS\_Salaries](https://worville.shinyapps.io/MLS_Salaries/)
+  - [wpro/screen\_tb](https://wpro.shinyapps.io/screen_tb/)
+  - [wrathematics/faas](https://wrathematics.shinyapps.io/faas/)
+  - [wrathematics/gmhelper](https://wrathematics.shinyapps.io/gmhelper/)
+  - [wrathematics/hackR](https://wrathematics.shinyapps.io/hackR/)
+  - [wrathematics/ngram](https://wrathematics.shinyapps.io/ngram/)
+  - [wrathematics/RTop500](https://wrathematics.shinyapps.io/RTop500/)
+  - [wugology/DataProduct](https://wugology.shinyapps.io/DataProduct/)
+  - [wuli/QuoiR](https://wuli.shinyapps.io/QuoiR/)
+  - [ww44ss/Coursera\_Shiny\_Capstone](https://ww44ss.shinyapps.io/Coursera_Shiny_Capstone/)
+  - [www.dataewok/trump\_cloud](https://www.dataewok.shinyapps.io/trump_cloud/)
+  - [www/admin](https://www.shinyapps.io/admin/)
+  - [www/applications](https://www.shinyapps.io/applications/)
+  - [wyoweeds/CornYieldDemo](https://wyoweeds.shinyapps.io/CornYieldDemo/)
+  - [wyoweeds/cornyieldtrend](https://wyoweeds.shinyapps.io/cornyieldtrend/)
+  - [wyoweeds/offtarget](https://wyoweeds.shinyapps.io/offtarget/)
+  - [wyoweeds/SprayBuffer](https://wyoweeds.shinyapps.io/SprayBuffer/)
+  - [wyoweeds/SugarbeetYieldDemo](https://wyoweeds.shinyapps.io/SugarbeetYieldDemo/)
+  - [wyquek71/Ahput4](https://wyquek71.shinyapps.io/Ahput4/)
+  - [xavierign/BogotaDashboard](https://xavierign.shinyapps.io/BogotaDashboard/)
+  - [xavijacas/ShinyApp](https://xavijacas.shinyapps.io/ShinyApp/)
+  - [xpontimus/farmersmarketsreport](https://xpontimus.shinyapps.io/farmersmarketsreport/)
+  - [yabinfan/movie\_loc](https://yabinfan.shinyapps.io/movie_loc/)
+  - [yalisme/MoocShiny](https://yalisme.shinyapps.io/MoocShiny/)
+  - [yangjy/lastwords\_app](https://yangjy.shinyapps.io/lastwords_app/)
+  - [yasserglez/oreilly\_data\_science\_salary](https://yasserglez.shinyapps.io/oreilly_data_science_salary/)
+  - [yichuanw/ChinaMap](https://yichuanw.shinyapps.io/ChinaMap/)
+  - [yiddishdata/elections2](https://yiddishdata.shinyapps.io/elections2/)
+  - [yihui/DT-checkbox](https://yihui.shinyapps.io/DT-checkbox/)
+  - [yihui/DT-filter](https://yihui.shinyapps.io/DT-filter/)
+  - [yihui/DT-info](https://yihui.shinyapps.io/DT-info/)
+  - [yihui/DT-proxy](https://yihui.shinyapps.io/DT-proxy/)
+  - [yihui/DT-rows](https://yihui.shinyapps.io/DT-rows/)
+  - [yihui/DT-scroller](https://yihui.shinyapps.io/DT-scroller/)
+  - [yihui/formatR](https://yihui.shinyapps.io/formatR/)
+  - [yihui/imgsvd](https://yihui.shinyapps.io/imgsvd/)
+  - [yihui/voice](https://yihui.shinyapps.io/voice/)
+  - [yimingyu/shinycircos](https://yimingyu.shinyapps.io/shinycircos/)
+  - [yingli/nextWord](https://yingli.shinyapps.io/nextWord/)
+  - [yininglyu/icfGroup2Map](https://yininglyu.shinyapps.io/icfGroup2Map/)
+  - [ykimmate14/bible](https://ykimmate14.shinyapps.io/bible/)
+  - [yogeshbansal/shiny2](https://yogeshbansal.shinyapps.io/shiny2/)
+  - [yoke/dscapp](https://yoke.shinyapps.io/dscapp/)
+  - [yonezawa-norin/monkeymap](https://yonezawa-norin.shinyapps.io/monkeymap/)
+  - [yonicd/Elections](https://yonicd.shinyapps.io/Elections/)
+  - [yrochat/dummy\_example](https://yrochat.shinyapps.io/dummy_example/)
+  - [ysidi/gunflow](https://ysidi.shinyapps.io/gunflow/)
+  - [ytake2/Cor2](https://ytake2.shinyapps.io/Cor2/)
+  - [ytmytm/project](https://ytmytm.shinyapps.io/project/)
+  - [yuanhu/SinglewordPrediction](https://yuanhu.shinyapps.io/SinglewordPrediction/)
+  - [yuejiang/GPCRsnakeplotter](https://yuejiang.shinyapps.io/GPCRsnakeplotter/)
+  - [yufree/nlpshiny](https://yufree.shinyapps.io/nlpshiny/)
+  - [yufreecas/journaltone](https://yufreecas.shinyapps.io/journaltone/)
+  - [yuorme/IMDB\_Explorer](https://yuorme.shinyapps.io/IMDB_Explorer/)
+  - [yusofwork/yusof](https://yusofwork.shinyapps.io/yusof/)
+  - [yutannihilation/dcStockR-8411T](https://yutannihilation.shinyapps.io/dcStockR-8411T/)
+  - [ywcui/TextPredictionApp](https://ywcui.shinyapps.io/TextPredictionApp/)
+  - [yxes/Capstone](https://yxes.shinyapps.io/Capstone/)
+  - [yxes/Officer\_Involved\_Shootings\_Apr\_2015](https://yxes.shinyapps.io/Officer_Involved_Shootings_Apr_2015/)
+  - [yxtay/dsc-shiny](https://yxtay.shinyapps.io/dsc-shiny/)
+  - [yyolanda0507/AsthMA-app](https://yyolanda0507.shinyapps.io/AsthMA-app/)
+  - [z-frm/saccr\_shiny](https://z-frm.shinyapps.io/saccr_shiny/)
+  - [zaborek-uwsurgery/ShinyDosing](https://zaborek-uwsurgery.shinyapps.io/ShinyDosing/)
+  - [zedoul/app-gui](https://zedoul.shinyapps.io/app-gui/)
+  - [zero323/nasb-microtask-viewer-dev](https://zero323.shinyapps.io/nasb-microtask-viewer-dev/)
+  - [zihaozhangap/bayesian\_example](https://zihaozhangap.shinyapps.io/bayesian_example/)
+  - [zkuralt/wgstogk](https://zkuralt.shinyapps.io/wgstogk/)
+  - [zliu-omics/liver](https://zliu-omics.shinyapps.io/liver/)
+  - [zmsgnk/type\_decision\_tree](https://zmsgnk.shinyapps.io/type_decision_tree/)
+  - [zweitstimme/Wahlerwartung](https://zweitstimme.shinyapps.io/Wahlerwartung/)
+  - [zx8754/PSA\_Velocity](https://zx8754.shinyapps.io/PSA_Velocity/)
