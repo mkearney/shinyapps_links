@@ -77,4 +77,4 @@ unlink("README.html")
 ## add to git
 git2r::add(path = c("README.Rmd", "README.md"))
 git2r::commit(message = "Update")
-
+git2r::push()
